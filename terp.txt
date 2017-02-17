@@ -1,0 +1,12143 @@
+Belle Qui (Carolingian) Pavanne
+(adapted from Arbeau 1589)
+
+%%%belle_qui
+Belle Qui (Carolingian) Pavanne
+Anonymous
+SCA Choreography
+|(Couples in a line)| == In 4 ==|
+|----|-----|
+|L pavanne set fwd; R pavanne set fwd; L set fwd; R set back| 2;2;2;2|
+|Ly circles Ld using a L pavanne set; R pavanne set| 2;2|
+|Ld circles the Ly using a L pavanne set; R pavanne set|2;2|
+@@@@@
+
+(Mabel Dolmetch, 20th C)
+%%%earl_of_salisbury_pavane
+Earl of Salisbury Pavanne
+Mabel Dolmetch
+SCA Choreography
+||(Couples in a line)| == In 4 ==|
+|-----|----|-----|
+|P1| L pavanne set fwd |2| 
+||Side Singles RL ; Double R back| 1;1|
+|P2| L pavanne set fwd [end facing w/R hands joined]| 2|
+||Side Singles RL; Double R back [away from ptnr]| 1;1|
+|P3| Singles LR [take R hands] Double L [to ptnr's place, end facing]| 2|
+||Side Singles RL; Double R back [away from ptnr ] | 1;1|
+||P4| Singles LR [take R hands] Double L [to orig place, end facing]| 2|
+||Side Singles RL, [end facing up hall]; Double R back | 1;1|
+@@@@@
+
+%%%golden_pavanne
+Golden Pavanne
+Anonymous
+(SCA Choreography)
+|(Couples in a line) | == In 4 == |
+|----|-----|
+|2 Singles & 2 Doubles fwd; Bransle LR, end facing ptnr | 3;1|
+|Touching R hands, circle w/ 2 Singles & 1 Double; same back w/ L, end facing up | 2;2|
+|2 Singles & 2 Doubles fwd; Bransle LR , end facing up the hall | 3;1|
+|Turn over L shoulder w/ 2 Singles & 1 Double; Same over R shoulder| 2;2|
+@@@@@
+
+%%%le_loup_courant_pavanne
+Le Loup Courant Pavanne
+Anonymous
+(SCA Choreography)
+||(Couples in a line) | == In 4 == 
+|V1| Rev; L pavanne set | 2;2|
+||Lds P set away from ptnr; Lys P set to ptnr, all face down |2;2|
+||P set fwd & out 45º; P set fwd & in 45º & face ptnr| 2;2|
+||P set back from ptnr; P set together & face fwd | 2;2|
+||Lys P set fwd; Lds P set fwd| 2;2|
+|V2| 2 P sets fwd & face; Lys P set away; Lds P set to ptnr, all face down | 4;2;2|
+||P set fwd & out 45º; P set fwd & in 45º & face ptnr| 2;2|
+||P set back from ptnr; P set together & face fwd |2;2|
+||Lds P set fwd; Lys P set fwd| 2;2|
+|V3| 2 P sets fwd & face; Lds P set away; Lys P set to ptnr, all face down |4;2;2|
+||P set fwd & out 45º; P set fwd & in 45º & face ptnr | 2;2|
+||P set back from ptnr; P set together & face fwd | 2;2|
+||Lys P set fwd; Lds P set fwd in front of Ly & take hand; Rev | 2;2;2|
+@@@@@
+Pavanne steps
+A pavanne single is a step & close. A pavanne double is 3 steps & close.
+A pavanne set is two singles & a double, starting alternating L & R.
+A bransle is usually a step apart & together, unless otherwise noted.
+Almans
+(Dancing in the Inns of Court)
+%%%quadran_pavanne
+Quadran Pavanne
+Anonymous
+Inns of Court
+|(Couples in a line) | == in 4 == |
+|----|-----|
+|Sideways 1 single L; Sideways 1 single R; Double L fwd | ½;½ ;1|
+|Sideways 1 single R; Sideways 1 single L; Double R back | ½;½ ;1|
+|Possible Variation: first repeat face fwd , second repeat face ptnr |
+@@@@@
+
+%%%turkelone
+Turkelone
+Anonymous
+Inns of Court
+|(Couples in a line) | == in 4 == |
+|----|-----|
+[2x] - Set LR; Double L fwd; Double R back | 1;1;1|
+[4x] - Double L fwd; Double R back | 1;1|
+@@@@@
+
+%%%earl_of_essex
+Earl of Essex Measure
+Anonymous
+Inns of Court
+|(Couples in a line) | == in 6 == |
+|----|-----|
+|[4x] - Double L fwd ; S ingle R back | 1 ;  ½ [4x] |
+|Slow side L; Slow side R |1 ; 1|
+|Double L  fwd ; Double R back| 1 ; ½ |
+@@@@@
+%%%tinternell
+Tinternell
+Anonymous
+Inns of Court
+|(Couples in a line) | == in 4 == |
+|----|-----|
+|Double L fwd; Double R back| 1;1|
+|Take R hands & Circle CW: Singles LR , Double L |1;1|
+|Take L hands & Circle CCW; Singles RL ; Double R| 1;1|
+|[ 3x ] - Double L fwd; Double R back | 1;1|
+|As above, Take R hands & Circle CW ; Take L hands & Circle CCW |2;2|
+@@@@@
+
+%%%old_alman
+Old Alman
+Anonymous
+Inns of Court
+|(Couples in a line) | == in 4 == |
+|----|-----|
+|Doubles LRLR fwd; Take 2 hands & circle CW: Singles LR ; Double L | 4;1;1|
+|Circle CCW: Singles RL; Double R| 1;1|
+@@@@@
+
+%%%queens_alman
+Queen’s Alman
+Anonymous
+Inns of Court
+|(Couples in a line) | == in 4 == |
+|----|-----|
+|Doubles LRLR fwd |4|
+| Double L fwd ; Double R back (end facing ptnr)| 1;1|
+|Step L, Step R, Circle LRL (end facing fwd)| 2|
+|Double R fwd ; Double L back (end facing ptnr)| 1;1|
+|Step R, Step L, Circle RLR (end facing fwd) | 2|
+@@@@@
+
+%%%madam_sosilias_alman
+Madam Sosilia’s Alman
+Anonymous
+Inns of Court
+|(Couples in a line) | == in 4 == |
+|----|-----|
+|[ 2x ] - L single; R single; L double; R single back | ½;½;1;½|
+|[ 2 x] - [face ptnr ] Step L; step R; Rev L | ½;½;1|
+|[switching places] Single L; single R; double L turning to face | ½;½;1 |
+|Rev R; single R; single L; embrace | ½;½;½;½ |
+@@@@@
+
+%%%black_alman
+Black Alman
+Anonymous
+Inns of Court
+|(Couples in a line) | == in 4 == |
+|----|-----|
+|4 Doubles, beginning w/ L [end facing ptnr ] |4| 
+|Double L backing away from ptnr ; Double R toward ptnr |1;1|
+| [turn to own L] Double L away from ptnr |1|
+| [turn around] Double R toward ptnr | 1|
+| Lds step L, step R; circle LRL; Lys step L, step R; circle LRL| 1;1;1;1|
+|[take hands w/ ptnr ] Double L switching places; 4 slides up the hall |1;1|
+|Double L switching places; 4 slides down the hall | 1;1|
+|Double L backing away from ptnr; Double R toward ptnr |1;1|
+@@@@@
+
+%%%lady_laytons_measure
+Lady Layton’s Measure
+Anonymous
+Inns of Court
+|(Couples in a line) | == in 6 == |
+|----|-----|
+|Honour; Fwd a Double; 2 Singles L; Back a Double |2;2;2;2|
+|2 Singles Fwd & a quick Double Back diagonally R; That again by the L| 2;2|
+| [4x] - Slow Single Fwd & Quick Double back | 2|
+@@@@@ 
+%%%lorayne_alman
+Lorayne Alman
+Anonymous
+Inns of Court
+|(Couples in a line) | == in 4 == |
+|----|-----|
+|4 doubles w/ a hop fwd; beginning w/ L | 4|
+|[2x] - Double L fwd; Double R back;| 1;1|
+|Double L fwd; Double R circling away |1;1 (2x) |
+@@@@@
+
+%%%new_alman
+New Alman
+Anonymous
+Inns of Court
+|(Couples in a line) | == in 4 == |
+|----|-----|
+|4 doubles w/ a hop fwd; beginning w/ L [end facing ptnr ]|4|
+|Step L; Step R; Circle LRL; Step R; Step L; Circle RLR; Rev |½;½;1;½;½;1;1|
+|Lds step L; Lys step L; All L double fwd switching places | ½;½;1 |
+|Lys step R; Lds step R; All R double fwd switching places |½;½;1|
+@@@@@
+Alman 
+Steps
+Alman Single - step & pause, 
+w/
+ non-leading foot raised.
+Alman Double - 3 steps & pause, 
+w/
+ non-leading foot raised.
+Bransles
+
+%%%aridan_bransle
+Aridan
+Thoinot Arbeau 
+Bransle
+||(Circle) | == In 4 == |
+|---|----|-----|
+|[2x] | Double L; Kick LRL |1;¾ [2x] |
+|[2x] | Double L; Singles RLR; Double L; Kick LR; Double R |1;1 ½ ;1; ½ ;1|  
+||(DOUBLETIME) Double L, end w/ kick R; Single R , kick L , pause ½;½ [2x] |
+@@@@@
+
+%%%burgundian_bransle
+Burgundian
+Thoinot Arbeau 
+Bransle
+|(Circle) | == In 4 == |
+|----|-----|
+|Double L, ending w/ kick R; Double R, end ing w/ kick L | 1;1|
+@@@@@
+
+%%%candlestick_bransle
+Candlestick (Torch) Bransle
+Thoinot Arbeau 
+Bransle
+|(Lds w/ Candles, and Lys along edge of floor) | == In 4 == |
+|----|-----|
+|Lds 8 Alman Doubles (start L) to find a partner | 8 |
+|Ld 8 Alman Singles ( 4 in some recorded music)  to approach partner | 4|
+|Repeat Alman Doubles & Singles, dancing w/ partner| 8;4|
+|Repeat, Ld reverence while handing torch to Ly , Ly finds a new partner|8;4|
+@@@@@
+ 
+%%%cassandra_bransle
+Cassandra Bransle
+Thoinot Arbeau 
+Bransle
+|(Circle) | == In 4 == |
+|----|-----|
+|[2x] - Double LR; [2x] - Double L R; Single L; Double R | 2[2x];2;½;1[2x] |
+@@@@@
+
+%%%charlotte_bransle
+Charlotte Bransle
+Thoinot Arbeau 
+Bransle
+||(Circle) | == In 4 == |
+|----|-----|
+|[2x] - Double L; Kick LR; Double R|1;½;1 |
+| [2x] Double L; Kick LR; Single R; Kick LRL| 1;½; ½; ¾ |
+|Single L; Kick RLR; Double R |½;¾;1|
+@@@@@
+
+%%%clog_bransle
+Clog Bransle
+Thoinot Arbeau 
+Bransle
+|(Couples in a line or circle) | == In 4 == |
+|----|-----|
+|[2x] - Double L; Double R | 1 ; 1 [2x] |
+|[2x] - Single L, Single R; Tap R foot 3 times |1 ; ¾ [2x]  |
+|Lds & Lys may take turns tapping, or other mimings can be made in place of taps ||
+@@@@@
+
+%%%double_bransle
+Double Bransle
+Thoinot Arbeau 
+Bransle
+||(Circle) | == In 4 == |
+|----|-----|
+|Double LR; Double L; Single R; Kick LRL, pause holding the last kick| 2;1;½;½ |
+@@@@@
+
+%%%gay_bransle
+Gay Bransle
+Thoinot Arbeau 
+Bransle
+|(Circle) | == In 6 == |
+|----|-----|
+|Kick R LRL ; pause 2 beats holding the last kick.  Note: always moves  L|⅔;⅓|
+@@@@@
+
+%%%haye_bransle
+Haye Bransle
+Thoinot Arbeau 
+Bransle
+|(Line of as many dancers as will) | == In 4 == |
+|----|-----|
+|[4x] - Single, Single, Double (in the manner of the coranto) |2 [4x]|
+|Doubles to Haye once through the set ( wait for lead person to begin) varies
+@@@@@
+
+%%%hermits_bransle
+Hermits Branlse
+Thoinot Arbeau 
+Bransle
+||(Circle) | == In 4 == |
+|-----|----|-----|
+|[2x]| Double L R; |2 [2x]|
+|[2x]| (1/2 turn CCW ) Kick RLR, feet together |1 |
+||(w/ arms crossed & bowing head) Tap toes RLR, feet together| 1 [2x] |
+@@@@@
+
+%%%horses_bransle
+Horses Branlse
+Thoinot Arbeau 
+Bransle
+|(Couple holding both hands with each other) | == In 4 == |
+|----|-----|
+|[4x] - Double L; Double R |1;1 [4x] |
+|Ld tap R foot 2x, Single R; Turn L (CCW) w/ Double L; Ly same |1;1;2|
+@@@@@
+
+%%%maltese_bransle
+Maltese (Bransle de Malte)
+Thoinot Arbeau 
+Bransle
+|(Circle) | == In 4 == |
+|----|-----|
+|[2x] - Double L; Single R| 1;½ [2x] |
+|(moving into the circle) slow Singles L R; fast Singles LRL, kick R | ½;½|
+|(turning & moving out of the circle) single R, kick L, single L, kick R | ⅞ |
+|(turning to face into the circle) kick LRL, feet together | ⅝ |
+A caller may indicate actions for the dancers to do as they go in and out of the circle.
+@@@@@
+
+%%%montarde_bransle
+Montarde Bransle
+Thoinot Arbeau 
+Bransle
+|(Line of 4+ people side by side, *music to be repeated) | == In 4 == |
+|----|-----|
+|4 Doubles L (jumping jack style) (L most person weaves to end after first time) |4|
+|1st person (turning) Kick LRL, feet together; then 2nd ; followed by 3rd, & 4th |1 [*4x+]|
+
+
+%%%official_bransle
+Official Branlse
+Thoinot Arbeau 
+Bransle
+|(Circle of couples) | == In 4 == |
+|----|-----|
+|[2x] - Double L R (jumping jack style); 6 Singles L (jumping jack style)| 2 [2x];3|
+|Kick LR, Lds Lift Lys (no tossing, an assisted lift that stays in place) |1 |
+@@@@@
+
+%%%pease_bransle
+Pease Bransle
+Thoinot Arbeau 
+Bransle
+|(Circle of couples) | == In 4 == |
+|----|-----|
+|[2x] Double L; Double R |1;1 [2x]|
+|Lds hop, Lys hop; Lds step L & hop 3x; Lys hop, Lds hop; Lys step L & hop 3x |1;1;1;1|
+@@@@@
+
+%%%pinagay_bransle
+Pinagay Bransle
+Thoinot Arbeau 
+Bransle
+|(Circle) | == In 4 == |
+|----|-----|
+|Double L; Kick L; Double L; Kick LRL; Double L; Double R |1;¼; 1;¾; 1;1|
+@@@@@
+
+%%%poitou_bransle
+Poitou Bransle
+Thoinot Arbeau 
+Bransle
+|(Circle) | == In 9 == |
+|----|-----|
+|4 slow kicks beginning R; 4 fast kicks begin R, pause. Note: always moves L | 1 ⅓ ; ⅔ |
+|Alt:  3 slow kicks (RLR); 7 fast kicks beginning L, pause. Note: always moves L | 1;1|
+@@@@@
+
+%%%rondo_tutti_battuti
+Rondo Tutti Battuti or The Two Five Hundred Pound Canaries Bransle
+Sion Andreas
+SCA Choreography
+||(Circle mixer for couples, Lys facing out, Lds in) | == In 4 == |
+|-----|----|-----|
+|A| Holding both hands, 4 Doubles, starting to Ld's L |4|
+|B| Ld 3 Canari LRL, stamp R; Spez L, Canario L, stamp R |4|
+||Lys same | 4|
+@@@@@
+
+%%%sca_maltese
+SCA Maltese (Turkish Bransle)
+Anonymous 
+SCA Choreography
+|(Circle) | == In 4 == |
+|----|-----|
+|[2x] - Double L R; Snap as go in sideways & Clap 3x; repeat going out |2 [2x];2;2|
+@@@@@
+ 
+
+%%%scottish_bransle
+Scottish/Escosse Bransle
+Thoinot Arbeau 
+Bransle
+|(Circle) | == In 4 == |
+|----|-----|
+|[2x] - Double LR; Single L R |2;1 [2x]|
+|Double L; Single RL; Double RL; Single R; Kick RLR, Saut & Capriole| 1;1;2;½;1|
+|NOTE:  Do not close Singles and Doubles - end with a cross-kick||
+@@@@@
+
+%%%single_bransle
+Single Bransle
+Thoinot Arbeau 
+Bransle
+|(Circle) | == In 4 == |
+|----|-----|
+|Double L; Single R; Double L; Kick LRL, pause holding the last kick |1;½;1;½|
+@@@@@
+
+%%%trihory_of_brittany
+Trihory of Brittany
+Thoinot Arbeau 
+Bransle
+|(Circle) | == In 4 == |
+|----|-----|
+|Version 1: Double L, end w/ kick L; Spring L & close , kick LRL |1; ¾|
+|Version 2: Double L, end w/ kick L; Spring L & close, on toes point heels RLR || 
+|raising L foot on the last point| 1;¾ |
+|Repeat either version until end of music or alternate between them||
+@@@@@
+
+%%%war_bransle
+War
+Thoinot Arbeau 
+Bransle
+|(Circle) | == In 4 == |
+|----|-----|
+|[4x] - Double L; Double R|1;1 [4x]|
+|(fast) Dl; Dr; Sl, Sr; Dl; Sr, Sl; Dr; Sl, Kick LRL, Saut& Capriole |½;½;½;½;½;½;¼,½,¼|
+@@@@@
+
+%%%washerwomens_bransle
+Washerwomen's Bransle
+Thoinot Arbeau 
+Bransle
+|(Circle of couples) | == In 4 == |
+|----|-----|
+|[2x] - Double L; Double R |1;1 [2x]| 
+|(face partner) Singles LR (Ld scolding); Singles LR (Ly scolding)|1;1|
+|(face center) Double L (clapping); Double R |1;1|
+|Double L (clapping); Kick LRL (turning C CW), Saut Majeur |1;1|
+@@@@@
+
+Steps Single
+step sideways & close. 
+Double
+3 steps sideways & close
+Capriole
+a small jump, kicking the feet back & forth
+Saut
+leap – end with feet together
+Basse Dances – Burgundian/French
+Alenchon
+ 
+(15
+th
+ C. Brussels Ms)
+(
+Couple
+s in a line)
+| == In 3 == |
+|-----|----|-----|
+Rev; Bransle L; Singles 
+LR
+; Double L; Riprise R
+1;1;1;1|
+Singles 
+LR
+; Doubles LRL; SIngles 
+RL
+; Ripreses RLR; Bransle L
+1;3;1;3;1|
+Singles 
+LR
+; Double L; SIngles 
+RL
+; Ripreses RLR; Bransle L
+1;1;1;3;1|
+Singles 
+LR
+; Doubles LRL; SIngles 
+RL
+; Ripreses RLR; Bransle L
+1;3;1;3;1|
+Basse Dances – Burgundian/French
+Barcelonne/Le moys de may
+ 
+(15
+th
+ C. Brussels Ms)
+(
+Couple
+s in a line)
+| == In 3 == |
+|-----|----|-----|
+Intro:
+Rev; Bransle L
+1;1|
+Singles 
+LR
+; 3 Doubles LRL
+; Singles 
+RL
+; Reprises RLR; Bransle L
+1;3;1;3;1|
+Singles 
+LR
+; Double L
+; Singles 
+RL
+; Reprises RLR; Bransle 
+1;1;1;3;1|
+Repeat lines 2 & 3; Rev
+16;1|
+Casuelle Novelle
+/Castile la Novele
+ 
+(Toulouze 1488)
+(
+Couple
+s in a line)
+| == In 3 == |
+|-----|----|-----|
+Intro
+:
+ 
+Rev
+; Bransle L
+1;1|
+P
+1:
+Singles 
+LR
+;
+ 5 Doubles LRLRL
+; Reprises RLR; Bransle L
+1;5|
+;3;1|
+Singles 
+LR
+; Double L; Singles 
+RL
+; Reprises RLR; Bransle L
+1;1;1|
+;3;1|
+Repeat P
+1
+P
+2
+ 
+Singles 
+LR
+; 3 Doubles LRL
+; Reprises RLR; Bransle L
+1;3|
+;3;1 
+Danse de Cleves
+(15
+th
+ C. Brussels Ms)
+(
+Couple
+s)
+| == In 3 == |
+|-----|----|-----|
+P1
+Rev
+; Bransle L 
+1;1|
+Singles 
+LR
+; Doubles LRL; Singles 
+RL
+; Double R back (drop hands)
+1;3;1;1|
+P2
+Singles 
+LR
+, Double L (Ld fwd & back stem as Ly CW petal)
+1;1|
+Singles 
+RL
+; Double R (Ly f
+wd &
+ 
+back stem as Ld CCW petal)
+1;1|
+P3
+Rev
+; Bransle L; Singles 
+LR
+; Double L; Double R (half turn)
+1;1;1;1|
+;1
+Double L; Singles 
+RL
+; Double R (half turn in place)
+1;1;1|
+P4
+Repeat P2
+4
+P
+5
+Singles 
+LR
+; Doubles LRL; Conge
+1
+;
+3
+;1
+%%%jouyssance
+Jouyssance Vous Donneray
+Thoinot Arbeau 
+?????
+(
+Couple
+s)
+Seq
+Rev; Bransle; Singles 
+LR
+; Double L;
+ Riprese; Double L; Riprese; Bransle
+Singles 
+LR
+; Doubles LRL; Riprese; Double L Riprese; Bransle
+Singles 
+LR
+; Double L; Riprese; Bransle; Conge
+Ret
+Bransle; Double L; Riprese; Bransle
+Singles 
+LR
+; Doubles LRL; Riprese; Double L; Riprese; Bransle
+Basse Dances - Italian
+Ginevra Weasley
+(Adapted from Guglielmo (Ambrosio) late 15
+th
+ C)
+(
+Couple
+s
+)
+| == In 6 == |
+|-----|----|-----|
+P1
+Singles LR, Doubles LR, Rev L; 
+Back
+ Singles LR, MV R
+4;1|
+Voltacia (Rip L, Vt (SR, SL), Rip R) 
+3
+P2
+Repeat, going the other way, w/ Ly on L to start
+8
+P3
+R hands:
+ 
+Singles LR, Double L; L hands:
+ 
+Singles RL, Double R
+2;2|
+Rev L; Back Singles LR, MV R; Doubles LR, MV R
+1;1;2|
+P4
+Rip 
+LR
+; Singles LR, Double L; VdGypsy, Ly MV R; Rip 
+LR
+2;2;2;2|
+Repeat dance Ld & Ly exchanging roles & going down the hall.
+Basse Dances - Italian
+Coronita Gentile
+(Adapted from Guglielmo (Ambrosio))
+||(Couples facing from across room) | == In 6 == 
+V1
+Continenze 
+LR
+; Sempii 
+LR
+; Doppii 
+LR
+; RevL 
+1;1;2;1|
+PtL,PtR (back
+); MV into RipL; RipR, 
+1;1;1|
+Continenze 
+LR
+; Singles 
+LR
+; Doppii 
+LR
+ 
+1;1;2|
+MV into Chorus (Ripresa L; VT (2 Sempii 
+RL
+), Ripresa R) 
+1;2|
+V2
+ Continenze 
+LR
+; Sempii 
+LR
+; Doppii 
+LR
+1;1;2|
+ 
+Continenze 
+LR
+; RevL (tou
+ching R hands) Pt 
+LR
+ (back
+)
+1;1;1|
+ 
+Sempii 
+LR
+, Doppii 
+LR
+ (passing); MV into Chorus 
+1;2;3|
+V3
+Con 
+LR
+; 6 Salt (home); RevL; Pt
+LR
+ (back); MV into Ch
+1;6;1;1;3|
+V4
+Continenze 
+LR
+; Doppii 
+LR
+; Lds Sempii 
+LR
+; Doppii 
+LR
+1;2;1;2|
+ 
+R-hands Sempii 
+LR
+; Doppio L; L-hands Sempii 
+RL
+; Doppio R
+2;2|
+ 
+(smaller so change sides, facing 
+ptnr
+); Chorus 
+3
+V5
+Continenze 
+LR
+; Lds Sempii 
+LR
+; Doppii 
+LR
+ 
+1;1;2|
+(back to ptnr); Ch; Sempii 
+LR
+; Doppii 
+LR
+; MV into Ch
+3;1;2;3|
+Lauro
+(Late 15
+th
+ C Italian manuscripts)
+||(Couples in a line) | == In 3 == |
+|-----|----|-----|
+Singles 
+LR
+; Doubles 
+LR
+; 
+Rev
+ L
+1;2;1|
+Reprises 
+LR
+; Singles 
+LR
+; Double L; Reprise R; Continenze 
+LR
+2;1;1;1;1|
+[R hands], Singles 
+LR
+; Double L; [L hands] Singles 
+RL
+; Double R
+1;1;1;1|
+Reprises 
+LR
+; Singles 
+LR
+;Doubles LR L; V
+dG
+; 
+Rev
+ L
+2;1;3;2;1|
+Mordred's Lullaby
+(SCA Choreography
+)
+(1 
+Couple
+, separated, Ld on L side of hall, Ly on R) 
+| == In 6 == |
+|-----|----|-----|
+Intro
+Ld 6 passi (2/ bar) to start position; 1 bar no move
+3;1|
+Ly 6 passi, end L of Ld (lead pos);1 bar, Ly takes Ld’s hand 
+3;1|
+Hush Chorus Riprese 
+LR
+; 2 Sempii; 3 Doppii; VdG 
+2;1;3;2|
+V1
+RevL, ¼ turn L, Ly leads Sempii 
+LR
+; Doppii 
+LR
+, MV 
+1;1;2|
+ 
+Ld leads Sempii 
+LR
+; Doppii 
+LR
+, Ld MV to face; RevL 
+1;2;1|
+C1
+Ly circles Ld CW 
+w/
+ 4 Doppii starting L
+4 
+V2
+Sempii 
+LR
+; Doppio L; (Ld back, Ly fwd), VdG
+1;1;2|
+ 
+Sempii 
+LR
+; Doppio L; (Ly back Ld fwd), VT (S 
+RL
+ DR CW)
+1;1;2|
+C2
+R hands, Semp 
+LR
+ Dop L; L hands, Semp 
+RL
+ Dop R, Ly MV
+2;2 
+Hush Chorus 
+8
+C3
+Ly 4 Doppii around Ld CW, as Ld 8 steps CW, inside Ly's circle 
+4
+(End w/ Ly to L of Ld, further apart, do not hold hands)
+V3
+Sempii 
+LR
+ Dop 
+LR
+; Ld Rip 
+LR
+ as Ly Dop 
+LR
+ ½ around Ld
+3;2 
+ 
+Sempii 
+LR
+; Doppii 
+LR
+, Ld backing up, Ly going 
+fwd
+1;2|
+C4
+ Ly 4 Doppii in CW around Ld;MV, as Ld Rip
+LR
+ into MV (2x) 
+4
+Hush Chorus (as before, except
+ 
+Ld leading) 
+8
+Exit
+Ly 4 passi (1/bar), go behind Ld & L (can continue on Ld's music)
+4
+Ld 4 passi (1/bar), go off R & turn to look at the Ly at the end 
+4
+End in stillness. No Rev
+Basse Dances - Italian
+Riunione
+(SCA Choreography)
+(
+C
+ouple
+s
+)
+| == In 6 == |
+|-----|----|-----|
+P1
+Continenze 
+LR
+; Singles L
+R; Ripresa L, Ld starting w/ a MV
+1;1;1|
+Singles 
+RL
+, passing R shoulders
+1
+P2
+MV into Ripresa R; MV into Ripresa L; Double RLR, MV on last beat
+1;1;3|
+Saltarello LR L end L shoulders together (Ly facing down,the hall, Ld up)
+3
+P3
+Reverenza Longa R ; Volta del Gioioso, rotating around each other
+2;2|
+P4
+Doubles LRLR in sep CCW circles - end facing other way (Ly up hall, Ld down)
+4
+Take R hands, Singles 
+LR
+, Double L
+2
+Take L hands, Singles 
+RL
+, Double R (End 
+w/
+ Ly facing down,
+ 
+Ld up)
+2
+Reverenza L & drop hands
+1
+P5
+Riprese Portugalese back 
+LR
+; then 
+fwd
+s L; Single R; Pause
+2;1;½;½ 
+Riprese 
+LR
+, Ly first doing a MV, holding hands
+2
+Singles 
+LR
+; Doubles L 
+RL
+; Volta del Gioioso
+1;3;2|
+Italian Balli (15
+th 
+Century)
+Amoroso
+(Ambrosio (Guglielmo)
+ 
+1475)
+||(Couples) | == In 4 == |
+|-----|----|-----|
+12
+ 
+piva
+ 
+(only 8 in some recordings)
+12
+Ld Singles 
+LR
+; Piva, Strutting singles RLR; Ly same to catch up
+1;1;1½ ;3½ 
+Ld Piva LRL, Single R; Lysame to catch up
+4;4|
+Ld Singles 
+LR
+ Piva; Singles RLR turn & Rev; 3 Piva & 1 single bk; Ly same
+2;2;4;8|
+L'Amoroso
+ 
+(N
+ü
+rnberg Manuscript 1517)
+(One Couple, Ld on right)
+| == In 4 == |
+|-----|----|-----|
+12
+ 
+piva
+ 
+(only 8 in some recordings)
+12
+Ld 2 Pive; Ld slow Double; Ly same to catch up
+2;1½ ;3½
+Ld 2 Pive, slow Double, Movi; Ly same to catch up
+3½;3½
+Ld 3 Contrapassi w/ Rip on last, Ld Movi, Ly Rev, Ld Rev, Both Rev
+5
+Ld 2 Pive, slow Double, Movi
+3½
+Ly 3 Contrapassi w/ Rip on last, Ly Movi, Ld Rev; Ly Rev; Both Rev
+5
+Ly 2 Pive, slow Double
+3½
+Anello
+(Domenico 1450)
+(2 
+Couple
+s facing)
+| == In 4 == |
+|-----|----|-----|
+Intro
+All join hands & circle L 
+w/
+ 8 salterelli
+8
+P1
+Movi [Lds then 
+Lys
+]; Lds switch in 2 salt; Movi (
+Lys
+ then Lds); 
+Lys
+ switch
+1;2;1;2|
+P2
+Movi [Lds 1st]; Lds 
+Turn single
+; Movi [
+Lys
+ 1st]; 
+Lys
+ 
+Turn single
+ 
+1;1;1;1|
+P3
+Lds cast behind ptr & switch in 4 piva; 
+Lys
+ same
+2;2|
+P4
+Movimenti [Lds then 
+Lys
+] 2x; Lds reprise; All reverenza
+2;1;1|
+Repeat 
+w/
+ 
+Lys
+ leading
+Italian Balli (15
+th 
+Century)
+Belfiore
+(Domenico)
+(Set of 3 people)
+| == In 4 == |
+|-----|----|-----|
+12 slow piva; L dancer double; Middle same; R same
+12; 1;1;1|
+L dancer movimento; Middle same; R same
+               
+| == In 2 == |
+|-----|----|-----|
+1;1;1|
+L dancer Voltat
+o
+nda (in a double); Middle same; R same
+    
+| == In 4 == |
+|-----|----|-----|
+1;1;1|
+L dancer 3 piva behind to R place; Middle same; R same
+   
+ 
+| == In 6 == |
+|-----|----|-----|
+3;3;3|
+L & R dancers trade w/ a double (L 
+behind
+, R 
+in front)
+2
+Middle 4 piva 
+CCW 
+around 
+new
+ R dancer 
+& behind new
+ L dancer
+ to L position
+4
+Repeat dance 2x to arrive in beginning positions
+Belreguardo
+(Domenico)
+(
+Couple
+s)
+| == In 6 == |
+|-----|----|-----|
+11 Saltarelli; Doubles LRLR; Contrapassi 
+LLL
+; Singles 
+RL
+ 
+11;4;2;1|
+Contrapassi RRR; Rip 
+LR
+2;2|
+Saltarelli 
+LR
+; Rip 
+LR
+; Repeat
+2;2;4|
+Singles 
+LR
+; Double L, Rev R; Rip R; Con 
+LR
+; Rev
+1;1;1;1;1|
+La Chirintana
+(Siena manuscript)
+(L
+ine of 
+Couple
+s)
+P1
+Process
+: Con 
+LR
+, Double L, Con
+ R. 
+(until music changes)
+.
+ 
+P2
+Snake Hay
+: 
+In Pive, 
+CI, leads to L, passing 
+betw
+ C2 & C3. Once CI has passed C2, Ld2 leads Ly2 to follow CI
+, etc
+..CI 
+stops when they reach the end of the line;
+ 
+other C's continue until the line resets
+.
+P3
+In and Out Hay
+:
+ 
+C1 leads a 
+Hey
+ for Couples
+, in Pive
+P4
+Circling
+:
+ 
+Ld1 calls, "circle" & 
+all
+ couples take R hands 
+& circle in
+ 4 Pive. 
+Then take L 
+hands & do 4 Pive in the opposite direction.
+P5
+Brigomania
+: Couples form
+ a long line, LyI taking Ld2’s hands, Ly2 Taking Ld3’s hand, etc., 
+w/
+ Ld I leading the line, using Pive. 
+Colonnese
+(Guglielmo (Ambrosio) 1463)
+(Line of 3 
+Couple
+s)
+| == In 6 == |
+|-----|----|-----|
+16 Salterelli
+16
+C1 still, as C2 R hands - Sing 
+LR
+, Double L; L hands - Sing 
+RL
+, Double R; RevL, 
+as C3 weave to top 
+w/
+ Sing 
+LR
+, 4 Doubles, Ld ends on R; repeat
+ 
+2x
+5;10
+Ld around 
+ptnr
+ CCW w/ 3 Piva LRL; Ly same CW w/ 3 Piva RLR
+ 
+(
+| == In 2 ==)
+3;3|
+Movimenti (Ld, then Ly), Double R back, Doube L fwd & face front
+  
+(
+| == In 4 ==)
+3
+Repeat dance, roles reversed
+Italian Balli (15
+th 
+Century)
+Fia Giuelmina
+(Domenico
+ 1450
+)
+(
+Couples
+)
+P1
+Ted 
+LR
+, drop hands, Ly MV; Singles 
+LR
+        
+| == In 4/4 == |
+|-----|----|-----|
+2;1|
+Rip R (angle away), face 
+ptnr
+; Double R, Ld MV; repeat, Ld no MV
+1;1;5|
+P2
+Singles 
+LR
+ (changing place, 1/4 circle); Rev L
+     
+| == In 6/4 == |
+|-----|----|-----|
+1;1|
+P3
+Singles 
+LR
+; Double 
+LR
+ w/ MV
+                 
+ 
+| == In 6/4 == |
+|-----|----|-----|
+1;2|
+Rip L w/ MV, Rip R; Double 
+LR
+ w/ MV; Rev L
+2;2;1|
+P4
+Ly Double L, Movi; Ld Double L, Movi
+             
+ 
+| == In 4/4 == |
+|-----|----|-----|
+1;1|
+Ly Double L, Movi; Ld Single L, Movi, Ly Single L, Movi; VT (Salt L CW)
+1;1;1|
+P5
+Ly Pive LRLR (VT CW); Both Pive 
+LR
+;
+            
+| == In 6/8 == |
+|-----|----|-----|
+4;2|
+Pive LRLR w/R Hands, Ly MV
+4
+Gelosia
+(Domenico 1450)
+(Line of 3 
+Couple
+s)
+| == In 4 == |
+|-----|----|-----|
+8 Saltarelli
+8
+Ld1 3 piva pass in front of Ly1, end at R of Ly2; Rev; Ld2 Saltarello R to Ly1
+1½ ;½;1
+Ld1 3 piva in front of Ly2 , ending at R of Ly3; Rev; L3 Saltarello R to Ly2
+1½ ;½;1 
+Ld1 Saltarello R behind Ly3, end to her L; All 8 Pive, holding hands 
+w/
+ new 
+ptnr
+1;4|
+C1 double away in circle, end f
+acing; C2 the same; C3 the same 
+1;1;1|
+Take R hands 
+w/
+ 
+ptnr
+, exchange places in Single L, R, L
+1½ 
+Take L hands, exchange back in Single RLR, Lds end w/ Mezzavolta R
+1½ 
+Repeat dance 2 times, until each Ld returns to original place
+Gioioso in Tre
+(Guglielmo (Ambrosio) late 15
+th
+ C)
+(1 Ly standing betw
+ 2 Lds)
+| == In 6 == |
+|-----|----|-----|
+P1
+Rip 
+LR
+; Ly single 
+LR
+; Arm L w/ Ld1 in Doubles 
+LR
+ to place 
+2;1;2|
+Repeat Rip & Arming, but Ly arms R 
+w/
+ Ld2
+5
+P2
+Rip 
+LR
+; Lds switch, pass L in front of Ly in Singles 
+LR
+, Doubles 
+LR
+2;3|
+Repeat Rip & Switching
+5
+P3
+Rip 
+LR
+; Singles 
+LR
+; Double L; 
+2;1;1|
+Ly Rip 
+RL
+ as 
+Lds
+ 
+VT
+ (doubles 
+RL
+); VdG 
+; Repeat
+2;2|
+;8
+P4
+16 Saltarelli
+ 
+16
+P5
+(musically in 6)
+| == In 4 to dance == |
+|-----|----|-----|
+ 
+Movi (Ly, then Lds); Ly double; Movi (Lds, then Ly); Lds double to Ly
+1;1;1;1|
+Movi (Ly 1
+st
+); Ly double & turn; Movi (Lds 1
+st
+ ); Lds double to join & turn
+1;1;1;1|
+Graziosa
+(Guglielmo (Ambrosio) 1463)
+||(Couples) | == In 4 == |
+|-----|----|-----|
+Both TedL R L, Ld DR ½ around W; Both TedL R L, Ly DR to place on R
+4;4|
+Ld Ted
+LR
+, Singles 
+LR
+, Double L; Ly same
+4;4|
+SL, SR, DL, DR, Ld fwd, Ly ½ fwd, then back to start
+| == In 6 == |
+|-----|----|-----|
+  
+3
+MvR (no time), RipL, RipR, RevL
+3
+SL, SR, DL, DR, Ly fwd, Ld meets her, then goes beside
+3
+Hands RipL, RipR, RevL
+3
+Circling = take R hands, PivL R L; L hands, PivR, L, R
+| == In 4 == |
+|-----|----|-----|
+ 
+3;3|
+Movimenti (M,then W); Both DL Back, DR fwd 
+1;2|
+Italian Balli (15
+th
+ Century)
+Giove
+(Domenico 1450)
+(for 3 in
+ 
+column, ideally Ld, Ly, Ld)
+| == In 4 == |
+|-----|----|-----|
+P1
+Ted LRL, VdG (= In 6 =); repeat
+3; 2
+P2
+Doubles RLR in 1/2 
+Hey
+, leader & center starting w/ R hands
+    
+| == In 6 == |
+|-----|----|-----|
+3
+Singles 
+LR
+, Double L fwd
+2
+Doubles RLR in 1/2 
+Hey
+, last & center starting w/ R hands
+ 
+ 
+3
+Singles 
+LR
+, Double L fwd
+2
+P3
+Leader MV L w/ a hop to face down as others hop onto R
+     
+ == In 3 == |
+|-----|----|-----|
+Contrapassi LL, Leader weaves to bottom passing Center by L and Last by R,
+Leader & Center edning w/ MV L
+3
+Contrapassi LL, Center weaves to the bottom the same way
+3
+Contrapassi LL, Last weaves to the bottom the same way, end w/ all facing up 
+3
+P4
+Salt 
+LR
+ fwd; Center still as Leader & Last Salt LR to switch places CW
+2;2|
+Leader & Last stand still as Center VdG (= In 6 =);
+ 
+Repeat 
+2;6|
+P5
+Leader MV R & Riv L w/ center, touching R hands
+            
+ == In 6 == |
+|-----|----|-----|
+1
+Centr MV R & Riv L w/ Last, touch R hands, Centr & Leader MV to face fwd
+1
+Leoncello Novo
+(Domenico 1450)
+(1 Ly standing betw
+ 2 Lds)
+| == In 4 == |
+|-----|----|-----|
+2 Saltarelli; Ly Double L, Lds Double L; Ly Double R, Lds Double R
+2;2;2|
+Ly circle Lds (in Fig 8) starting to L w/ 3 Pive, 
+1
+ Single, 3 Pive, 
+1
+ Single
+4
+Lds 2 Saltarelli; VT in 4 steps; Ly
+s 2 Saltarelli; MV
+ 
+2;1;3|
+All 3 Contrapassi fwd, MV; 3 Contrapassi fwd, MV
+2;2|
+Ly Double L; Lds same; Ly Double R; Lds same, MV (all, to face)
+ 
+ 
+| == In 6 == |
+|-----|----|-----|
+1;1;1;1|
+All Riprese 
+LR
+; Con 
+LR
+, Rev; Ly Double L; Lds same
+2;2;1;1|
+Ly Double R; Lds same, MV (Lds only); All Rev; Ly Movi, Lds Movi
+1;1;1;1|
+Leoncello Vecchio
+(Domenico 1450)
+||(Couples) | == In 4 == |
+|-----|----|-----|
+6 salterelli
+6
+Movi (Ld then Ly); Ld Salt to R of Ly; Repeat (exchanging roles)
+1;1;2|
+Ld
+ 
+4 Singles & 1 Double away; Ly same; Ld
+ 
+3 quick Doubles away; Ly same
+3;3;
+2
+;
+2
+Ld
+ 
+2 Singles & 2 Doubles away; Ly same to join
+                 
+| == In 6 == |
+|-----|----|-----|
+3;3|
+(both) Riprese 
+LR
+; 2 Singles; 2 Doubles; Riprese 
+LR
+; Movi
+ 
+(Ld then Ly)
+2;1;2;2;
+2
+Marchesana
+(Domenico 1450)
+||(Couples) | == In 4 == |
+|-----|----|-----|
+8 salterelli
+8
+Ld stamp LRL; then Double R; Ly stamp LR L; then Double R
+1;1;1;1|
+Hold hands - Rip 
+LR
+ (drop hands)
+| == In 6 == |
+|-----|----|-----|
+       
+ 2
+R hands - circle 
+w/
+ Singles 
+LR
+; Double L drop hands; RipR; Same w/ L 
+1;1;1;3|
+Doubles 
+LR
+ fwd, passing L shoulders & turn to face
+2
+Rip 
+LR
+; Continenza 
+LR
+; Ld Rev; Ly Rev 
+2;1;1;1|
+Movimenti (Ld then Ly); Both Double L fwd
+ 
+| == In 4 == |
+|-----|----|-----|
+    
+1;1|
+Movimenti(Ly then Ld); Both Double R fwd (end w/ R shoulders together)
+1;1|
+Double L turning (Ly VT & Ld MV) to face same way, Ly on L (next repeat, Ly leads)
+1
+Italian Balli (15
+th
+ Century)
+Mercantia
+(Domenico 1450)
+(Ly 
+w/
+ 3 Lds A w/ Ly, B behind A, C behind Ly)
+| == In 6 == |
+|-----|----|-----|
+11 Saltarelli
+; B & C separate 
+w/
+ 6 Mrip (
+| == In 4 == |
+|-----|----|-----|
+)
+    
+ 
+11;6|
+Ly MV in Double L; A Double LRL
+| == In 6 == |
+|-----|----|-----|
+    
+4
+B
+ 
+to Ly in Singles 
+LR
+, Double L, touch R hands; 
+2
+B Singles 
+RL
+ Double R & MV, as Ly Volta del Gioioso
+2
+C repeats what B did, Ly also repeating the Volta del Gioioso; A turns around
+4; ½
+ 
+B & C switch places 
+w/
+ Salt
+LR
+, end side by side
+2
+A Salt 
+LR
+, ending behind & to L of Ly; Ly turns as A RipR
+| == In 4 == |
+|-----|----|-----|
+   
+ 
+2; ½ 
+A & Ly Rev L; All Con 
+RL
+| == In 6 == |
+|-----|----|-----|
+   
+ 
+1;1|
+A & C switch places in Singles 
+RL
+, Double R, as B & Ly Volta del Gioioso
+2
+A is now B, B is C & C is A. Repeat dance twice more
+Petit Vriens
+(Ambrosio (Guglielmo) 1475)
+(Set of 3 people)
+| == In 6 == |
+|-----|----|-----|
+16 Piva; A 4 Piva; B 4 Piva to join A; C 4 Piva to join A&B
+16;4;4;4|
+(musically in 6)
+| == In 4 to dance == |
+|-----|----|-----|
+A Double L; B Double L; C Double L
+1;1;1|
+A & B Rev; C & B Rev; All Rev
+1;1;1|
+DL 
+back
+, fanning out; DR 
+fwd
+ back to place
+1;1|
+RipL; RipR; VT (DL going CCW)
+½;½;1
+Petite Rose
+(Domenico 1450)
+(
+Couple
+s)
+| == In 6 == |
+|-----|----|-----|
+16 Pive, holding hands
+16
+Ld Movi; Ly Movi; Ld VT w/ a Double L(CCW)
+1;1;2|
+Ly Movi; Ld Movi; Ly VT w/ a Double L(CCW)
+1;1;2|
+Double L fwd; Singles 
+RL
+ back, switch feet; Repeat 2x
+2;1;1|
+Saltarelli 
+LR
+ away and back to 
+ptnr
+2;2|
+The lead alternates between the Ld & Ly on subsequent repeats.
+ 
+Pizocara
+(Domenico 1450)
+(Line of 4 
+Couple
+s)
+| == In 6 == |
+|-----|----|-----|
+12 Pive; Lds circle 
+ptnr
+ 
+w/
+ 4 Pive; 
+Lys
+ same
+12;4;4|
+Lds RevR, All RipR, holding hands
+2
+Lds SL, SR, 11 Doppii, weaving through 
+Lys
+ & end to R of 
+ptnr
+12
+Lys Rev L; All Rip L, holding hands
+2
+Lys
+, pause 1 bar, 9 Salt, starting L, weaving through Lds, end to R of 
+ptnr
+10
+C1 separate 
+w/
+ 2 MRip, then other Cs 4 Pive
+2;4|
+C2 seperate 
+w/
+ 2 MRip, then Cs 3 & 4 do 4 Pive
+2;4|
+C3 separate 
+w/
+ 2 MRip, then C4 does 4 Piva
+2;4|
+Repeat the dance, 
+w/
+ C4 leading
+Italian Balli (15
+th
+ Century)
+Prexonera
+(Domenico 1450)
+(
+Couple
+s)
+| == In 6/4 == |
+|-----|----|-----|
+Con 
+LR
+; Singles LRL, Double R; Rev; Repeat
+1;2;1;1;5|
+Ld
+ Singles 
+LR
+; Contrapassi 
+LL
+, curve L to face Ly; Ly same (end apart to L)
+1;2;3|
+Both Singles 
+LR
+; Con 
+LR
+; Repeat whole seq w/ Ly starting 
+1;1;8|
+8 piva (Ld grabbing Ly’s hand, Ly following behind)
+8 
+Ld Movi (jump twd Ly); Ly Respond (jump away); 4 passiti, Ld chasing Ly
+1;1;2|
+Ly Movi (jump twd Ld); Ld Respond (jump away); 4 passiti, Ly chasing Ld
+1;1;2|
+4 Saltarelli; Repeat dance w/ Ly leading contrapasso & piva sequences
+4;46
+Rosina
+(Based on Ambrosio (Guglielmo) 1475)
+(3 people, one of one gender in center, 2 of other on sides)
+| == In 4 == |
+|-----|----|-----|
+1
+Double 
+LR
+, MV;
+ 
+Double 
+LR
+, MV
+2;2|
+Center Single 
+LR
+, Double L; Sides Single 
+RL
+, Double R
+2;2|
+2
+Center turns, All Double 
+LR
+, MV & Rip 
+LR
+4
+CCW circle = Double L, MV, then RipR; Con LRLR
+2;2|
+3
+Single 
+LR
+, Double L fwd, Double R 
+back
+,
+ 
+Rev L
+4
+CCW circle = Double L, MV, then RipR; Con LRLR
+2;2|
+4
+Center & Side to their R = take R hands & circle w/ 4 Pive
+4
+Center & other Side take L hands & circle w/ 4 Pive
+4
+Hey
+ 
+w/
+ 8 Pive, Center & R Side start by passing R shoulders
+8
+Rostiboli Gioioso
+(Guglielmo (Ambrosio) 1463)
+(
+Couple
+s)
+| == In 6 == |
+|-----|----|-----|
+P1
+Reprise 
+LR
+ ; Ld Singles 
+LR
+; Doubles 
+LR
+2;1;2|
+(Ld MV) All Reprise 
+LR
+; Ld Singles 
+LR
+; Doubles 
+LR
+ home
+2;1;2|
+Repeat above 
+w/
+ Ly going out & back
+10
+P2
+Reprise 
+LR
+; 2 Singles; 3 Doubles; VdG (2x)
+2;1;3;2 (2x)
+P3
+16 Salterelli 
+16
+P4
+(musically in 6)
+| == In 4 to dance == |
+|-----|----|-----|
+Movi (Ld then Ly); Ld Double L; Movi (Ly then Ld); Ly Double L to join Ld
+1;1;1;1|
+Repeat; Repeat entire dance, roles reversed
+4
+Spero
+(Domenico 1450)
+(Set of 3 people)
+| == In 4 == |
+|-----|----|-----|
+P1 
+4 SaltTed, beat Fwd
+4
+P2
+Center Sempii 
+LR
+, Doppio L
+2
+Ends Sempii 
+RL
+, Doppio R as Center MV w/ a Doppio R
+2
+P3
+2 SaltTed, beat to side, MV
+2
+P4
+Approach & Pass
+ 
+Center
+ Betw in 4 Salt, MV R; Rip 
+LR
+   
+ 
+| == In 6 == |
+|-----|----|-----|
+4; 2
+P5
+Rev L, Sempio L back; approach w/ Rip Portugalese RLR, ends MV R
+1;3|
+Rip L; VT w/ Sepmi 
+RL
+, Rip R; Rev L
+12;1|
+P6
+Center & R End: Take R hands & circle in Piva LRL
+       
+ 
+| == In 4 == |
+|-----|----|-----|
+3
+Center & L Take L hands & circle in Piva RLR; Center Movi; Ends Movi
+3;1;1|
+Center VT in Doppio L; Ends same; Repeat dance
+2;2|
+Italian Balli (15
+th
+ Century)
+Tesara
+(Domenico 1450)
+(4 
+Couple
+s in a line plus 1 shuttle at each end)
+| == In 6== |
+|-----|----|-----|
+P1
+8 Saltarelli, starting L
+8
+P2
+Couples separate in Meza Rip, shuttle A MV to face B
+1
+A& B 4 Piva to switch (pass R), MV; C’s switch 4 Meza Rip (Lds in front)
+4;2|
+Movimenti
+ 
+(Ld1, then 2, 3, 4, then Ly 4, 3, 2, 1); Repeat P2
+4;11
+P3
+B take C4's ribbons & lead to front in
+ 
+4 doppi w/ close & side cut 
+12
+A&B take R hands & switch in 2 piva; A to bottom in 3 piva, end in MV R
+2;3|
+A lead C3 to front (as B led C4);
+ü
+ A&B switch & B return to bottom as before
+12;5|
+P4
+B take C2
+ 
+to front (holding ribbons) w/ Saltarelli LRL
+3
+A&B
+ 
+R hands & switch in Saltarello R; A to bottom in Saltarelli 
+LR
+, MV R
+1;2|
+A lead C1 to front (as B led C2); A&B switch & B return to bottom as before
+3;3|
+P5
+C1&C4 switch w/ ptnr in Doppio & form ribbon arch; A&B Doppio under arch
+ 
+1;1|
+C2&C3 switch w/ ptnr in Doppio & form ribbon arch; A&B under arch & meet
+ 
+1;1|
+Repeat w/ C2&C3; Repeat w/ C1&C4
+2;2|
+P6
+A&B switch under arches in 4 piva, passing R shoulders, MV R
+4
+Couples drop 
+ptnr
+'s ribbon; Lds MV to face
+ 
+down as 
+Lys
+ face up
+1
+P7
+Hey
+ 
+A, B, Ld1 & Ly 4 weave CCW around 3 stationary people to new position
+A&B always start to L of 1
+st
+ stationary person (inside), Ld & Ly to R
+4
+Repeat w/ A, B,
+ 
+Ld2 & Ly3; A, B, Ld3, Ly2; A, B, Ld4, Ly1
+12
+P8
+Movi
+ 
+(Ld1,2, 3, 4, Ly 4, 3, 2, 1); Lds MV CCW in doppio L; Lys same
+4;1;1|
+Ver
+ç
+epe
+(Domenico 1450)
+(3 Lords & 2 Ladies)
+| == In 6 == |
+|-----|----|-----|
+I
+1 bar no movement; 11 Saltarelli, starting R
+12
+II
+Ld2 & Ld3 Doppio LR, circling CCW halfway round Ly in front of him
+2
+Ld2 & Ld 3 Contrapasso LL, continuing to circle, switch weight to L foot
+1½ 
+Ld2 & Ld3 Rip R to orig places, moving on a curve
+; Lys VdG
+1
+;2
+Lys circle Lds in front of them 
+w/
+ same steps Lds used
+; Lds VdG
+4½
+;2
+III
+Contrapasso LLL, MV; repeat
+                         
+| == In 4 == |
+|-----|----|-----|
+2;2|
+Ld MV (Step L, R CCW)
+½
+IV
+Ld1 & Ld3 Hop on R foot
+                             
+| == In 6 == |
+|-----|----|-----|
+1
+Ld1 & Ld3
+ 
+exchange places in 4 Saltarelli starting L, weaving among other 
+3 (Ld1 to R of Ly1, L of Ld2, R of Ly2, then to end as Ld 3 to L of Ly2, R of Ld2, 
+L of Ly1, then to front) Ld1 ends w/ MV R
+4 
+V
+Ly1 Doppio RLR, moving CW halfway round Ld 2 to Ly2's place as
+Ly2 Doppio LRL moving CW into Ly1's place
+    
+ 
+2
+Ld1 & Ld3 Hop on L foot; Ld1 & Ld3 Saltarelli RLR circling nearest Ly CW
+1;2|
+Ly1 Doppio LRL, moving CW
+ 
+to orig place as
+Ly2 Doppio RLR moving CW into orig place
+2
+Ld2 Hop on R foot; Ld2 Saltarelli LRL circling
+ 
+Ly1 CCW
+1;2|
+VI
+Lds Movi, Lys Movi; Lds VT (4 steps starting L CCW)
+    
+ 
+| == In 4 == |
+|-----|----|-----|
+1;1|
+Lys Movi, Lds Movi; Lys VT (4 steps starting L CCW)
+1;1|
+Italian Balli (15
+th
+ Century)
+Vita di Cholino
+(Giovanninio)
+(Ly betw
+ 2 Lds)
+| == In 4 == |
+|-----|----|-----|
+V1
+Con 
+LR
+; Ly Singles 
+LR
+, MV R, as Lds Singles 
+LR
+ back; Rip
+LR
+1;1;2|
+Ch
+Ly & Ld to her R Rev; Ly & Ld to L Rev; VT CW in Double R
+1;1;1|
+V2
+Ly & Ld to R take R hands & circle in Doubles 
+LR
+2
+Ly & Ld to L take L hands & circle in Doubles 
+LR
+; Repeat Ch
+2;3|
+V3
+Doubles 
+LR
+ (passing ea other), MV R; Rip 
+LR
+; Repeat Ch
+2;2;3|
+V4
+Zig Zag past in Doubles LRL, MV L; Double R together
+3;1|
+Repeat Chorus touching hand while Rev (R hand w/ Ld1, L w/ Ld2)
+3
+V5
+Hey
+ in 8 pive, Ly starting and passing Ld to R by R
+4
+Repeat Chorus, but Lds replace VT w/ Double R, MV (end in line)
+3
+Vite de Colei
+(N
+ü
+rnberg Manuscript 1517)
+(One Couple, Ld on right)
+| == In 4 == |
+|-----|----|-----|
+V1
+8 Pive fwd, Ly turning to face Ld on the last
+4
+Ch
+(holding both hands) Ld Rev; Ly Rev; Both VT
+1;1;1|
+V2
+8 Pive fwd, Ld turning to face Ly on the last
+4
+Repeat Chorus, Ly Rev first
+3
+V3
+Ld fwd 2 Doubles, Rip w/ MV; Return w/ same (no MV) 
+2;2|
+Repeat Ch, Ld Rev first
+3
+V4
+Ly same as Ld in V3; Repeat Chorus, Ly Rev fist
+4;3|
+V5
+R hands, circle CW w/ 4 Pive; L hands, circle CCW w/ 4 Pive
+2;2|
+Repeat Chorus, Ld Rev first
+3
+Steps for 15th Century Italian Dance
+Continenza (Con) - Shift weight to side, 
+w/
+ bit of rise. Half bar.
+Contrapasso – 4 steps, bending knee on first step
+Doppio (Double) - 3 steps.
+Passetino (PT) - a small step
+Passo - an unornamented step
+Piva - 3 steps, the 2nd cutting under first (ie place it under heel)
+Meza Ripresa (Mrip) - Step to side, cut (put other foot under first)
+Mezavolta (MV) - half turn. If not specified, it is a pivot in no time.
+Movimento (Movi)
+ (Shosso/Scosetto)
+ - Rise on toes, directing attention at 
+ptnr
+.
+Reverance (Rev) - Kneel on knee given.
+Ripresa (Rip) - Step to side, cut (put other foot under first), step to first side again.
+Ripresa Portugalese (RipPort) 
+– Rip 
+on the diagonal (45 degree angle)
+Saltarello (Salt) - 3 steps & hop. Put hop where pause is in doppio.
+Saltarello Tedesco (Ted) - 3 steps & Meza Ripresa.
+Sempio (Single) - step 
+fwd
+ on foot given, on first beat. Half bar.
+Volta tonda (VT) full turn
+ - steps specified in each dance
+ 
+Volta del Gioioso (VdG) - A small circle CCW, done 
+w/
+ 2 
+sempii & a MV 
+w/
+ a ripresa. Takes 2 bars in 6/4, as follows
+ 
+SR doing quarter turn CCW, SL doing quarter turn CCW, MV (half turn CCW in no time, pivot on L foot) & Ripresa R.
+Italian Balli (16
+th
+ Century & later)
+Allegrezza d’Amore
+(Caroso 1581
+)
+(3 People in a Circle)
+| == In 
+3
+ == |
+|-----|----|-----|
+P1
+Take hands & Rev
+; 
+Drop hands & 
+Spez
+ LR, flanking back
+4;4|
+1
+Passi LR, Cad to the L; Passi RL, Cad to the R 
+4;4|
+Trab 
+L to even feet
+ flank
+ing 
+ back
+ 
+(
+Leader first, then to R)
+6
+Passi LR, Cad fwd
+4
+Slow Trab LR
+4
+Spez LR, flanking back; Passi LR Cad fwd
+4;4|
+1
+P2
+Fioretti a pie pari 
+LR
+; Passi 
+LR (back); 
+Spez 
+LR (switch, leader betw)
+2;2;4|
+ 
+Fioretti a pie pari 
+RL
+; Passi 
+RL
+ (back)
+; Spez RL (switch back)
+2;2;4|
+ 
+Rev (
+Leader first, then to R)
+6
+6 Canarii tu
+rning L; 
+6 Canarii
+ turning R
+;
+ 
+Passi LR, Cad fwd
+12
+;4
+P3
+Chain w/ 8 S
+pez
+, touching hands
+16
+ 
+16
+Passi in Galliarda, Cad (kick, kick, jump)
+ 
+(
+Leader first, then to R)
+6
+Scam LR; 
+Puntate L fwd & R back;
+ Turn 
+L
+ in
+ Spez L, Cad
+8;4;4|
+P4
+Fioretti a pie pari 
+LR
+;
+ Trab LR, Passi LR, Cad to L
+2;2;4|
+Fioretti a pie pari 
+RL
+;
+ Trab RL, Passi RL, Cad to R
+2;2;4|
+Battute 
+LR
+ (stomp, stomp) 
+(Leader first, then to R)
+6
+Scorsi
+ 
+LR
+, Cad
+ 
+changing places
+ (
+Leader first, then to R
+)
+; 
+Rev
+12;4|
+Altezza d’Amore
+(Caroso 1600)
+||(Couples) | == In 6
+ == |
+|-----|----|-----|
+P1
+Rev
+; Con
+ 
+LR
+; Groppo L; Fioretti 
+LR
+1;1;½;½
+ 
+Semidoppio L; Groppo R; Fioretti 
+RL
+; Semidoppio R
+1;½ ;½ ; 1
+Trab 
+LR
+; Spez L; Trab 
+RL
+; Spez R
+½ ;½ ;½ ;½ 
+Scorsi LRLR (separating in S shape); Trab 
+LR
+2;½
+P2
+Ld
+ 
+4 variations L; Ly 4 variations L; Ld 4 vars R; Ly 4 vars R
+4;4;4;4|
+easy galliard var: 
+Ord 
+LR
+ flanking; Trab 
+LR
+; Finto L
+2;1;1|
+complex var
+: 
+Groppo L; Fioretti 
+LR
+; Passi 
+LR
+ 
+back
+½ ;½ ;½) 
+ Fioretti 
+LR
+; Passi 
+LR
+ 
+fwd
+; Trab 
+LR
+½ ;½ ;½ 
+ Mezza 
+Rev
+; Sottopiede L; Cad
+ L
+¼ ; ½ ; ¼ 
+P3
+Spez Alterati 
+LR
+; Fioretti 
+LR
+; Saffice L; same starting R
+1;½ ;½ ; 2
+Spez 
+LR
+ (turning L);  Canario LRL; Stamp 
+RL
+1;1½ ;½ 
+Spez 
+RL
+ (turning R); Canario R L R; Stamp 
+LR
+1;1½ ;½ 
+Groppo L; Fioretti 
+LR
+; Spez Puntato L w/ Mezza Reverenza
+½ ;½ ;1
+Same starting R; Trab 
+LR
+2;½ 
+P4
+Ld
+Stamp LR; Canario L; Stamp RLR; Can L; Ly same
+½ ;½;½;½ ;2
+Ld
+Stamp RL; Canario R; Stamp LRL; Can R; Ly same
+½ ;½;½;½;2
+Passo Puntato L; Mezza 
+Rev
+; Passo Puntato R; Mezza 
+Rev
+½ ;½;½;½ 
+Ld
+ Trab 
+LR
+; Saf
+f
+ice L (flanking out); Ly do same
+½ ;½;½;½
+Ld
+ Trab 
+RL
+; Saffice R
+ 
+(flanking out); Ly do same
+½ ;½;½;½
+Spez 
+LR
+ (turning L); Passi 
+LR
+; Saffice L (flankng in)
+1;½ ;½ 
+Same starting R; 
+Puntat
+e
+ 
+LR
+; 
+Rev
+2;1;1|
+Italian Balli (16
+th
+ Century & later)
+Alta Regina
+(Caroso 1581)
+(One Couple, facing)
+| == 
+In 3
+ == |
+|-----|----|-----|
+V1
+Rev; Scam L;
+ 
+Spez 
+RL
+ to swit
+ch; 
+Turn
+ L
+ in
+ Spez 
+ 
+R,
+ 
+Cad
+4;4;4;4|
+Ch:
+Facing, Puntate L fwd & R bac
+k; 
+Turn 
+L
+ in
+ Spez L, Cad 
+4;4|
+V2 
+Spez LRLR in CW wheel; Facing, Scam 
+LR
+ ; Repeat Chorus 
+2;2;2|
+V3 
+Ld: Passi fwd 
+LR
+ , Cad L ; Passi bac
+k 
+RL
+, Cad R; Trab LRLR; 
+4;4|
+;
+4
+Turn 
+L
+ in
+ Sp
+ez, L
+,
+ Cad; All repeat chorus
+4;8|
+V4 
+Ly do as Ld 
+did in V3; All repeat chorus
+16;8|
+V5
+Trab LRLR; Doppio L; Trab RLRL; Doppio R; Repeat Chorus
+4;4;4;4;8|
+V6
+Rip LL, Trab LR; Doppio L; Rip RR, Trab RL, Doppio R; Chorus
+4;4;4;4;8|
+Ballo del Fiore (for 2)
+(Caroso 1581)
+(Lds 
+w/
+ Flowers & Lys along edge of floor)
+| == In 4 == |
+|-----|----|-----|
+Intro
+Lds 
+only 
+Rev
+; 
+Ord
+ 
+LR 
+turning in place
+2;2|
+V1
+Lds 
+Ord
+ 
+LRLR 
+to face a 
+ptnr
+; 
+C
+on LR
+, 
+Rev
+4;4|
+V2
+Together,
+ fwd,
+Ord
+ LR; 
+Scorsi
+ LR; (facing) 
+C
+on
+ LR
+, 
+Rev
+2;2;4|
+V3 
+Ord
+ 
+LR 
+turning
+ L
+;
+ 
+Ord
+ 
+LR to 
+p
+ass 
+ptnr
+ & face; 
+C
+on LR
+, 
+Rev
+2;2|
+;4
+V4
+ 
+Ord
+ 
+LRLR 
+–
+ 
+zigzag to 
+ptnr
+; 
+C
+on LR
+, 
+Rev
+, Ld kiss
+ & pass flower
+4;4|
+Repeat verses 1-4 
+w/
+ 
+Ly seeking a new Ld
+Ballo del Fiore (for 3)
+(Caroso 1
+581
+)
+Open: Lds 
+(holding flower) 
+Rev
+; Con 
+LR
+2;2|
+P
+1
+Lds 
+Passi LR; 
+Ord
+ L; Passi RL, 
+Ord
+ R to Ly
+; Con LR; 
+Rev
+1;1;1;1|
+;2;2|
+2 bars rest;Both 
+Rev
+; 
+Ord
+ LRLR; Con 
+LR
+; 
+Rev
+ facing
+2
+;2;4;2;2|
+P2
+Lds 
+Rev
+; Con 
+LR
+; Pass
+i
+ 
+LR
+; 
+Ord
+ L 
+2;2;1;1|
+Lds Passi 
+RL
+; 
+Ord
+R to meet new Ly; Con 
+LR
+; Rev; rest
+1;1;2;2;2|
+Both 
+Rev
+; 
+Ord
+ LRLR to meet Ly1, place Ly2 to R, form triangle
+2;4|
+Con 
+LR
+, 
+Rev
+2;2|
+P3
+Ord
+ 
+LR
+ turning L; 
+Ord
+ L CW ( in wheel); 
+Ord
+ R 
+C
+CW
+2;1;1|
+Con 
+LR
+; 
+Rev
+2;2|
+P4
+Ord
+ 
+LR
+ to meet, Ld in middle, Ld doffs hat; Scorsi 
+LR
+ to invert set
+2;2|
+Puntate L fwd & R back; 
+Rev
+2;2|
+P5
+Ord
+ 
+LR
+ into smaller circle; 
+Rev
+2;2 
+Ld & Ly1 R hands: Passi 
+LR
+, 
+Ord
+ L; R hands: Passi 
+RL
+, 
+Ord
+ R
+2;2|
+Ld & Ly2 R hands: Passi 
+LR
+, 
+Ord
+ L; R hands: Passi 
+RL
+, 
+Ord
+ R
+2;2|
+Con 
+LR
+; 
+Rev
+2;2|
+P6
+Hey
+ in 4 Scorsi; Con 
+LR
+; 
+Rev
+, giving flower to Ly 1
+4;2;2|
+P7
+Ld & Ly2r 4 
+Ord
+ tog as Ly1 same to find new Ld; Con 
+LR
+; 
+Rev
+4;2;2|
+Italian Balli (16
+th
+ Century & later)
+Bella Gioiosa
+(Caroso 1581)
+(3 people in circle)
+| == In 6
+ == |
+|-----|----|-----|
+V1
+Take hands & 
+Rev
+ w/ jump; Trab LRLR & drop hands
+2;2|
+Turn
+ L: 
+Spez 
+LR
+,
+ Passi 
+LR
+; Cad
+2;1;1|
+ 
+Face L i
+n wheel Spez LRLR;Scam
+ 
+LR
+4;4|
+Ch
+Leader turn L in Spez L, Cad; #2 
+(to R of Leader) same; #3 same
+2
+ (3x)
+V2
+Leader Passi 
+LR
+; Cad; Trab
+ LRLR or Canario LRLRL
+1;1;2|
+(Leader only) Rip 
+LL
+, Trab 
+LR
+; (turn L in) Spez L; Cad
+1;1;1;1|
+Joust all L side in Spez L 
+fwd
+; Spez R
+ back; Spez 
+LR
+ to switch
+1;1;2|
+L side in Spez L fwd; Spez R back; Spe
+z 
+LR
+ to switch; Chorus
+1;1;2;6|
+V3
+Verse 2 
+w/
+ #2 (to R of Leader) 
+as Leader; Chorus w/#2 leading
+16;6|
+V4
+Verse 2 
+w/
+ #3 a
+s Leader; Chorus w/ #3 leading
+16;6|
+V5
+Face L in wheel Sem
+idoppio 
+LR
+; Rip 
+LL
+; Trab 
+LR
+4;1;1|
+ 
+Turn 
+L 
+ in 
+Spez L 
+,
+Cad
+2
+ 
+Face R in wheel Semidoppio 
+RL
+; Rip 
+RR
+; Trab 
+RL
+4;1;1|
+ 
+Turn 
+R in S
+pez R
+,
+ Cad
+; Chorus (w/ orig leader)
+2
+;6
+ 
+V6
+Fioretti a 
+pie pari 
+LR
+; Passi 
+LR
+ (back)
+1;1|
+ 
+Spez 
+LR
+ (chang
+e places, leader pass betw
+)
+2
+Fioretti a 
+pie pari 
+RL
+; Passi 
+RL
+ (back)
+1;1|
+ 
+Spez 
+RL
+ (chang
+e places, leader pass betw
+)
+2
+Chain w/ 6 
+Spez (leader betw
+ then L)
+6
+Pas
+si 
+LR
+; Cad; repeat Chorus
+1;1;6|
+ 
+V7
+ 
+Trab LRLR; 
+Canario LRLR
+2;2|
+Rip 
+LL
+; Trab 
+LR
+; (turn 
+L in) Spez L; Cad
+1;1;1;1|
+ 
+Trab RLRL; 
+Canario RLRL
+2;2|
+Rip 
+RR
+; Trab 
+RL
+; (turn R in) Spez
+ R; Cad; Chorus
+1;1;1;1;6|
+ 
+Chiara Stella
+(Caroso 1581)
+||(Couples, Ld facing Ly) | == In 6 == |
+|-----|----|-----|
+V1:
+Hold R hands, R
+ev; drop hands, 8 spez in CW wheel, starting L
+2;8|
+Scambiata
+ L
+,
+ 
+Cad
+ L, landing to face 
+ptnr
+2
+Ch:
+T
+rab
+ 
+LRLR;
+ 
+Passi T
+rangati 
+LR
+ flanking back
+2;2|
+Rip LL; Trab
+ 
+LR; 
+turn 
+L 
+in 
+Spez L,
+ Cad 
+1;1;2|
+Rip RR; Trab
+ 
+RL; 
+turn i
+R 
+n 
+Spez R,
+ Cad
+1;1;2|
+V2: 
+Ld’s solo: Spez 
+LR
+ flanking fwd; 
+Passi
+ 
+LR
+ fwd; Trab 
+LR
+2;1;1|
+Turn in 
+Spez L, Cad; Repeat starting R
+2;6|
+Repeat Chorus (both)
+12
+V3:
+Ly’s solo: 
+Lys
+ do as Lds did in V2
+12
+ 
+Repeat Chorus
+12
+V4:
+Take R hands, Passi
+ LR; Trab LR; Rip LL, Trab LR
+1;1;2|
+Drop hands, 
+Turn L in 
+Spez L, Cad
+2
+Take L hands, 
+Passi
+ RL; Trab RL; Rip RR, Trab RL 
+1;1;2|
+Drop hands, 
+Turn R in 
+Spez R, Cad; Repeat Chorus.
+2;12
+Italian Balli (16
+th
+ Century & later)
+Il Bianco Fiore
+(Negri 1602)
+(
+2 
+Couple
+s in a diamond)
+| == In 6 == |
+|-----|----|-----|
+V1:
+Rev; Con 
+LR
+; Figure 8: turn L in Ord 
+LR
+, then R in Ord 
+LR
+ 
+2;2;4|
+Lords: Passi (grave) 
+LR
+ to center; Ord L; Turning R; Spez 
+RL
+; Ord R
+2;1;1|
+Ladies: Passi (grave) 
+LR
+ to center; Ord L; Turning R; Spez 
+RL
+; Ord R
+2;1;1|
+Ch:
+Sottopiede 
+LL
+L, Cad L, Trab R; Ord L turning L
+1;1|
+Sottopiede 
+RR
+R, Cad R,
+ 
+Trab L; Ord R turning R
+1;1|
+V2:
+Lord
+s
+: Spez LRLR in CCW loop around 
+ptnr
+; Ord 
+LR
+ turning R
+2;2|
+Ladies: Spez LRLR in CCW loop around 
+ptnr
+; Ord 
+LR
+ turning R
+2;2|
+Lords: 4 measures of Galliard 
+4
+Ladies: Snub seq: Ord L to center; Rip R away; Ord 
+RL
+ to center & back
+1;1;2|
+Repeat Chorus
+V3:
+Circle 
+w/
+ 
+ptnr
+ (R hands) in 
+Ord
+ LR
+; counter circle L Ord
+ LR
+2;2|
+Circle 
+w/
+ corner (L hands) in 
+Ord
+ LR
+; counter circle R in 
+Ord LR
+2;2|
+Lords: 4 measures of Galliard; Ladies: 4 measures of Galliard
+4;4|
+Repeat Chorus
+V4:
+Grand 
+RL
+: 
+Start
+ R hands 
+w/
+ 
+ptnr
+ & 
+switch in 
+Ord L
+; do 3 more switches
+1
+;3
+Keeping L hands 
+w/
+ corner, complete the turn 
+w/
+ Ord L 
+1
+Take R hands 
+w/
+ 
+ptnr
+ & switch in Ord R; continue 
+w/
+ 2 more switches
+1;2|
+All do 4 measures of Galliard
+4
+Fioretti 
+LR
+; turn L in Ord L; Fioretti 
+RL
+; turn R in 
+Ord
+ R
+1;1;1;1|
+Repeat Chorus
+Bizzaria d'Amore
+(
+Negri 1602)
+(2 
+Couple
+s in a diamond)
+| == In 4 == |
+|-----|----|-----|
+Verse 1
+Lds 
+Rev
+; 
+Sottopiede 
+LL
+ & Sottopiede 
+R
+R; 
+Lys
+ same
+4;4;8|
+Chorus
+Hop; Hop; 
+Rip Min L; Hop; Hop; Rip Min R
+1;1;2;1;1;2|
+ 
+Spez 
+LR
+ 
+back
+ a
+t 45 deg to R; 
+Ord
+ to place
+1;1;2|
+Spez 
+RL
+ 
+back
+ at 45 deg to L; 
+Ord
+ to place
+1;1;2|
+Verse 2
+Lds Exchange places (pass R
+ shoulders) Spez 
+LR
+; 
+Ord
+ L
+2;2|
+Counter circle in Spez 
+RL
+; 
+Ord
+ R; 
+Lys
+ same, but pass L 
+2;2;8|
+Repeat Chorus
+16
+Verse 3
+Circle w/ 
+ptnr
+ (R hands) in 2 
+Ord
+; counter circle in 2 
+Ord
+4;4|
+Circle w/ corner (L hands) in 2 
+Ord
+; counter circle in 2 
+Ord
+4;4|
+Repeat Chorus
+16
+Verse 4
+Lds Exchange places 
+(R hands) in Spez
+LR
+; 
+Ord
+ L
+2;2|
+Counter circle in Spez 
+RL
+; 
+Ord
+ R; 
+Lys
+ same but L hands
+2;2;8|
+Repeat Chorus
+16
+Verse 5
+R hands w/ 
+ptnr
+, 
+Ord
+ L to swit
+ch; L hands, 
+Ord
+ R to place
+2;2|
+Counter circle in 
+Ord
+ 
+LR
+4
+L hands w/ corner, 
+Ord
+ L to swit
+ch; R hands, 
+Ord
+ R to place
+2;2|
+Counter circle in 2 
+Ord
+; repeat chorus
+4;16
+Verse 6
+R hands 
+w/ 
+ptnr
+, circle in 2 
+Ord
+4
+Grand 
+RL
+ (L to corner 1
+st
+) in 4 
+Ord
+; L hands w/corner, 2 
+Ord
+8;4|
+Repeat Chorus
+16
+Italian Balli (16
+th
+ Century & later)
+Brando di Cales
+( Negri 1602)
+(3 
+Couple
+s in a circle)
+| == In 6
+ == |
+|-----|----|-----|
+P1
+C1 
+Rev
+ (grave); Rip 
+LR
+; 
+1;1|
+Passi 
+LR
+,
+Ord
+ L turning L; Passi 
+RL
+, 
+Ord
+ R turning R
+1;1 
+C2 do the same; C3 do the same
+4;4|
+P2
+Saltini a pie pari 
+LR
+1
+Take R hands w/
+ ptnr
+ & circle in 5 Battute (stamps); Galliard turning L
+1¼;¾ 
+Take L hands w/
+ ptnr
+ & circle in 5 Battute (stamps),;Galliard turning R
+1¼;¾
+P3
+Lds
+ 
+Passi 
+LR
+, 
+Ord
+ L (fwd); Circle to place Passi 
+RL
+, 
+Ord
+ R
+1;1|
+Lys
+ 
+do the same
+2
+P4
+C1
+ 
+Spez 
+LR
+, 
+Ord
+ L fwd; Spez 
+RL
+, 
+Ord
+ R back
+1;1|
+C1
+ 
+Rev breve to corner, then ; 2 Saltini a pie pari
+1;1|
+C1
+ 
+ 
+Ord
+ 
+LR
+ fwd; drop hands, turn L to place in 
+Ord
+ 
+RL
+1;1|
+C2 do the same; C3 do the same
+6;6|
+P5
+Hands in circle – 4 Rip L; Saltino; 4 Rip R; Saltino
+2;½ ;2;½
+P6
+Lds 
+Ord
+ to pass 
+ptnr
+ inside to face on other side, take hands; saltino
+1;½ 
+Lds 
+Ord
+ inside CCW to face next Ly on other side; saltino; repeat
+1;½;1½ 
+P7
+Hands in circle; 4 Rip L; Saltino; 4 Rip R; Saltino
+2;½;2;½ 
+Lys 
+Ord
+ to pass 
+ptnr
+ inside to face on other side, take hands; saltino
+1;½
+Lys 
+Ord
+ inside CW to face next Ld on other side; saltino; repeat
+1;½;1½
+Candida Luna
+(Caroso 1581)
+(
+1
+ 
+Couple
+, facing)
+ == In 
+3
+ == |
+|-----|----|-----|
+V1
+Rev; Trab LRLR; Spez LR in wheel; Turn in Spez L, 
+Cad
+4;4;4;4|
+Ch
+Spez sideways L & honor; Spez R; & honor
+4;4|
+Trangi 
+LR
+ diag back; Rip 
+LL
+, Trab L to place
+4;4|
+Spez sideways R & honor; Spez L; & honor
+4;4|
+Trangi 
+RL
+ diag back; Rip 
+RR
+, Trab R to place
+4;4|
+Rip 
+LL
+, Trab 
+LR
+; (Turn over L sh) Spez L, Cad R
+4;4|
+Rip 
+RR
+, Trab 
+RL
+; (Turn over R sh) Spez R, Cad L
+4;4|
+V2
+Take R hands & Spez LR; Trab LRLR; Take L hands & same
+4;4;8|
+Repeat Chorus
+48
+V3
+Turn L & Passi LR, Cad; Turn R & same; Trab LRLR; 
+Turn in Spez L, Cad
+4;4;4;4|
+Repeat Chorus
+48
+La Castellana
+(Caroso 1581)
+(
+1
+ 
+Couple
+, facing
+)
+ == In 3
+ == |
+|-----|----|-----|
+V1
+Rev; (in wheel) Spez 
+LRLR; (turn over L sh) Spez LR
+4;8;4|
+Ch
+Flank fwd & back w/ Putat
+e
+ 
+LR
+; Trab LRLR
+; Spez
+ 
+L & rev; Spez R; & rev
+4;4;4;4|
+Rip 
+LL
+, Trab 
+LR
+; 
+(Turn over L sh) Spez L, Cad R
+4;4|
+Rip 
+RR
+, Trab 
+RL
+; (Turn over R sh) Spez R, Cad L
+4;4|
+V2
+Spez 
+LR
+ to switch 
+w/ R hands; Spez 
+LR
+ to curl L
+4;4|
+Spez 
+LR
+ to switch w/ L hands; Spez 
+LR
+ to curl R
+; Repeat Chorus
+4;4;32
+V3
+(in wheel)
+ 
+Passi 
+LR
+, C
+ad L;
+ 
+Rip 
+RR
+, Trab 
+RL
+4;4|
+Passi 
+RL
+, Cad R; Rip 
+LL
+, Trab 
+LR
+; repeat Chorus
+4;4;32
+Italian Balli (16
+th
+ Century & later)
+Chiaranzana 
+(Caroso 1581)
+(
+Couple
+s in a line)
+ 
+ 
+(Sequences, (S), then Patterns (P))
+| == in 
+3
+ == |
+|-----|----|-----|
+S1:
+Rev
+; Continenze 
+LR
+; Puntat
+a
+ L fwd & Puntat
+a
+ R back
+4;4;4|
+S2:
+Passi 
+LR
+, 
+Ord L; Passi
+ 
+RL
+ back, Riprese RR; Con 
+LR
+4;4;4|
+S3:
+Take hands, Passi 
+LR
+, Ord 
+L CW; Passi 
+RL
+, Ord R CCW
+4;4|
+Take R hands, Spez L, Mezza Rev; 
+Take L hands Spez R, Mezza Rev
+2;2|
+P1:
+(Procession) - S1:1x; S2: any number of times
+P2:
+(Pass-Through) - Use S2: C1 convert; C1&C2 take hands; C1 pass-through;
+C1 & C3 take hands while C2 convert; Continue until C1 at head of set
+P3:
+(Casting) - Cast around w/ Spezzati
+P4:
+(Reel) - Use S3:
+ 
+C1 cross-over take hands w/C2; 
+Continue til C1 at head of set
+P5:
+(Exit) Spezzati around floor; Spezzati off floor; Rev
+ 
+Contentezza d'Amore
+ (Il Ballarino)
+(Caroso 1581)
+(
+Couple
+s)
+| == in 4 == |
+|-----|----|-----|
+V1
+Take hands, 
+Rev; Con 
+LR
+; 4 Rip in circle L, then R
+4
+;
+4
+;
+4
+;
+4
+ 
+C
+on 
+LR
+; 
+Rev
+, drop hands
+4
+;
+4
+V2
+Ly away from 
+ptnr
+ Puntate 
+LR
+; 
+Passi
+ 
+LR
+; Double L; Puntate 
+RL
+ 
+4
+;
+2
+;
+2
+;
+4
+Passi
+ 
+RL
+; Double R; Ly turn to face, both Puntata L fwd, & R back; Rev
+;
+2;2|
+;
+4
+;
+4
+V3
+Ld join 
+ptnr
+ 
+in same steps; Both facing head Puntata L fwd & R back; Rev
+16;4;4|
+V4
+Ly pass front of Ld in
+ 
+½
+ 
+circle 
+Passi
+ 
+LR
+,
+ 
+Double L; 
+Passi
+ 
+RL
+, Double R
+4;4|
+Ld pass Ly in half circle 
+w/
+ same steps; Puntata L fwd & R back; Rev
+8;4;4|
+V5
+Take hands & switch Puntate 
+LR
+; 6 Double
+s to back of the hall, & face 
+4;12
+Together Puntata L 
+fwd
+,
+ Puntata R 
+back
+; 
+Rev
+4;4|
+V 6
+Take L hands & 2 Spez to switch; 6
+ Spez
+ up the hall
+         
+ 
+| == in 3 == |
+|-----|----|-----|
+4;12
+T
+ake hands &
+ 8 Rip in a circle L, then R; drop hands & 4 Trab; Rev
+8
+;
+8;4;4|
+Contentezza d'Amore (Nobilt
+à
+ di Dame)
+(Caroso 1600)
+(
+Couple
+s)
+| == in 4 == |
+|-----|----|-----|
+V1
+Take hands, Rev; Con 
+LR
+; 
+Cicle CW in 2
+ Rip
+, 2 Trab, 
+Ord
+ L 
+4;4;4|
+ 
+Circle CCW in 2 Rip, 2 Trab, 
+Ord
+ R; 
+Con 
+LR
+; Rev, 
+take ord hands
+4;4;4|
+V2
+Up the hall: 
+Puntate L
+R; Pass
+i LR, 
+Ord
+ L; Puntate RL
+4;4;4|
+Passi RL, 
+Ord
+ L; (Facing) Trab LR; Trab LRL; Con RL
+4
+; 
+2;2;4|
+V3
+Down the hall: Puntate RL; 
+Passi RL, 
+Ord
+ R; Puntate LR
+4;4;4|
+Passi LR, 
+Ord
+ R; (Facing) Trab 
+RL
+; Trab RL
+R
+; Con L
+R
+4;2;2;4|
+V4
+Take 
+R 
+hands, 
+Ord
+ LR CW; Curl L, 
+Ord
+ LR
+4;4|
+Puntate LR (twd 
+ptnr
+); 
+Ord
+ LR flanking
+4;4|
+Trab LR; Destice L, Puntate RL
+ 
+2;2;4|
+V5
+Take L hands, 
+Ord
+ RL CCW; Curl R, 
+Ord
+ RL
+4
+;
+4
+Puntate RL (twd 
+ptnr
+); 
+Ord
+ RL flanking
+4
+;
+4
+Trab RL; Destice R, Puntate LR
+2;2;4|
+V 6
+Take 
+both 
+hands
+,
+ Spez
+ LR CW; Curl L in Passi LR, Spez L
+   
+| == in 3 == |
+|-----|----|-----|
+4;4|
+Take both hands, Spez RL CCW; Curl R in Passi RL, Spez R
+4;4|
+Facing: RipLL, Trab LR; Passi LR, Saffice L
+4;4|
+Rip RR, Trab RL; Passi RL, Saffice R; Puntate LR; Rev
+4;4;4;4|
+Italian Balli (16
+th
+ Century & later)
+Il Conto dell ’Orco
+(Caroso 1581)
+(1 
+Couple
+, facing)
+| == in 4 == |
+|-----|----|-----|
+V1
+Rev; 
+Ord
+ LRL in wheel to change places
+2;3|
+Ch
+Trab RLR; Trang flanking back LR; Turn L in Spez L, Cad 
+1;1;1|
+V2
+Ord LRLRL circling to starting place; repeat Ch
+5;3|
+V3
+Ld Doppio L; Passi RL diagonal back; 
+Slow 
+Trab RL; Rip RR; Chorus
+2;1;1;1;3|
+V4
+Ly do as Ld 
+did in V3
+8
+V5
+Turn L: Passi
+ 
+gravi LR, 
+Ord
+ L; Turn R: Passi Gravi RL, 
+Ord
+ R
+2;2|
+Face: quick Doppio L; Repeat Ch; Rev
+1;3|
+Contrapasso
+(Chigi Manuscripts,
+ 
+c1560's)
+||(Circle of Couples) | == in 6 == |
+|-----|----|-----|
+V1
+Rev; Con 
+LR
+; Turn L & Passi 
+LR
+, 
+Ord L; Passi 
+RL
+, 
+Ord
+ R
+4;4;4;4|
+V2
+R hands w/ptnr & Passi 
+LR
+, Doppio L; L hands Passi 
+RL
+, Doppio R
+4;4|
+Indiv figure 8 Turn L in 
+Ord
+ 
+LR
+; Turn R in 
+Ord
+ 
+LR
+4;4|
+V3
+Repeat V2, taking R then L arms w/ ptnr instead of hands, all figure 8
+16
+V4
+Repeat V2, taking 2 hands. all figure 8
+16
+V5
+Hey
+ in 8 
+Ord
+, starting R hands w/ptnr, then move around circle
+16
+V6
+Face ptnr & Rev; Con 
+LR
+; All figure 8
+4;4;8|
+V7
+Lds back Lys up Passi 
+LR
+, Doppio L; Lys back Lds up; All figure 8
+4;4;8|
+V8
+Lds Rev L; Lys Rev L; all figure 8; Rev 
+4;4;8|
+Contrapasso in Due
+(Caroso 1581)
+(
+Couple
+s)
+| == in 6
+ == |
+|-----|----|-----|
+V1
+Rev
+ L
+; Con 
+LR
+; 
+Passi
+ 
+LR
+, Do
+ppio
+ L; 
+back Passi
+ 
+RL
+, Rip 
+RR
+4
+;
+4;4;4|
+Passi
+ 
+L
+R
+, Do
+ppio
+ 
+L
+; 
+back Passi
+ 
+R
+L
+, Rip 
+RR
+4
+;
+4
+V2
+R hands w/
+ptnr
+ & 
+Passi
+ 
+LR
+, D
+oppio
+ L; L hands 
+Passi
+ 
+RL
+, Do
+ppio
+ R
+4;4|
+Indiv figure 8 Turn L in 
+Ord
+ 
+LR
+, M Rev
+; Turn R in 
+Ord
+ 
+LR
+4
+;
+4
+V3
+Repeat V2, taking R then L arms w/ 
+ptnr
+ instead of hands
+, all figure 8
+16
+V4
+Repeat V2, taking 2 hands. 
+Lys
+ figu
+re 8 as Lds flank back & fwd (4 
+Ord
+)
+16
+V5
+Take hands w/ 
+ptnr
+ & 8 
+Ord
+, starting L
+ (12 in some music)
+16
+V6
+Face 
+ptnr
+ & Rev
+ L
+; Con 
+LR
+; All figure 8
+4;4;
+8
+V7
+Lds back Lys up 
+Passi
+ 
+LR
+, Do
+ppio
+ L; Lys back Lds up; All figure 8
+4;4;
+8
+V8
+Lds Rev
+ L
+; Lys Rev
+ L
+; 
+Lys
+ figure 8 as Lds flank back & fwd
+4;4;
+8
+Dolce Amorosa Fiamma
+(Caroso 1581)
+(3 
+Couple
+s in a line)
+(Based on 
+Dolce Amoroso Fuoco
+)
+| == In 4 == |
+|-----|----|-----|
+V1
+(Face head of hall) Rev; Con 
+LR
+; 2 
+Ord
+; 2 Scorsi - pass R & curl L
+2;2;2;2|
+2 
+Ord
+ fwd; 2 Scorsi - pass L & curl R; (face prtner); Con 
+LR
+; Rev
+2;2;2;2|
+V2
+Lds
+ 
+Spez 
+LR
+ to 
+ptnr
+, Trab LRL; Spez 
+RL
+ to place, Trab RLR
+2;2;2;2|
+All
+ 
+Con 
+LR
+, Rev; Lys
+ 
+same as Lds above; All
+ 
+Con 
+LR
+, Rev
+2;2;8;2;2|
+V3
+C1 begin grand 
+RL
+ by giving R hands (1 
+Ord
+ per exhange)
+8
+Lds Rev Lys; Lys Rev Lds; All slow turn to face the Presence & Rev
+2;2;2;2|
+Italian Balli (16
+th
+ Century & later)
+Donna Leggiadra
+(Caroso 1600)
+(1 
+Couple
+)
+| == In 4 == |
+|-----|----|-----|
+P1
+Rev; (circle L) Spez LRLR; Saffice 
+LR
+; Puntato L fwd & R back
+1;2;1;1|
+Rip 
+LL
+, Trab 
+LR
+; Double L, Passi
+ 
+RL
+1;1|
+P2
+(circlieR) Spez RLRLRL; Saffice 
+RL
+; Puntato R fwd & R back
+3;1;1|
+Rip 
+RR
+, Trab 
+RL
+; Double R, Passi
+ 
+LR
+1;1|
+P3
+Lds Fioretti 
+LR
+, Trab 
+LR
+; Spez Puntato L (to L), Mezza Rev
+1;1|
+Fioretti 
+RL
+, Trab 
+RL
+; Spez Puntato R (to R), Mezza Rev
+1;1|
+Puntato L fwd & R back; Semidoppio 
+LR
+ (to L then R)
+1;2|
+P4
+Ly do as Ld 
+did in P3
+7
+P5
+Take R hands & Passi 
+LR
+; Semidoppio L (circling CW)
+1;1|
+Take L hands & Passi 
+RL
+; Semidoppio R (circling CCW)
+1;1|
+Puntato L fwd & R back; Rev grave
+1;2|
+Fedelta
+(Caroso 1581)
+(
+Couple
+s in a circle)
+| == In 3
+ == 
+V1
+Rev; Spez LRLR (
+CW wheel); Passi 
+LR
+; 
+Cad
+ 
+4;8;2;2|
+Spez RLRLRL (C
+CW wheel); Passi 
+RL
+; 
+Cad
+ 
+12;2;2|
+Ch
+Lds turn L in Ord
+ L, 
+Cad
+; 
+Lys
+ same
+4;4|
+V2
+R hands w/ 
+ptnr
+ & Semi
+doppii 
+LR
+ (circling to place)
+8
+Face 
+ptnr
+ & Rip 
+LL
+; Trab 
+LR
+; Turn L in Spez L , 
+Cad
+2;2;4|
+L hands w/ 
+ptnr
+ & Semi
+doppii 
+RL
+ (circling to place)
+8
+Face 
+ptnr
+ & Rip 
+RR
+; Trab 
+RL
+; Turn R in
+ Spez R, 
+Cad
+2;2;4|
+Repeat Chorus
+4;4|
+V3
+Semidoppio L to L & R to R; Passi LR, Cad in
+to circle; Passi RL, Cad out
+8;8|
+Scambiate 
+LR
+; Rip 
+LL
+; Trab 
+LR
+; Turn L in Spez L, 
+Cad
+8;2;2;4|
+Repeat Chorus 
+4;4|
+Fiamma d’Amore
+(Caroso 1581)
+(
+1
+ 
+Couple
+, facing)
+| == In 
+3
+ == |
+|-----|----|-----|
+| == In 4 == |
+|-----|----|-----|
+V1
+Spez L, Rev; Spez R, Rev; Spez 
+LR
+ to switch in CW wheel
+4
+;
+4
+;
+4
+Trab LRLR; Spez LRLR in CW wheel; Scambiate 
+LR
+4
+;
+8
+;
+8
+Ch
+Puntata L back, hop; Puntata R back, hop
+3
+;
+3
+Spez L, turning over L shoulder, 
+Cad
+4
+V2 
+Lds only
+: Spez LRL, Rev; Spez RLR, Rev
+8;8|
+Rip 
+LL
+, Trab 
+LR
+ 
+(flank back L); Passi
+ 
+LR
+, 
+Cad
+ (return to ptnr)
+4;4|
+Rip 
+RR
+, Trab 
+RL
+ (flank back R); Passi
+ 
+RL
+, 
+Cad
+ (return to ptnr)
+4;4|
+Repeat Chorus
+3
+V3
+Lys
+ do what L
+ds did in V2
+32
+Repeat Chorus
+3
+V4
+Spiral in CW, Spez 
+LR
+, SemiDoppi
+o L; CCW Spez 
+RL
+ SemiDoppio R
+8;8|
+Rip 
+LL
+, Trab 
+LR
+ 
+(flank back L); Spez 
+L & Rev (return & touch hands)
+4;4|
+Rip 
+RR
+, Trab 
+RL
+ (flank back R); Spez 
+R & Rev (return & touch hands)
+4;4|
+Repeat Chorus
+3
+Italian Balli (16
+th
+ Century & later)
+Fedelta d'Amore
+(Negri 1602)
+(Ly betw
+ 2 Lds)
+| == In 4 == |
+|-----|----|-----|
+P1
+Rev; Rip 
+LR
+; 
+Ord 
+LR
+ turning L; Ord
+ 
+LR
+ turning R
+2;2;2;2|
+Twd foot of hallTake hands & Spez 
+LR
+; 
+Ord
+ L 
+1;1|
+Spez 
+RL
+; 
+Ord
+ R & turn to face head of hall
+1;1|
+8 Spez grave (haye, Ly passes Ld on L until Ld on R in middle)
+8
+Mid Ld take R hands w/ Ly & circle in 2 galliards; L hands, 2 galliards
+2;2|
+Mid Ld does same w/ Ld on L
+4
+P2
+4 
+Ord
+ to head of hall & turn to face foot
+4
+Sottopiede 
+LL
+; Trab 
+LR
+; Ord
+, turning L
+½;½;1
+Sottopiede 
+RR
+; Trab 
+RL
+; 
+Ord
+, turning R
+½;½;1
+8 Spez grave (haye, as before); 8 galliards, as before
+8;8|
+P3
+Twd foot of hall 2 Spez; 
+Ord
+; 2 Spez; 
+Ord
+ (& face head)
+1;1;1;1|
+Rip 
+LR
+; 
+Ord
+ 
+LR
+, turning L
+2;2|
+8 Spez grave (haye, as before); 8 galliards, as before (to orig place)
+8;8|
+P4
+Ord
+ 
+LR
+, Ly fwd, Lds turning L, end facing in triangle; Rip 
+LR
+2;2|
+Ord
+ 
+LR
+ circling L; 
+Ord
+ 
+LR
+ fwd, turn L
+ 
+& to place; same, but turn R
+2;2;2|
+Trab presti 
+LR
+; Rip L; Trab presti 
+RL
+; Rip R; 
+Ord
+ 
+LR
+, circling L
+1;1;1;1;2|
+(in 6)
+Ly
+ Passi fwd & back flat, fwd high, Cad; Rip 
+RL
+; Galliard turning R
+1;1;1|
+Lds Saltino onto R, passi grave back, Cad; Zopetti Fwd & back, Cad
+1;1|
+Lds 3 Passi L, rising on R; Fioretto R & Battute Fwd & back 
+½;2/3
+Lds Sottopiede L, Battuta R, Passo fwd, Cad L
+5/6 
+P5
+Spez 
+LR
+, 
+Ord
+ Ly circling L, Lds coming fwd to meet Ly
+2
+Spez 
+RL
+, 
+Ord
+, to head of hall, all turning L
+2
+Rip 
+LR
+; 
+Ord
+ 
+LR
+, turning L; 4 scorsi in haye (Ly to orig place); Rev
+2;2;4;2|
+Florido Giglio
+(Caroso 1581)
+(1 Couple)
+| == In 3 == |
+|-----|----|-----|
+P1
+Take R hands, Spez L to L, Rev; 
+Turn R in Spez RL
+; Repeat to R
+4;
+4
+;8
+Spez LR, circling L; Trab LRLR; 
+Fiorette
+ LR
+; Trab LR
+4;4;2;2|
+Turn L in 
+Spez L, Cad
+; Scambiate LR
+4;8|
+Rip LL, Trab LR (flank back L); Passi LR, Cad (return to ptnr)
+4;4|
+Rip RR, Trab RL (flank back R); Passi RL, Cad (return to ptnr)
+4;4|
+P2
+Ld 
+turn L &
+ Passi LR, Trab LR, Spez L & honor; Same to R
+8;8|
+Ld Spez LR back; fwd Passi LR, Cad; Spez RL back; Passi RL, Cad
+8;8|
+Ld Stomp LR Canario L; Stomp RL, Canario R; Ly same
+4;4;8|
+Passi LR back, Trango L fwd; Turn R in Spez RL; same starting R
+4;4;8|
+P3
+Ly Solo – P2
+, with Ly and Ld roles reversed
+64
+P4
+Spez L to L ; Trab RL; Rip RR, Trab RL; Same starting R
+2;2;2;2;8|
+Fioretti LR flanked back; Passi LR back; Passi RL fwd, Cad
+2;2;4|
+Fioretti RL flanked back; Passi RL back; Passi LR fwd, Cad
+2;2;4|
+Passo L & honor; Passo R & honor
+4;4|
+Passi LR back, Trango L fwd; Turn R in Spez RL; same starting R
+4;4;8|
+Italian Balli (16
+th
+ Century & later)
+Fulgente Stella
+(Caroso 1581)
+(
+1
+ or 
+2
+ 
+Couple
+s)
+| == In 6 == |
+|-----|----|-----|
+P1
+Rev; Trab LRLR; Spez L & honor;
+ 
+Spez R & honor
+2;2;2;2|
+In CW Wheel, Spez LRLR; Scambiate 
+LR
+4;4|
+Rip 
+LL
+; Trab 
+LR
+; (turn L in) Spez L, 
+Cad
+1;1;2|
+Rip 
+RR
+; Trab 
+RL
+; (turn R in) Spez R, 
+Cad
+1;1;2|
+P2
+Ld: Passi 
+LR
+, Cad; Trab LRLR;
+ 
+Spez L & honor;
+ 
+Spez R & honor
+2;2;2;2|
+1 
+Couple
+: L hand w/ptnr & Spez 
+LR
+ to switch; turn R in Passi LR, Cad
+2;2|
+R hand w/ptnr & Spez 
+LR
+ to switch; turn L in Passi LR Cad
+2;2|
+2 
+Couples
+: Same
+ 
+as for 1 
+Couple
+, but start w/ R hand, then L
+8
+Rip 
+LL
+; Trab 
+LR
+; (turn L in) Spez L, 
+Cad
+1;1;2|
+Rip 
+RR
+; Trab 
+RL
+; (turn R in) Spez R, 
+Cad
+1;1;2|
+P3
+Ly do what Lord did in P2 and together do same braiding and end
+24
+In 2 
+Couple
+ version, Ly dances 
+w/
+ the Ld on her right
+P4
+Trab LRLR; Semidoppio L; Trab RLRL; Semidoppio R
+2;2;2;2|
+Spez L & honor;
+ 
+Spez R & honor; Passi LRLR flanked back
+2;2;4|
+Rip 
+LL
+; Trab 
+LR
+; (turn L in) Spez L, 
+Cad
+1;1;2|
+Rip 
+RR
+; Trab 
+RL
+; (turn R in) Spez R, 
+Cad
+1;1;2|
+ 
+Furioso
+(Caroso 1581)
+(
+3
+ 
+Couple
+s)
+| == In 4 == |
+|-----|----|-----|
+P1
+Rev; Con 
+LR
+; 
+4;4|
+P2
+Mid C.
+ 
+meet 
+Ord
+ 
+LR
+,
+Rev; switch w/ 2 Scorsi
+4;4|
+End C.’s same;
+ Mirror hay
+ (Lds R, Lys L) w/ 1 extra pass in 4 Scorsi
+8;8|
+P3
+Repeat P2 w/ new Mid C.; Repeat P2 w/ new Mid C.
+24;24
+P4
+Rev; Con 
+LR
+; Lds hay
+ in 8 Spez; 
+Lys
+ haye in 8 Spez
+4
+;
+4
+;
+16
+P5
+Rev; 2 Scorsi
+ 
+to form circle; 8 Rip L; Indiv Fig 8’s in 4 Spez
+4
+;
+4
+;
+8
+;
+8
+8 Rip R; Indiv Fig 8’s (as in Contrapasso)
+8
+;
+8
+P6
+Lds Rev; Lys Rev; Spez 
+LR
+ (turning L); 4 Spez to start; Rev
+4;4;4;8;4|
+ 
+Gentilezza D’Amore
+(Caroso
+ 
+1581)
+(
+Couples
+)
+| == In 4 == |
+|-----|----|-----|
+P1
+Rev;
+(turn L in) 
+Spez L, 
+Cad
+;
+ 
+Spez 
+LR
+ in CW wheel; Trab LRLR
+1;1|
+;1;1|
+Trang
+i 
+LR
+, flanked
+ fwd; 
+T
+urn L in 
+Spez L, 
+Cad
+; same starting R
+1;1|
+; 2
+P2
+Circle 
+CW 
+w/
+ Passi 
+LR
+; Trab 
+LR
+; Spez 
+LR
+; repeat to finish wheel
+½;½;1; 2
+Scambiate 
+LR
+; Rip 
+LL
+; Trab 
+LR
+; 
+Turn L in 
+Spez L, 
+Cad
+2;½;½;1
+P3
+Ld: Passi 
+LR
+, Spez L; Trab RLRL; back:Passi 
+RL
+, Spez R; Trab LRLR
+1;1;1;1|
+Both: Trang
+i
+ 
+LR
+ flanking back; Passi 
+LR
+, Cad fwd; repeat start R
+1;1;2|
+P4
+Ly do as Ld 
+did in V3,w/ both dancing the part for both
+8
+P5
+ 
+Semidoppio L to L & R to R; Trab LRLR; 
+Turn L in 
+Spez L, Cad 
+2;1;1|
+Trang
+i 
+LR
+ flanking back; Passi 
+LR
+, Cad fwd; repeat start R; Rev
+1;1;2;1|
+Italian Balli (16
+th
+ Century & later)
+Giunto M'Ha Amore
+(
+(Caroso 1581) 
+(
+Couples
+)
+| == In 6 == |
+|-----|----|-----|
+V1
+Rev; Trab LRLR; Spez LR  to switch; Scam L, Cad
+2;2;2;2|
+Ch
+Rip RR; Trab RL; Trangi RL flanked fwd; (turn R in) Spez R, Cad
+1;1;2;2|
+V2
+Circle CW w/Spez LRLR to place; Scam LR; repeat ch
+4;4;12
+V3
+Ld approaches w/ Spez LR diagonally fwd; Ld Trab LRLR
+2;2|
+V4
+Ly do as Ld did in V3; 
+repeat ch
+8;12
+V5
+Passi LRL to L; Passi RLR to R; Scam LR; repeat ch
+2;2;4;12
+Gloria d'Amore
+(Caroso 1581) 
+(
+Couples
+)
+| == In 6 == |
+|-----|----|-----|
+P1
+Rev;
+Spez LR to switch; ScamLR; Puntate L fwd & R back
+2;2;2;2;2|
+Spez 
+LR 
+flanking back; Passi LR, Cad fwd
+2;2|
+P2
+Circle
+CW w/Spez LRLR to place; Trab LRLR; 
+T
+urn L in Spez L, Cad
+4;2;2|
+Spez LR flanking back; return w/ Rip LL; Trab LR; (turn L in) Spez L, Cad
+2;2;2|
+P3
+Ld
+ Fioretti a pie pari LR; Passi LR (back); Spez L & honor
+1;1;2|
+Ld Fioretti a pie pari RL; Passi RL (back); Spez R & honor
+1;1;2|
+Both
+: Puntate L f
+wd & R back; Rip LL; Trab LR; T
+urn L in Spez L, Cad
+21;1;2|
+P4
+Ly do as Ld 
+did in V3,w/ both dancing the part for both
+14
+P5 
+Spez LR, Semidoppio L CW; Spez RL, Semidoppio R CCW
+4;4|
+Slow Trab L, touch R hands; Slow Trab R, touch L hands
+1;1|
+Spez LR flanking back; Passi LR, Cad fwd
+2;2|
+Gracca Amorosa
+ 
+(Caroso 1581) 
+(
+Couples
+)
+| == In 6 == |
+|-----|----|-----|
+V1
+Rev; Spez 
+LR
+ to switch; curl CCW in Spez 
+LR
+ to face; Trab LRLR
+2;2;2;2|
+Spez sideways L & honor; Spez R; & honor
+2;2|
+Ch
+Spez L away from 
+ptnr
+; Spez R away; 3 Rip & Trab all to L
+1;1;2|
+Spez R away from 
+ptnr
+; Spez L away; 3 Rip & Trab all to R
+1;1;2|
+V2
+circle CW 
+w/
+ Spez LRLR to place; Trab LRLR
+4;2|
+curl CCW 
+w/
+ Spez 
+LR
+ to face; Scam 
+LR
+; Repeat ch
+2;4;8|
+V3
+Ld 
+Spez 
+LR
+ flank fwd; 
+Trab LRLR
+; curl to place in Spez LR; Trab LRLR
+2;2|
+;2;2|
+Ld Passo L & honor; Passo R & honor; All repeat ch
+2;2;8|
+V4
+Ly do as Ld did in V3; 
+d; All repeat ch
+12;8|
+V5
+Ord
+ L; Rip RR, Trab RL; 
+Ord
+ R; Rip LL, Trab LR
+4;4|
+Passo L
+ & touch R hands; 
+Passo
+ R & touch L hands; Repeat ch
+2;2;8|
+         
+ 
+Italian Balli (16
+th
+ Century & later)
+Gratia d'Amore
+(Caroso 
+1581)
+||(Couples) | == in 3== |
+|-----|----|-----|
+P1
+-2
+Rev
+ (hold both hands)
+; 
+Turn L  in 
+Ord
+ LR; Con LR
+, touch
+ hands
+4;4;4 
+Passi LR; 
+Ord
+L; Passi R
+L back; Rip RR; Con LR
+2;2;2;2;4|
+Opt:.
+Ord
+ LRLR; Con L
+R
+8;4|
+P3-4
+R hands & Passi LR, 
+Ord
+ L
+; L hands & Passi RL, 
+Ord
+ R; Con  LR
+4;4;4|
+Passi LR; Cast in Ord L; Passi 
+RL
+ down hall, Cast in 
+Ord
+ R
+; Con LR
+4;4|
+;4
+P5
+Rev; 
+Trade places & curl in 
+Sepz LRLR; 
+Trab LR      
+(Sciolta)
+  
+| == in 6== |
+|-----|----|-----|
+4;4;2|
+ Turn L inSpez L, Cad R            
+;2
+P6
+Fioretti a piede pari LR; Passi LR back; Spez LR, clap R hands as pass
+1;1;2|
+Fioretti a piede pari LR; Passi LR back, Spez LR, clap L hands as pass
+1;1;2|
+Trab LR; Turn L in Spez L, Cad R
+2;2|
+P7
+Spez LRLR flank fwd; Con LR, touch hands, Puntata L fwd, R back
+4;4;4|
+Il Gratioso
+ 
+(Negri
+ 1602)
+(Ly betw
+ 2 Lyds)
+ == in 6== |
+|-----|----|-----|
+ 
+P1:
+Rev; Barbell: Ly RipMin 
+LR
+ as Lds 
+Ord
+ 
+LR
+ over L sh
+4;4|
+Hands around, Passi 
+LR
+; 
+Ord
+ 
+L 
+over L; Passi 
+RL
+; 
+Ord
+ 
+R 
+over R
+2;2;2;2|
+Hay: RLd: 
+4 
+Ord
+ to L of Ly, pass betw
+ Ly & Ld, around Ld’s place & end
+middle as Ly & Ld 4 spez to switch (Ly in front) & 2 
+Ord
+ over L; Rev 
+8;4|
+Repeat; Repeat Hay (w/o Rev Grave)
+12;8|
+P2:
+Rev Grave; Triangle: Ly 
+Ord
+ 
+L 
+fwd & over L sh as Lds 2 
+Ord
+ over L 
+4;4|
+Ly
+: Rip
+Min
+ 
+LR
+ as Lds: take R
+ hands & switch w/ 2 Passi 
+ &
+ 
+1 
+Ord
+ over L sh
+4
+Ly: 2 
+Ord
+ over L sh as Lds exchange w/ L hands & turn R
+4
+All: in CW wheel, 3 
+Ord
+; 1 
+Ord
+ turning over L sh
+6;2|
+In CCW wheel, 3 
+Ord
+; 1 
+Ord
+ turning over R sh
+6;2|
+P3:
+Rev Grave; Ly 2 
+Ord
+ over L as Lds 2 
+Ord
+ back to line
+4;4|
+Rip 
+LR
+; 
+O
+rd
+ 
+L 
+over L sh; Rip 
+RL
+; 
+Ord
+ 
+R 
+over R sh
+2;2;2;2|
+Hay: 
+6 Scorsi, - to start, Ly and LLd exchang w/ 1 Scorsi
+Then LLd & RLd, etc. until back to original place; Rev Grave
+12;4|
+Griffoné d'Oro (A Lieta Vita)
+(SCA Choreography)
+(
+Couples
+)
+| == in 3== |
+|-----|----|-----|
+ 
+P1
+Rev; Semidoppio L, turn L; Spez 
+RL
+ to switch; Sem
+idoppio
+ R, turn R
+4;4;4;4|
+Ld Spez 
+LR
+ (flanking back); Ly Spez 
+LR
+ (flanking back)
+4;4|
+Semidoppio L, turning L; Semidoppio R to place
+4;4|
+P2
+Ld
+ 
+Spez 
+LR
+ to 
+ptnr
+; Semidoppio L turning to place
+4;4|
+Spez 
+RL
+ to 
+ptnr
+; Semidoppio R turning to place
+4;4|
+Spez LRLR back& fwd in diamond; Semidoppio L, turn L; All Rev
+4;4;4;4|
+P3
+Ly do as Ld 
+did in P
+3; 
+All Rev
+28;4|
+ 
+P4
+Ld Spez 
+LR
+ flanking back; Ly same; Both Semidoppio L, turning L
+4;4;4|
+Semidoppio R to place
+4
+P5
+Take R hands & Spez 
+LR
+ to switch; Semidoppio L, turning L
+4;4|
+Take L hands & Spez 
+RL
+ to switch; Semidoppio R, turning R
+4;4|
+Spez 
+LR
+ flanking back; Spez 
+LR
+ flanking fwd (end w/ L shoulders)
+4;4|
+S
+emidoppio L, turning L; Rev
+4;4|
+Italian Balli (16
+th
+ Century & later)
+Laccio d’Amore
+(Caroso 1581)
+(
+Couples
+)
+| == In 4 == |
+|-----|----|-----|
+V1
+Rev; Face L in wheel
+ 
+Spez LRLR; Face ptnr Trab LRLR
+1;2;1|
+Spez 
+LR
+ flanking back; turning L, Spez L, Cad R; Same starting R
+1;1;2|
+V2
+Ld’s solo
+ 
+Passi 
+LR
+, Trab 
+LR
+; turning L, Spez L, Cad R
+1;1|
+Passi 
+RL
+, Trab 
+RL
+; turning R, Spez R, Cad L
+1;1|
+Take R hands & Spez 
+LR
+; Passi 
+LR
+, Cad L, Same w/L
+1;1;2|
+V3
+Ly do as Ld 
+did in V3
+8
+V4
+Fioretti a pie pari 
+LR
+, Passi 
+LR
+ (flank bck); Semidoppio L (turn L)
+1;1|
+Fioretti a pie pari 
+RL
+, Passi 
+RL
+ (flank bck); Semidoppio R (turn R)
+1;1|
+Passi 
+LR
+, Batt di Piedi 
+LR
+ ; Spez 
+LR 
+(flank bck)
+1;1|
+Rip 
+LL
+, Trab 
+LR
+;
+ 
+(turning L ) Spez L, Cad R
+1;1|
+Leggiadria d’Amore
+(Caroso 1581)
+(Ld betw
+ two 
+Lys
+)
+| == in 2 == |
+|-----|----|-----|
+P1:
+Rev
+; Cont
+LR
+; Ord 
+LR
+, turning L
+2;2;2|
+P2:
+3 Ord LRL; Ord R, turning R
+3;1|
+Spez L; Passi RL, 
+Cad
+; Battute di Campenella RR; Trab R
+½;½;½;½
+P3:
+Ld Ord LR; Ord L, turning L; Trab RLR
+2;1;1|
+All Spez L; Passi RL, 
+Cad
+; Battute di Campenella RR; Trab R
+½;½;½;½
+P4:
+Lys
+ 
+Ord LR; Ord L, turning L; Trab RLR
+2;1;1|
+All Spez L; Passi RL, 
+Cad
+; Battute di Campenella RR; Trab R
+½;½;½;½
+P5:
+3 Scorsi 
+Hey
+; Trab RLR; Spez L, Passi RL, Cad; Batt di Camp RR, Trab R
+3;1;1;1|
+P6:
+Take hands Passi LR, Ord L CW; Passi RL, Ord R CCW
+2;2|
+Drop hands Spez LR, flanking back; Trab LR
+1;1|
+P7:
+Ord L fwd; Ord R back; Ord L, turning L; Trab RLR
+1;1;1;1|
+Ld Ord LR, turning L 1-½ times, while Lys Scorsi LR; Rev
+2
+Maraviglia d’Amore
+(Caroso 1581)
+||(Couples) | == in 3 == |
+|-----|----|-----|
+P1
+Take R hands, Spez L to L, Rev; Rip RR; Trab RL; Repeat to R
+4;2;2;8|
+Spez LR, circling L; Trab LRLR; Scambiate LR
+4;4;2|
+Out L: Rip LL; Trab LR; Spiral in Passi LR, 
+Cad
+; Repeat to R
+2;2;4;8|
+P2
+Ld Spez LR, flank back; Trab LRLR; Spez LR, turning L; Passi LR, Cad
+4;4;4;4|
+Both Trab LRLR; Spez L to L, Rev; Repeat to R
+4;4;8|
+Passi LR back; Trangato L fwd; Spez RL, turning R; Repeat to R
+2;2;4;8|
+P3
+Ly do as Ld 
+did in P3, with both dancing the part for both
+48
+P4
+In CW Wheel Passi LR; Spez L; Repeat tCCW, starting R; Scamb LR
+2;2;4;8|
+Fioretti pari LR; Passi LR back; Spez LR, clap R hands; Repeat to R
+2;2;4;8|
+Trab LRLR; Spez L, turning, 
+Cad
+; Repeat to R; Rev
+4;4;4;4|
+Italian Balli (16
+th
+ Century & later)
+Spagnoletta Regolata
+ 
+(Caroso 1600)
+||(Couples) | == In 6 == |
+|-----|----|-----|
+V1
+Rev
+; Spez LRLR; Passi LRLR
+; (facing) Rip LL, Trab LR
+2;4;2|
+;2
+Turn CCW in Semidoppio L
+; Rip RR, Trab RL; Semidoppio CW
+ 
+2
+;2;2|
+Chorus
+Spez L
+R
+ (flank
+ back), Semidoppio L fwd; Spez RL back, Semidoppio R
+4;4|
+V2
+Repeat Vers
+e 1, replacing Rev w/ 2 Spez
+ (6 Spez total)
+; Chorus
+16
+;8
+V3
+Ld:
+ (face 
+ptnr
+) Spez 
+LR
+, Passi 
+LR
+ (in CCW circle); Saffice L
+2;1;1|
+Spez 
+RL
+, Passi 
+RL
+ (i
+n CW circle); Saffice R
+;
+ 
+Sotto
+piede
+ 
+LL
+2;1;1|
+;1
+Tra
+b 
+LR, Corinto L; 
+Sotto
+piede
+ R
+R; Tra
+b 
+RL
+, Corinto R; chorus
+1;2;1;1|
+;2
+;8
+V4
+Ly do as Ld 
+did in V3
+; chorus
+16
+;8
+V5
+(face fwd) Passi 
+LR
+; Tra
+b LR Saffice L;Passi RL; Treb RL Saffice R
+2;2;2;2|
+(face 
+ptnr
+) 
+Sottopiede 
+L
+L, Treb 
+LR
+; Semidoppio L (CCW circle)
+2;2|
+Sottopiede 
+RR, Tra
+b 
+RL
+; 
+Semidoppio R (CW circle)
+2;2|
+Final Ch
+Saffice L
+R (flank back)
+; Spezi 
+LR
+; Saffice RL back; Puntati RL; Rev
+2
+;2
+;2;2;2|
+Lo Spagnoletto
+(Negri 1602)
+(2 Couples)
+| == In 6
+ == |
+|-----|----|-----|
+V1
+Rev w/ jump; 
+In wheel: 
+Ord
+ L
+;
+ Spez 
+R
+L;
+ Ord
+ R
+2;2;2;2|
+Cha
+Sottopiede L
+LL
+, 
+Cad
+ L, Trab R; Ord
+ L turning L
+2;2|
+Sottopiede R
+RR
+, 
+Cad
+ R, Trab L; Ord
+ R turning R
+2;2|
+Chb
+Passi 
+LR
+ 
+back
+; Ord
+ L 
+fwd
+ to place
+; Passi RL back; Ord R to place
+2;2|
+;2;2|
+V2
+Lys 
+slow 
+Passi 
+LR
+; Ord
+ L to 
+switch; 
+Spez 
+RL; Ord R 
+to place
+2;2|
+;2;2|
+Cha
+Lys only; Chb everone
+8;8|
+V3
+Lds do as Lys
+ 
+did in V2; Lds Cha; All Chb
+8
+;8;8|
+V4
+(In wheel L) Spez 
+LR
+; Ord
+ L; Spez 
+RL
+; Ord
+ R
+; chorus
+2;2;2;2|
+;16
+V5
+Lys Passi LR; Trab LR; Seguito L in tight circle
+1;1;2|
+Lys Passi RL; Trab RL; Seguito R to place
+1;1;2|
+Cha
+Lys only; Chb
+ 
+everone
+8;8|
+V6
+Lds do as Lys
+ 
+did in V5; Lds Cha; All Chb
+8
+;8;8|
+V7
+(R hands w/
+ptnr
+) Spez 
+LR
+; Ord
+ L turning L
+2;2|
+(L hands w/contrary) Spez 
+RL
+; Ord
+ R turning R
+; chorus
+2;2|
+; 16
+Villanella
+(Caroso 1581)
+(one or more couples)
+| == In 3 == |
+|-----|----|-----|
+V1
+Facing ptnr, 
+Rev
+; Con 
+LR
+; 
+Ord
+ 
+LR
+ fwd; Con L, Rip 
+RR
+4;4;4;4|
+V2
+Fwd Passi 
+LR
+, 
+Ord
+ L; Passi RL, 
+Ord
+ R; Con L, Rip 
+RR
+; 
+Rev
+4;4;4;4|
+V3
+Ld in front of Ly to her R: Passi 
+LR
+, 
+Ord
+ L; Passi 
+RL
+, 
+Ord
+ R
+4;4|
+Together:
+ 
+Con L, Rip 
+RR
+; 
+Rev
+4;4|
+V4
+Repeat, beginning 
+w/
+ Ly passing in front Ld to his R 
+16
+V5
+Cast off to face down hall in Passi 
+LR
+, Ord
+ 
+L; Cast off to face up
+4
+the hall in Passi 
+RL
+, 
+Ord 
+R; Con L, Rip 
+RR
+; 
+Rev
+4;4|
+V6
+Fast Spez 
+LR
+ to switch w/ R hands; Spez LR to curl L 
+2;2|
+Spez LR to switch w/ L hands; Spez LR to curl R; Con L, Rip RR; 
+Rev
+2;2;4;4|
+Italian Balli (16
+th
+ Century & later)
+Torneo Amoroso
+(Caroso 1581)
+||(Couples) | ==In 2== |
+|-----|----|-----|
+P1 
+(Fwd) Rev; Con LR; Puntat
+e
+ LR; Doppio L; Repeat w/R 
+4;4;4;4|
+Ord LRLR 
+8
+Ch 
+(Drop hands & face) Rip LLRR; Passi LR (flanking)
+4;2 
+Ord L (back)
+2
+   
+Rip RRLL; (change places w/) Passi RL; Ord R
+4;2;2|
+P2 
+(Fwd) Punt L (Ld); Punt L (Ly); Punt R (Ld); Punt R (Ly)
+1;1;1;1|
+   
+Ord LR (flanking Ld); Ord LR (flanking Ly)
+4;4|
+   
+Repeat above 2 lines
+; Chorus
+12
+;16
+P3 
+Repeat part 2 w/ Ly moving first each time
+; Chorus
+24;16
+P4 
+Rev; Spez LR (turn L); Spez LRLR (away)
+                               
+| ==In 6== |
+|-----|----|-----|
+2;2;4|
+   
+(Face) Spez Scorsi LL* (strike R hands); Spez LR (away) 
+2;2|
+Repeat
+ 
+(strike L)
+2;2;4|
+   
+Spez LRLR (flanking); Trab LRLR (strike opposite hands) 
+4;2|
+(Take hands) Rev
+    
+(next part ==In 3==)
+2
+P5 
+(Face) Ord LRLR (flanking back); Ord LRLR (Figure 8)
+8;8|
+   
+Ord LRLR (change places); Ord LRLR (flanking fwd)
+8;8|
+   
+Ly Figure 8 as Ld: Ord LR (turn L) & Ord (to Ly); Rev
+8
+Villanicco
+ 
+(Negri 1602)
+ 
+(2 Lds & 2 
+Lys
+ in a sqaure)
+| == In 4 == |
+|-----|----|-----|
+V1
+Rev
+; 
+Ord
+ 
+LR
+L 
+2
+;
+3
+Ch
+Passi RLR, Passo L w/ hop
+, turning R: Spez 
+RL
+, 
+Ord
+ R w/ Cad
+1
+;2
+V2
+5 
+Ord
+ 
+LRLR
+L
+ 
+in CW
+ wheel 
+5
+ Repeat chorus
+3
+V 3
+(Lds only) 2 Passi (grave) 
+LR
+ to center; 
+Ord
+ L
+1
+;
+1
+Puntato R back turn L hip to center; Con 
+LR
+; Rip R, Cad to face
+ 
+1;1|
+;1
+Lds only 
+Repeat chorus
+8
+V 4
+Lys do what Lds did in V3 
+8
+Lys
+ only 
+Repeat chorus
+8
+V5
+Ld1: Take R hands w/Ly on R & 
+Ord
+ 
+LR
+, Drop hands
+2
+Ord
+ 
+LR
+, turning L ; 
+Rip
+ L
+L
+R
+R ; 
+Ord
+ 
+LR
+, turning L
+2
+;
+2;2|
+Ld1: Take 
+R
+ hands w/Ly on L & 
+Ord
+ 
+LR
+, Drop hands
+2
+Ord
+ 
+LR
+, turning L; 
+Ord
+ 
+LR
+ to Ly & back; 
+Ord
+ 
+LR
+, turning L
+2;2;2|
+V6
+Ly1 repeats V5 (w/ Ld on R, then L)
+16
+V7
+Ld2 repeats V5
+16
+V8
+Ly2 repeats V5
+16
+V9
+All repeat V5 together, begin w/ ptnr
+16
+V
+10
+In CW wheel: Passi 
+LR
+, 
+Ord
+ L; CCW: Passi 
+RL
+, 
+Ord
+ R
+2;2|
+V11
+All together Repeat V 3
+5
+Repeat Chorus
+3
+For a shorter version of the dance, skip V5-V8
+Steps for 16
+th
+ Century Italian Dance
+Bransle - shift weight slowly to side & back to center
+Cadenza (Cad)– jump & land w/ lead foot slightly 
+fwd
+.
+Canario (
+Seguito Battuto al Carario
+)
+ – L heel 
+fwd
+, L toe back, close w/ a stamp.
+Continenza (Con) – A step to the side & close. Sink down on the ball of the foot as you step to the side, & rise up as you close 
+w/
+ the other foot
+Corinto - 3 reprises [or reprise
+s sottopiede), followed by a tra
+bucetto in same direction
+Double (Doppio) – three steps, styling varies from dance to dance
+Fioretto – kick lead foot 
+fwd
+s & to the side, leaping onto the toes of the foot. Bring the other foot across & land lightly on the flat of both feet. 
+Fioretto a Pie Pari – swing L foot to side & back, kicking the R foot to the other side.
+Groppo - Trab L, R, L; cut R foot under left & kick L foot out in front
+Passo – step lightly
+ & carry through (do not close)
+Puntata (Puntata Grave) - Step L. "Stab" 
+RL
+ift L heel off ground. Lower L heel.
+Reverance (Rev) (lds) – move L foot 
+fwd
+, sweep L foot back, shift weight onto back leg 
+w/
+ knee bent, straighten back leg back gracefully into standing position
+Ripresa (Rip)– step sideways over onto the toe & lower to floor 
+w/
+ weight on other foot
+Ripresa minuita – “
+charleston
+” type step side to side (heels together, toes together)
+Saffice – Sottopiede, followed by a Trebucetto in the same direction
+Saltino a pie pari – jump straight up & land on both feet
+Scambiote – Step sideways w/ lead foot, undercut, cadenza
+Scorsi – Rise up on toes & scurry for 8 steps in 4 beats; lower heels.
+Seguito Ordinario (Ord) – Caroso - three steps (for Negri, see Seguito Semidoppio)
+Seguito Semidoppio 
+(Semidoppio)
+– 2 Passi, & a spezatto (Negri - Seg Ord
+i
+nario)
+Sottopiede – step sideways, cut other foot under first foot
+Spezzato (Spez)– 3 steps on the balls of the feet, 
+w/
+ an undercut on the second step
+Spezzato Alterato (L)– raise L foot & hop onto R, spez L
+Spezzato Scorsi
+ 
+LL – Spez
+ 
+LRLR at double normal speed
+Trabuchetto (Trab) – small jump sideways onto ball of foot
+Trangato (Trang) - Ste, bend both knees, come up (R heel, then L & R foot) & close
+Galliard Variations from Compasso (
+Ballo della Gagliarda
+, 1560)
+5-Step Basic 
+Cinque Passi
+1.
+In place.
+2.
+Going to the side.
+3.
+Going around the room.
+4.
+Turning and going around the room.
+5.
+As the 
+molinello
+, i.e., one set turning over the left shoulder, and one set over the right.
+Balzo
+ (Bound, or Large Bound)
+ 
+1.
+In quarter turns, 
+w/
+ one beat per turn segment.
+2.
+In quarter turns, 
+w/
+ two or four beats per turn segment.
+3.
+In quarter turns, 
+w/
+ two or four beats per turn segment, and ending 
+w/
+ feet together.
+4.
+While turning for an unspecified amount of rotation, landing 
+w/
+ feet together.
+Galliard Variations from Compasso (
+Ballo della Gagliarda
+, 1560)
+Campanella 
+(Little Bell)
+ 
+and 
+Balzetto 
+(Little Bounds 
+w/
+ Feet Together)
+1.
+Campanella
+, in place
+.
+2.
+Campanella
+, turning.
+3.
+Two 
+balzetti
+ to the side, plus half a 
+campanella.
+4.
+Two 
+balzetti
+ to the side, plus half a turning 
+campanella.
+5.
+One 
+balzetto
+ turning 180˚, plus 
+3
+ “rings” on  
+campanella
+, end 
+w/
+ feet closed.
+Ponte è Calcagno 
+(Toe and Heel)
+1.
+In place.
+2.
+Turning.
+3.
+Going around the room.
+4.
+Just one set of toe and heel, plus half a turning 
+campanella.
+5.
+Just one set of toe and heel
+, 
+plus a two beat 
+Rev
+ to the side.
+Zoppetto
+ (Limping Hop)
+1.
+Going around the room.
+2.
+Two 
+zoppetti 
+(
+w/
+ working leg flat and syncopated), plus half a 
+campanella.
+3.
+Two 
+zoppetti 
+(
+w/
+ “lame” foot high), plus a two-beat 
+sottopiede.
+4.
+Two 
+zoppetti 
+(
+w/
+ “lame” foot high), plus a two beat 
+Rev
+.
+One-Off Variations
+ 
+1.
+La Ripresa in Sottopiede.
+One full 
+ripresa in sottopiede.
+2.
+La Volta con la Gamba Alta.
+180˚ turn done 
+w/
+ one leg higher in the air, plus half a 
+campanella.
+3.
+La Gambata 
+(Shaking Leg).
+Two beats of 
+gambata
+, plus half a turning 
+campanella.
+English Country
+Adson's Saraband
+(Playford 1651)
+(3 
+Couple
+s in a line)
+| == In 4 == 
+P1
+Double f
+wd & back
+;
+ Set & turn; 
+repeat
+2;2;4|
+Lds 
+D
+ouble away from 
+Lys
+ & back; S
+et & turn; 
+Lys
+ same
+2;2;4|
+P2
+Lds 
+D
+ouble down set as 
+Lys
+ up; pass & fall into ptnr's place;
+ S
+et & turn
+1;1;2|
+Lds 
+D
+ouble up set as 
+Lys
+ down; pass & fall into
+ ptnr's place; S
+et & turn
+1;1;2|
+P3
+Half a 
+Hey
+ for couples; S
+et & turn; complete 
+Hey
+; S
+et & turn
+2;2;2;2|
+P4
+Lds Double away, Lys catch up; S
+et & turn
+2;2|
+Lds1&3 meet 
+& back 
+as 
+Lys
+ 1&3 
+same & C2 same; turn who you meet
+2;2|
+Switch w
+/ ptnr; S
+et & turn; C1 lead down middle & 
+lead 
+all L
+ to place
+2
+;2;4|
+All in a Garden Green
+(Playford 1651)
+(3 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back; Set & turn; repeat
+2;2;4|
+C1
+Ld1 take R hands w/
+ 
+Ly1; L w/ Ly2; R then L w/
+ 
+Ly3; kis
+s 2x; turn
+1;1;1;1;1|
+Ld1 take R hands w/ Ly3; L w/ Ly2; R then L 
+w/ Ly 1; kiss 2x; turn
+1;1;1;1;1|
+V2
+Side R; Set & turn; Side L; Set & turn
+2;2;2;2|
+C2
+The same as Chorus 1, except
+ first Ly dances 
+w/
+ the Lds
+10
+V3
+Arm R; Set & turn; Arm L; Set & turn
+; repeat Ch 1
+2;2;2;2|
+;10
+English Country
+Argeers
+(Playford 1651)
+(2 
+Couple
+s facing)
+| == In 4 == |
+|-----|----|-----|
+V1
+Corners join hands, S
+lip out & back ;Turn corner ½ ; Turn 
+ptnr
+ 1½
+1;1;2|
+Double fwd
+; Turn corner ½ ; Turn 
+ptnr
+ 1½
+1;1;2|
+C1
+Lds switch; 
+Lys
+ switch; Set & turn; 
+Lys
+ switch; Lds switch; Set
+ 
+& turn
+1;1;2;1;1;2|
+V2
+Double out & back w/
+ 
+corner; Turn 
+ptnr
+; Double back & fwd; Set & turn
+2;2;2;2|
+C2
+Lds slip R, 
+Lys
+ slip L (Lds inside);
+ 
+Slip back (
+Lys
+ inside); Turn corner
+1;1;2|
+Lys
+ 
+fwd
+ & bac
+k a double; Lds do single 
+Hey
+ to place
+2;2|
+V3
+Lds p
+ush corner back; Slip to Ld’s R
+; Fall back; Set & turn
+½;1;½;2
+Lds slip L, Lys R (Lds inside); Lds push 
+Lys
+ back & fall back; Set & turn
+1;1;2|
+C3
+Ld1 & Ly2 cast off & lead into 
+ptnr’s
+ 
+place; Cast again back to
+ place
+2;2|
+Lds begin a single 
+Hey
+ for 4, do half the 
+Hey
+; ladies join in
+1;1|
+Turn 
+ptnr
+; Fall back into line of 4 & 
+honor
+ presence
+2
+Beautiful Joy
+ 
+(SCA Choreogrpahy)
+(3 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back; Set & turn; repeat
+2;2;4|
+Ch
+C1 Rev; C2 Rev; C3 Rev
+1;1;1|
+V2
+C1 Cast & go through arches, to bottom; C1 set & turn
+2;2|
+Lds hands
+ &
+ Lys 
+hands -
+ Double back
+ &
+ 
+s
+witch w/ ptnr by 2 hands; repeat
+2
+;2
+Repeat Ch
+3
+V3
+C2 the same; repeat Ch
+8;3|
+V4
+C3 the same; repeat Ch
+8;3|
+V5
+Singles LR back from ptnr; Double to switch; Repeat
+1;1;2|
+Hey for Couples; Repeat Ch
+4;3|
+Beggar Boy
+(Playford 1651)
+(3 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back; repeat
+2;2|
+C1
+C1 & C3 double away from ptnr
+ 
+& to place, as C2 double to meet ptnr
+ 
+& back 
+2
+Lds take hands in a circle, 
+Lys
+ same & turn ½ to reverse order of line; repeat
+2;4|
+V2
+Side 
+RL
+4
+C2
+Lds 1&3 switch as Lys
+ 
+1&3 switch as C2 double back from 
+ptnr
+ & to place
+2
+The first 4 full circle around w
+hile C in last place S
+et & turn
+; repeat
+2;4|
+V3
+Arm 
+RL
+4
+C3
+Double back from 
+ptnr
+ & to place; Lds half 
+Hey
+ as 
+Lys
+ half 
+Hey
+; repeat
+2;2;4|
+Bla
+ck Nag
+(Playford 1665)
+(3 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back; repeat
+2;2|
+C1
+Slip up the line (C1; C2; then C3); 
+Turn single
+; Slip down; 
+Turn single
+1;1;1;1;3;1|
+V2
+Side 
+RL
+ 2;2|
+C2
+Ld1 & Ly3 switch; then Ld3 & Ly1; then Ld2 & Ly2; 
+Turn single
+1;1;1;1|
+Ld1 & Ly3 return; then Ld3 & Ly1; then Ld2 & Ly2; 
+Turn single
+1;1;1;1|
+V3
+Arm 
+RL
+2;2|
+C3
+Lds 
+Hey
+; Lys
+ 
+Hey
+4;4|
+English Country
+Boate Man
+(Playford 1651)
+(3 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back;
+ 
+S
+et
+ 
+& turn; repeat
+2;2;4|
+C1
+Ld2 & C1 ½ triangle 
+Hey
+,
+ while Ly2 & C3 the same; turn 
+ptnr
+2;2|
+Ld2 & C3 ½ triangle 
+Hey
+,
+ while Ly2 & C1 the same; turn 
+ptnr
+2;2|
+V2
+Side R; 
+S
+et & turn; side L
+; S
+et & turn
+2;2;2;2|
+C2
+Ld2 & C1 ½ circle, while Ly2 & C3 the same; (C2 meet &) turn 
+ptnr
+2;2|
+Ld2 & C3 ½ circle, while Ly2 & C1 the same; (C2 meet &) turn 
+ptnr
+2;2|
+V3
+Arm R
+; S
+et & turn; Arm L
+; S
+et & turn
+2;2;2;2|
+C3
+Ld1, Ly2 
+& Ld3 hands around Ld2; 
+C2 
+turn 
+ptnr
+2;2|
+Ly1, Ld2 & Ly3 hands around Ly2; 
+C2 
+turn 
+ptnr
+2;2|
+Bonny Bonny Broom
+(Playford 1651)
+(4 
+Couple
+s in a line)
+| == In 4 == 
+V1
+Double fwd & back; C1&2 cast to place as C3&4 same; face down & repeat
+2;2;4|
+C1
+C1&3 meet & back; circle to place; C2&4 same
+2;2;4|
+V2
+Side R; Set & turn; Side L; Set & turn
+2;2;2;2|
+C2
+C1 & C2 switch(Ld w/Ld)
+; C
+3&C4 switch; S
+et & turn; repeat
+1;1;2;4|
+V3
+Arm R; Set & turn; Arm L; Set & turn
+2;2;2;2|
+C3
+C1 fwd & back as Lds2&3 & 
+Lys
+ 2&3 away & back as C4 down & back
+2
+Circle half around; repeat
+2;4|
+Burley Mariners
+ 
+(SCA choreography)
+(3 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back; Set & turn; repeat; 
+Hey
+ for Couples; repeat 
+2;2|
+;4;4;
+4
+C1
+Ld1 to bottom of set: Swit
+ch by R hnd w/ Ly1; L-Ld 2; R-Ly2; L-Ld3
+  
+ 
+1;1;1;1|
+Ld1 honor Ly3; Ly3 honor Ld1; 2 hand switch; all bac
+k-to-
+back
+½;½;1;2|
+ 
+Ly1 zig zag to bottom of set, as Ld1 d
+id (incl honors, switch, & back-to-
+b
+ack)
+8
+V2
+Side R; Set & turn
+; Side L
+; Set & turn
+2;2;2;2|
+Hey
+ for Couples; repeat
+4 (2x)
+C2
+Current Ld1 zig zags to bottom of set; current Ly1 sa
+me 
+8;8|
+V3
+Arm R; Set & turn
+; Arm L
+; Set & turn
+2;2;2;2|
+Hey
+ for Couples; repeat
+4 (2x)
+C3
+Current Ld1 zig zags to bottom of set; current Ly1 same
+8;8|
+Chestnut
+(Playford 1651)
+(3 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+ V1
+Double fwd & back; repeat
+2;2|
+C1a
+Lds & Lys D
+ouble
+ back from ptnr
+; Switch places 
+w/
+ 
+ptnr
+1;1|
+C1b
+Ld
+s
+ hands
+ &
+ Ly
+s
+ hands & ea group full circle;
+ repeat (to place)
+2;4|
+V2
+Arm RL
+4
+C2
+Do C1a; Lds half Hey
+, reversing order, as Ly
+s
+ same; re
+peat (to place)
+2;2;4|
+V3
+Side RL
+4
+C3
+Do C1a; C1 lead down betw
+ other couples, who follow, reversing the line
+2;2|
+This ba
+ck again, but C1 (in C3 place) Cast off (not lead betw
+)
+4
+English Country
+Confesse
+(Playford 1651)
+(2 lines of Ly, Ld, Ly facing each other)
+| == In 4 == |
+|-----|----|-----|
+ 
+V1
+Double fwd & back; repeat
+2;2|
+C1
+Lds go 
+betw
+ the 2 Lys to his L, 
+lead out a Double, turn and lead back 
+a Double; Turn the person you are facing
+2;2|
+Lds 
+lead
+ their 2 Lys out of the set in a Double, turn and 
+lead back
+ in a Double
+2
+Turn the person you are facing
+2
+V2
+Slip L; Slip R
+2;2|
+C2
+Ld1 choose a Ly & bring into center; all others join hands and circle
+ 
+this
+ 
+couple,
+then fall to place
+,
+ Ld1 & Ly fall back
+ 
+to place
+; That again 
+w/
+ Ld 2
+1;
+2
+;1
+;4
+V3
+Slip R; Slip L
+2;2|
+C3
+Lys Double 
+away
+ as Lds 
+turn & 
+Double 
+away
+; Double to place
+1;1|
+Lds staying in ce
+n
+ter, Lys join hands & circle for 4 as Lds 
+Turn single
+2
+Lys Double 
+away
+ as Lds 
+turn & Double away
+; Double to place
+1;1|
+Lys 
+Turn single
+ as Lds turn ea. other
+2
+V4
+Fwd
+ & back a double (2x)
+2 (2x)
+C4
+Lds take hand of Ly to R & all back and fwd a Double as "spare" Lys come 
+behind and through the arch made by hand holders
+2
+Couples turn as "spares" meet and turn
+ &
+ all fall into place
+2
+That again, L
+ds taking hand of Ly to L
+4
+Crossed Purposes
+(SCA Choreography)
+(6 
+Couple
+s in a cross (square for 4 w/2 
+Couple
+s inside))
+| == In 4 == |
+|-----|----|-----|
+V1
+In lines across hall, Double fwd & back 2x; face down the hall & repeat
+4;4|
+Ch
+Middle Couples TAG (Two Fat Ladies) 
+Hey
+ up & down set, as 
+Sides
+Back-to-back into a G
+ypsy & the contrary, til all come home
+8
+Middle Couples TAG 
+Hey
+ across set as 
+Heads
+ back to back into gypsy
+8
+V2
+Middles face 
+Heads
+ & Side 
+RL
+ as Sides same w/ own;
+4
+Middles face Sides & Side 
+RL
+ as 
+Heads
+ same w/
+ own; repeat C
+h
+4;16
+V3
+Middles face 
+Heads
+ & Arm 
+RL
+ as Sides same w/ own;
+4
+Middles face Sides & Arm 
+RL
+ as 
+Heads
+ same w/
+ own; repeat C
+h
+4;16
+Cuckolds All A Row
+(Playford 1651)
+(2 
+Couple
+s facing)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back; repeat
+2;2|
+C1
+Back-to-back corner; Gypsy corner; Back-to-back 
+ptnr
+; Gypsy 
+ptnr
+2;2;2;2|
+V2
+Side R 
+w/ ptnr
+; Side L 
+w/
+ corner
+2;2|
+C2
+Lds switch places; 
+Lys
+ switch places; All join hands & circle L
+1;1;2|
+Lys
+ switch places; Lds
+ 
+switch places; All join hands & circle L
+1;1;2|
+V3
+Arm R 
+w/
+ 
+ptnr
+; Arm L 
+w/
+ corner
+2;2|
+C3
+Lds push corner back a double, Slip to Ld’s R, Fall back to ptnr’s place
+2
+Lds cast R 
+to old place and back to new place, 
+ptnr
+s following
+2
+Lds push corner back a double, Slip to Ld’s L, Fall back to orig place
+2
+Lds cast L & back to place, 
+ptnr
+s following, all to orig place
+2
+English Country
+Dargason
+(Playford 1651)
+(single line 
+–
+ Lds
+ 
+facing equal number of 
+Lys
+)
+| == In 4 == |
+|-----|----|-----|
+P1
+C1 side R; S
+et & turn moving into each others place
+2;2|
+Continue 
+w/
+ new 
+ptnr
+s; progress until reach original place
+2;2 (mult x)
+P2
+C1 arm R; S
+et & turn into each others place
+2;2|
+Continue 
+w/
+ new 
+ptnr
+s, & progress as before
+2;2 (mult x)
+P3
+Hey
+ through entire set (grand 
+RL
+)
+½
+ 
+(mult x)
+Variation
+: 
+2 equal lines in a cross formation. Remain in original line; curve L when
+switching places in the middle. On 
+Hey
+, do half a star to switch sides in the middle.
+Dull Sir John
+(Playford 1651)
+(4 
+Couple
+s in a square)
+| == In 4 == |
+|-----|----|-----|
+V
+1
+Heads
+ Double in, cast off w/ opp & return to place; Sides same
+2;2|
+C1
+Head Lds switch; Head Lys switch; Circle to place; Sides same 
+1;1;2;4|
+V2
+(Side Lds behind 
+Lys
+) C1 split 
+betw
+ corners
+ 
+to C3 as C3 Double to C1’s place 
+1
+Repeat w/ C3 goi
+ng through corners; Head Lds fall behind 
+Lys
+; Sides same
+1;2|
+C2
+Heads
+ (Lds still behind 
+Lys
+) 
+Hey
+ to place, end side by side; Sides same
+4
+;
+4
+V3
+Lds cast behind p
+tnr & advance 1 place R; 
+Lys
+ same; Repeat
+1;1;2|
+C3
+Heads
+ Back-
+to
+-back; R hands to opp & switch 
+L to 
+ptnr
+; Sides same 
+2;1;1;4|
+Epping Forest
+ 
+(Playford 1670
+)
+(3 
+Couple
+s in a circle)
+| == In 4 == |
+|-----|----|-----|
+V1
+2 Doubles L; Set & turn; 2 Doubles R; Set & turn
+2;2;2;2|
+Ch
+Honor p
+tnr & kiss or S
+l
+ow S
+et 
+LR
+; Same to corner
+2;2|
+Tu
+rn corner full circle; turn p
+tnr full circle
+2;2|
+V2 
+Side R; Set & turn; Side L; Set
+ & turn; Chorus
+2;2;2;2;8|
+V3
+Arm R; Set & turn; Arm L; Set & turn
+; Chorus
+2;2;2;2;8|
+Faine I Would If I Could
+(Playford 1651)
+(4 
+Couple
+s in a square)
+| == In 4 == |
+|-----|----|-----|
+V1a
+Do
+uble away from the set; turn & D
+ouble back to place
+1;1|
+V1b
+2 hand switch w/
+ 
+corner; 2 hand switch across set (
+Heads
+ w/ 
+ptnr
+)
+1;1|
+V1c
+Repeat V1a w/ 
+opposite
+; Repeat V1b, end in orig square
+1;1;1;1|
+C1a
+Heads
+ 
+D
+ouble fwd, 'pick up' Sides & double back
+ 
+ 
+2
+C1b
+All turn opposite and
+ 
+fall into corner’s original position
+2
+C
+1c
+C1a, w/ Sides 
+leading; C1b, falling into orginal square
+2;2|
+V2
+Side R w
+/
+ 
+ptnr
+; V1b above; Side L w/
+ opposite
+; V1b above 
+2;2;2;2|
+C2a
+ 'Cloverleaf' 
+- Heads
+ cast away from 
+ptnr
+ & walk small circle through
+ nearest corner position & back to place, each corner following nearest leader
+2
+C2b
+Each head couple & their corners tak
+e 4 hands round to your places
+ 
+2
+C2c
+C2a, but the
+ Sides lead
+; C2b, but w/ each 
+S
+ide couple & their corners
+2;2|
+V3
+Arm R w
+/
+ 
+ptnr
+; V1b above; Arm L w/
+ opposite
+; V1b above
+2;2;2;2|
+C3a
+Heads double in & turn back-to-back; 
+Sides hands & cir
+c
+le R
+2;2|
+C3b
+C3a, but 
+Sides
+ back-to-back while 
+Heads
+ circle R & fall back in original square 
+4
+English Country
+Fiddlesticks (Not your gaffer’s Fedelta)
+(SCA Choreography)
+||(Couples in a circle) | ==In 4== |
+|-----|----|-----|
+V1
+Slip L; Set & turn; Slip R; Set & turn
+2;2;2;2|
+Ch
+Lds turn single; Lys same
+1;1|
+V2
+Arm R; Set & turn; Arm L; Set & turn; Repeat Ch
+2;2;2;2;2|
+V3
+Set , Double in & out, set
+4
+Ms Cary’s Reprise L&R (3 steps to side, rock back, turn single)
+4
+Repeat ch or, at end of dance replace turns with honors
+2
+Fine Companion
+(Playford 1651)
+(4 
+Couple
+s in a circle)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double f
+wd & back
+; Set & turn; repeat
+2;2|
+;4
+C1
+Ld
+s
+ double in & out; Ly
+s
+ in as Ld
+s
+ out; Ly
+s
+ out as Ld
+s
+ in & circle
+2;2|
+Ly
+s
+ double in & out; Ld
+s
+ in as Ly
+s
+ out; Ld
+s
+ out as Ly
+s
+ in & circle
+2;2|
+V2
+Side R; Set & turn; Side L; Set & turn
+2;2;2;2|
+C2
+Heads
+ in & out; Sides in (as 
+Heads
+ out) & out as 
+Heads
+ in & circle
+2;2|
+Sides in & out; 
+Heads
+ in (as 
+Sides
+ out) & out as 
+Sides
+ in & circle
+2;2|
+V3
+Arm R; Set & turn; Arm L; Set & turn
+2;2;2;2|
+C3
+Lds 
+t
+o center; Lys circle; Lds to place
+; repeat w/ Lds circle Lys
+½;3;½
+;4
+Gathering Peascods
+(Playford 1651)
+(A
+bout 4 - 7 
+Couple
+s in a circle)
+| == In 2 == |
+|-----|----|-----|
+V1
+Slip
+ L; 
+Turn single
+; 
+Slip
+ R; 
+Turn single
+4;2 [2x]
+C1
+Lds take hands, C
+ircle round to places; 
+Lys
+ the same
+6 [2x]
+Lds meet & clap; 
+Lys
+ same (as Lds out); Lds same, no clap, turn to place
+2;2;4|
+Lys
+ meet & clap; Lds same (as 
+Lys
+ out); 
+Lys
+ same, no clap, turn to place
+2;2;4|
+V2
+Side R; 
+Turn single
+; Side L; 
+Turn single
+4;2 [2x]
+C2
+Same as chorus 1, except 
+Lys
+ do everything 1st and Lds after
+28
+V3
+Arm R; 
+Turn single
+; Arm L; 
+Turn single
+; Chorus 1
+4;2 [2x];28 
+Glory of the West
+(Playford 1651)
+(2 
+Couple
+s facing)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back; 
+Slow Set
+ away from ptnr & back
+2;2|
+Double back & fwd; S
+low S
+et away from ptnr & back
+2;2|
+C
+1
+Lds 
+D
+ouble back; 
+Lys
+ 
+Turn single
+; 
+Lys
+ 
+D
+ouble back; Lds 
+Turn single
+1;1;1;1|
+Lds switch in 2 Doubles; 
+Lys
+ switch; All circle to place
+2;2;2|
+V2
+Side R w/ 
+corner; 
+Slow S
+et; Side L 
+w/
+ 
+ptn
+r; 
+Slow S
+et
+2;2;2;2|
+C
+2
+Lds cast L to stand back to back w/
+ 
+ptnr, then cast back
+2
+Lys same to R; 
+Hey
+ for 4 start R hands w/corner; R hand star
+2;4;2|
+V3
+Arm R 
+w/
+ corner; 
+Slow S
+et; Arm L 
+w/
+ 
+ptn
+r; 
+Slow S
+et
+2;2;2;2|
+C
+3
+Lds meet & take R hands; 
+Lys
+ same
+1;1|
+Lds circle under arch to place; Lys same
+2;2|
+Switch w/
+ 
+corner by R, then ptnr by L
+2
+Circle halfway
+, then open up to face
+ presence
+2
+English Country
+Goddesses
+(Playford 1651)
+(4 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back; repeat
+2;2|
+Ch
+C1 cast to foot of set as others follow; Cast from foot of set to place
+2;2|
+V2
+Ld1 lead Lds around
+ the Lys; Last Ld leads line back; r
+epeat Chorus
+2;2;4|
+V3
+Lys take h
+ands and go behind Lds & back; r
+epeat Chorus
+4;4|
+V4-5
+Lds circle Lys; 
+repeat Chorus; Lys circle Lds; r
+epeat Chorus
+4;4;4;4|
+V6-
+8
+Lds circle together; Chorus; Lys circle; Chorus
+; All Circle; Chorus
+4;4;4;4|
+;4;4|
+V9-10 Lds 
+Hey
+; repeat Chorus; Lys 
+Hey
+; r
+epeat Chorus
+4;4;4;4|
+V11
+All
+ 
+Hey
+; r
+epeat Chorus
+4;4|
+Grimstock
+(Playford 1651)
+(3 couples in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double f
+wd & back
+; Set & turn; repeat
+2;2;4|
+C1
+Hey
+ for 
+Couple
+s
+4
+V2
+Side R; Set & turn; Side L; Set & turn
+2;2;2;2|
+C2
+Hey
+ for 
+Couple
+s 
+w/
+ arches
+4
+V
+3
+Arm R; Set & turn; Arm L
+; Set & turn
+2;2;2;2|
+C3
+Crossover 
+Hey
+ -
+ 
+C1 cross over & 
+Hey
+ down
+ the set (on 
+ptnr
+’s side),
+C1 crosses back at bottom of set & 
+Hey
+ up the set (on own side)
+4
+Heart’s Ease
+(Playford 1651)
+(2 
+Couple
+s facing)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back; repeat
+2;2|
+Ch
+(facing 
+ptnr
+) Double away from & to
+ward ptnr; Turn corner
+2;2|
+(facing co
+rner) D
+ouble away from & toward corner; Turn 
+ptnr
+2;2|
+V2
+Side R 
+& L
+; repeat Chorus
+2;2;8|
+V3
+Arm R 
+& L
+; r
+epeat Chorus
+2;2;8|
+The Health
+(Playford 1651)
+(4 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+P1
+Double fwd & back; Slow S
+et (2x)
+2;2 (2x)
+C1 & C4 Double together as others Double back
+1
+C1& C4 turn to face away from ea other
+1
+C1 & C4 cast, the others following til back to current position
+2
+C2 & C3 the same
+4
+P2
+All take hands in circle
+ facing out & go halfway; Slow S
+et (2x)
+2;2 (2x)
+C1 & C4 Double together as others Double back
+1
+C1& C4 turn to face away from ea other
+1
+C1 & C4 take hands facing out & circle
+2
+C2 & C3 the same
+4
+P3
+Switch w/ ptnr w/both hands; 
+C1&C
+2 switch as C3&C4 switch; Slow S
+ets2;2(2x)
+Ld1 & Ly4 Double together & take R hands; Ly1 & Ld4 the same
+1;1|
+C1 & C4 R hand star;
+ 
+C2 & C 3 the same
+2;4|
+English Country
+Heralds in Love
+(SCA Choreography)
+(4 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V
+1
+Double fwd & back; Set & turn; repeat
+2;2;4|
+C
+1
+Ld1 & Ly2 switch w/
+ R hands,
+ 
+as Ld3 & Ly4 do same
+ 
+1
+Ld1 & Ly4 switch w/
+ 
+L hands; Continue until all are back 
+to orig places
+1;6|
+V
+2
+Side R; Set & turn; Side L; Set & turn
+2;2;2;2|
+C
+2
+Ld2 & Ly3 switch w/ R hands; 
+Ld2 & 4 switch w/ L hands as Ly3 &1 same;
+Continue
+ un
+til all are back to place
+1;1;6|
+V
+3
+Arm R; Set & turn; Arm L; Set & turn
+2;2;2;2|
+C
+3
+Do
+ chorus 1 & chorus 2 together
+8
+Hit and Misse
+(Playford 1651)
+(2 
+Couple
+s facing)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back; repeat
+2;2|
+Ch
+Double in; Double out to side w/ opp
+1;1|
+Double in; Double back to place 
+w/
+ 
+ptnr
+1;1|
+Single 
+Hey
+ for 4, begin 
+by passing R shoulders w/ opp 
+(3 or 4)
+V2
+Side R 
+& L
+; repeat C
+horus
+4;(7 or 8)
+V3
+Arm R 
+& L
+; repeat C
+horus
+4;(7 or 8)
+Hockley-in-the-Hole
+(Playford 1651)
+(Longways for as Many as Will)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back; repeat
+2;2|
+Ch
+Set and turn; repeat 
+2;2|
+V2
+Ld1 & Last Ly Double to meet & back; Ly1 & Last Ld same; repeat Chorus
+2;2;4|
+V3
+Ld1 & Last Ly Arm R; Ly1 & Last Ld Arm L; repeat Chorus
+2;2;4|
+V4
+Ld1 2 Doubles to meet Last Ly at bottom of set
+2 
+2 Doubles for Ld1 & Last Ly to go 
+to top of set (other Lys shift down)
+ 
+2
+repeat Chorus
+4
+V5
+Last Ld 2 Doubles to meet his Ly at top of set
+2
+Last C 2 Doubles to bottom of set as
+ 
+C1 follow & pas
+s through to 
+become new Last C; 
+repeat Chorus
+2;
+4
+Hyde Park
+(Playford 1651)
+ 
+(4 
+Couple
+s in a square)
+| == In 4 == |
+|-----|----|-----|
+V
+Heads
+ Double fwd & back; 
+Sides
+ same
+2
+;2
+C
+1 
+Heads
+ slip into center to meet other C; slip out w/ corner through 
+n
+earest Ina
+ctive C; cast to place
+; Sides same; repeat V
+1;1;2|
+;4;4|
+C
+2
+Sides
+ change places w/ 
+ptnr
+ & make arch while 
+Heads
+ 
+pass p
+tnr
+ by R & continue around set to meet corner outside of arch;
+ 
+Heads
+ go through arches to meet 
+ptnr; fall back to place
+2;1;1|
+This again, Heads and Sides switching roles
+; repeat V
+4
+;4
+C
+3
+All Lds
+ 
+pass 
+ptnr
+ by the inside shou
+lder & continue around set, 
+ 
+Going around the 
+Lys
+ by alternating shoulders
+4
+All 
+Lys
+ pass 
+ptnr
+ by the inside shoulder do same around Lds
+4
+English Country
+If All the World Were Paper
+(Playford 1651)
+(4 
+Couple
+s in a square)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double 
+fwd
+ & back; Set & turn (2x)
+2;2 (2x)
+C1
+Head 
+Lds switch places, then 
+Lys
+; 
+Hey
+ to place; 
+Sides
+ same
+2;2;4|
+V2
+Side R
+; 
+Set & turn; Side L
+; Set & turn
+1;1;1;1|
+C2
+Heads
+ double in; take corner 
+betw
+ 
+Sides
+;
+ cast to place; 2 hand turn
+;
+Sides
+ same
+1;1;2;4|
+V3
+Arm R; Set & turn; Arm L
+; Set & turn
+1;1;1;1|
+C3
+Heads
+ 
+do 
+Hey
+ for 4 start R hands w/ opposite; 
+Sides
+ same
+4;4|
+If Wishes Were Horses (Not your gaffer’s Villanella)
+(SCA Choreography)
+(3 Couples in a line)
+| ==In 4== |
+|-----|----|-----|
+P1
+Double fwd & back; Set L, 2 quick steps R, turn; Set R, 2 steps L, turn
+2;2;2|
+P2
+Side R&L; Set L, 2 quick steps R, turn; Set R, 2 steps L, turn
+2;2;2|
+P3
+Slip L&R; Take R hands & switch, L & switch back; Set L, 2 steps R, turn
+4;1;1|
+The Irish Gypsy (or Sionnain’s Shamrock)
+(SCA Choreography)
+(4 
+Couple
+s in a square)
+| == In 4 == |
+|-----|----|-----|
+V1
+Heads
+ double fwd & back; 
+Heads
+ double fwd & cast to place; 
+Sides
+ same
+2;2;4|
+C
+1
+Heads
+ slip in; set LR; Slip w/ opp betw 
+Sides
+ & cast to place; 
+Sides
+ same
+1;1;2;4|
+½ 
+Hey
+ begin by passing 
+ptnr
+ by R; gypsy w/ 
+ptnr
+; repeat
+2;2;4|
+V2
+Side R w/
+ 
+ptnr; Set & turn; Side L w/
+ 
+corner; Set & t
+urn
+2;2;2;2|
+C
+2
+Pass & post 
+Heads
+ walk through the set (Ldys pass on inside); give near
+arm to nearest Side & post to face into set; repeat 3x; 
+Sides
+ same
+ 1;1;6; 8
+V3
+Arm R w/ ptnr; Set & turn; Arm L w/ corner; S
+et & turn
+2;2;2;2|
+C
+3
+Lds form for L hand star & pass in front of 
+ptnr
+ to next Ldy;
+1
+Take Ldy by R hand & cirle 1x, ending back in the L hand star; repeat 3x
+1;6|
+Lys
+ form for R hand star & do as Lds did
+8
+Jenny Pluck Pears
+(Playford 1651)
+(3 
+Couple
+s in a circle)
+| == In 4 == |
+|-----|----|-----|
+V1
+Slip L; Set & turn; Slip R; Set & turn
+2;2;2;2|
+C
+1
+Ld1 turns Ly into center; Ld2 same; Ld 3 same; All 
+Rev
+1;1;1;1 
+Lds skip around L; then R
+4;4|
+Ld1 turns Ly to place; Ld2 same; Ld3 same; All 
+Rev
+1;1;1;1|
+V2
+Side R; Set & turn; Side L; Set & turn
+2;2;2;2|
+C
+2
+Same as 
+C
+1, except Ly turn Ld in & skip around
+16
+V3
+Arm R; Set & turn; Arm 
+L; Set & turn
+2;2;2;2|
+C
+3
+Same as 
+C
+1
+16
+English Country
+Jack Pudding
+(Playford 1651)
+(3 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd; C1
+ 
+&
+ 
+C2 separate & Double back as C3 Double fwd
+1;1|
+C1 & C2
+ Double fwd (still apart) as C3
+ Double back
+1
+C1 & C2 take hands & all Double back
+1
+C
+1
+C3 move 
+betw
+ C1 & C2 as Lds 1&2 make an arch & 
+Lys
+ same
+2
+C3 cast round C1, under arches & cast round C2, to place, proper
+4
+C1 & C2 join hands & circle once around as C3 does full turn
+2
+V2
+Side 
+RL
+4
+C
+2
+Lds form a circle & go once around, raising arms
+2
+Lys
+ under arches & turn 
+ptnr
+ back to place
+2
+Repeat 
+w/
+ genders reversed
+4
+V3
+Arm 
+RL
+4
+C
+3
+C1 turn to face down as C3 heads up line
+C2 moves to C3 place as C1 makes arch & C3 passes under
+1
+C3 change places and face down as C1 turns to face up
+1
+C1
+ 
+&C3 take hands & go once around; C2 heads up the line
+2
+C1 moves to C3’s original position as C2 makes an arch & C3 passes under
+1
+C3 change places & face up as C2 turn to face down
+1
+C2
+ 
+&
+ 
+C3 take hands & go 
+once around; C2 turn to face up
+2
+Kelsterne 
+Gardens
+(Playford 1726)
+(3 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+Hey
+ for 
+Couple
+s; C1 figure 8 crossing through C2, as C2 follows (start outside) 
+2;2|
+C1 &
+ 
+C2 circle; C1 cast down 1 place; C1&C3 circle; C1 cast to bottom of set
+2;1;2;1 
+Kemps Jegg
+(Playford 1651)
+(3 
+Couple
+s in a circle)
+| == In 4 == |
+|-----|----|-----|
+P1
+Ld1 lead Lys1&3 fwd & back a Double (2x)
+2(2x)
+Ld1 honor Ly3, then Ly1; Ld1 turns Ly2 to progress to Ld2’s place as
+Lds
+2&3 rotate CCW into next place (Ly2 returns to own spot)
+2;2|
+Repeat 2x, w/ same active Ld until all are back to place
+16
+Repeat entire Part 2x 
+w/
+ Lds2&3 active
+48
+P2
+Ld1 lead Lys1&3 fwd & back a Double (2x)
+2(2x)
+Ld1 & Ly3 switch by R han
+ds; Ld1 & Ly1 switch by L as Ly
+3 to orig place
+1;1|
+Ld1 & Ly2 full turn as Ly
+1 to place & Lds2&3 rotate CW to new places
+2
+Repeat as in P1
+16;48
+P3
+Ld1 w/ Lys1&3 Double fwd & back, hold 
+Lys
+ outsd hnds behind backs(2x)
+2(2x)
+Ld1 unwinds Ly3 & kisses her; Ld1 unwinds Ly1 & kisses
+1;1|
+Ld1 turn Ly2 to progress as Lds2&3 rotate CCW
+2
+Repeat as in P1
+16;48
+Short Version
+: Ignore direction to “repeat entire part 2x w/ same active Ld” – Ld 1 is now active for o
+nly 1 repeat of each verse. Lds
+2&3 do likewise.
+Egalitarian Version
+: Ignore direction to “repeat entire part 2x w/ same active Ld” Once the Lds all been active, the dance begins again 
+w/
+ the 
+Lys
+ active.
+English Country
+Kettle Drum
+(Playford 1651)
+(4 
+Couple
+s in a square)
+| == In 4 == |
+|-----|----|-----|
+V1
+D
+ouble 
+fwd &
+ back
+; repeat
+2;2|
+C
+1
+Lys
+ R hand
+s across;
+ Lds same; all turn ptnr by R hand
+1
+;
+1
+;
+2
+Lds L hand
+s across
+; 
+Lys
+ same; 
+all turn
+ ptnr 
+by 
+L hand 
+1
+;
+1
+;
+2
+V2
+Side 
+RL
+4
+C
+2
+Heads in a double; Heads back as 
+Sides
+ in a double; 
+1;1|
+Sides
+ R hand w/
+ 
+corner & turn into their place
+2
+Same 
+w/
+ 
+Sides
+ doing what 
+H
+eads did and v
+ice versa
+4
+V3
+Arm 
+RL
+4
+C
+3
+Ptnrs take 2 hands, swing in, out, & in, break hands & turn to crnr
+2
+Lean in & kiss c
+o
+rn
+e
+r, lean back; repeat
+1;1|
+Take corner by both hands & do same swings, face 
+ptnr
+2
+Lean in 
+&
+ kiss 
+ptnr
+, lean back; repeat
+1;1|
+Lord of Carnavan’s Jegg
+(Playford 1651)
+(4 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+P1
+Double Fwd & back (2x); Do-Si-Do
+ w/ ptnr (2x)
+2(2x);2(2x)
+P
+2
+C1 cross over & go behind C2 into their place (on 
+ptnr
+’s side)
+2
+C1 cross over & go behind C3 into their place (on own side)
+2
+C1 go betw C
+4, cast off 
+& lead line around; Arm R 1½ 
+2;2|
+(order from top to bottom is now C1, C4, C3, C2)
+Repeat 
+w/
+ C2 leading in other direction (order ends C3, C4, C1, C2)
+16
+Repeat 
+w/
+ C3 leading in first direction (order ends C3, C2, C1, C4)
+16
+Repeat 
+w/
+ C4 leading in other direction (order ends C1, C2, C3, C4)
+16
+Lord Sun & Lady Moon
+ 
+(SCA Choreography)
+(3 
+Couple
+s In a line, the middle 
+Couple
+ improper)
+ == In 4 == |
+|-----|----|-----|
+P1
+C1 & C2 take R hands across; Rotate CW halfway around
+1
+ 
+C1 & C3 take L hands across; Rotate CCW halfway around
+1
+C2 & C3 take R hands across; Rotate CW halfway around; all honor ptnr
+1;1|
+P2
+C1 & C2 take L
+ 
+hands & Rotate CCW; C1 & C3 take R hands & Rotate CW
+1;1|
+C2 & C3 take L hands across; Rotate CCW halfway around; all honor ptnr
+1;1|
+P3
+Lys walk in a CW circle (no hands) around Ld2 & back to place
+2
+P4
+Lds walk in a CW circle (no hands) around Ly2 & back to place
+2
+P5
+C1 & C2 take hands in a circle of four & circle CW halfway around;
+1
+C2 drops hands while Ld1 turns Ly1
+1
+P6
+C1 & C3 take hands in a circle of four & circle CW halfway; All honor p
+tnr
+1;1|
+(Order of couples is C2
+, C3 (improper)
+,
+ C1, becoming C1, C2 & C3
+ 
+for next repeat) 
+English Country
+Lull Me Beyond Thee
+(Playford 1651)
+(2 
+Couple
+s facing 2 
+Couple
+s
+ 
+C3, C1, C2, C4))
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back (2x)
+2(2x)
+C1
+ 
+C3
+ 
+&
+ 
+C4 
+D
+ouble 
+toge
+ther as 
+rest
+ 
+D
+ouble away from set
+1
+New lines 
+Double 
+back; turn your opposite
+1;2|
+C3
+ 
+&
+ 
+4 
+D
+ouble 
+back
+ as 
+rest
+ 
+D
+ouble together
+; Lines Double back; turn ptnr
+1
+;1;2|
+V2
+Side R w/
+ 
+ptnr; C1
+ 
+&
+ 
+C2 side L w/
+ 
+corner as C3
+ 
+&
+ 
+C4 side L w/
+ 
+ptnr
+2;2|
+C
+2
+ 
+Lead away from ptnr, fall back into circle; go once around
+2;2|
+Lead away from corner, fall back into circle; go once around
+2;2|
+V3
+Arm R w/
+ 
+ptnr; Arm L w
+/
+ person you sided L 
+w/
+2;2|
+C3
+C1
+ 
+&
+ 
+C2 lead out & in (to wall & back) forming arch as 
+C3 & C4 lead in, then out w/corner under arch
+2
+C1
+ 
+& C2 lead out (to C3
+ 
+&
+ 
+C4 places) as rest lead in & all turn ptnr
+2
+Repeat w/ C3 & C4 leading out first
+2;2|
+Mage on a Cree
+(Playford 1651)
+(4 
+Couple
+s in a circle)
+| == In 4 == |
+|-----|----|-----|
+V1
+All join hands, Double fwd
+ 
+& back, Set & turn (2x)
+4(2x)
+C1
+Lds circle facing out; turn Corner; Lys circle facing out; turn ptnr
+2;2;2;2|
+V2
+Side R; Set & turn; Side L; Set & turn
+2;2;2;2|
+C2
+Lds weave L in front of 
+Co.
+ Ly & behind next; Lds meet
+, clap & Double back
+2;2|
+Lds weave L in front & behind 2 
+Lys
+; Lds 
+meet, clap & Double back
+2;2|
+Lys
+ do as Lds did, but weaving to the R
+8 
+V3
+Arm R; Set & turn; Arm L; Set & turn
+2;2;2;2|
+C3
+All turn Corner 1½
+ 
+times to progress; continue until to place
+8
+Maid Peeped Out the Window
+(Playford 1651)
+(4 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back (2x)
+2(2x)
+C1
+C1 C
+ast & lead to bottom; Set & turn; C1 
+C
+ast
+ 
+& lead to top; Set & turn
+2;2;2;2|
+V2
+Side R
+L
+4
+C2
+All slide across at L diagonal; Double into 
+ptnr
+s place; Set & turn
+1;1;2|
+All slide back at L diagonal; Double into own place; Set & turn
+1;1;2|
+V3
+Arm R
+L
+4
+C3
+Lds 1&
+3 push L
+ys 2&
+4 out, around, & ac
+ross into Lds' place
+1
+Lds 2&4 push Lys 1&
+3 into men’s place; Set & turn
+1;2|
+Repeat above, pushing 
+Lys
+ back itno own place; Set & turn 
+2;2|
+Maiden Lane
+(Playford 1651)
+(3 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back (2x); Double L & back
+4;
+2
+Double speed single 
+Hey
+ on both sides; Set & turn 
+(2x)
+2;
+4
+V2
+Side
+ 
+RL
+; Back a double & switch 
+w/
+ ptnr; repeat; 
+S
+et & turn 
+(
+2x
+)
+4;2;2;
+4
+V3
+Arm 
+RL
+;
+ 
+Ld1
+ 
+&
+ 
+Ly2 switch, Ld2
+ 
+&
+ 
+Ly1 switch as C3 switch
+4;1;1|
+Ld1
+ 
+&
+ 
+Ly3 switch, Ld3
+ 
+&
+ 
+Ly1 switch
+ 
+as C2 switch; Set & turn
+ (
+2x
+)
+1;1;
+4
+Couple
+s should now be progressed, ready to do the dance 2 more times.
+English Country
+Merry Merry Milk Maids
+(Playford 1651)
+(4 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double 
+fwd
+ & back; Set & turn; repeat
+2;2;4|
+C1
+C1 & C3 
+Double to meet ptnr; slip down 
+betw
+ C below (who moves up)
+1;1|
+In groups of 4, R hand star; L hand star
+2;2|
+C2 & C4 (in new positions) same; R hand star; L hand star
+2;2;2|
+V2
+Side R; Set & turn; Side L; Set & turn
+2;2;2;2|
+C2
+Lds cast from front to invert set; Lys same; Set & turn
+2;2;2|
+Lds cast from bottom to orig place; Lys same; Set & turn
+2;2;2|
+V3
+Arm R; Set & turn; Arm L; Set & turn
+2;2;2;2|
+C3
+Lds back & fwd a double; Lds 
+Hey
+; Lys back & fwd a double; Lys 
+Hey
+2;4;2;4|
+Milke-Mayds Bobb
+(Playford 1651)
+(4 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back (2x)
+2(2x)
+C1
+C1&2 
+Hey
+ for 4, start w/ R hands to 
+ptnr
+ as C3&4 same
+4
+V2
+Side RL
+4
+C2
+C1 2 hands & slip betw C2 as C3 slip betw
+ C4; switch w/ ptnr
+1;1 
+C2 2 hands & slip betw
+ C1 as 
+C4 slip betw
+ C3; switch w/ ptnr
+1;1 
+V3
+Arm 
+RL
+4
+C3
+Ld1 & Ly2 switch by R hands as Ld3
+ 
+& Ly4 same
+1
+Ld2 & Ly1 switch by R hands
+ as 
+Ld4 & Ly3 same; repeat
+1;2 
+Never Give Consent
+(SCA Choreography)
+(2 Couples facing 2 Couples)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back
+2
+Squish the set: Insides change places w/ prtnr & Double back 
+as outsides Double fwd & change places w/ opposite
+2
+Double fwd & back w/ opposite; Squish the set
+2;2|
+C1
+Outsides cast away from set & back to place, insides following
+2
+Groups of 4 circle halfway; turn single; R hand star; turn single
+1;1;1;1|
+Squish the set; Repeat chorus w/ new outsides leading
+2;8|
+V2
+Side R w/ ptnr; Squish the set; Side L w/ opposite; Squish the set
+2;2;2;2|
+C2
+Outsides cast as before; Arches: Lds slip under Lys arches
+2;1|
+Lys slip under Lds; Insides slip under outsides; Outsides under insides
+1;1;1|
+Squish the set; Repeat chorus
+2;8|
+English Country
+Newcastle
+(Playford 1651)
+(4 
+Couple
+s in a square)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back
+; Set to 
+ptnr
+; Set to next of opp gender
+ (2x)
+2;2 (2x)
+C1
+Arm R 
+w/
+ 
+ptnr
+; Lds 
+L hand 
+into center as 
+Lys
+ circle
+ around set
+1;3|
+Arm R 
+w/
+ 
+ptnr
+; 
+Lys
+ 
+L hand 
+into center as Lds circle
+ around set
+1;3|
+V2
+Side R
+; Side L & p
+ass; repeat w/ next
+2;2|
+;4
+C2
+Heads 
+D
+ouble fwd & back, make arch 
+2
+Sides 
+C
+ast behind, through arch & to place
+2
+Sides 
+D
+ouble fwd & back, make arch
+2
+Heads 
+C
+ast behind, thro
+ugh arch, & to place
+2
+V3
+Arm 
+RL
+; Pass by in extra ½ turn; repeat w/ next
+3;1;4|
+C3
+Double back in line (H
+eads split); 
+Turn single
+; D
+ouble fwd & switch across
+ 
+1;1;2|
+Double back in line (S
+ides split
+)
+; 
+Turn single
+; 
+D
+ouble fwd
+ & switch across
+1;1;2|
+(3 
+Couple
+s in a line)
+ 
+ 
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back; Set & switch w/ ptnr; repeat
+2;2;4|
+C1
+Ld1 Set to Ly1; Ld2 S
+et to Ly2; C3 2 hand turn back to place
+1;1;2 
+Ld3 Set to Ly3; Ld2 S
+et to Ly2; C1 2 hand turn back to place
+1;1;2|
+V2
+Side R; Set & switch w/ ptnr; Side L; Set & switch w/ ptnr
+2;2;2;2|
+C2
+Ld1 & Ly3 meet; Ld3 & Ly1 meet; Ld1 & Ly3 switch; 
+1;1;½;
+Ld3 & Ly1 switch; C2 switc
+h; Repeat entire chorus 
+½;1;
+4
+V3
+Arm R; Set & switch w/ ptnr;
+ 
+Arm L; Set & switch w/ ptnr
+2;2;2;2|
+C3
+Half 
+Hey
+ for 
+Couple
+s; Set & turn; Half 
+Hey
+ for 
+Couple
+s; Set & turn
+2;2;2;2|
+The Night Peece
+(Playford 1651)
+(3 
+Couple
+s in a line)
+ 
+ 
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back (2x)
+2 (2x)
+C1
+C2 fall back a Double & slip up to C1 place as C1&3 switch(3X)
+2 (3x)
+V2
+Side 
+RL
+4
+C2
+C1 cross
+ 
+& cast to C2 place as C2 slides up; Same w/
+ 
+C3; Repeat 2x
+1;1;2;2|
+V3
+Arm 
+RL
+4
+C3
+Ld1 & Ly2 switch; Ly1 & Ld2 switch; C3 switch
+½;½;1
+Ld1 & Ly3 swit
+ch; Ly1 & Ld3 switch; C2 switch
+; Set & turn
+½;½;1;2|
+Nonesuch
+(Playford 1651)
+(4 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back (2x); Set & turn (2x)
+4;4|
+C1
+C1 slip betw C2; C1 turn to face C2 
+1;1|
+ 
+C1 push C2 & switch places twice, C2 ending in C1 position; C1 turn
+4;2|
+C1 repeat w/C3;
+ then w/ C4 as C2 w/C3; C2 w/C4
+, etc
+64
+V2
+Side R; Side L; Set & turn (2x)
+2;2;4|
+C2
+Form a line (1 at a time) w/
+ 
+double to center -
+ 
+Ld1 face down, Ly1 next, etc.
+8
+V3
+Arm R & L; 3 slips L & back; 3 slips R & back
+4;2;2|
+C3
+1 at a time as before, double to improper side 
+8
+Grand 
+RL
+ in a "
+U", crossing at bottom - 1st sw
+itch is C1 w/
+ 
+C2 & C3 w/C4
+8
+English Country
+New Exchange
+(Playford 1651)
+The Old Mole
+(Playford 1651)
+(3 
+Couple
+s in a line)
+ 
+ 
+| == In 4 == |
+|-----|----|-----|
+P
+1
+Double 
+fwd & back; S
+et & turn; repeat
+2;2|
+;4
+Double L & back; S
+et & turn; 
+Double 
+R & back; S
+et & turn
+2;2;2;2|
+P
+2
+Ld1 & Ly3 switch (D
+ou
+ble fwd & back, then past) 
+4
+Ly1 & Ld
+3
+ same; C2 same
+4;4|
+Lys 1&
+2 & Lds
+ 2&3 arches
+ (D
+ou
+ble fwd
+ 
+&
+ 
+back then through) 4x to place
+4
+(4x)
+Ld1 & Ly3 switch as before; Ly1 & Ld 3 switch; Ld2 & Ly2 switch
+4
+;
+4
+;
+4
+P
+3
+Lds hands,& 
+Lys
+ ha
+nds - D
+ouble 
+fwd
+; C1&C3 Double back
+1;1|
+C2 turn as Lys
+ 1&3 turn & 
+Lds
+ 
+1&3 turn, then Side R; tur
+n your own
+1;2;1|
+P
+4
+Lds single 
+Hey
+; 
+Lys
+ single 
+Hey
+; 
+Hey
+ for 
+Couple
+s
+ 2x
+2;2;4|
+Cast from front
+ to place; Cast from the back to place
+2;2|
+English Country
+On the Banks of the 
+Helicon
+(SCA Choregraphy)
+(3 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V
+1
+Double fwd; Turn 
+single
+ (away from ptnr); Doub
+le back (2x)
+1;1;1(2x)
+Ch
+Half-S
+-
+Hey
+ 
+Ld2 w/ C1, Ly2 w/ C3 (C2 ends in p
+tnr’s place)
+2
+Half-S
+-
+Hey
+ 
+Ld2 w/
+ 
+C3, Ly2 w/
+ 
+C1 (C2 en
+d
+s in own place) 
+ 2
+C1
+ R hands & switch; L hands to next & switch; 
+R hands to next & switch; C1 L hands & switch
+1;1;1;1|
+V2
+Double 
+fwd
+ (toward 
+ptnr
+) to me
+et R shoulders, 
+1
+Turn 
+single
+ (away from 
+ptnr
+); fa
+ll back
+ a D
+ouble to place
+1;1|
+Repeat, this time meeting L shoulders
+; repeat chorus
+3
+;8
+V3
+Give R arm to 
+ptnr
+ & turn
+ half-way; turn 
+single
+ L 
+1;1|
+Take R arms w/
+ 
+ptnr
+ again & turn half-way to
+ place
+1
+Do same w/ L arm (w/ 
+single
+ turn R)
+; repeat chorus
+3
+;8
+Oranges & Lemons
+(Playford 1665)
+(4 
+Couple
+s in a square)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double f
+wd & 
+b
+ack (2x)
+2 (2x)
+C1
+Lds rev to 
+ptnr
+; rev to corner; Join hands & circle half around
+½;½;2
+Lys
+ 
+rev to 
+ptnr
+; rev to corner; Join hands & circle half around; repeat
+½;½;2;6|
+V2
+Side 
+RL
+4
+C2
+Ptnr
+s R hands & step R; L hands & step L
+½;½
+Switch R and then L 
+w/
+ next; 
+repeat until back to place
+2;3 (3x)
+V3
+Arm 
+RL
+ (C1 moves to face C2; C3 moves to
+ face C4)
+4
+C3
+Rev to other C; R
+ev to 
+ptnr
+; Each pair of Cs circle halfway to the L
+½;½;1
+C2 back into 3rd place, C1
+ 
+following as C4 backs into 1
+st
+ place, C3 following
+1
+Repeat this pattern until everyone returns to their places
+3 (3x)
+Parson’s Farewell
+(Playford 1651)
+(2 
+Couple
+s facing)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double f
+w
+d
+; 4 slips L; 
+Double back
+; 4 slips R
+1;1;1;1|
+C1
+Lds rise; Lys rise; all rise 4x;
+ 
+2 hand turn w/ corner; repeat Lys start
+½;½;1;2;4|
+V2
+Double fwd
+; out w/ corner & return;
+ D
+ouble back to place w/ 
+ptnr
+ 
+1;2;1|
+C2
+Lds meet, cross R hands then L, turn & switch places
+1
+Turn corner w/ 
+R hand; cross back & turn ptn
+r w/ L hand
+1;2|
+Repeat w/ 
+Lys
+ starting & crossing L hands then R 
+3
+V3
+Take hands w/ ptn
+r do 4 slips into set; take corner & slip out;
+1;1|
+Slip back in w/
+ corner & out to place w/ ptn
+r
+1;1|
+C3
+Turn ptn
+r by R han
+d; Half 
+Hey
+ across formation
+ 
+Lds pass L shoulders
+1
+curving into corner’s place as 
+Lys
+ ½ turn R to 
+ptnr
+'s orig place, 
+Lys
+ pass L
+& curve to other Ly’s orig place as Lds ½ turn R to other Lds orig place
+2
+Turn 
+ptn
+r 
+by R hand; then by L hand
+1;1|
+Complete the 
+Hey
+ w/ 
+Lys
+ starting (passing R to 
+ptnr
+’s orig place) 
+2
+Turn 
+ptn
+r 
+by L hand (
+Hey
+ may be done as Grand 
+RL
+ w/o hands)
+1
+English Country
+Pennsic Dance
+(SCA Choreography)
+(4 
+Couple
+s in a square)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double 
+fwd
+ & back; S
+et & turn; repeat
+2;2|
+;4
+C1
+Heads Double in & L hand star halfway; 
+Hey
+ halfway along lines; turn next
+2;2;2|
+Repeat w/ Sides; Turn 
+ptnr
+6;2|
+V2
+Side R; Set & turn; Side L; Set & turn
+2;2;2;2|
+C2
+Heads cast away from 
+ptnr
+, through nearest corner position 
+to place, each corner following nearest head; 
+2
+Each Head couple & their corners take
+ 4 hands halfway round
+1
+Heads back a Double as 
+Sides
+ fwd to meet; circle halfway to opposite place
+1;2|
+Repeat; T
+urn 
+ptnr
+6;2|
+V3
+Arm R; Set & turn; Arm L;
+ Set & turn
+2;2;2;2|
+C3
+Face Corner & Heads 
+Hey
+ as 
+Sides
+ Gypsy; 
+Sides
+ 
+Hey
+ as Heads Gypsy;
+2;2|
+Turn Corner.
+ 
+Sides
+ 
+Hey
+ as Head Gypsy; Heads 
+Hey
+ as 
+Sides
+ Gypsy
+2;2;2|
+Turn Corner; Turn 
+ptnr
+2;2|
+Picking of Sticks
+(Playford 1651)
+(3 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double f
+wd & back (2x)
+2;2|
+C1
+Top L switch back to back 
+w/
+ 2nd R
+, then 3rd L; All fwd & back a D
+ouble
+2;2|
+Top R switch back to back 
+w/
+ 2nd L, t
+hen 3rd R; All fwd & back a D
+ouble 
+2;2|
+Repeat above until back to place
+2;2(4x)
+V2
+Side 
+RL
+2;2|
+C2
+C1 slip 
+betw
+ C2 
+as t
+Hey
+ move up, then C2 slip 
+betw
+ C1 (2x) as
+C3 cross & skip around set; Repeat w/ C2&3 slippi
+ng & C1 around set
+4;4|
+V3
+Arm 
+RL
+2;2|
+C3
+Sheepskin 
+Hey
+ - Lds weave through 
+Lys
+; as last Ld passes 
+second Ly, he cuts around to take the lead; Each Ld cuts once, 
+& then pass behind the 
+Lys
+ & back to place
+8
+Repeat above 
+w/
+ 
+Lys
+ weaving 
+betw
+ Lds
+8
+Prince William’s 
+Hey
+ 
+(Walsh 1731) 
+(3 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+P1
+C1 cross over 
+Hey
+ betw
+ person 2 & 3 on the other side
+4
+C1 cross back 
+and 
+Hey
+ as before
+4
+P2
+C1 take R hands & switch; Cast to C2 place as C2 slips to 1
+st
+ place
+1;1|
+C1 turn 2 hands, 1½ times around; C2 take R hands
+ & switch
+2;1|
+C2 cast 
+home
+, as C1 slip 
+up
+ ; C2 turn 2 hands, 1½ times around
+1;2|
+P3
+Ld1 to Ly3, while Ly1 to Ld2; Those 4 arm R; C1 arm L 
+2;2|
+Ld1 to Ly2, while Ly1 to Ld3; Those 4 arm R; C1
+ arm L
+2;2|
+P4
+C1 casts out betw
+ Ly 2 & 3, (hold L hands, so Ly's arm is across her body)
+2
+C1 returns to the center from the top & bottom of the
+ set, & arm R
+2
+C1 casts out betw
+ Ld2 & 3, (hold R hands, so
+ 
+Ld 's arm is across his body)
+2
+C1 turn two hands 1½ times, moving to the bottom of the set
+2
+Repeat the dance (
+w/
+ the couple at the head of the set now being C1, etc.)
+English Country
+Puzzle Box (Revised)
+ 
+(SCA choreography)
+(4 
+Couple
+s in a square)
+| == In 4 == |
+|-----|----|-----|
+V1
+Heads 
+D
+ouble fwd
+ & 
+2 hand
+ switch 
+w/ opp
+2
+ 
+Heads 
+Double
+ back 
+as
+ 
+Sides
+ fwd to meet
+ & switch
+ 
+2
+C
+1
+Face across the short dimension of the set
+Lds honor Lys
+, then 
+Lys
+ 
+Ld
+s; 
+Sides
+ Double back & arch as H
+eads Dbl fwd 
+1;1 
+Heads lead opp through arch
+;
+ Heads
+ Cast
+ 
+to place
+ as 
+Sides
+ switch
+ 
+1;1|
+Fac
+e
+ across short dimension of set
+ 
+Lys honor Lds, then Lds honor Lys
+1
+Heads back a 
+D
+ouble & form arches while 
+Sides
+ D
+ouble 
+fwd
+1
+Sides
+ lead opp out through the arches, then cast back t
+o place; Heads 
+wait until 
+Sides
+ have passed through, then use last 4 counts to trade place
+s
+ 
+2
+V2
+Sides
+ back a 
+D
+ouble 
+as
+ H
+eads fwd to meet
+; Head hands around halfway
+ 
+1
+;1
+Heads back
+ a
+ D
+ouble 
+as
+ 
+Sides
+ f
+wd to meet
+; 
+Sides
+ hands around halfway
+ 
+1
+;1
+C
+2
+Face across short dimension of set
+ 
+Lds honor Lys, then Lys honor Lds
+1
+Sides
+ 
+back a D
+ouble while H
+eads D
+ouble 
+fwd
+1
+Heads cast 
+away & 
+to place
+, 
+Sides
+ each following nearest H
+ead
+ 
+2
+Face across short dimension of set
+ 
+Lys honor Lds, then Lds honor Lys
+1
+Heads 
+back a D
+ouble while 
+Sides
+ D
+ouble 
+fwd
+ 
+1
+Sides
+ cast 
+away & to place, Heads following nearest S
+ide
+2 
+V
+3
+Take hands all around & circle 
+w/
+ 8 slips to the L; 8 slips to the R 
+2;2|
+While circling expand the set from its “collapsed”
+ 
+form back into a
+ 
+square
+C
+3
+(Death Spiral) Lds honor the set; 
+Lys
+ honor the set 
+½;½ 
+Lds D
+ouble 
+fwd
+ to form a small square in the center 
+1
+Lds rotate the square CW & fall back to place 
+2
+Lys
+ honor the set; Lds honor the set 
+½;½ 
+Lys
+ do death sprial as Lds did
+ 
+3
+The Return of Spring
+(SCA Choregraphy)
+(3 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back;
+ S
+et & turn; repeat 
+2;2;4|
+Ch
+C1 R hands & switch; Ly1 & Ld2 switch w/ L hands as
+Ld1 & Ly2 switch; C1 turn as C2 switch 
+1;1;2|
+C1 take R hands & switch; Ly1 & Ly3 switch w/
+L hands while Ld1 & Ld3 switch, C1 turn as C3 switch
+1;1;2|
+V2
+Side R, Set & turn, Side L; Set & tu
+rn; repeat Chorus
+2;2;2;2;8|
+V
+3
+Arm R, Set & turn, Arm
+ L; Set & turn; repeat Chorus
+2;2;2;2|
+;8
+English Country
+Rufty Tufty
+(Playford 1651)
+(2 
+Couple
+s facing)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double f
+wd & back (2x)
+4
+Ch
+(facing 
+ptnr
+) Set & turn (2x)
+4
+Lead 
+ptnr
+ out a Double & back; 
+Turn single
+2;1|
+Lead corner out a Double & back; 
+Turn single
+2;1|
+V2
+Side 
+RL
+; repeat Chorus
+4;10
+V3
+Arm 
+RL
+; repeat Chorus
+4;10
+St. Joan
+(SCA Choreography (late 17
+th
+ C style))
+(4 
+Couple
+s in a Square)
+| == In 4 == |
+|-----|----|-----|
+P1
+Heads 
+Double 
+in; take corner betw
+ side C; cast to place
+1;1;2|
+Heads lead the 
+Grand 
+square; reverse it home
+4;4|
+Sides
+ 
+Double 
+in; take corner betw
+ side C; cast to place
+1;1;2|
+Sides
+ lead the 
+Grand 
+square; reverse it home
+4;4|
+P2
+Lys S
+et to the middle; R hand star; fall back to place
+1;2;1|
+Heads lead the 
+Grand 
+square; reverse it home
+4;4|
+Lds S
+et to the middle; R hand star; fall back to place
+1;2;1|
+Sides
+ lead the 
+Grand 
+square; reverse it home
+4;4|
+P3
+Heads split & pass betw
+ near side C to opposite place;
+2
+Meet corner in middle, ½ R hand turn back to place
+2
+Heads lead the 
+Grand 
+square; reverse it home
+4;4|
+Sides
+ the same; 
+Sides
+ lead 
+Grand 
+square; reverse it
+4;4;4|
+P4
+Half a grand right & left; Heads lead the 
+Grand 
+square; reverse it
+4;4;4|
+Repeat, 
+w/
+ 
+Sides
+ leading the 
+Grand 
+square
+12
+Note
+Grand Square
+:
+ Heads D
+ouble in as 
+Sides
+ 
+Double 
+back away from 
+ptnr
+; 
+Heads 
+Double 
+away from ptn
+r (w/corner), as 
+Sides
+ 
+Double 
+to meet corner;
+ 
+Heads 
+Double 
+away from corner as 
+Sides
+ 
+Double 
+in w/ corner;
+Heads 
+Double 
+to meet 
+ptnr
+ a
+s 
+Sides
+ fall out to place w/ ptn
+r
+Scotch Cap
+(Playford 1651)
+(3 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back (2x)
+2(2x)
+C1
+Top 2 Lys 
+& 
+Last 2 
+Lds
+ 
+back up; t
+Hey
+ s
+witch; other 2 switch
+1;1;2|
+Repeat 5 more times 
+20
+V2
+Side 
+RL
+2;2|
+C2
+Gender lines
+ Double back & fwd; Arm R (
+Lys
+ 1&3, C 2, Lds 1&3)
+2;2|
+Ends (Ly2 w/ C3, Ld2 w/ C1) Double back & fwd; Arm L (w/ 
+ptnr
+)
+2;2|
+V3
+Arm 
+RL
+2;2|
+C3
+Lds slip up hall as 
+Lys
+ slip down; Give 
+RL
+ hands bac
+k to place
+2;2|
+Lys slip up hall
+ as
+ 
+Lds slip down; Give 
+LR
+ hands back to place
+2;2|
+English Country
+ Saint Martins
+Playford 1651)
+(2 
+Couple
+s, facing)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd to meet Corner; 
+ptnr
+s Slip
+ out & in 2 steps 
+1;1|
+Turn single
+ out of set
+ (Lds L, Lys R); 
+Turn single
+ into set
+1;1|
+Double fwd to meet Corner & pass through; Switch w/ 
+Ptnr
+; 
+Turn single
+2;1;1|
+C1
+Lds fall back a Double as Lys 
+Turn single
+, Lds switch by L hand
+1;1|
+Corners take R hand & turn 1 1/2 times
+2
+Lys fall back a Double as Lds 
+Turn single
+; Lys switch by R hand
+1;1|
+Ptnr
+s take L hands & turn 1 1/2 times (to orig place)
+2
+V2
+Double fwd to meet Corner & pass through; Set & turn; Repeat
+2;2;4|
+C
+2
+Lds meet
+; Lys same; Circle L halfway slipping; 
+Turn single
+1;1;1;1|
+Lys meet; Lds same; Circle L halfway (to place); 
+Turn single
+1;1;1;1|
+V3
+Double Fwd to meet Corner; 2 Slip steps out, then in w/ Corner
+1;1|
+Lds cast over L shoulder, through 
+Ptnr
+'s place to pl
+ace, as Ptn
+rs follow
+2
+Double back; Switch
+ w/ 
+ptnr
+, Ly in front
+1;1|
+Lds Gypsy & fall back to place, Lys doing same as Lds cross in middle
+2
+C3
+Lds Honor; Lys same; Star R once around
+1;1;2|
+Lys Honor; Lds same; Star L & fall into line to honor presence
+1;1;2|
+Sellinger’s Round
+(Playford 1670)
+||(Couples in a circle) | == In 4 == |
+|-----|----|-----|
+V1
+Slip
+ L; 
+S
+lip
+ R
+2;2|
+Ch
+Lys Double fwd & clap; return to place
+; Set & turn (Facing 
+ptnr
+)
+1;1|
+;2
+Lds Double fwd & clap; return; S
+et & turn
+1;1;2|
+V2
+Take hands, Double
+ 
+in (whooping) & out (2x)
+; repeat Chorus
+2(2x)
+;8
+V3
+Side 
+RL
+; repeat Chorus
+4;8|
+V4
+Arm 
+RL
+; repeat Chorus
+4;8|
+Shephe
+a
+rd's Holiday
+/Labour in Vaine
+ 
+(Playford, 1651) 
+(3 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double f
+wd & 
+b
+ack; Switch w/ 
+Ptnr
+; 
+Double d
+own & back; Switch
+2;1;2;1|
+C1
+C1 slip down in front of C2; C3 slip up behind C2 to create line
+1;1|
+Ld1 & Ly1 each cast to L, leading gender lines to or
+i
+g places
+2
+Repeat Chorus w/ C3 leading the slipping
+4
+V2
+Side R; Switch w/
+ 
+Ptnr; Sidle L; Switch w/ Ptnr
+2;1;2;1|
+C2
+Gender lines back a Double
+1
+Lds meet & make circle as Lys same; All circle L
+1;2|
+Gender lines back a Double
+2
+Lines meet in circles facing out; All circle L
+1;2|
+V3
+Arm R; Switch w/ 
+Ptnr
+;
+ 
+Arm L; Switch w/ 
+Ptnr
+2;1;2;1|
+C3
+Ld1 & Ly2 switch; Ly1 & Ld2 switch; C3 switch
+1;1;2|
+Ld1 & Ly3 switch; Ly1 & Ld3 switch; C
+2
+ switch
+1;1;2|
+English Country
+Spanish Jeepsie
+(Playford, 1651)
+(4 
+Couple
+s in a line)
+| ==In 4== |
+|-----|----|-----|
+V1
+Double fwd & back (2x)
+2(2x)
+Turn your back to 
+ptnr
+; turn to face 
+ptnr
+; Half gypsy switch & back w/
+ 
+ptnr
+1;1;2|
+C
+1
+End 
+Couple
+s Fwd & Back a Double (down the middle of the set)
+2
+Turn your back to opp; turn to face opp; Full gypsy R, then L 
+w/ 
+opp
+1;1;4|
+Repeat C
+h w/ middle two couples
+8
+V2
+Side 
+RL
+4
+Turn your back to 
+ptnr
+; turn to face 
+ptnr
+; Half gypsy switch & back w/
+ 
+ptnr
+1;1;2|
+C
+2
+Same as C
+1, e
+xcept replace full gypsies w/
+ 
+join hands for 4 & cir
+c
+le 
+LR
+16
+V3
+Arm 
+RL
+4
+your back to 
+ptnr
+; turn to face 
+ptnr
+; Half gypsy switch & back w/
+ptnr
+1;1;2|
+C3
+Same as C
+1, except replace full gypsies 
+w/ 
+R hand star then L hand star
+16
+St
+ingo
+(Playford, 1651)
+(3 
+Couple
+s in a line, facing)
+| ==In 4== |
+|-----|----|-----|
+V1
+Double back & fwd from ptnr; 
+Double fwd & back
+ w/ ptnr
+2;2|
+C
+1
+Lds R hand star; All Set & turn; Lys L star; All S
+et & turn
+2;2;2;2|
+V2
+Side 
+RL
+4
+C
+2
+Double to L & turn; Double R & face; Set & turn
+1;1;2|
+Double to R & turn; Double L & face; Set & turn
+1;1;2|
+V3
+Arm
+ 
+RL
+4
+C
+3
+C1 D
+ouble to cross & 
+face C2; C1 Set
+ 
+to C2 (Ld1 to Ly2) & Set
+ 
+to C3
+1;1|
+C1 go back to place passing 
+betw
+ C3 & C2
+ 
+& crossing at top of set
+2
+C1 cast & return to place in 1 Double; C1 two hand turn in 1 Double
+1;1|
+C1 cast off and end at bottom of line, creating new C1
+2
+Sweet Nothings
+ (Not your gaffer’s Gracca)
+(SCA Choreography)
+(2 Couples facing)
+| ==In 4== |
+|-----|----|-----|
+V1
+Double fwd & back (2x); Set and turn
+2(2x); 2
+Ch
+P
+tnr
+s
+ 
+back 
+& 
+fwd
+ a Double; Corner
+s
+ the same
+2;2|
+V2
+Hands 4 & Circle L, then R; Set & turn; Repeat Chorus
+4;2;4|
+V3
+Lds Side 
+LR
+; Set & turn; Repeat Chorus
+4;2;4|
+V4
+Lys Side 
+LR
+; Set & turn; Repeat Chorus
+4;2;4|
+V5
+Arm w/ 
+ptnr
+ 
+RL
+; Set & turn; Repeat Chorus
+4;2;4|
+Upon a Summer’s Day
+(Playford 1651)
+(3 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double f
+wd & back; S
+et & turn (2x)
+2;2 (2x)
+Ch
+Lds hands,
+ 
+& 
+Lys
+ ha
+nds - D
+ouble 
+fwd & back
+;
+ 2
+C1 split & under arch on own side to C3 position; repeat 2x
+2;8|
+V2
+Side R; Set & turn; Side L; S
+et & turn;
+ repeat
+ Chorus
+2;2;2;2;12
+V3
+Arm R; 
+Set & turn; Arm L; S
+et & turn
+; repeat Chorus
+2;2;2;2;12
+English Country
+Two Fat Ladies
+(SCA Choreography , 18
+th
+ C style)
+(4 Couples in a line)
+| == In 4 == |
+|-----|----|-----|
+P1
+Ends pull past 
+ptnr
+ by R hand & face center, as Centers ½ R hand star
+1
+& turn to face nearest End couple dancer; pull past that person by R hand
+1
+That again (switching End & Center roles) 3x
+2(3x)
+P2
+Lines D
+ou
+ble to meet; Centers fall back D
+ouble as Ends bend in the line
+1;1|
+Lds Star R & Lys Star L, crossing over as t
+Hey
+ go down the middle & leading
+out of the star on the other side to form longways set; honor your own
+2;1|
+Lds Star L & Lys Star R, again crossing over & forming longways set
+2
+Progress
+:
+ 
+Couple 1 takes
+ hands 
+and leads
+ 
+down the middle to take 
+C4 
+position 
+as 
+other couples move up one place.
+1
+Violets Fancie
+ 
+(SCA Choreography)
+(3 
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double fwd & back; Slow Set; repeat
+2;2;4|
+C1
+Ld1 & Ly 3 Cast off L (others following0; Furll turn ptnr
+2;2|
+C2 as much; Ld3 & Ly1 as much
+4;4|
+V2
+Side R; Slow Set; Side L Slow Set
+2;2;2;2|
+C2
+C1 lead full Crossover Hey and 1 extra pass; Reverse back to place 
+4;4|
+V3 
+Arm R; Slow Set; Arm L; Slow Set 
+2;2;2;2|
+C3 
+Ld1 change places with Ly2; Ld2; Ly3; Honor. 
+1;1;1;1|
+Ly2 as much, etc. (4x)
+4(4x)
+Whirlygig
+(Playford 1651)
+(3 
+Couple
+s in a line)
+| ==In 4== |
+|-----|----|-----|
+V1
+Double f
+wd & back (2x)
+2(2x)
+C
+1A
+Mushrooms – C2 pass up betw
+ C1 & cast to place; C2 cross
+over & go around C1 to place
+; Face down & do same betw
+ C
+3
+2;2;4|
+C
+h
+B
+C1 cast to bottom & make arch; C2 & C3 follow & go through to new place
+(Order of set is C2, C3, C1); Repeat entire chorus (2x)
+2;2;12;12
+V2
+Side 
+RL
+2;2|
+C2A
+Triangle-
+Hey
+s - Ld2 pass through C1 passing Ly1
+ 
+by R shoulders & 
+Hey
+ for 3 w/ C1 as Ly1 does the same w/ C3
+4
+Same w/ 
+Ld2
+ through C3
+ 
+by L shoulders & 
+Ly2 w/
+ 
+C1; Chorus B
+4;4|
+Repeat 
+entire 
+chorus (2x) until all are back to original place
+12;12
+V3
+Arm 
+RL
+2;2|
+C
+3A
+½ Cast to Star – C1 & C2 ½ cast down & to place; R hand 
+Star
+2;2|
+Repeat w/ C2 & C3 casting up in L hand star 
+4
+Repeat 
+Chorus B
+; Repeat entire chorus 2x
+4
+;12;12
+English Country
+Woodicock
+(Playford 1651)
+(3 
+Couple
+s in a line)
+| ==In 4== |
+|-----|----|-----|
+V1
+Double f
+wd & back (2x); Set & turn (2x)
+2(2x); 2(2x)
+C1
+Coup
+le 2 lead up betw
+ C1, C
+ast off, return to place
+2
+Couple 2 lead down betw
+ C3, C
+ast off, return to place
+2
+Set & turn (2x)
+2(2x)
+V2
+Side 
+RL
+; Set & turn (2x)
+4;2|
+(2x)
+C2
+Ld2
+ 
+cross over 
+& circle Ly1 to place as Ly 2 c
+ross & circle Ld 1 to place 
+2
+Ld2 cross and circle Ly3 to place as Ly2 circle Ld3; Set & turn (2x)
+2;2(2x)
+V3
+Arm 
+RL
+; Set & turn(2x)
+4
+;2(2x)
+C3
+Lds 
+Hey
+; Set & turn (2x); Lys Hay; Set & turn (2x)
+2; 2(2x);2;2(2x)
+Double 
+Hey
+; Set & turn (2x)
+2; 2(2x)
+Progression Dances
+Female Sailor
+(Recueil de Contradances 1706)
+||(Couples in a line) | ==In 4== |
+|-----|----|-----|
+(A) Up through line, around outside, & back to place
+2
+(A) Down through line, around outside, & back to place
+2
+(A) Cross over & down through line, around outside into ptnr’s place; 2 hand turn
+2;2|
+(A 
+w/
+ I) (A face down set, I up) Back to back; Two hand turn
+2;2|
+All 
+w/
+ 
+ptnr
+ Back to back
+2
+(A) 1/2 two hand turn, cast off & move down the set as
+(I) full two hand turn, moving up the set
+2
+The Fryar and the Nun
+(
+Playford 
+1651)
+||(Couples in a line) | == In 4 == |
+|-----|----|-----|
+Intro
+Lds Double fwd & 
+Turn single
+, face down
+ 
+hall
+ 
+Lys same
+2;2|
+Lys Double down hall & 
+Turn single
+, face ptnr; Lds same
+2;2|
+V1
+Lds
+ 
+1&2 back a Double & 
+Turn single
+; Lys1&2 same
+2;2|
+Gran
+d 
+RL
+ start w/ ptnr (2 Doubles);then corner (1 Double)
+;then ptnr
+2;1;1|
+Repeat pattern until all are back to original places
+8(Nx)
+V2
+Lds
+ 
+1&2 take hands & trade places; Lys1&2 the same
+1;1|
+Keeping hands, slip to center; 
+Turn single
+ 
+1;1|
+Hands around to circle halfway; all 
+Turn single
+1;1|
+R hand Star halfway around; 
+Turn single
+1;1|
+Repeat pattern until all are back to original places
+8 (Nx)
+Half Hannigan
+(Playford 1651)
+||(Circle of Couples) | == In 4 == |
+|-----|----|-----|
+Double f
+wd & back (2x); 
+Ptnr
+s side R & L
+2 (2x); 4
+Ptnr
+s arm R once around; arm L 1 ½ times to pass on to new 
+ptnr
+2;2|
+Progression Dances
+A Health to Betty
+(Playford 1651)
+(
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double f
+wd & back, Set & turn (2x)
+4(2x)
+C1
+C1 side R; C1 turn 1½ times to switch; C1 face down & same w/C2
+2;2;4|
+Continue pattern w/ all couples until all return to place 
+8 (Nx)
+V2
+ Side R, Set & turn, Side L; Set & turn
+2;2;2;2|
+C2
+C1 face & fwd & back a Double; C1 cast down 1 place as C2 move up
+2;1|
+C1 full turn; continue pattern w/ all couples until all to place
+1;4 (Nx)
+V3
+Arm R, Set & turn, Arm L; Set & turn 
+2;2;2;2|
+C3
+C1 fall back a Double & meet; C1 slip into C2's place (C2 up) & 
+Turn single
+2;2|
+ Continue pattern w/all couples until all to place
+4 (Nx)
+Hole in the Wall
+(Playford 1696)
+||(Couples in a line) | == In 6 == |
+|-----|----|-----|
+(
+A
+)
+ 
+Rev
+,
+ Cast 
+down
+ through IC & to place
+,
+ Rev
+; 
+(
+I
+)
+ same, casting up
+ through AC
+2
+;2
+(A Ld, I Ly) Rev, switch
+,
+ Rev
+; (I Ld, A Ly) Rev, switch, Rev
+1
+;1
+H
+ands 
+around
+ halfway
+; (A) cast down
+ 1 place as (I) pass up betw them
+1
+;1
+ 
+Irish Washerwoman 
+(SCA Choreography)
+(
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+P1
+Double fwd & back
+2
+C1 Cast to C2 place as C2 lead to C1 place & cast, 
+face down hall
+2
+P2
+Double fwd & back; Circle hands 
+four
+ once around
+2;2|
+P3
+Gender lines take hands & Double back & fwd; Turn ptnr by 
+two
+ hands
+2;2|
+Gender lines Double back & fwd; Turn ptnr 1½  times & face up hall
+2;2|
+Jamaica
+ 
+(Playford 1670)
+(
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+P1
+C1 takes R hands 1
+st
+ beat, L hands 3
+rd
+ beat; turn halfway
+1;1|
+C1 face C2, take hands similarly; turn halfway
+1;1|
+C1 full figure eight through C2, 
+half turn
+ to end proper
+ 4
+Repeat pattern until all are back to original places
+ (C1 start P2 when C2 free)
+P2 
+Ld1 & Ly2 two hand turn; Ly1 &
+ 
+Ld2 two hand turn
+2;2|
+Lds turn two hands 1½ while 
+Lys
+ turn two hands 1½
+2
+All turn own 
+ptnr
+s 
+2
+ hands
+; Repeat pattern to orig places
+2
+;8(Nx)
+Jog On
+(Playford 1651)
+(
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+Intro
+Double fwd
+ 
+& back, Set & turn (2x)
+4(2x)
+V1
+Ld1 pull Ly1 twd himself, then push away; Ld1 push Ly1 betw C2
+1;1|
+Ld1 join hands w/ C2 & circle Ly1
+2
+Repeat pattern until all are back to original places
+4(Nx)
+V2
+Ld1 push Ly1 around Ly2 into C2’s position (C2 moves up)
+2
+C1 two hand turn; Repeat pattern until all back to original places
+2;4(Nx)
+V3
+C1 pass by R and stand behind C2; C1 push C2 diag up hall & make kiss
+1;1|
+C1 arm R; Repeat pattern until all back to original places
+2;4(Nx)
+V4
+C1 cast into C2 place as C2 double fwd & back up into C1’s place
+2
+C1 arm R; ; Repeat pattern until all back to original places
+2;4(Nx)
+Progression Dances
+Juice of Barley
+(Playford 1689)
+(
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+B
+ack to back 
+w/
+ 
+ptnr
+; 
+T
+wo hand turn 
+w/
+ 
+ptnr
+2;2|
+Lds 
+half figure 8
+ betw
+ Lys
+ 
+into other Ld 's place
+2
+Clap (
+on down beat), Circle hands 4
+, once around
+2
+Lys
+ 
+half figure 8
+ 
+as 
+Lds
+ did; Clap & circle
+2
+;2
+My Lady Cullen
+(Playford 1651)
+(
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+P
+1
+Double f
+wd & back (2x)
+; Set & 
+Turn single
+ (2x)
+2(2x)
+; 2 (2x)
+P
+2
+(A) Cross by R shouldrs & behind
+ 
+(I); Cross
+ 
+R again
+ 
+to
+ 
+outside of (I)
+ 
+1;1|
+T
+ak
+ing
+ hands 4 abreast
+,
+ fwd & 
+back a double to orig place
+2
+R hand star; L hand star
+2;2|
+P
+3
+(A) cast out & below (I) & slip up betw
+; (I) cast out & above (A) & slip betw
+ 
+2
+;2
+Arches
+ 
+(A) slip under (I) as (I ) slip up; (I) under as (A) up; set & turn
+2;2|
+P
+4
+Cross as in P2
+4
+C
+lap & 
+(A) Ly & (I) Ly arm 1½ times as Lds do same; arm w/ 
+ptnr
+2;2|
+The Queen’s Jigg
+(Playford 1701)
+(
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+P1
+Ld1 side to Ly2, then set & turn; Ld2 side to Ly1, then set & turn
+4;4|
+P2
+Ld1 & Ly2 switch; Ld2 & Ly1 switch; Double back, Switch w/ own
+1;1;1;1|
+R hand star; 
+Turn single
+; Repeat dance as desired
+3;1; 16 (Nx)
+Paul's Steeple
+(Playford 1651)
+(
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+V1
+Double f
+wd & back, Set & turn (2x)
+4(2x)
+C1
+C1 take near hands facing C2; Ld1 lead Ly1 a Double to Ly2
+1;1|
+Ld1 take Ly2 w/ R hand; Ld1 slip w; Lys1&2 to C1's place
+1;1|
+Ly2 cast to place; Ly1 same; Ld1 cast & turn to place
+1;1;2|
+Continue pattern w/ all couples until all return to place
+8(Nx)
+V2
+ Side R, Set & tur
+n, Side L; Set & turn
+2;2;2;2|
+C2
+C1 take near hands & face C2; Ld1 leads Ly1 a Double to Ly2
+1;1|
+Ld1 1 take Ly2 w/ R hand; Ld1 slip w' Lys to C1's place
+1;1|
+Ld1 kiss Ly2's hand; Ld1 kiss Ly1's hand; All turn to place
+1;1;2|
+Continue pattern w/ all couples until all return to place
+8(Nx)
+V3
+Arm R, Set & turn, Arm L; Set & turn 
+2;2;2;2|
+C3
+C1 take near hands & face C2; Ld1 leads Ly1 a Double to Ly2
+1;1|
+Ld1 1 take Ly2 w/ R hand;Ld1 sets Lys back to back in center
+1;1|
+Ld1 kiss Ly2; Ld1 kiss Ly1; All turn to place
+1;1;2|
+Continue pattern w/ all couples until all return to place
+8(Nx)
+Progression Dances
+Peppers Black
+ 
+(Playford 1651)
+||(Circle of Couples, numbered CW) | == In 4 == |
+|-----|----|-----|
+P1
+Slide L; Slide R; Set & turn (2x)
+2;2;2(2x)
+P2
+C1 Fwd & back to C2 (2x); Turn Corner; Turn 
+Ptnr
+2(2x);2;2|
+ 
+Continue pattern until back to place, w/other couples following & performing
+The same pattern in order (Note: C2 starts when C1 gets to C4)
+8 (mult x)
+P3
+C1 Fwd & back to C2 (2x); 
+Hey
+, Lds start passing R
+2(2x);4
+Continue until back to place w/ other couples following
+8 (mult x)
+P4
+C1 & Ld2 Fwd & back (2x)
+2(2x)
+Ld1 turn body ½ turn L, pulling Ly1 under L arm’s arch
+2
+Ld 1 pull Ld2 under R hand’s arch; Ld 1 drop L hand & ½ turn R w/ Ly1
+2
+Repeat w/ Ly 2; Continue til back to place, other couples following
+4;8 (mult x)
+Rose is White and Rose is Red
+(Playford 1651)
+||(Couples in a circle, numbered CCW) | == In 4 == |
+|-----|----|-----|
+V1
+Holding hands, 
+Double f
+wd & back; Set & turn; repeat
+2;2;4|
+C1
+C1 Fwd & back to Ld2; C1 take hands w/Ld2 & circle; repeat w/ Ly2
+2;2;4|
+Continue pattern until back to place, w/
+ 
+other couples following & performing
+The same pattern in order (Note: C2 starts when C1 gets to C4)
+8 (mult x)
+V2
+Side R, Set & turn, Side L; Set & turn
+2;2;2;2|
+C2
+C1 Fwd & back to Ld2; C1 
+Hey
+ w/Ld2, Ld 1 starting; repeat w/ Ly2
+2;2;4|
+Continue until back to place w/ other couples following
+8 (mult x)
+V3
+Arm R, Set & turn, Arm L; Set & turn 
+2;2;2;2|
+C3
+C1 Fwd & back to Ld2; Ld2 pass under C1 arch, C1full turn
+2;2|
+Repeat w/ Ly2; Continue til back to place, other C’s following
+4; 8 (mult x)
+The Scotch Morris
+(Playford 1726)
+||(Couples in a line) | == In 4 == |
+|-----|----|-----|
+ALd set to ILy & 
+Turn single
+; ALd turns his own; ALy same w/ ILd
+ 
+& own
+2;2;4|
+AC Figure 8 around IC to place; AC Clap & cast down hall 1 place
+3;1|
+ALd switch w/ ILy; ALy switch w/ ILd; Hands around halfway; 
+Turn single
+1;1;1;1|
+Stanes Morris
+(Playford 1651)
+(
+Couple
+s in a line)
+| == In 4 == |
+|-----|----|-----|
+P1
+Double f
+wd 
+& b
+ack; that again
+2;2|
+Turn & Double L; Turn & Double R; Set & turn (2x)
+1;1;2(2x)
+P2
+Ld1 approach last Ly; Ld1 & last Ly side R; t
+Hey
+ take R hands, then L
+2;2;2|
+Ld1 & last Ly ½
+ 
+turn to L & kiss; ½
+ 
+turn to R & kiss; go to top of set 
+1;1;2|
+Repeat dance until all Lys have been active; Can have Ld1 cast to bottom on repeat.
+Progression Dances
+Trenchmore
+(Playford 1722)
+||(Couples in a line) | == in 4 == |
+|-----|----|-----|
+Double 
+fwd
+ & back (2x)
+2(2x)
+C1 take 
+3
+ steps fw
+d
+,
+ & 
+cast, leading other couples to bottom
+ of set then to place
+4
+C1 face down
+ 
+& 
+go
+ under 
+C2’s
+ arched hands
+, Over next C, etc, til all to place
+1(Nx)
+,
+C1 arm R 1½; C1 arm L w/ C2; C1 arm R, etc. to end of line 
+8(Nx)
+Repeat the dance 
+w/
+ the new C1
+Up Tailes All
+(Playford 1651)
+(about 4-7 
+Couple
+s in a circle, numbered CCW)
+| ==In 2== |
+|-----|----|-----|
+P1
+D
+ouble fwd & back; set & turn
+; repeat
+4;4 (2x)
+P2
+C1 lead out betw
+ C2 & cast to inside & clap; C1 arms R
+4;4|
+C1 same w/ C3 & so fwd, the rest following & doing the like
+4;4 (mult x)
+P3
+C1 lead & cast as in P2, C1 & C2 clap
+4
+ take R hands across once round
+4
+C1 same w/ C3 & so fwd, the rest following & doing the like
+4;4 (mult x)
+P4
+C1 lead & cast as in P2, C1 & C2 clap
+4
+ take hands & circle once round
+4
+C1 same w/ C3 & so fwd, the rest following & doing the like
+4;4 (mult x)
+Dances from the Gresley Manuscript, circa 1500
+Le Bens Distonys
+ 
+||(Couples) | == in 4 == |
+|-----|----|-----|
+Inside Single, Outside Single; Double
+1;1|
+Ld Double fwd & turn to face as Ly Double back
+ 
+1
+Double into ea other’s original place (facing fwd)
+1
+Ly Double fwd & turn to face as Ld Double back
+1
+Double to own original place (facing fwd)
+1
+(together) Single fwd, Single back; 
+Turn single
+1;1|
+Eglamour
+(3 people, single file)
+| == in 6 == |
+|-----|----|-----|
+Trace- 6 doubles
+12
+1
+ at a time, 3 singles fwd
+;
+ 
+1 at a time cast
+ 
+to back in 2 doubles
+6;12
+1
+ at a time, cast 
+L 
+fwd
+6
+1&
+3 switch in 2 doubles 
+as
+ 
+2 turns single; 2 cast to head of line
+4
+;2
+ 
+Repeat twice more 
+w/
+ new leader.
+Grene Gynger
+| == in 6 == |
+|-----|----|-----|
+Single fwd, Single back, double fwd; Repeat
+1;1;2;4|
+Heart: 2 Singles moving away from ptner; 1 Double casting to face
+2;2|
+2 Slip steps down the hall holding leading hands; turn back to back
+1;1|
+Still holding hands, 2 slip steps up the hall;turn to face
+1;1|
+turn L, double away from your 
+ptnr
+; turn, return in a double & face
+2;2|
+Double back from 
+ptnr
+ and fwd to meet
+4
+Heart: facing down the hall, same as above
+4
+Dances from the Gresley Manuscript, circa 1500
+New Yer de Tribus
+(set of 3 people in a file) 
+| == in 6 == |
+|-----|----|-----|
+4 Doubles fwd
+8
+Ld1 Double away
+;
+ Ld2 Double to catch up
+;
+ Ld
+3
+ same
+2
+;2;2|
+All half turn in a Double 3x
+2
+(3x)
+Ld3 Double away; Ld2 Double to catch up; Ld1 same
+2;2;2|
+All half turn in a double to reset in orig direction
+2
+P
+renes a Gard
+(set of 3 people abreast)
+| == in 6 == |
+|-----|----|-----|
+A
+Trace- 12 piva
+12
+B1
+1st jump, 2nd jump, 3rd turn
+1;1;2|
+B2
+3rd jump, 2nd jump, 1st turn
+1;1;2|
+B3
+1st jump, 3rd jump, 2nd turn
+1;1;2|
+C
+2nd 3
+ singles 
+fwd
+, 1&
+3 3 singles back
+3
+1st turn; 2nd 1/2 turn; 3rd jump
+3
+D
+ 
+1st & 3rd switch, 2nd through (2 doubles)
+4
+E
+1st turn, retrett, rake; 2nd turn, rake, retrett
+3rd retrett, rake, turn
+4
+F
+flowrdelice; double to place
+2;2|
+(The B parts happen sequentially.
+ 
+In parts C, D, and E
+each person does their own steps simultaneously
+Rawty de Duobus
+(
+Couple
+s)
+| == in 6 == |
+|-----|----|-----|
+Single fwd, Single back; Double fwd w/stomp; Double back w/stomp; repeat
+2;2;2;6|
+Ld Single fwd, Single back, Double Fwd & turn; Both 3 kicks; Double to meet
+4;2;2|
+Gallop L ; 3 Kicks; Double fwd to meet
+2;2;2|
+Talbott
+(
+Couple
+s)
+| == in 3 == |
+|-----|----|-----|
+A
+ 
+Trace 18 piva (end turning to face)
+18
+B1
+ 
+ S
+ingle L
+ fwd, Single R back, double fwd, passing R sh (pause)
+2;2;1|
+B2
+ 
+ Brawle 
+LR
+ (facing),double fwd, not passing (pause)
+2;2;1|
+C
+ 
+Single L 
+fwd
+, single R back, take R hands, switch in 3 singles.
+5
+D
+ 
+2 doubles 
+fwd
+, taking ordinary hands. (pause)
+5
+E
+Rake 
+LR
+, full turn in place. 
+2;3|
+REPEAT
+Steps in Gresley Dances
+Trett- Step 
+fwd
+ & close
+Retrett- Step 
+back
+ & close
+Brawle- Step sideways
+Rake- Step diagonally 
+fwd
+, 
+w/
+ a sweeping motion
+Flowrdelice- 3 kicks
+Other Dances
+John Tallow’s Canon
+(Adaptation of Shaw 20
+th
+ C)
+(2 couples in square, partner opposite)
+| == In 4 == |
+|-----|----|-----|
+First couple starts dance; second couple repeats all steps 4 counts later
+Forward & back a double
+2
+Forward & curve around  switching places (? pattern)
+2
+Repeat doubles & ? pattern
+4
+Take R hands & circle CW  back to place; Step L&R, & turn single
+2;2|
+Take L hands & circle CCW back to place; Step L&R, & turn single
+2;2|
+Korobushka
+(Russian - 20th C. Folk Revival)
+(
+Couple
+s facing CCW around a circle)
+| == In 4 == |
+|-----|----|-----|
+P1
+Step RR; Step LL; Step R L; Face 
+ptnr
+1;1;1;1|
+P
+2
+Spin away & clap; Spin
+ back & clap (take hands)
+1;1|
+Come together & apart; switch sides
+1;1|
+P3
+ 
+Repeat Part 2 to get to orginial position
+4
+Moonshine
+||(Couples) | == In 4 == |
+|-----|----|-----|
+(L hands joined) move R hand out, in, out, in
+1
+Spin away (3 counts) & clap; Spin back (3 counts) & clap
+½;½
+(Hook R arms behind back) Circle forward
+2
+(L hands joined) move R hand out, in, out, in
+1
+Spin away (3 counts) & clap; Spin back (3 counts) & clap
+½;½
+Hook R arms & circle fwd; R arm on partner’s waist & circle forward
+2;2|
+Circle backward, kicking L foot
+2
+Ländler
+(Austrian Folk Dance)
+||(Couples) | == In 6 == |
+|-----|----|-----|
+Turn out, in, out, & turn under joined arms; Repeat (2x)
+2;2(2x)
+Ly turns under Ld ’s arm 3 times
+2;2|
+(w/ Ld facing fward, taking hands)Ld moves fwd & Ly back, swinging arms out & in
+4
+Ly turns under outside arm & waltz around
+4
+Ly turns back to face & under other arm & waltz around
+4
+Drop hands into country waltz hold & free waltz
+4
+ Ländler
+ Polka (step, close, step, hop) (4x), change direction each time
+1(4x)
+(join hands R to R, L to L, R on top) Ly goes behind to Ld ’s R side, lead around
+4
+Ly moves to Ld ’s L side, lead around
+4
+Turn into R little window & waltz around;Turn into L little window; & waltz around
+8;8|
+Turn into R big window & waltz around;Turn into L big window & waltz around
+4;4|
+Drop hands into country waltz hold & free waltz
+4
+Ländler Polka (step, close, step, hop) (4x), change direction each time
+1(4x)
+Other Dances
+Oncoming Pelican
+(SCA choreography)
+(4 couples in a Square)
+| == In 4 == |
+|-----|----|-----|
+(Sides do everything 8 beats after the Heads. Instructions are for the Heads)
+V1
+Double fwd & back; Set & turn; Repeat
+2;2;4|
+C1
+Turn Opposite by R hand; lead to place & cast to corner position
+2;2|
+Double fwd raising arch for sides; switch w/ prtnr, 1 couple under other’s arch1;1|
+Double to place; Switch w/ prtnr
+1;1|
+V2
+Side L; Set & turn; Side R; Set & turn
+2;2;2;2|
+C2
+Double fwd; Circle 5/8 (Lds have backs to Sides, Lys to Heads)
+1;1|
+Double straight back; Turn R w/ Double R (to end in corners)
+1;1|
+Double fwd, circle facing out to place
+2
+Double to place; turn single to face in
+1;1|
+V3
+Arm L; Set & turn; Arm R; Set & turn
+2;2;2;2|
+C3
+Heads do C1 then C2 as Sides do C2 then C1
+16
+Quen Quer Que na Virgen Fia
+(SCA choreography)
+(circle)
+| == In 4 == |
+|-----|----|-----|
+V
+Double 
+LR
+; Single 
+LR
+; Double L; Single R
+2;1;1;½
+Same, but spin on 1
+st
+ Double L; Same but spin on 2
+nd
+ Double L
+4½;4½
+Same but spin on both Doubles L
+4½
+Ch
+Same pattern of steps, but Sprial in & out (moving L) on Double 
+LR
+ (2x)
+4½(2x)
+Repeat many times (music begins w/Ch; Ch repeats 2x at end of dance)
+Road to the Isles
+(Scottish 19th C. style - SCA Choreography)
+(
+Couple
+s)
+| == in 4 == |
+|-----|----|-----|
+Point L foot, Step behind
+ 
+L, to the side R, cross 
+fwd 
+L, Point R foot
+2
+Step behind R, to the side
+ 
+L, cross 
+fwd
+ R, Point L foot, Step back
+ 
+L
+2
+Step LRL hop; Step RLR hop & turn; Step LRL hop & turn; Back RLR hop
+1;1;1;1|
+Step LRL hop & turn; Back RLR hop; Step LRL hop & turn; Back RLR hop
+1;1;1;1|
+Ld walks 
+fwd
+ 
+w/
+ Ly turning under R arm
+4
+Come together, apart, & move back into original position
+2
+Saint Barbara's
+(SCA Choreography)
+(Longways for as Many as Will)
+| == In 4 == |
+|-----|----|-----|
+C1 dances as normal, each other C dances 2 bars behind the one in front.
+V1
+Double fwd & back; Set & turn; repeat
+2;2;4|
+C1
+Double fwd; Turn single away from Ptnr; Cast down 2 places
+1;1;2|
+Double fwd; Turn single away from Ptnr; Turn Ptnr
+1;1;2|
+V2
+Side R; Set & turn; Side L; Set & turn
+2;2;2;2|
+C2
+Take R hands w/Ptnr; Star 1/4 w/ 2 Singles
+1
+Lead down center of set to next C; Star 1/4 w/ 2 Singles 
+1;1|
+Turn single up the set to Ptnr's position; repeat
+1;4|
+V3
+Arm R; Set & turn; Arm L; Set & turn
+2;2;2;2|
+C3
+Pass down betw C below & cast to place; repeat w/ C above
+2;2|
+Cast around C below and lead to place; repeat w/ C above
+2;2|
+Other Dances
+ 
+Saltarello II (Prendente in Gyro)
+(SCA choreography)
+||(Circle of 3 or more Couples) | == In 4 == |
+|-----|----|-----|
+A
+Beginning L, double in; double out
+1;1|
+Palm R 
+w/
+ 
+ptnr
+ & switch in a double
+1
+Palm L 
+w/
+ 
+ptnr
+ & switch back in a double
+1
+Palm R 
+w/
+ contrary & switch; take hands in a circle
+1
+B
+Beginning R, double in & drop contrary’s hand
+1
+Convert a double 
+w/
+ 
+ptnr
+; double out
+1;1|
+Dropping hands, palm R 
+w/
+ 
+ptnr
+ & switch in a double
+1
+Palm L 
+w/
+ 
+ptnr
+ & switch in a double
+1
+C
+Hey
+ in 4 doubles, Lds CCW, Lys CW pass 4 people beginning 
+w/
+R shoulders & alternating
+4
+Repeat Part A; B
+5;5|
+D
+Palm L 
+w/
+ 
+ptnr
+ & switch in a double (completing circle)
+1
+Figure 8
+ 
+circle around counter in 2 doubles, passing R shoulders
+2
+Circle around 
+ptnr
+ in 2 doubles, passing L shoulders
+2
+Circle around counter in 2 doubles, passing R shoulders
+2
+Repeat Part A; B; D
+5;5;7|
+Repeat Part A,;B; C; A
+5;5;4;5|
+Close 
+In & out a double, honors
+1;1|
+Saltarello la Regina
+(SCA Choreography)
+||(Couples)||
+|-----|----|-----|
+V1
+Inside single; Outside single
+½;½
+Ch
+Inside double; Outside single away from your 
+ptnr
+1;½
+Inside single toward your 
+ptnr
+; Outside double 
+back
+½;1
+V2
+Repeat V1; Chorus
+1;3|
+V3
+Ld turn under Ly’s arm in 2 inside singles;Ly same under Ld 's arm 
+1;1|
+Chorus
+3
+V4 
+Repeat V3, Ly turning first; Chorus
+2;3|
+V5
+Ld circles around Ly in 4 singles; Chorus
+2;3|
+V6
+Repeat V5, Ly circling; Chorus
+2;3|
+V7
+The couple joins both hands & turns in a CW circle in 6 singles
+3
+Chorus
+3
+V8
+Repeat V7, circling in the opposite direction; Chorus
+3;3|
+Other Dances
+%%%spanish_pavan
+Spanish Pavan 
+Thoinot Arbeau 
+Other
+||(Couples)||
+|-----|----|-----|
+P1
+Step L, Close R; Step R, Close L; Step L & cut  R under L
+7 Fleurets (3 kicks, pause) in fig 8 pattern, & small leap to end facing ptnr
+(fig 8 - turn away from ptnr, cross in ctr Ly above, turn to meet on ptnr's side)
+Kick RLR (face down hall); Repeat P1 & end facing up hall
+P2
+Step L, Close R; Step R, Close L; Step L & cut  R under L
+Join hands & Kick RR, LL; full turn in 2 Fleurets
+Kick RR, LL; half turn in Fleuret, leap to face partnr
+Kick RLR (face down hall); Repeat P2 & end facing up hall
+P3
+Step L, Close R; Step R, Close L; Step L & cut  R under L
+3 Galliards, 1 Fleuret, leap in X pattern (Ly upper half of X, Ld lower), 
+Kick RLR (face down hall); Repeat P3 & end facing up hall
+P4
+Step L, Close R; Step R, Close L; Step L & cut  R under L
+Kick back R, Fwd L, back R, land; Kick back L, fwd R, back L, land
+Kick LR & la Volta half turn (Ly leaps & man lift w/ L knee)
+Kick RLR (face down hall); Repeat P4 & end facing up hall
+The Traitor's Measure
+(SCA Choreography)
+||(Couples in a line) | == In 3 == |
+|-----|----|-----|
+P1
+Singles LR; Double L; Riprese RLR; Bransle L
+; Repeat
+ 
+starting R
+2;2;3;1;8|
+P2
+Take R hands & Singles LR; Double L; Riprese RLR; Bransle L
+2;2;3;1|
+Take L hands & Singles RL; Double R; Riprese LRL; Bransle R
+2;2;3;1|
+P3
+Ld: turn over L  in quick Doubles LR; turn over R in Doubles LR
+2;2|
+Ld backs Ly up 
+Singles LR, Double L, Ly Rev
+4
+P4
+Repeat P3 w/ Ly leading
+8
+Index
+A
+Adson's Saraband
+34
+Alenchon
+7
+All in a Garden Green
+34
+Allegrezza d’Amore
+ 
+/Caroso
+18
+Alta Regina
+ 
+Carolingian Accademia/Caroso
+19
+Altezza d’Amore
+ 
+Etienne de Clermont/Caroso
+18
+Amoroso (Nürnberg)
+ 
+Thea of Jaravellir
+10
+Amoroso
+10
+Anello
+ 
+Sion Andreas o Wynedd/Domenico
+10
+Argeers
+34
+Aridan Bransle
+4
+B
+Ballo del Fiore (for 2)
+ 
+Teleri ferch Morgant ap Rhys 
+/Caroso
+19
+Ballo del Fiore (for 3)
+ 
+Joanna of Beechwoods/Caroso
+19
+Barcelonne
+8
+Beggar Boy
+34
+Belfiore
+ 
+Rosina del Bosco Chiaro/Domenico
+11
+Bella Gioiosa
+ 
+Etienne de Clermont/Caroso
+20
+Belle Qui Pavanne
+ 
+/Ingrid Brainard
+2
+Belreguardo
+ 
+Rosina del Bosco Chiaro/Domenico
+11
+Bens Distonys
+ 
+/Emma Dansmeyla & Robyn Whistler
+59
+Bizzaria d'Amore
+ 
+/Negri
+21
+Black Alman
+4
+Black Nag
+35
+Boate Man
+ 
+Saltatoris Guild/
+35
+Bonny Bonny Broom
+ 
+Saltatoris Guild/
+35
+Brando di Cales
+ 
+Sion Andreas o Wynedd/Negri
+22
+Bransle Aridan 
+4
+Bransle Burgundian
+4
+Bransle Cassandra
+5
+Bransle Charlotte
+5
+Bransle de la Haye
+:
+Sion Andreas o Wynedd
+5
+Bransle de Malte
+ 
+Felice Debbage
+6
+Bransle de Poitou
+ 
+Darius
+6
+Bransle d'Escosse
+ 
+Darius
+7
+Bransle Double
+5
+Bransle Pinagay
+6
+Bransle Single
+7
+Burgundian Bransle
+4
+Burley Mariners
+ 
+/Dafydd Arth
+35
+C
+Candida Luna
+ 
+Guillaume di San Marino/Caroso
+22
+Candlestick Bransle
+5
+Carolingian Pavanne
+ 
+/Ingrid Brainard
+2
+Cassandra 
+5
+Castellana
+ 
+Etienne de Clermont/Caroso
+22
+Castile la Novele
+8
+Casuelle Novelle
+8
+Charlotte 
+5
+Chestnut
+36
+Chiara Stella
+ 
+Julian ferch Rhys
+/Caroso
+20
+Chiaranzana
+ 
+Angene Feves & Jane Peck/Caroso
+23
+Chirintana
+ 
+Judith of Northumbria/
+11
+Clogs’ Bransle
+ 
+Henry of Maldon
+5
+Colonnese
+ 
+/Guglielmo
+11
+Confesse
+36
+Contentezza d'Amore (Il Ballaroni)
+ 
+Urraca Yriarte de Gamboa/Caroso
+23
+Contentezza d'Amore (Nobiltà)
+ 
+Urraca Yriarte de Gamboa/Caroso
+23
+Conto Dell’Orco
+ 
+Guillaume di San Marino/Caroso
+24
+Contrapasso
+ 
+Margaret Roe/
+24
+Contrapasso in Due
+ 
+Teleri ferch Morgant ap Rhys 
+/Caroso
+24
+Coronita Gentile
+ 
+Rosina del Bosco Chiaro/Guglielmo
+9
+Crossed Purposes
+ 
+/Sion Andreas o Wynedd
+36
+Cuckolds All A Row
+37
+D
+Danse de Cleves
+8
+Dargason
+37
+Dolce Amorosa Fiamma
+ 
+Urraca Yriarte de Gamboa
+24
+Donna Leggiadra
+ 
+Diana Cruickshank/Caroso
+25
+Double Bransle
+5
+Dull Sir John
+ 
+Saltatoris Guild/
+37
+E
+Earl of Essex Measure
+3
+Earl of Salisbury Pavanne
+ 
+Guillame di San Marino/Mabel Dolmetch
+2
+Eglamour
+ 
+Cait Webb
+59
+Epping Forest
+ 
+Saltatoris Guild/
+37
+Escosse Bransle
+ 
+Darius
+7
+F
+Faine I Would If I Could
+38
+Fedelta
+ 
+Alina Foxwood/Caroso
+25
+Fedelta d'Amore
+ 
+Sion Andreas o Wynedd/Negri
+26
+Female Sailor
+55
+Fia Giuelmina
+ 
+Rosina del Bosco Chiaro/Domenico
+12
+Fiamma d’Amore
+ 
+Various/Caroso
+25
+Fine Companion
+38
+Five Hundred Pound Canaries Bransle
+   
+/Sion Andreas o Wynedd
+6
+Fryar and the Nun
+55
+Fulgente Stella
+ 
+Alina of Foxwood/Caroso
+26
+Furioso
+ 
+Sion Andreas o Wynedd/Caroso
+27
+G
+Galliard Variations
+ 
+Felice Debbage/Compasso
+33
+Gathering Peascods
+38
+Gelosia
+ 
+/Domenico
+12
+Gentilezza D’Amore
+ 
+Adele Desfontaines/Caroso
+27
+Ginevra Weasley
+ 
+Rosina del Bosco Chiaro/Guglielmo
+8
+Gioioso in Tre
+ 
+Rosina del Bosco Chiaro/Guglielmo
+12
+Giove
+ 
+Maurin Lessault/Domenico
+13
+Glory of the West
+ 
+James Blackcloak
+39
+Goddesses
+39
+Golden Pavanne
+ 
+/Sion Andreas o Wynedd
+2
+Gracca Amorosa
+ 
+Urraca Yriarte de Gamboa/Caroso
+27
+Gratia d’Amore
+ 
+Urraca Yriarte de Gamboa/Caroso
+28
+Gratioso
+ 
+Lowrie Leulyn/Negri
+28
+Graziosa
+ 
+Rosina del Bosco Chiaro/ Guglielmo
+12
+Grene Gynger
+ 
+Emma Dansmeyla & Martin Bildner
+59
+Griffoné d'Oro (A Lieta Vita)
+ 
+/Alina of Foxwood
+29
+Grimstock
+39
+H
+Half Hannigan
+55
+Haye Bransle
+ 
+Sion Andreas o Wynedd
+5
+Haymaker's Jig
+61
+Health to Betty
+ 
+Felice Debbage
+56
+Health, the
+ 
+James Blackcloak
+40
+Heart’s Ease
+39
+Heralds in Love
+ 
+/Iulstun Sigewealding
+40
+Hermit’s Bransle
+ 
+Darius
+5
+Hit and Misse
+40
+Hockley in the Hole
+ 
+Aaron Drummond
+41
+Hole in the Wall
+56
+Horses’ Bransle
+ 
+Henry of Maldon
+5
+Hyde Park
+41
+I
+If All the World Were Paper
+41
+Il Bianco Fiore
+ 
+Aidan Morgana Evans/Negri
+21
+Irish Gypsy
+ 
+/Dafydd Arth
+42
+J
+Jack Pudding
+ 
+Saltatoris Guild
+42
+Jamaica
+56
+Jenny Pluck Pears
+42
+Jog On
+ 
+Felice Debbage
+56
+John Tallow’s Canon
+ /Sion Andreas o Wynedd
+61
+Jouyssance Vous Donneray
+8
+Juice of Barley
+ 
+Cecil Sharpe/
+57
+K
+Kelsterne Gardens
+43
+Kemps Jegg
+ 
+Felice Debbage
+43
+Kettle
+ 
+Drum
+43
+Kohanoshka
+61
+Korobushka
+61
+L
+Labour in Vaine
+ 
+See Shepheard's Holiday
+52
+Laccio d’Amore
+ 
+Etienne de Clermont/Caroso
+28
+Lady Cullen
+57
+Lady Layton’s Measure
+ 
+Richard Powers
+4
+L'Amoroso (Nürnberg)
+ 
+Thea of Jaravellir
+10
+Ländler
+62
+Lauro
+ 
+Brainard/Lorenzo de Medici
+9
+Le Bens Distonys
+ 
+Emma Dansmeyla & Robyn Whistler
+59
+Leggiadria d’Amore
+ 
+Urraca Yriarte de Gamboa/Caroso
+29
+Leoncello Novo
+ 
+/Domenico
+13
+Leoncello Vecchio
+ 
+/Domenico
+13
+Lo Spagnoletto
+ 
+Etienne de Clermont/Negri
+30
+Lorayne Alman
+4
+Lord of Carnavan’s Jegg
+44
+Lord Sun & Lady Moon
+ 
+/Dafydd Arth
+44
+Loup Courant Pavanne
+ 
+/Michaela de La Chesnaye des Bois
+2
+Lull Me Beyond Thee
+ 
+Gwommy Anpurpaidh
+44
+M
+Madam Sosilia’s Alman
+3
+Mage on a Cree
+45
+Maid Peeped Out the Window
+45
+Maltese Bransle
+ 
+Felice Debbage
+6
+Maltese Bransle (SCA) 
+6
+Maraviglia d’Amore
+ 
+Diana Cruickshank /Caroso
+29
+Marchesana
+ 
+Rosina del Bosco Chiaro/Domenico
+13
+Mayden Lane
+ 
+Aaron Drummond
+45
+Mercantia
+ 
+Rosina del Bosco Chiaro/Domenico
+14
+Merry Merry Milk Maids
+ 
+/Aaron Drummond
+45
+Milke-Mayds Bobb
+ 
+Saltatoris Dance Guild
+46
+Miller of Dee
+ 
+/Sion Andreas o Wynedd
+46
+Monsieur’s Alman
+ 
+see Earl of Salisbury Pavanne
+2
+Montarde Bransle
+6
+Moonshine
+62
+Mordred's Lullaby
+ 
+/Rosina del Bosco Chiaro
+9
+Moys de may
+8
+My Lady Cullen 
+57
+N
+New Alman
+4
+New Exchange
+ 
+Saltatoris Dance Guild
+46
+New Yer de Tribus
+ 
+Emma Dansmeyla & Martin Bildner
+60
+Newcastle
+ 
+Gwommy Anpurpaidh
+46
+Night Peece
+ 
+Felice Debbage
+47
+Nonesuch
+ 
+Gwommy Anpurpaidh
+47
+O
+Official Bransle
+ 
+Felice Debbage
+6
+Old Alman
+ 
+Traehern & Janelyn
+3
+Old Mole
+47
+On the Banks of the Helicon
+ 
+/Daffyd Arth
+48
+Oranges & Lemons
+48
+P
+Parson’s Farewell
+48
+Pauls Steeple
+ 
+Felice Debbage
+57
+Pease Bransle
+6
+Pennsic Dance
+ 
+/James Blackcloak
+49
+Peppers Black
+ 
+Felice Debbage
+58
+Petit Vriens
+ 
+Brainard&Rosina/Guglielmo
+14
+Petite Rose
+ 
+Judith of Northumbria/
+14
+Picking of Sticks
+49
+Pinagay Bransle 
+6
+Pizocara
+ 
+Rosina del Bosco Chiaro/Domenico
+14
+Poitou Bransle
+ 
+Darius
+6
+Prendente in Gyro
+ 
+/Ihon Vinson macFergus
+63
+Prenes a Gard
+ Cait Webb
+60
+Prexonera
+ 
+Delbert von Straßburg/Domenico
+15
+Prince William’s Hey
+49
+Puzzle Box
+ 
+/Dafydd Arth
+50
+Q
+Quadran Pavanne
+3
+Queen’s Alman
+3
+Queen’s Jigg
+ 
+Felice Debbage
+57
+Quen Quer Que na Virgen Fia
+ 
+/Sion Andreas o Wynedd
+62
+R
+Rawty de Duobus
+ 
+Emma Dansmeyla & Martin Bildner
+60
+Return of Spring
+ 
+/Ellisif Flakkari
+50
+Riunione
+ 
+/Rosina del Bosco Chiaro
+10
+Road to the Isles
+62
+Rondo Tutti Battuti
+ 
+/Sion Andreas o Wynedd
+6
+Rose is White and Rose is Red
+ 
+Felice Debbage
+58
+Rosina
+ 
+Rosina del Bosco Chiaro/Guglielmo
+15
+Rostiboli Gioioso
+ 
+Rosina del Bosco Chiaro/Domenico
+15
+Rufty Tufty
+51
+S
+Saint Barbara's
+ 
+/James Blackcloak
+63
+Saint. Martin's
+ 
+Aaron Drummond
+52
+Saltarello II
+ 
+/Ihon Vinson macFergus
+63
+Saltarello la Regina
+ 
+/Geffrei Louarn de Kaermeriadec
+64
+SCA Maltese Bransle 
+6
+Scotch Cap
+51
+Scotch Morris
+ 
+Felice Debbage
+58
+Scottish Bransle
+ 
+Darius
+7
+Sellinger’s Round
+52
+Shepheard's Holiday
+ 
+Felice Debbage
+52
+Single Bransle
+7
+Sionnan’s Shamrock
+ 
+/Dafydd Arth
+42
+Six Hand Reel
+64
+Spagnoletta Regolata
+ 
+/Caroso
+30
+Spagnoletto
+ 
+Etienne de Clermont/Negri
+30
+Spanish Jeepsie
+53
+Spero
+ 
+Rosina del Bosco Chiaro/Domenico
+15
+St. Joan
+ 
+/Sion Andreas o Wynedd
+51
+Stanes Morris
+ 
+Felice Debbage
+58
+Steps - 15
+th
+ C Italian Dance
+17
+Steps - 16
+th
+ C Italian Dance
+32
+Steps - Alman
+4
+Steps - Bransle
+7
+Steps - Gresley
+60
+Steps - Pavannes
+2
+Stingo
+53
+Sweet Nothings
+ 
+/Sion Andreas o Wynedd
+53
+T
+Talbott
+ Cait Webb
+60
+Tesara
+ 
+Rosina del Bosco Chiaro/Domenico
+16
+Tinternell
+ 
+Treahern & Janelyn
+3
+Torch Bransle
+5
+Torneo Amoroso
+ 
+Etienne de Clermont/Caroso
+31
+Traitor's Measure
+ 
+/Sion Andreas o Wynedd
+64
+Trenchmore
+59
+Trihory of Brittany
+ 
+Darius
+7
+Turkelone
+ 
+Traehern & Janelyn
+3
+Turkish Bransle
+6
+Two Fat Ladies
+ 
+/Sion Andreas o Wynedd
+54
+U
+Up Tailes All
+ 
+Henry of Maldon
+59
+Upon a Summer’s Day
+53
+V
+Verçepe
+ 
+Rosina del Bosco Chiaro/Domenico
+16
+Villanella
+Teleri ferch Morgant ap Rhys/
+Caroso
+32
+Villanicco
+ 
+Etienne de Clermont/Negri
+31
+Violets Fancie
+ 
+Gwommy Anpurpaidh/James Blackcloak
+54
+Vita di Cholino
+ 
+Rosina del Bosco Chiaro/Giovannino
+17
+Vite de Colei
+ 
+Thea of Jaravellir
+17
+W
+War Bransle
+7
+Washer Woman’s Bransle
+7
+Whirlygig
+54
+Woodicock
+ 
+Felice Debbage
+55
+Inns of Court Cheat Sheet for Ball
+(repeat each dance as needed)
+Quadran
+ Set LR, D forward, Set RL, D back
+Turkelone
+ 
+Set LR
+ 
+D forward
+ 
+D back (2x)
+D forward, D back (4x)
+Earl of Essex
+ 
+D forward S back (4x)
+Set LR, D forward, D back
+Tinternell
+ 
+D forward, D back
+ 
+take R hands
+-
+Circl
+e
+ clockwise SS D 
+L hands
+-
+Circl
+e
+ counterclockwise SS D
+D forward, D back (3x)
+take R hands-Circle clockwise SS D 
+L hands-Circle counterclockwise SS D
+Old
+DDDD, take both hands
+Circling clockwise, SS D
+Circling counterclockwise, SS D
+Queens
+DDDD, D forward, D back
+Face, set and turn left
+D forward, D back
+Face, set and turn right
+Madam Sosilia
+ 
+SS D, S back
+ (2x)
+,
+face
+Set LR, Rv, SS D to switch, Rv, S
+S
+Embrace
+Set LR, Rv, SS D to switch, Rv, S
+S
+ 
+Embrace 
+Black
+ (as commonly done)
