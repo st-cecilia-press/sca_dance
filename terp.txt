@@ -461,1063 +461,383 @@ a small jump, kicking the feet back & forth
 Saut
 leap – end with feet together
 Basse Dances – Burgundian/French
+
+%%%alenchon
 Alenchon
- 
-(15
-th
- C. Brussels Ms)
-(
-Couple
-s in a line)
-| == In 3 == |
-|-----|----|-----|
-Rev; Bransle L; Singles 
-LR
-; Double L; Riprise R
-1;1;1;1|
-Singles 
-LR
-; Doubles LRL; SIngles 
-RL
-; Ripreses RLR; Bransle L
-1;3;1;3;1|
-Singles 
-LR
-; Double L; SIngles 
-RL
-; Ripreses RLR; Bransle L
-1;1;1;3;1|
-Singles 
-LR
-; Doubles LRL; SIngles 
-RL
-; Ripreses RLR; Bransle L
-1;3;1;3;1|
+Anonymous
+Basse Dance - Burgundian/French
+|( Couple s in a line) | == In 3 == |
+|----|-----|
+|Rev; Bransle L; Singles LR; Double L; Riprise R |1;1;1;1|
+|Singles LR; Doubles LRL; Singles RL; Ripreses RLR; Bransle L |1;3;1;3;1|
+|Singles LR; Double L; Singles RL; Ripreses RLR; Bransle L | 1;1;1;3;1|
+|Singles LR; Doubles LRL; SIngles RL ; Ripreses RLR; Bransle L |1;3;1;3;1|
+@@@@@
+
 Basse Dances – Burgundian/French
+%%%barcelonne
 Barcelonne/Le moys de may
- 
-(15
-th
- C. Brussels Ms)
-(
-Couple
-s in a line)
-| == In 3 == |
+Anonymous
+|(Couples in a line) | == In 3 == |
+|----|-----|
+|Intro: Rev; Bransle L| 1;1|
+|Singles LR; 3 Doubles LRL; Singles RL; Reprises RLR; Bransle L |1;3;1;3;1|
+|Singles LR ; Double L ; Singles RL ; Reprises RLR; Bransle |1;1;1;3;1|
+|Repeat lines 2 & 3; Rev|16;1|
+@@@@@
+
+%%%casuelle_novelle
+Casuelle Novelle /Castile la Novele
+Anonymous 
+Basse Dance - Burgundian/French
+|( Couples in a line) | == In 3 == |
 |-----|----|-----|
-Intro:
-Rev; Bransle L
-1;1|
-Singles 
-LR
-; 3 Doubles LRL
-; Singles 
-RL
-; Reprises RLR; Bransle L
-1;3;1;3;1|
-Singles 
-LR
-; Double L
-; Singles 
-RL
-; Reprises RLR; Bransle 
-1;1;1;3;1|
-Repeat lines 2 & 3; Rev
-16;1|
-Casuelle Novelle
-/Castile la Novele
- 
-(Toulouze 1488)
-(
-Couple
-s in a line)
-| == In 3 == |
-|-----|----|-----|
-Intro
-:
- 
-Rev
-; Bransle L
-1;1|
-P
-1:
-Singles 
-LR
-;
- 5 Doubles LRLRL
-; Reprises RLR; Bransle L
-1;5|
-;3;1|
-Singles 
-LR
-; Double L; Singles 
-RL
-; Reprises RLR; Bransle L
-1;1;1|
-;3;1|
-Repeat P
-1
-P
-2
- 
-Singles 
-LR
-; 3 Doubles LRL
-; Reprises RLR; Bransle L
-1;3|
-;3;1 
+|Intro:| Rev; Bransle L |1;1|
+|P1:| Singles LR; 5 Doubles LRLRL; Reprises RLR; Bransle L | 1;5;3;1|
+||Singles LR; Double L; Singles RL; Reprises RLR; Bransle L |1;1;1;3;1|
+|Repeat P1|
+|P2| Singles LR; 3 Doubles LRL ; Reprises RLR; Bransle L |1;3;3;1|
+@@@@@
+
+
+%%%danse_de_cleves
 Danse de Cleves
-(15
-th
- C. Brussels Ms)
-(
-Couple
-s)
-| == In 3 == |
+Anonymous
+Basse Dance - Burgundian/French
+||( Couple s) | == In 3 == |
 |-----|----|-----|
-P1
-Rev
-; Bransle L 
-1;1|
-Singles 
-LR
-; Doubles LRL; Singles 
-RL
-; Double R back (drop hands)
-1;3;1;1|
-P2
-Singles 
-LR
-, Double L (Ld fwd & back stem as Ly CW petal)
-1;1|
-Singles 
-RL
-; Double R (Ly f
-wd &
- 
-back stem as Ld CCW petal)
-1;1|
-P3
-Rev
-; Bransle L; Singles 
-LR
-; Double L; Double R (half turn)
-1;1;1;1|
-;1
-Double L; Singles 
-RL
-; Double R (half turn in place)
-1;1;1|
-P4
-Repeat P2
-4
-P
-5
-Singles 
-LR
-; Doubles LRL; Conge
-1
-;
-3
-;1
+|P1| Rev; Bransle L |1;1|
+||Singles LR ; Doubles LRL; Singles RL ; Double R back (drop hands) |1;3;1;1|
+|P2| Singles LR , Double L (Ld fwd & back stem as Ly CW petal) | 1;1|
+||Singles RL ; Double R (Ly fwd & back stem as Ld CCW petal) | 1;1|
+|P3| Rev; Bransle L; Singles LR; Double L; Double R (half turn) |1;1;1;1;1|
+||Double L; Singles RL; Double R (half turn in place) |1;1;1|
+|P4| Repeat P2| 4 |
+|P5| Singles LR; Doubles LRL; Conge |1;3;1|
+@@@@@
+
 %%%jouyssance
 Jouyssance Vous Donneray
 Thoinot Arbeau 
-?????
-(
-Couple
-s)
-Seq
-Rev; Bransle; Singles 
-LR
-; Double L;
- Riprese; Double L; Riprese; Bransle
-Singles 
-LR
-; Doubles LRL; Riprese; Double L Riprese; Bransle
-Singles 
-LR
-; Double L; Riprese; Bransle; Conge
-Ret
-Bransle; Double L; Riprese; Bransle
-Singles 
-LR
-; Doubles LRL; Riprese; Double L; Riprese; Bransle
+Basse Dance - Burgundian/French
+||(Couples)|
+|-----|-----|
+|Seq| Rev; Bransle; Singles LR; Double L; Riprese; Double L; Riprese; Bransle|
+|| Singles LR; Doubles LRL; Riprese; Double L Riprese; Bransle|
+|| Singles LR; Double L; Riprese; Bransle; Conge |
+|Ret| Bransle; Double L; Riprese; Bransle |
+||Singles LR; Doubles LRL; Riprese; Double L; Riprese; Bransle|
+@@@@@
+
 Basse Dances - Italian
+%%%ginevra_weasley
 Ginevra Weasley
-(Adapted from Guglielmo (Ambrosio) late 15
-th
- C)
-(
-Couple
-s
-)
-| == In 6 == |
+Rosina
+SCA Choreography
+||( Couples) | == In 6 == |
 |-----|----|-----|
-P1
-Singles LR, Doubles LR, Rev L; 
-Back
- Singles LR, MV R
-4;1|
-Voltacia (Rip L, Vt (SR, SL), Rip R) 
-3
-P2
-Repeat, going the other way, w/ Ly on L to start
-8
-P3
-R hands:
- 
-Singles LR, Double L; L hands:
- 
-Singles RL, Double R
-2;2|
-Rev L; Back Singles LR, MV R; Doubles LR, MV R
-1;1;2|
-P4
-Rip 
-LR
-; Singles LR, Double L; VdGypsy, Ly MV R; Rip 
-LR
-2;2;2;2|
-Repeat dance Ld & Ly exchanging roles & going down the hall.
+|P1| Singles LR, Doubles LR, Rev L; Back Singles LR, MV R |4;1|
+||Voltacia (Rip L, Vt (SR, SL), Rip R)| 3|
+|P2| Repeat, going the other way, w/ Ly on L to start |8|
+|P3| R hands: Singles LR, Double L; L hands: Singles RL, Double R |2;2|
+||Rev L; Back Singles LR, MV R; Doubles LR, MV R|1;1;2|
+|P4| Rip LR; Singles LR, Double L; VdGypsy, Ly MV R; Rip LR |2;2;2;2|
+||Repeat dance Ld & Ly exchanging roles & going down the hall.||
+@@@@@
+
 Basse Dances - Italian
+%%%coronita_gentile
 Coronita Gentile
-(Adapted from Guglielmo (Ambrosio))
-||(Couples facing from across room) | == In 6 == 
-V1
-Continenze 
-LR
-; Sempii 
-LR
-; Doppii 
-LR
-; RevL 
-1;1;2;1|
-PtL,PtR (back
-); MV into RipL; RipR, 
-1;1;1|
-Continenze 
-LR
-; Singles 
-LR
-; Doppii 
-LR
- 
-1;1;2|
-MV into Chorus (Ripresa L; VT (2 Sempii 
-RL
-), Ripresa R) 
-1;2|
-V2
- Continenze 
-LR
-; Sempii 
-LR
-; Doppii 
-LR
-1;1;2|
- 
-Continenze 
-LR
-; RevL (tou
-ching R hands) Pt 
-LR
- (back
-)
-1;1;1|
- 
-Sempii 
-LR
-, Doppii 
-LR
- (passing); MV into Chorus 
-1;2;3|
-V3
-Con 
-LR
-; 6 Salt (home); RevL; Pt
-LR
- (back); MV into Ch
-1;6;1;1;3|
-V4
-Continenze 
-LR
-; Doppii 
-LR
-; Lds Sempii 
-LR
-; Doppii 
-LR
-1;2;1;2|
- 
-R-hands Sempii 
-LR
-; Doppio L; L-hands Sempii 
-RL
-; Doppio R
-2;2|
- 
-(smaller so change sides, facing 
-ptnr
-); Chorus 
-3
-V5
-Continenze 
-LR
-; Lds Sempii 
-LR
-; Doppii 
-LR
- 
-1;1;2|
-(back to ptnr); Ch; Sempii 
-LR
-; Doppii 
-LR
-; MV into Ch
-3;1;2;3|
+Rosina
+SCA Choreography
+||(Couples facing from across room) | == In 6 == |
+|V1| Continenze LR; Sempii LR; Doppii LR; RevL |1;1;2;1|
+||PtL,PtR (back); MV into RipL; RipR, |1;1;1|
+||Continenze LR; Singles LR; Doppii LR |1;1;2|
+||MV into Chorus (Ripresa L; VT (2 Sempii RL), Ripresa R) |1;2|
+|V2| Continenze LR; Sempii LR; Doppii LR |1;1;2|
+|| Continenze LR; RevL (tou ching R hands) Pt LR (back) |1;1;1|
+|| Sempii LR, Doppii LR (passing); MV into Chorus |1;2;3|
+|V3| Con LR ; 6 Salt (home); RevL; Pt LR (back); MV into Ch |1;6;1;1;3|
+|V4| Continenze LR; Doppii LR; Lds Sempii LR; Doppii LR |1;2;1;2|
+|| R-hands Sempii LR ; Doppio L; L-hands Sempii RL; Doppio R |2;2|
+|| (smaller so change sides, facing ptnr); Chorus |3|
+|V5| Continenze LR; Lds Sempii LR; Doppii LR |1;1;2|
+||(back to ptnr); Ch; Sempii LR; Doppii LR; MV into Ch |3;1;2;3|
+@@@@@
+
+%%%lauro
 Lauro
-(Late 15
-th
- C Italian manuscripts)
-||(Couples in a line) | == In 3 == |
-|-----|----|-----|
-Singles 
-LR
-; Doubles 
-LR
-; 
-Rev
- L
-1;2;1|
-Reprises 
-LR
-; Singles 
-LR
-; Double L; Reprise R; Continenze 
-LR
-2;1;1;1;1|
-[R hands], Singles 
-LR
-; Double L; [L hands] Singles 
-RL
-; Double R
-1;1;1;1|
-Reprises 
-LR
-; Singles 
-LR
-;Doubles LR L; V
-dG
-; 
-Rev
- L
-2;1;3;2;1|
+Anonymous
+Basse Dance - Italian
+|(Couples in a line) | == In 3 == |
+|----|-----|
+|Singles LR; Doubles LR; Rev L |1;2;1|
+|Reprises LR; Singles LR; Double L; Reprise R; Continenze LR |2;1;1;1;1|
+|[R hands], Singles LR ; Double L; [L hands] Singles RL; Double R |1;1;1;1|
+|Reprises LR; Singles LR; Doubles LR L; V dG ; Rev L |2;1;3;2;1|
+@@@@@
+
+
+%%%mordreds_lullaby
 Mordred's Lullaby
-(SCA Choreography
-)
-(1 
-Couple
-, separated, Ld on L side of hall, Ly on R) 
-| == In 6 == |
+SCA Choreography
+||(1 Couple , separated, Ld on L side of hall, Ly on R) | == In 6 == |
 |-----|----|-----|
-Intro
-Ld 6 passi (2/ bar) to start position; 1 bar no move
-3;1|
-Ly 6 passi, end L of Ld (lead pos);1 bar, Ly takes Ld’s hand 
-3;1|
-Hush Chorus Riprese 
-LR
-; 2 Sempii; 3 Doppii; VdG 
-2;1;3;2|
-V1
-RevL, ¼ turn L, Ly leads Sempii 
-LR
-; Doppii 
-LR
-, MV 
-1;1;2|
- 
-Ld leads Sempii 
-LR
-; Doppii 
-LR
-, Ld MV to face; RevL 
-1;2;1|
-C1
-Ly circles Ld CW 
-w/
- 4 Doppii starting L
-4 
-V2
-Sempii 
-LR
-; Doppio L; (Ld back, Ly fwd), VdG
-1;1;2|
- 
-Sempii 
-LR
-; Doppio L; (Ly back Ld fwd), VT (S 
-RL
- DR CW)
-1;1;2|
-C2
-R hands, Semp 
-LR
- Dop L; L hands, Semp 
-RL
- Dop R, Ly MV
-2;2 
-Hush Chorus 
-8
-C3
-Ly 4 Doppii around Ld CW, as Ld 8 steps CW, inside Ly's circle 
-4
-(End w/ Ly to L of Ld, further apart, do not hold hands)
-V3
-Sempii 
-LR
- Dop 
-LR
-; Ld Rip 
-LR
- as Ly Dop 
-LR
- ½ around Ld
-3;2 
- 
-Sempii 
-LR
-; Doppii 
-LR
-, Ld backing up, Ly going 
-fwd
-1;2|
-C4
- Ly 4 Doppii in CW around Ld;MV, as Ld Rip
-LR
- into MV (2x) 
-4
-Hush Chorus (as before, except
- 
-Ld leading) 
-8
-Exit
-Ly 4 passi (1/bar), go behind Ld & L (can continue on Ld's music)
-4
-Ld 4 passi (1/bar), go off R & turn to look at the Ly at the end 
-4
-End in stillness. No Rev
+|Intro| Ld 6 passi (2/ bar) to start position; 1 bar no move |3;1|
+||Ly 6 passi, end L of Ld (lead pos);1 bar, Ly takes Ld’s hand |3;1|
+|Hush Chorus| Riprese LR ; 2 Sempii; 3 Doppii; VdG |2;1;3;2| 
+|V1| RevL, ¼ turn L, Ly leads Sempii LR; Doppii LR, MV |1;1;2|
+||Ld leads Sempii LR; Doppii LR, Ld MV to face; RevL |1;2;1|
+|C1| Ly circles Ld CW w/ 4 Doppii starting L |4 |
+|V2| Sempii LR; Doppio L; (Ld back, Ly fwd), VdG |1;1;2|
+|| Sempii LR ; Doppio L; (Ly back Ld fwd), VT (S RL DR CW) |1;1;2|
+|C2| R hands, Semp LR Dop L; L hands, Semp RL Dop R, Ly MV |2;2| 
+|Hush Chorus||8|
+|C3| Ly 4 Doppii around Ld CW, as Ld 8 steps CW, inside Ly's circle |4|
+||(End w/ Ly to L of Ld, further apart, do not hold hands)||
+|V3| Sempii LR Dop LR ; Ld Rip LR as Ly Dop LR ½ around Ld |3;2| 
+|| Sempii LR ; Doppii LR , Ld backing up, Ly going fwd |1;2|
+|C4| Ly 4 Doppii in CW around Ld;MV, as Ld Rip LR into MV (2x) |4|
+|Hush Chorus| (as before, except Ld leading) |8|
+|Exit| Ly 4 passi (1/bar), go behind Ld & L (can continue on Ld's music) |4|
+||Ld 4 passi (1/bar), go off R & turn to look at the Ly at the end |4|
+||End in stillness. No Rev||
+@@@@@
+
 Basse Dances - Italian
+%%%riunione
 Riunione
-(SCA Choreography)
-(
-C
-ouple
-s
-)
-| == In 6 == |
+Rosina
+SCA Choreography
+||(Couples) | == In 6 == |
 |-----|----|-----|
-P1
-Continenze 
-LR
-; Singles L
-R; Ripresa L, Ld starting w/ a MV
-1;1;1|
-Singles 
-RL
-, passing R shoulders
-1
-P2
-MV into Ripresa R; MV into Ripresa L; Double RLR, MV on last beat
-1;1;3|
-Saltarello LR L end L shoulders together (Ly facing down,the hall, Ld up)
-3
-P3
-Reverenza Longa R ; Volta del Gioioso, rotating around each other
-2;2|
-P4
-Doubles LRLR in sep CCW circles - end facing other way (Ly up hall, Ld down)
-4
-Take R hands, Singles 
-LR
-, Double L
-2
-Take L hands, Singles 
-RL
-, Double R (End 
-w/
- Ly facing down,
- 
-Ld up)
-2
-Reverenza L & drop hands
-1
-P5
-Riprese Portugalese back 
-LR
-; then 
-fwd
-s L; Single R; Pause
-2;1;½;½ 
-Riprese 
-LR
-, Ly first doing a MV, holding hands
-2
-Singles 
-LR
-; Doubles L 
-RL
-; Volta del Gioioso
-1;3;2|
+|P1| Continenze LR; Singles L R; Ripresa L, Ld starting w/ a MV |1;1;1|
+||Singles RL, passing R shoulders |1|
+|P2| MV into Ripresa R; MV into Ripresa L; Double RLR, MV on last beat|1;1;3|
+||Saltarello LR L end L shoulders together (Ly facing down,the hall, Ld up)|3|
+|P3| Reverenza Longa R ; Volta del Gioioso, rotating around each other |2;2|
+|P4| Doubles LRLR in sep CCW circles - end facing other way (Ly up hall, Ld down) |4|
+||Take R hands, Singles LR , Double L |2|
+||Take L hands, Singles RL , Double R (End w/ Ly facing down, Ld up) |2|
+||Reverenza L & drop hands| 1|
+|P5| Riprese Portugalese back LR ; then fwd s L; Single R; Pause |2;1;½;½ |
+||Riprese LR , Ly first doing a MV, holding hands |2| 
+||Singles LR ; Doubles L RL ; Volta del Gioioso |1;3;2|
+@@@@@
 Italian Balli (15
 th 
 Century)
+%%%amoroso
 Amoroso
-(Ambrosio (Guglielmo)
- 
-1475)
-||(Couples) | == In 4 == |
-|-----|----|-----|
-12
- 
-piva
- 
-(only 8 in some recordings)
-12
-Ld Singles 
-LR
-; Piva, Strutting singles RLR; Ly same to catch up
-1;1;1½ ;3½ 
-Ld Piva LRL, Single R; Lysame to catch up
-4;4|
-Ld Singles 
-LR
- Piva; Singles RLR turn & Rev; 3 Piva & 1 single bk; Ly same
-2;2;4;8|
+Ambrosio (Guglielmo)
+Italian Balli - 15th Century
+|(Couples) | == In 4 == |
+|----|-----|
+|12 piva (only 8 in some recordings)| 12|
+|Ld Singles LR; Piva, Strutting singles RLR; Ly same to catch up |1;1;1½ ;3½ |
+|Ld Piva LRL, Single R; Lysame to catch up| 4;4|
+|Ld Singles LR Piva; Singles RLR turn & Rev; 3 Piva & 1 single bk; Ly same |2;2;4;8|
+@@@@@
+
+%%%lamoroso
 L'Amoroso
- 
-(N
-ü
-rnberg Manuscript 1517)
-(One Couple, Ld on right)
-| == In 4 == |
-|-----|----|-----|
-12
- 
-piva
- 
-(only 8 in some recordings)
-12
-Ld 2 Pive; Ld slow Double; Ly same to catch up
-2;1½ ;3½
-Ld 2 Pive, slow Double, Movi; Ly same to catch up
-3½;3½
-Ld 3 Contrapassi w/ Rip on last, Ld Movi, Ly Rev, Ld Rev, Both Rev
-5
-Ld 2 Pive, slow Double, Movi
-3½
-Ly 3 Contrapassi w/ Rip on last, Ly Movi, Ld Rev; Ly Rev; Both Rev
-5
-Ly 2 Pive, slow Double
-3½
+Anonymous
+Italian Balli - 15th Century
+|(One Couple, Ld on right) | == In 4 == |
+|----|-----|
+|12 piva (only 8 in some recordings) | 12
+|Ld 2 Pive; Ld slow Double; Ly same to catch up| 2;1½ ;3½ |
+|Ld 2 Pive, slow Double, Movi; Ly same to catch up | 3½;3½|
+|Ld 3 Contrapassi w/ Rip on last, Ld Movi, Ly Rev, Ld Rev, Both Rev |5 |
+|Ld 2 Pive, slow Double, Movi |3½|
+|Ly 3 Contrapassi w/ Rip on last, Ly Movi, Ld Rev; Ly Rev; Both Rev |5|
+|Ly 2 Pive, slow Double | 3½|
+@@@@@
+
+%%%anello
 Anello
-(Domenico 1450)
-(2 
-Couple
-s facing)
-| == In 4 == |
+Domenico
+Italian Balli - 15th Century
+|(2 Couple s facing) | == In 4 == |
 |-----|----|-----|
-Intro
-All join hands & circle L 
-w/
- 8 salterelli
-8
-P1
-Movi [Lds then 
-Lys
-]; Lds switch in 2 salt; Movi (
-Lys
- then Lds); 
-Lys
- switch
-1;2;1;2|
-P2
-Movi [Lds 1st]; Lds 
-Turn single
-; Movi [
-Lys
- 1st]; 
-Lys
- 
-Turn single
- 
-1;1;1;1|
-P3
-Lds cast behind ptr & switch in 4 piva; 
-Lys
- same
-2;2|
-P4
-Movimenti [Lds then 
-Lys
-] 2x; Lds reprise; All reverenza
-2;1;1|
-Repeat 
-w/
- 
-Lys
- leading
+|Intro| All join hands & circle L w/ 8 salterelli |8|
+|P1|Movi [Lds then Lys ];Lds switch in 2 salt;Movi ( Lys then Lds);Lys switch| 1;2;1;2|
+|P2| Movi [Lds 1st]; Lds Turn single ; Movi [ Lys 1st]; Lys Turn single |1;1;1;1|
+|P3| Lds cast behind ptr & switch in 4 piva; Lys same| 2;2|
+|P4| Movimenti [Lds then Lys ] 2x; Lds reprise; All reverenza |2;1;1|
+||Repeat Dance w/ Lys leading||
+@@@@@
+
 Italian Balli (15
 th 
 Century)
+%%%belfiore
 Belfiore
-(Domenico)
-(Set of 3 people)
-| == In 4 == |
-|-----|----|-----|
-12 slow piva; L dancer double; Middle same; R same
-12; 1;1;1|
-L dancer movimento; Middle same; R same
-               
-| == In 2 == |
-|-----|----|-----|
-1;1;1|
-L dancer Voltat
-o
-nda (in a double); Middle same; R same
-    
-| == In 4 == |
-|-----|----|-----|
-1;1;1|
-L dancer 3 piva behind to R place; Middle same; R same
-   
- 
-| == In 6 == |
-|-----|----|-----|
-3;3;3|
-L & R dancers trade w/ a double (L 
-behind
-, R 
-in front)
-2
-Middle 4 piva 
-CCW 
-around 
-new
- R dancer 
-& behind new
- L dancer
- to L position
-4
-Repeat dance 2x to arrive in beginning positions
+Domenico
+Italian Balli - 15th Century
+|(Set of 3 people)| == In 4 == |
+|----|-----|
+|12 slow piva; L dancer double; Middle same; R same |12; 1;1;1|
+|L dancer movimento; Middle same; R same  **== In 2 ==** | 1;1;1|
+|L dancer Voltatonda (in a double); Middle same; R same  **== In 4 ==** | 1;1;1|
+|L dancer 3 piva behind to R place; Middle same; R same  **== In 6 ==** |3;3;3|
+|L & R dancers trade w/ a double (L behind, R in front) |2|
+|Middle 4 piva CCW around new R dancer & behind new L dancer to L position |4|
+|Repeat dance 2x to arrive in beginning positions|
+@@@@@
+
+%%%belreguardo
 Belreguardo
-(Domenico)
-(
-Couple
-s)
-| == In 6 == |
-|-----|----|-----|
-11 Saltarelli; Doubles LRLR; Contrapassi 
-LLL
-; Singles 
-RL
- 
-11;4;2;1|
-Contrapassi RRR; Rip 
-LR
-2;2|
-Saltarelli 
-LR
-; Rip 
-LR
-; Repeat
-2;2;4|
-Singles 
-LR
-; Double L, Rev R; Rip R; Con 
-LR
-; Rev
-1;1;1;1;1|
+Domenico
+Italian Balli - 15th Century
+( Couples) | == In 6 == |
+|----|-----|
+|11 Saltarelli; Doubles LRLR; Contrapassi LLL; Singles RL |11;4;2;1|
+|Contrapassi RRR; Rip LR| 2;2| 
+|Saltarelli LR; Rip LR; Repeat |2;2;4|
+|Singles LR; Double L, Rev R; Rip R; Con LR; Rev |1;1;1;1;1|
+@@@@@
+
 La Chirintana
-(Siena manuscript)
-(L
-ine of 
-Couple
-s)
-P1
-Process
-: Con 
-LR
-, Double L, Con
- R. 
-(until music changes)
-.
- 
-P2
-Snake Hay
-: 
-In Pive, 
-CI, leads to L, passing 
-betw
- C2 & C3. Once CI has passed C2, Ld2 leads Ly2 to follow CI
-, etc
-..CI 
-stops when they reach the end of the line;
- 
-other C's continue until the line resets
-.
-P3
-In and Out Hay
-:
- 
-C1 leads a 
-Hey
- for Couples
-, in Pive
-P4
-Circling
-:
- 
-Ld1 calls, "circle" & 
-all
- couples take R hands 
-& circle in
- 4 Pive. 
-Then take L 
-hands & do 4 Pive in the opposite direction.
-P5
-Brigomania
-: Couples form
- a long line, LyI taking Ld2’s hands, Ly2 Taking Ld3’s hand, etc., 
-w/
- Ld I leading the line, using Pive. 
+Anonymous
+Italian Balli - 15th Century
+||(Line of Couples) |
+|P1| Process: Con LR , Double L, Con R.  (until music changes).
+| P2| Snake Hay: In Pive, CI, leads to L, passing betw C2 & C3. Once CI has passed |
+||C2,Ld2 leads Ly2 to follow CI, etc.. CI stops when they reach the end of the line;| 
+||other C's continue until the line resets.|
+|P3| In and Out Hay: C1 leads a Hey for Couples, in Pive |
+|P4| Circling: Ld1 calls, "circle" & all couples take R hands & circle in 4 Pive.| 
+||Then take L hands & do 4 Pive in the opposite direction. |
+|P5| Brigomania : Couples form a long line, LyI taking Ld2’s hands, |
+||Ly2 Taking Ld3’s hand, etc., w/ Ld I leading the line, using Pive. |
+@@@@@
+
+%%%colonnese
 Colonnese
-(Guglielmo (Ambrosio) 1463)
-(Line of 3 
-Couple
-s)
-| == In 6 == |
-|-----|----|-----|
-16 Salterelli
-16
-C1 still, as C2 R hands - Sing 
-LR
-, Double L; L hands - Sing 
-RL
-, Double R; RevL, 
-as C3 weave to top 
-w/
- Sing 
-LR
-, 4 Doubles, Ld ends on R; repeat
- 
-2x
-5;10
-Ld around 
-ptnr
- CCW w/ 3 Piva LRL; Ly same CW w/ 3 Piva RLR
- 
-(
-| == In 2 ==)
-3;3|
-Movimenti (Ld, then Ly), Double R back, Doube L fwd & face front
-  
-(
-| == In 4 ==)
-3
-Repeat dance, roles reversed
-Italian Balli (15
-th 
-Century)
+Guglielmo (Ambrosio)
+Italian Balli - 15th Century
+|(Line of 3 Couples)| == In 6 == |
+|----|-----|
+|16 Salterelli| 16|
+|C1 still, as C2 R hands - Sing LR , Double L; L hands - Sing RL , Double R; RevL,  ||
+| as C3 weave to top w/ Sing LR , 4 Doubles, Ld ends on R; repeat 2x |5;10|
+| Ld around ptnr CCW w/ 3 Piva LRL; Ly same CW w/ 3 Piva RLR (** == In 2 ==**) |3;3|
+|Movimenti (Ld, then Ly), Double R back, Doube L fwd & face front (**== In 4 ==**)| 3|
+|Repeat dance, roles reversed ||
+@@@@@
+
+%%%fia_giuelmina
 Fia Giuelmina
-(Domenico
- 1450
-)
-(
-Couples
-)
-P1
-Ted 
-LR
-, drop hands, Ly MV; Singles 
-LR
-        
-| == In 4/4 == |
-|-----|----|-----|
-2;1|
-Rip R (angle away), face 
-ptnr
-; Double R, Ld MV; repeat, Ld no MV
-1;1;5|
-P2
-Singles 
-LR
- (changing place, 1/4 circle); Rev L
-     
-| == In 6/4 == |
-|-----|----|-----|
-1;1|
-P3
-Singles 
-LR
-; Double 
-LR
- w/ MV
-                 
- 
-| == In 6/4 == |
-|-----|----|-----|
-1;2|
-Rip L w/ MV, Rip R; Double 
-LR
- w/ MV; Rev L
-2;2;1|
-P4
-Ly Double L, Movi; Ld Double L, Movi
-             
- 
-| == In 4/4 == |
-|-----|----|-----|
-1;1|
-Ly Double L, Movi; Ld Single L, Movi, Ly Single L, Movi; VT (Salt L CW)
-1;1;1|
-P5
-Ly Pive LRLR (VT CW); Both Pive 
-LR
-;
-            
-| == In 6/8 == |
-|-----|----|-----|
-4;2|
-Pive LRLR w/R Hands, Ly MV
-4
+Domenico
+Italian Balli - 15th Century
+||(Couples) ||
+|P1| Ted LR, drop hands, Ly MV; Singles LR **== In 4/4 ==** | 2;1|
+||Rip R (angle away), face ptnr; Double R, Ld MV; repeat, Ld no MV |1;1;5|
+|P2| Singles LR (changing place, 1/4 circle); Rev L **== In 6/4 ==** |1;1|
+|P3| Singles LR; Double LR w/ MV **== In 6/4 ==** |1;2|
+||Rip L w/ MV, Rip R; Double LR w/ MV; Rev L |2;2;1|
+|P4| Ly Double L, Movi; Ld Double L, Movi **== In 4/4 == ** |1;1|
+|Ly Double L, Movi; Ld Single L, Movi, Ly Single L, Movi; VT (Salt L CW)| 1;1;1|
+|P5| Ly Pive LRLR (VT CW); Both Pive LR; **== In 6/8 ==** |4;2|
+||Pive LRLR w/R Hands, Ly MV |4|
+@@@@@
+
+%%%gelosia
 Gelosia
-(Domenico 1450)
-(Line of 3 
-Couple
-s)
-| == In 4 == |
-|-----|----|-----|
-8 Saltarelli
-8
-Ld1 3 piva pass in front of Ly1, end at R of Ly2; Rev; Ld2 Saltarello R to Ly1
-1½ ;½;1
-Ld1 3 piva in front of Ly2 , ending at R of Ly3; Rev; L3 Saltarello R to Ly2
-1½ ;½;1 
-Ld1 Saltarello R behind Ly3, end to her L; All 8 Pive, holding hands 
-w/
- new 
-ptnr
-1;4|
-C1 double away in circle, end f
-acing; C2 the same; C3 the same 
-1;1;1|
-Take R hands 
-w/
- 
-ptnr
-, exchange places in Single L, R, L
-1½ 
-Take L hands, exchange back in Single RLR, Lds end w/ Mezzavolta R
-1½ 
-Repeat dance 2 times, until each Ld returns to original place
+Domenico
+Italian Balli - 15th Century
+(Line of 3 Couples) | == In 4 == |
+|----|-----|
+|8 Saltarelli| 8|
+|Ld1 3 piva pass in front of Ly1, end at R of Ly2; Rev; Ld2 Saltarello R to Ly1 |1½ ;½;1|
+|Ld1 3 piva in front of Ly2 , ending at R of Ly3; Rev; L3 Saltarello R to Ly2 |1½ ;½;1|
+|Ld1 Saltarello R behind Ly3, end to her L; All 8 Pive, holding hands w/ new ptnr |1;4|
+|C1 double away in circle, end facing; C2 the same; C3 the same |1;1;1|
+|Take R hands w/ ptnr , exchange places in Single L, R, L |1½|
+|Take L hands, exchange back in Single RLR, Lds end w/ Mezzavolta R |1½|
+|Repeat dance 2 times, until each Ld returns to original place||
+@@@@@
+
+%%%gioioso_in_tre
 Gioioso in Tre
-(Guglielmo (Ambrosio) late 15
-th
- C)
-(1 Ly standing betw
- 2 Lds)
-| == In 6 == |
+Guglielmo (Ambrosio) 
+Italian Balli - 15th Century
+||(1 Ly standing betw 2 Lds) | == In 6 == |
 |-----|----|-----|
-P1
-Rip 
-LR
-; Ly single 
-LR
-; Arm L w/ Ld1 in Doubles 
-LR
- to place 
-2;1;2|
-Repeat Rip & Arming, but Ly arms R 
-w/
- Ld2
-5
-P2
-Rip 
-LR
-; Lds switch, pass L in front of Ly in Singles 
-LR
-, Doubles 
-LR
-2;3|
-Repeat Rip & Switching
-5
-P3
-Rip 
-LR
-; Singles 
-LR
-; Double L; 
-2;1;1|
-Ly Rip 
-RL
- as 
-Lds
- 
-VT
- (doubles 
-RL
-); VdG 
-; Repeat
-2;2|
-;8
-P4
-16 Saltarelli
- 
-16
-P5
-(musically in 6)
-| == In 4 to dance == |
-|-----|----|-----|
- 
-Movi (Ly, then Lds); Ly double; Movi (Lds, then Ly); Lds double to Ly
-1;1;1;1|
-Movi (Ly 1
-st
-); Ly double & turn; Movi (Lds 1
-st
- ); Lds double to join & turn
-1;1;1;1|
+|P1|Rip LR ; Ly single LR; Arm L w/ Ld1 in Doubles LR to place |2;1;2|
+||Repeat Rip & Arming, but Ly arms R w/ Ld2 |5|
+|P2| Rip LR; Lds switch, pass L in front of Ly in Singles LR, Doubles LR |2;3|
+||Repeat Rip & Switching |5|
+|P3| Rip LR; Singles LR; Double L; |2;1;1|
+||Ly Rip RL as Lds VT (doubles RL); VdG; Repeat |2;2;8|
+|P4| 16 Saltarelli |16|
+|P5| (musically in 6) **== In 4 to dance ==**
+||Movi (Ly, then Lds); Ly double; Movi (Lds, then Ly); Lds double to Ly |1;1;1;1|
+||Movi (Ly 1 st); Ly double & turn; Movi (Lds 1 st); Lds double to join & turn |1;1;1;1|
+@@@@@
+
+%%%graziosa
 Graziosa
-(Guglielmo (Ambrosio) 1463)
-||(Couples) | == In 4 == |
-|-----|----|-----|
-Both TedL R L, Ld DR ½ around W; Both TedL R L, Ly DR to place on R
-4;4|
-Ld Ted
-LR
-, Singles 
-LR
-, Double L; Ly same
-4;4|
-SL, SR, DL, DR, Ld fwd, Ly ½ fwd, then back to start
-| == In 6 == |
-|-----|----|-----|
-  
-3
-MvR (no time), RipL, RipR, RevL
-3
-SL, SR, DL, DR, Ly fwd, Ld meets her, then goes beside
-3
-Hands RipL, RipR, RevL
-3
-Circling = take R hands, PivL R L; L hands, PivR, L, R
-| == In 4 == |
-|-----|----|-----|
- 
-3;3|
-Movimenti (M,then W); Both DL Back, DR fwd 
-1;2|
+Guglielmo (Ambrosio)
+Italian Balli - 15th Century
+|(Couples) | == In 4 == |
+|----|-----|
+|Both TedL R L, Ld DR ½ around W; Both TedL R L, Ly DR to place on R |4;4|
+|Ld Ted LR, Singles LR, Double L; Ly same |4;4|
+|SL, SR, DL, DR, Ld fwd, Ly ½ fwd, then back to start **== In 6 ==** |3|
+|MvR (no time), RipL, RipR, RevL |3|
+|SL, SR, DL, DR, Ly fwd, Ld meets her, then goes beside |3|
+|Hands RipL, RipR, RevL |3| 
+|Circling = take R hands, PivL R L; L hands, PivR, L, R **== In 4 ==** |3;3|
+|Movimenti (M,then W); Both DL Back, DR fwd |1;2|
+@@@@@
 Italian Balli (15
 th
  Century)
+%%%giove
 Giove
-(Domenico 1450)
-(for 3 in
- 
-column, ideally Ld, Ly, Ld)
-| == In 4 == |
+Domenico 
+Italian Balli - 15th Century
+||(for 3 in column, ideally Ld, Ly, Ld) | == In 4 == |
 |-----|----|-----|
-P1
-Ted LRL, VdG (= In 6 =); repeat
-3; 2
-P2
-Doubles RLR in 1/2 
-Hey
-, leader & center starting w/ R hands
-    
-| == In 6 == |
-|-----|----|-----|
-3
-Singles 
-LR
-, Double L fwd
-2
-Doubles RLR in 1/2 
-Hey
-, last & center starting w/ R hands
- 
- 
-3
-Singles 
-LR
-, Double L fwd
-2
-P3
-Leader MV L w/ a hop to face down as others hop onto R
-     
- == In 3 == |
-|-----|----|-----|
-Contrapassi LL, Leader weaves to bottom passing Center by L and Last by R,
-Leader & Center edning w/ MV L
-3
-Contrapassi LL, Center weaves to the bottom the same way
-3
-Contrapassi LL, Last weaves to the bottom the same way, end w/ all facing up 
-3
-P4
-Salt 
-LR
- fwd; Center still as Leader & Last Salt LR to switch places CW
-2;2|
-Leader & Last stand still as Center VdG (= In 6 =);
- 
-Repeat 
-2;6|
-P5
-Leader MV R & Riv L w/ center, touching R hands
-            
- == In 6 == |
-|-----|----|-----|
-1
-Centr MV R & Riv L w/ Last, touch R hands, Centr & Leader MV to face fwd
-1
+|P1| Ted LRL, VdG (= In 6 =); repeat |3;2|
+|P2| Doubles RLR in 1/2 Hey, leader & center starting w/ R hands *== In 6 ==* | 3 |
+||Singles LR, Double L fwd |2|
+||Doubles RLR in 1/2 Hey, last & center starting w/ R hands |3|
+||Singles LR, Double L fwd |2|
+|P3| Leader MV L w/ a hop to face down as others hop onto R *== In 3 ==* ||
+||Contrapassi LL, Leader weaves to bottom passing Center by L and Last by R,||
+||Leader & Center edning w/ MV L |3|
+||Contrapassi LL, Center weaves to the bottom the same way|3|
+||Contrapassi LL, Last weaves to the bottom the same way, end w/ all facing up |3|
+|P4| Salt LR fwd; Center still as Leader & Last Salt LR to switch places CW |2;2|
+||Leader & Last stand still as Center VdG (= In 6 =); Repeat | 2;6|
+|P5| Leader MV R & Riv L w/ center, touching R hands *== In 6 ==* | 1|
+||Centr MV R & Riv L w/ Last, touch R hands, Centr & Leader MV to face fwd | 1|
+@@@@@
+
+%%%leoncello_novo
 Leoncello Novo
-(Domenico 1450)
-(1 Ly standing betw
- 2 Lds)
-| == In 4 == |
-|-----|----|-----|
-2 Saltarelli; Ly Double L, Lds Double L; Ly Double R, Lds Double R
-2;2;2|
-Ly circle Lds (in Fig 8) starting to L w/ 3 Pive, 
-1
- Single, 3 Pive, 
-1
- Single
-4
-Lds 2 Saltarelli; VT in 4 steps; Ly
-s 2 Saltarelli; MV
- 
-2;1;3|
-All 3 Contrapassi fwd, MV; 3 Contrapassi fwd, MV
-2;2|
-Ly Double L; Lds same; Ly Double R; Lds same, MV (all, to face)
- 
- 
-| == In 6 == |
-|-----|----|-----|
-1;1;1;1|
-All Riprese 
-LR
-; Con 
-LR
-, Rev; Ly Double L; Lds same
-2;2;1;1|
-Ly Double R; Lds same, MV (Lds only); All Rev; Ly Movi, Lds Movi
-1;1;1;1|
+Domenico
+Italian Balli - 15th Century
+|(1 Ly standing betwn 2 Lds) | == In 4 == |
+|----|-----|
+|2 Saltarelli; Ly Double L, Lds Double L; Ly Double R, Lds Double R |2;2;2|
+|Ly circle Lds (in Fig 8) starting to L w/ 3 Pive, |1|
+| Single, 3 Pive, 1 Single |4|
+|Lds 2 Saltarelli; VT in 4 steps; Lys 2 Saltarelli; MV |2;1;3|
+|All 3 Contrapassi fwd, MV; 3 Contrapassi fwd, MV| 2;2|
+|Ly Double L; Lds same; Ly Double R; Lds same, MV (all, to face) *== In 6 ==* | 1;1;1;1|
+|All Riprese LR; Con LR, Rev; Ly Double L; Lds same |2;2;1;1|
+|Ly Double R; Lds same, MV (Lds only); All Rev; Ly Movi, Lds Movi |1;1;1;1|
+@@@@@
+
+%%%leoncello_vecchio
 Leoncello Vecchio
-(Domenico 1450)
+Domenico
+Italian Balli - 15th Century
 ||(Couples) | == In 4 == |
 |-----|----|-----|
 6 salterelli
@@ -1549,8 +869,11 @@ LR
 (Ld then Ly)
 2;1;2;2;
 2
+
+%%%marchesana
 Marchesana
-(Domenico 1450)
+Domenico
+Italian Balli - 15th Century
 ||(Couples) | == In 4 == |
 |-----|----|-----|
 8 salterelli
@@ -1593,565 +916,228 @@ Double L turning (Ly VT & Ld MV) to face same way, Ly on L (next repeat, Ly lead
 Italian Balli (15
 th
  Century)
+%%%mercantia
 Mercantia
-(Domenico 1450)
-(Ly 
-w/
- 3 Lds A w/ Ly, B behind A, C behind Ly)
-| == In 6 == |
+Domenico
+Italian Balli - 15th Century
+|(Ly w/ 3 Lds A w/ Ly, B behind A, C behind Ly) | == In 6 == |
 |-----|----|-----|
-11 Saltarelli
-; B & C separate 
-w/
- 6 Mrip (
-| == In 4 == |
-|-----|----|-----|
-)
-    
- 
-11;6|
-Ly MV in Double L; A Double LRL
-| == In 6 == |
-|-----|----|-----|
-    
-4
-B
- 
-to Ly in Singles 
-LR
-, Double L, touch R hands; 
-2
-B Singles 
-RL
- Double R & MV, as Ly Volta del Gioioso
-2
-C repeats what B did, Ly also repeating the Volta del Gioioso; A turns around
-4; ½
- 
-B & C switch places 
-w/
- Salt
-LR
-, end side by side
-2
-A Salt 
-LR
-, ending behind & to L of Ly; Ly turns as A RipR
-| == In 4 == |
-|-----|----|-----|
-   
- 
-2; ½ 
-A & Ly Rev L; All Con 
-RL
-| == In 6 == |
-|-----|----|-----|
-   
- 
-1;1|
-A & C switch places in Singles 
-RL
-, Double R, as B & Ly Volta del Gioioso
-2
-A is now B, B is C & C is A. Repeat dance twice more
+|11 Saltarelli; B & C separate w/ 6 Mrip  (*== In 4 ==*) |11;6|
+|Ly MV in Double L; A Double LRL *== In 6 ==* | 4| 
+|B to Ly in Singles LR , Double L, touch R hands; |2|
+|B Singles RL Double R & MV, as Ly Volta del Gioioso| 2|
+|C repeats what B did, Ly also repeating the Volta del Gioioso; A turns around |4;½|
+| B & C switch places w/ Salt LR, end side by side |2|
+|A Salt LR, ending behind & to L of Ly; Ly turns as A RipR *== In 4 ==*| 2; ½ |
+|A & Ly Rev L; All Con RL *== In 6 ==* |1;1|
+|A & C switch places in Singles RL, Double R, as B & Ly Volta del Gioioso |2|
+|A is now B, B is C & C is A. Repeat dance twice more
+@@@@@
+
+%%%petit_vriens
 Petit Vriens
-(Ambrosio (Guglielmo) 1475)
-(Set of 3 people)
-| == In 6 == |
-|-----|----|-----|
-16 Piva; A 4 Piva; B 4 Piva to join A; C 4 Piva to join A&B
-16;4;4;4|
-(musically in 6)
-| == In 4 to dance == |
-|-----|----|-----|
-A Double L; B Double L; C Double L
-1;1;1|
-A & B Rev; C & B Rev; All Rev
-1;1;1|
-DL 
-back
-, fanning out; DR 
-fwd
- back to place
-1;1|
-RipL; RipR; VT (DL going CCW)
-½;½;1
+Ambrosio (Guglielmo)
+Italian Balli - 15th Century
+|(Set of 3 people) | == In 6 == |
+|----|-----|
+16 Piva; A 4 Piva; B 4 Piva to join A; C 4 Piva to join A&B |16;4;4;4|
+|(musically in 6) | == In 4 to dance == |
+|A Double L; B Double L; C Double L |1;1;1|
+|A & B Rev; C & B Rev; All Rev |1;1;1|
+|DL back, fanning out; DR fwd back to place |1;1|
+|RipL; RipR; VT (DL going CCW) |½;½;1|
+@@@@@
+
+%%%petite_rose
 Petite Rose
-(Domenico 1450)
-(
-Couple
-s)
-| == In 6 == |
-|-----|----|-----|
-16 Pive, holding hands
-16
-Ld Movi; Ly Movi; Ld VT w/ a Double L(CCW)
-1;1;2|
-Ly Movi; Ld Movi; Ly VT w/ a Double L(CCW)
-1;1;2|
-Double L fwd; Singles 
-RL
- back, switch feet; Repeat 2x
-2;1;1|
-Saltarelli 
-LR
- away and back to 
-ptnr
-2;2|
-The lead alternates between the Ld & Ly on subsequent repeats.
- 
+Domenico
+Italian Balli - 15th Century
+( Couples) | == In 6 == |
+|----|-----|
+|16 Pive, holding hands |16|
+|Ld Movi; Ly Movi; Ld VT w/ a Double L(CCW) |1;1;2|
+|Ly Movi; Ld Movi; Ly VT w/ a Double L(CCW) |1;1;2|
+|Double L fwd; Singles RL back, switch feet; Repeat 2x |2;1;1|
+|Saltarelli LR away and back to ptnr |2;2|
+|The lead alternates between the Ld & Ly on subsequent repeats. || 
+@@@@@
+
+%%%pizocara
 Pizocara
-(Domenico 1450)
-(Line of 4 
-Couple
-s)
-| == In 6 == |
-|-----|----|-----|
-12 Pive; Lds circle 
-ptnr
- 
-w/
- 4 Pive; 
-Lys
- same
-12;4;4|
-Lds RevR, All RipR, holding hands
-2
-Lds SL, SR, 11 Doppii, weaving through 
-Lys
- & end to R of 
-ptnr
-12
-Lys Rev L; All Rip L, holding hands
-2
-Lys
-, pause 1 bar, 9 Salt, starting L, weaving through Lds, end to R of 
-ptnr
-10
-C1 separate 
-w/
- 2 MRip, then other Cs 4 Pive
-2;4|
-C2 seperate 
-w/
- 2 MRip, then Cs 3 & 4 do 4 Pive
-2;4|
-C3 separate 
-w/
- 2 MRip, then C4 does 4 Piva
-2;4|
-Repeat the dance, 
-w/
- C4 leading
-Italian Balli (15
+Domenico
+Italian Balli - 15th Century
+(Line of 4 Couples) | == In 6 == |
+|----|-----|
+|12 Pive; Lds circle ptnr w/ 4 Pive; Lys same |12;4;4|
+|Lds RevR, All RipR, holding hands |2|
+|Lds SL, SR, 11 Doppii, weaving through Lys & end to R of ptnr |12|
+|Lys Rev L; All Rip L, holding hands |2|
+|Lys, pause 1 bar, 9 Salt, starting L, weaving through Lds, end to R of ptnr |10|
+|C1 separate w/ 2 MRip, then other Cs 4 Pive |2;4|
+|C2 seperate w/ 2 MRip, then Cs 3 & 4 do 4 Pive |2;4|
+|C3 separate w/ 2 MRip, then C4 does 4 Piva |2;4|
+|Repeat the dance, w/ C4 leading||
+
+ Italian Balli (15
 th
  Century)
+
+%%%prexonera
 Prexonera
-(Domenico 1450)
-(
-Couple
-s)
-| == In 6/4 == |
-|-----|----|-----|
-Con 
-LR
-; Singles LRL, Double R; Rev; Repeat
-1;2;1;1;5|
-Ld
- Singles 
-LR
-; Contrapassi 
-LL
-, curve L to face Ly; Ly same (end apart to L)
-1;2;3|
-Both Singles 
-LR
-; Con 
-LR
-; Repeat whole seq w/ Ly starting 
-1;1;8|
-8 piva (Ld grabbing Ly’s hand, Ly following behind)
-8 
-Ld Movi (jump twd Ly); Ly Respond (jump away); 4 passiti, Ld chasing Ly
-1;1;2|
-Ly Movi (jump twd Ld); Ld Respond (jump away); 4 passiti, Ly chasing Ld
-1;1;2|
-4 Saltarelli; Repeat dance w/ Ly leading contrapasso & piva sequences
-4;46
+Domenico
+Italian Balli - 15th Century
+( Couples) | == In 6/4 == |
+|----|-----|
+|Con LR; Singles LRL, Double R; Rev; Repeat |1;2;1;1;5|
+|Ld Singles LR ; Contrapassi LL, curve L to face Ly; Ly same (end apart to L) |1;2;3|
+|Both Singles LR; Con LR; Repeat whole seq w/ Ly starting |1;1;8|
+|8 piva (Ld grabbing Ly’s hand, Ly following behind) |8|
+|Ld Movi (jump twd Ly); Ly Respond (jump away); 4 passiti, Ld chasing Ly |1;1;2|
+|Ly Movi (jump twd Ld); Ld Respond (jump away); 4 passiti, Ly chasing Ld |1;1;2|
+|4 Saltarelli; Repeat dance w/ Ly leading contrapasso & piva sequences |4;46|
+@@@@@
+
+%%%rosina
 Rosina
-(Based on Ambrosio (Guglielmo) 1475)
-(3 people, one of one gender in center, 2 of other on sides)
-| == In 4 == |
+Ambrosio (Guglielmo)
+Italian Balli - 15th Century
+||(3 people, one of one gender in center, 2 of other on sides) | == In 4 == |
 |-----|----|-----|
-1
-Double 
-LR
-, MV;
- 
-Double 
-LR
-, MV
-2;2|
-Center Single 
-LR
-, Double L; Sides Single 
-RL
-, Double R
-2;2|
-2
-Center turns, All Double 
-LR
-, MV & Rip 
-LR
-4
-CCW circle = Double L, MV, then RipR; Con LRLR
-2;2|
-3
-Single 
-LR
-, Double L fwd, Double R 
-back
-,
- 
-Rev L
-4
-CCW circle = Double L, MV, then RipR; Con LRLR
-2;2|
-4
-Center & Side to their R = take R hands & circle w/ 4 Pive
-4
-Center & other Side take L hands & circle w/ 4 Pive
-4
-Hey
- 
-w/
- 8 Pive, Center & R Side start by passing R shoulders
-8
+|1| Double LR, MV; Double LR, MV |2;2|
+||Center Single LR , Double L; Sides Single RL , Double R |2;2|
+|2| Center turns, All Double R , MV & Rip LR |4|
+||CCW circle = Double L, MV, then RipR; Con LRLR |2;2|
+|3| Single LR, Double L fwd, Double R back, Rev L |4|
+||CCW circle = Double L, MV, then RipR; Con LRLR |2;2|
+|4| Center & Side to their R = take R hands & circle w/ 4 Pive |4|
+||Center & other Side take L hands & circle w/ 4 Pive| 4|
+||Hey w/ 8 Pive, Center & R Side start by passing R shoulders |8|
+@@@@@
+
+%%%rostiboli_gioioso
 Rostiboli Gioioso
-(Guglielmo (Ambrosio) 1463)
-(
-Couple
-s)
-| == In 6 == |
+Guglielmo (Ambrosio)
+Italian Balli - 15th Century
+||( Couples) | == In 6 == |
 |-----|----|-----|
-P1
-Reprise 
-LR
- ; Ld Singles 
-LR
-; Doubles 
-LR
-2;1;2|
-(Ld MV) All Reprise 
-LR
-; Ld Singles 
-LR
-; Doubles 
-LR
- home
-2;1;2|
-Repeat above 
-w/
- Ly going out & back
-10
-P2
-Reprise 
-LR
-; 2 Singles; 3 Doubles; VdG (2x)
-2;1;3;2 (2x)
-P3
-16 Salterelli 
-16
-P4
-(musically in 6)
-| == In 4 to dance == |
-|-----|----|-----|
-Movi (Ld then Ly); Ld Double L; Movi (Ly then Ld); Ly Double L to join Ld
-1;1;1;1|
-Repeat; Repeat entire dance, roles reversed
-4
+|P1| Reprise LR; Ld Singles LR; Doubles LR |2;1;2|
+||(Ld MV) All Reprise LR; Ld Singles LR; Doubles LR home |2;1;2|
+||Repeat above w/ Ly going out & back |10|
+|P2| Reprise LR ; 2 Singles; 3 Doubles; VdG (2x) |2;1;3;2 (2x)|
+|P3| 16 Salterelli |16|
+|P4| (musically in 6) |*== In 4 to dance ==*|
+||Movi (Ld then Ly); Ld Double L; Movi (Ly then Ld); Ly Double L to join Ld |1;1;1;1|
+||Repeat; Repeat entire dance, roles reversed |4|
+@@@@@
+
+%%%spero
 Spero
-(Domenico 1450)
-(Set of 3 people)
-| == In 4 == |
+Domenico
+Italian Balli - 15th Century
+||(Set of 3 people) | == In 4 == |
 |-----|----|-----|
-P1 
-4 SaltTed, beat Fwd
-4
-P2
-Center Sempii 
-LR
-, Doppio L
-2
-Ends Sempii 
-RL
-, Doppio R as Center MV w/ a Doppio R
-2
-P3
-2 SaltTed, beat to side, MV
-2
-P4
-Approach & Pass
- 
-Center
- Betw in 4 Salt, MV R; Rip 
-LR
-   
- 
-| == In 6 == |
-|-----|----|-----|
-4; 2
-P5
-Rev L, Sempio L back; approach w/ Rip Portugalese RLR, ends MV R
-1;3|
-Rip L; VT w/ Sepmi 
-RL
-, Rip R; Rev L
-12;1|
-P6
-Center & R End: Take R hands & circle in Piva LRL
-       
- 
-| == In 4 == |
-|-----|----|-----|
-3
-Center & L Take L hands & circle in Piva RLR; Center Movi; Ends Movi
-3;1;1|
-Center VT in Doppio L; Ends same; Repeat dance
-2;2|
-Italian Balli (15
-th
- Century)
+|P1| 4 SaltTed, beat Fwd |4|
+|P2| Center Sempii LR, Doppio L |2|
+||Ends Sempii RL, Doppio R as Center MV w/ a Doppio R |2|
+|P3| 2 SaltTed, beat to side, MV |2|
+|P4| Approach & Pass Center Betw in 4 Salt, MV R; Rip LR *== In 6 ==* |4;2|
+|P5| Rev L, Sempio L back; approach w/ Rip Portugalese RLR, ends MV R |1;3|
+||Rip L; VT w/ Sepmi RL, Rip R; Rev L |12;1|
+|P6| Center & R End: Take R hands & circle in Piva LRL *== In 4 ==*|3|
+||Center & L Take L hands & circle in Piva RLR; Center Movi; Ends Movi |3;1;1|
+|Center VT in Doppio L; Ends same; Repeat dance |2;2|
+@@@@@
+
+%%%tesera
 Tesara
-(Domenico 1450)
-(4 
-Couple
-s in a line plus 1 shuttle at each end)
-| == In 6== |
+Domenico
+Italian Balli - 15th Century
+||(4 Couple s in a line plus 1 shuttle at each end) | == In 6== |
 |-----|----|-----|
-P1
-8 Saltarelli, starting L
-8
-P2
-Couples separate in Meza Rip, shuttle A MV to face B
-1
-A& B 4 Piva to switch (pass R), MV; C’s switch 4 Meza Rip (Lds in front)
-4;2|
-Movimenti
- 
-(Ld1, then 2, 3, 4, then Ly 4, 3, 2, 1); Repeat P2
-4;11
-P3
-B take C4's ribbons & lead to front in
- 
-4 doppi w/ close & side cut 
-12
-A&B take R hands & switch in 2 piva; A to bottom in 3 piva, end in MV R
-2;3|
-A lead C3 to front (as B led C4);
-ü
- A&B switch & B return to bottom as before
-12;5|
-P4
-B take C2
- 
-to front (holding ribbons) w/ Saltarelli LRL
-3
-A&B
- 
-R hands & switch in Saltarello R; A to bottom in Saltarelli 
-LR
-, MV R
-1;2|
-A lead C1 to front (as B led C2); A&B switch & B return to bottom as before
-3;3|
-P5
-C1&C4 switch w/ ptnr in Doppio & form ribbon arch; A&B Doppio under arch
- 
-1;1|
-C2&C3 switch w/ ptnr in Doppio & form ribbon arch; A&B under arch & meet
- 
-1;1|
-Repeat w/ C2&C3; Repeat w/ C1&C4
-2;2|
-P6
-A&B switch under arches in 4 piva, passing R shoulders, MV R
-4
-Couples drop 
-ptnr
-'s ribbon; Lds MV to face
- 
-down as 
-Lys
- face up
-1
-P7
-Hey
- 
-A, B, Ld1 & Ly 4 weave CCW around 3 stationary people to new position
-A&B always start to L of 1
-st
- stationary person (inside), Ld & Ly to R
-4
-Repeat w/ A, B,
- 
-Ld2 & Ly3; A, B, Ld3, Ly2; A, B, Ld4, Ly1
-12
-P8
-Movi
- 
-(Ld1,2, 3, 4, Ly 4, 3, 2, 1); Lds MV CCW in doppio L; Lys same
-4;1;1|
-Ver
-ç
-epe
-(Domenico 1450)
-(3 Lords & 2 Ladies)
-| == In 6 == |
+|P1| 8 Saltarelli, starting L |8|
+|P2| Couples separate in Meza Rip, shuttle A MV to face B |1|
+||A& B 4 Piva to switch (pass R), MV; C’s switch 4 Meza Rip (Lds in front) |4;2|
+||Movimenti (Ld1, then 2, 3, 4, then Ly 4, 3, 2, 1); Repeat P2 |4;11|
+|P3| B take C4's ribbons & lead to front in 4 doppi w/ close & side cut |12|
+||A&B take R hands & switch in 2 piva; A to bottom in 3 piva, end in MV R |2;3|
+||A lead C3 to front (as B led C4); A&B switch & B return to bottom as before |12;5|
+|P4| B take C2 to front (holding ribbons) w/ Saltarelli LRL |3|
+||A&B R hands & switch in Saltarello R; A to bottom in Saltarelli LR, MV R |1;2|
+||A lead C1 to front (as B led C2); A&B switch & B return to bottom as before |3;3|
+|P5| C1&C4 switch w/ ptnr in Doppio & form ribbon arch; A&B Doppio under arch |1;1|
+||C2&C3 switch w/ ptnr in Doppio & form ribbon arch; A&B under arch & meet |1;1|
+||Repeat w/ C2&C3; Repeat w/ C1&C4 |2;2|
+|P6| A&B switch under arches in 4 piva, passing R shoulders, MV R |4|
+||Couples drop ptnr's ribbon; Lds MV to face down as Lys face up |1|
+|P7| Hey A, B, Ld1 & Ly 4 weave CCW around 3 stationary people to new position||
+||A&B always start to L of 1 st stationary person (inside), Ld & Ly to R |4|
+||Repeat w/ A, B, Ld2 & Ly3; A, B, Ld3, Ly2; A, B, Ld4, Ly1 |12| 
+|P8| Movi (Ld1,2, 3, 4, Ly 4, 3, 2, 1); Lds MV CCW in doppio L; Lys same |4;1;1|
+@@@@@
+
+%%%vercepe
+Verçepe
+Domenico
+Italian Balli - 15th Century
+|(3 Lords & 2 Ladies) | == In 6 == |
 |-----|----|-----|
-I
-1 bar no movement; 11 Saltarelli, starting R
-12
-II
-Ld2 & Ld3 Doppio LR, circling CCW halfway round Ly in front of him
-2
-Ld2 & Ld 3 Contrapasso LL, continuing to circle, switch weight to L foot
-1½ 
-Ld2 & Ld3 Rip R to orig places, moving on a curve
-; Lys VdG
-1
-;2
-Lys circle Lds in front of them 
-w/
- same steps Lds used
-; Lds VdG
-4½
-;2
-III
-Contrapasso LLL, MV; repeat
-                         
-| == In 4 == |
-|-----|----|-----|
-2;2|
-Ld MV (Step L, R CCW)
-½
-IV
-Ld1 & Ld3 Hop on R foot
-                             
-| == In 6 == |
-|-----|----|-----|
-1
-Ld1 & Ld3
- 
-exchange places in 4 Saltarelli starting L, weaving among other 
-3 (Ld1 to R of Ly1, L of Ld2, R of Ly2, then to end as Ld 3 to L of Ly2, R of Ld2, 
-L of Ly1, then to front) Ld1 ends w/ MV R
-4 
-V
-Ly1 Doppio RLR, moving CW halfway round Ld 2 to Ly2's place as
-Ly2 Doppio LRL moving CW into Ly1's place
-    
- 
-2
-Ld1 & Ld3 Hop on L foot; Ld1 & Ld3 Saltarelli RLR circling nearest Ly CW
-1;2|
-Ly1 Doppio LRL, moving CW
- 
-to orig place as
-Ly2 Doppio RLR moving CW into orig place
-2
-Ld2 Hop on R foot; Ld2 Saltarelli LRL circling
- 
-Ly1 CCW
-1;2|
-VI
-Lds Movi, Lys Movi; Lds VT (4 steps starting L CCW)
-    
- 
-| == In 4 == |
-|-----|----|-----|
-1;1|
-Lys Movi, Lds Movi; Lys VT (4 steps starting L CCW)
-1;1|
+|I| 1 bar no movement; 11 Saltarelli, starting R |12|
+|II| Ld2 & Ld3 Doppio LR, circling CCW halfway round Ly in front of him |2|
+||Ld2 & Ld 3 Contrapasso LL, continuing to circle, switch weight to L foot |1½| 
+||Ld2 & Ld3 Rip R to orig places, moving on a curve; Lys VdG |1;2|
+||Lys circle Lds in front of them w/ same steps Lds used; Lds VdG |4½;2|
+|III| Contrapasso LLL, MV; repeat *== In 4 ==* |2;2|
+|Ld MV (Step L, R CCW) |½|
+|IV| Ld1 & Ld3 Hop on R foot *== In 6 ==* |1|
+||Ld1 & Ld3 exchange places in 4 Saltarelli starting L, weaving among other|3|
+||(Ld1 to R of Ly1, L of Ld2, R of Ly2, then to end as Ld 3 to L of Ly2, R of Ld2,||
+||L of Ly1, then to front) Ld1 ends w/ MV R |4| 
+|V| Ly1 Doppio RLR, moving CW halfway round Ld 2 to Ly2's place as||
+||Ly2 Doppio LRL moving CW into Ly1's place|2|
+||Ld1 & Ld3 Hop on L foot; Ld1 & Ld3 Saltarelli RLR circling nearest Ly CW |1;2|
+||Ly1 Doppio LRL, moving CW to orig place as ||
+||Ly2 Doppio RLR moving CW into orig place |2|
+||Ld2 Hop on R foot; Ld2 Saltarelli LRL circling Ly1 CCW |1;2|
+|VI| Lds Movi, Lys Movi; Lds VT (4 steps starting L CCW) *== In 4 ==* |1;1|
+||Lys Movi, Lds Movi; Lys VT (4 steps starting L CCW)|1;1|
+@@@@@
+
 Italian Balli (15
 th
  Century)
+%%%vita_di_cholino
 Vita di Cholino
-(Giovanninio)
-(Ly betw
- 2 Lds)
-| == In 4 == |
+Giovanninio
+Italian Balli - 15th Century
+||(Ly betw 2 Lds) | == In 4 == |
 |-----|----|-----|
-V1
-Con 
-LR
-; Ly Singles 
-LR
-, MV R, as Lds Singles 
-LR
- back; Rip
-LR
-1;1;2|
-Ch
-Ly & Ld to her R Rev; Ly & Ld to L Rev; VT CW in Double R
-1;1;1|
-V2
-Ly & Ld to R take R hands & circle in Doubles 
-LR
-2
-Ly & Ld to L take L hands & circle in Doubles 
-LR
-; Repeat Ch
-2;3|
-V3
-Doubles 
-LR
- (passing ea other), MV R; Rip 
-LR
-; Repeat Ch
-2;2;3|
-V4
-Zig Zag past in Doubles LRL, MV L; Double R together
-3;1|
-Repeat Chorus touching hand while Rev (R hand w/ Ld1, L w/ Ld2)
-3
-V5
-Hey
- in 8 pive, Ly starting and passing Ld to R by R
-4
-Repeat Chorus, but Lds replace VT w/ Double R, MV (end in line)
-3
+|V1| Con LR; Ly Singles LR, MV R, as Lds Singles LR back; Rip LR |1;1;2|
+|Ch| Ly & Ld to her R Rev; Ly & Ld to L Rev; VT CW in Double R |1;1;1|
+|V2| Ly & Ld to R take R hands & circle in Doubles LR |2|
+||Ly & Ld to L take L hands & circle in Doubles LR; Repeat Ch |2;3|
+|V3| Doubles LR (passing ea other), MV R; Rip LR; Repeat Ch |2;2;3|
+|V4| Zig Zag past in Doubles LRL, MV L; Double R together |3;1|
+||Repeat Chorus touching hand while Rev (R hand w/ Ld1, L w/ Ld2) |3|
+|V5| Hey in 8 pive, Ly starting and passing Ld to R by R |4|
+||Repeat Chorus, but Lds replace VT w/ Double R, MV (end in line) |3|
+@@@@@
+
+%%%vite_de_colei
 Vite de Colei
-(N
-ü
-rnberg Manuscript 1517)
-(One Couple, Ld on right)
-| == In 4 == |
+Anonymous
+Italian Balli - 15th Century
+||(One Couple, Ld on right) | == In 4 == |
 |-----|----|-----|
-V1
-8 Pive fwd, Ly turning to face Ld on the last
-4
-Ch
-(holding both hands) Ld Rev; Ly Rev; Both VT
-1;1;1|
-V2
-8 Pive fwd, Ld turning to face Ly on the last
-4
-Repeat Chorus, Ly Rev first
-3
-V3
-Ld fwd 2 Doubles, Rip w/ MV; Return w/ same (no MV) 
-2;2|
-Repeat Ch, Ld Rev first
-3
-V4
-Ly same as Ld in V3; Repeat Chorus, Ly Rev fist
-4;3|
-V5
-R hands, circle CW w/ 4 Pive; L hands, circle CCW w/ 4 Pive
-2;2|
-Repeat Chorus, Ld Rev first
-3
+|V1| 8 Pive fwd, Ly turning to face Ld on the last |4|
+|Ch| (holding both hands) Ld Rev; Ly Rev; Both VT |1;1;1|
+|V2| 8 Pive fwd, Ld turning to face Ly on the last |4|
+||Repeat Chorus, Ly Rev first |3|
+|V3| Ld fwd 2 Doubles, Rip w/ MV; Return w/ same (no MV) |2;2|
+||Repeat Ch, Ld Rev first |3|
+|V4| Ly same as Ld in V3; Repeat Chorus, Ly Rev fist |4;3|
+|V5| R hands, circle CW w/ 4 Pive; L hands, circle CCW w/ 4 Pive |2;2|
+||Repeat Chorus, Ld Rev first|3|
+@@@@@
 Steps for 15th Century Italian Dance
 Continenza (Con) - Shift weight to side, 
 w/
