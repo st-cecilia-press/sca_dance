@@ -1178,540 +1178,123 @@ SR doing quarter turn CCW, SL doing quarter turn CCW, MV (half turn CCW in no ti
 Italian Balli (16
 th
  Century & later)
+%%%allegrezza_damore
 Allegrezza d’Amore
-(Caroso 1581
-)
-(3 People in a Circle)
-| == In 
-3
- == |
+Caroso
+Italian Balli - 16th Century & Later
+||(3 People in a Circle) | == In 3 == |
 |-----|----|-----|
-P1
-Take hands & Rev
-; 
-Drop hands & 
-Spez
- LR, flanking back
-4;4|
-1
-Passi LR, Cad to the L; Passi RL, Cad to the R 
-4;4|
-Trab 
-L to even feet
- flank
-ing 
- back
- 
-(
-Leader first, then to R)
-6
-Passi LR, Cad fwd
-4
-Slow Trab LR
-4
-Spez LR, flanking back; Passi LR Cad fwd
-4;4|
-1
-P2
-Fioretti a pie pari 
-LR
-; Passi 
-LR (back); 
-Spez 
-LR (switch, leader betw)
-2;2;4|
- 
-Fioretti a pie pari 
-RL
-; Passi 
-RL
- (back)
-; Spez RL (switch back)
-2;2;4|
- 
-Rev (
-Leader first, then to R)
-6
-6 Canarii tu
-rning L; 
-6 Canarii
- turning R
-;
- 
-Passi LR, Cad fwd
-12
-;4
-P3
-Chain w/ 8 S
-pez
-, touching hands
-16
- 
-16
-Passi in Galliarda, Cad (kick, kick, jump)
- 
-(
-Leader first, then to R)
-6
-Scam LR; 
-Puntate L fwd & R back;
- Turn 
-L
- in
- Spez L, Cad
-8;4;4|
-P4
-Fioretti a pie pari 
-LR
-;
- Trab LR, Passi LR, Cad to L
-2;2;4|
-Fioretti a pie pari 
-RL
-;
- Trab RL, Passi RL, Cad to R
-2;2;4|
-Battute 
-LR
- (stomp, stomp) 
-(Leader first, then to R)
-6
-Scorsi
- 
-LR
-, Cad
- 
-changing places
- (
-Leader first, then to R
-)
-; 
-Rev
-12;4|
+|P1| Take hands & Rev; Drop hands & Spez LR, flanking back |4;4|
+|| Passi LR, Cad to the L; Passi RL, Cad to the R |4;4|
+||Trab L to even feet flanking back (Leader first, then to R) |6|
+||Passi LR, Cad fwd |4|
+||Slow Trab LR |4|
+||Spez LR, flanking back; Passi LR Cad fwd |4;4|
+|P2| Fioretti a pie pari LR; Passi LR (back); Spez LR (switch, leader betw) |2;2;4|
+|| Fioretti a pie pari RL; Passi RL (back); Spez RL (switch back) |2;2;4|
+|| Rev ( Leader first, then to R) |6|
+|| Canarii turning L; 6 Canarii turning R; Passi LR, Cad fwd |12;4|
+|P3| Chain w/ 8 Sez , touching hands |16|
+|| Passi in Galliarda, Cad (kick, kick, jump) (Leader first, then to R) |6|
+||Scam LR; Puntate L fwd & R back; Turn L in Spez L, Cad |8;4;4|
+|P4| Fioretti a pie pari LR; Trab LR, Passi LR, Cad to L |2;2;4|
+||Fioretti a pie pari RL; Trab RL, Passi RL, Cad to R |2;2;4|
+||Battute LR (stomp, stomp) (Leader first, then to R) |6|
+||Scorsi LR, Cad changing places (Leader first, then to R); Rev |12;4|
+@@@@@
+
+%%%altezza_damore
 Altezza d’Amore
-(Caroso 1600)
-||(Couples) | == In 6
- == |
+Caroso
+Italian Balli - 16th Century & Later
+||(Couples) | == In 6 == |
 |-----|----|-----|
-P1
-Rev
-; Con
- 
-LR
-; Groppo L; Fioretti 
-LR
-1;1;½;½
- 
-Semidoppio L; Groppo R; Fioretti 
-RL
-; Semidoppio R
-1;½ ;½ ; 1
-Trab 
-LR
-; Spez L; Trab 
-RL
-; Spez R
-½ ;½ ;½ ;½ 
-Scorsi LRLR (separating in S shape); Trab 
-LR
-2;½
-P2
-Ld
- 
-4 variations L; Ly 4 variations L; Ld 4 vars R; Ly 4 vars R
-4;4;4;4|
-easy galliard var: 
-Ord 
-LR
- flanking; Trab 
-LR
-; Finto L
-2;1;1|
-complex var
-: 
-Groppo L; Fioretti 
-LR
-; Passi 
-LR
- 
-back
-½ ;½ ;½) 
- Fioretti 
-LR
-; Passi 
-LR
- 
-fwd
-; Trab 
-LR
-½ ;½ ;½ 
- Mezza 
-Rev
-; Sottopiede L; Cad
- L
-¼ ; ½ ; ¼ 
-P3
-Spez Alterati 
-LR
-; Fioretti 
-LR
-; Saffice L; same starting R
-1;½ ;½ ; 2
-Spez 
-LR
- (turning L);  Canario LRL; Stamp 
-RL
-1;1½ ;½ 
-Spez 
-RL
- (turning R); Canario R L R; Stamp 
-LR
-1;1½ ;½ 
-Groppo L; Fioretti 
-LR
-; Spez Puntato L w/ Mezza Reverenza
-½ ;½ ;1
-Same starting R; Trab 
-LR
-2;½ 
-P4
-Ld
-Stamp LR; Canario L; Stamp RLR; Can L; Ly same
-½ ;½;½;½ ;2
-Ld
-Stamp RL; Canario R; Stamp LRL; Can R; Ly same
-½ ;½;½;½;2
-Passo Puntato L; Mezza 
-Rev
-; Passo Puntato R; Mezza 
-Rev
-½ ;½;½;½ 
-Ld
- Trab 
-LR
-; Saf
-f
-ice L (flanking out); Ly do same
-½ ;½;½;½
-Ld
- Trab 
-RL
-; Saffice R
- 
-(flanking out); Ly do same
-½ ;½;½;½
-Spez 
-LR
- (turning L); Passi 
-LR
-; Saffice L (flankng in)
-1;½ ;½ 
-Same starting R; 
-Puntat
-e
- 
-LR
-; 
-Rev
-2;1;1|
+|P1| Rev; Con LR; Groppo L; Fioretti LR |1;1;½;½|
+||Semidoppio L; Groppo R; Fioretti RL; Semidoppio R |1;½ ;½; 1|
+||Trab LR; Spez L; Trab RL; Spez R |½ ;½ ;½ ;½ |
+||Scorsi LRLR (separating in S shape); Trab LR |2;½|
+|P2| Ld 4 variations L; Ly 4 variations L; Ld 4 vars R; Ly 4 vars R |4;4;4;4|
+||easy galliard var: Ord LR flanking; Trab LR ; Finto L |2;1;1|
+||complex var: Groppo L; Fioretti LR; Passi LR back |½ ;½ ;½ |
+||Fioretti LR ; Passi LR fwd ; Trab LR |½ ;½ ;½|
+|| Mezza Rev; Sottopiede L; Cad L |¼; ½; ¼| 
+|P3| Spez Alterati LR ; Fioretti LR ; Saffice L; same starting R |1;½ ;½; 2|
+||Spez LR (turning L);  Canario LRL; Stamp RL |1;1½ ;½|
+||Spez RL (turning R); Canario R L R; Stamp LR |1;1½;½|
+||Groppo L; Fioretti LR; Spez Puntato L w/ Mezza Reverenza |½;½;1|
+||Same starting R; Trab LR |2;½| 
+|P4| Ld Stamp LR; Canario L; Stamp RLR; Can L; Ly same |½;½;½;½;2|
+||Ld Stamp RL; Canario R; Stamp LRL; Can R; Ly same |½;½;½;½;2|
+||Passo Puntato L; Mezza Rev; Passo Puntato R; Mezza Rev |½;½;½;½|
+||Ld Trab LR; Saffice L (flanking out); Ly do same |½;½;½;½|
+||Ld Trab RL; Saffice R (flanking out); Ly do same |½;½;½;½| 
+||Spez LR (turning L); Passi LR; Saffice L (flankng in) |1;½;½| 
+||Same starting R; Puntate LR; Rev |2;1;1|
+@@@@@
+
 Italian Balli (16
 th
  Century & later)
+%%%alta_regina
 Alta Regina
-(Caroso 1581)
-(One Couple, facing)
-| == 
-In 3
- == |
+Caroso
+Italian Balli - 16th Century & Later
+||(One Couple, facing) | == In 3 == |
 |-----|----|-----|
-V1
-Rev; Scam L;
- 
-Spez 
-RL
- to swit
-ch; 
-Turn
- L
- in
- Spez 
- 
-R,
- 
-Cad
-4;4;4;4|
-Ch:
-Facing, Puntate L fwd & R bac
-k; 
-Turn 
-L
- in
- Spez L, Cad 
-4;4|
-V2 
-Spez LRLR in CW wheel; Facing, Scam 
-LR
- ; Repeat Chorus 
-2;2;2|
-V3 
-Ld: Passi fwd 
-LR
- , Cad L ; Passi bac
-k 
-RL
-, Cad R; Trab LRLR; 
-4;4|
-;
-4
-Turn 
-L
- in
- Sp
-ez, L
-,
- Cad; All repeat chorus
-4;8|
-V4 
-Ly do as Ld 
-did in V3; All repeat chorus
-16;8|
-V5
-Trab LRLR; Doppio L; Trab RLRL; Doppio R; Repeat Chorus
-4;4;4;4;8|
-V6
-Rip LL, Trab LR; Doppio L; Rip RR, Trab RL, Doppio R; Chorus
-4;4;4;4;8|
+|V1| Rev; Scam L; Spez RL to switch; Turn L in Spez R, Cad |4;4;4;4|
+|Ch:| Facing, Puntate L fwd & R bac k; Turn L in Spez L, Cad |4;4|
+|V2| Spez LRLR in CW wheel; Facing, Scam LR; Repeat Chorus |2;2;2|
+|V3| Ld: Passi fwd LR, Cad L ; Passi back RL, Cad R; Trab LRLR; |4;4;4| 
+||Turn L in Spez, L, Cad; All repeat chorus |4;8|
+|V4| Ly do as Ld did in V3; All repeat chorus |16;8|
+|V5| Trab LRLR; Doppio L; Trab RLRL; Doppio R; Repeat Chorus |4;4;4;4;8|
+|V6| Rip LL, Trab LR; Doppio L; Rip RR, Trab RL, Doppio R; Chorus |4;4;4;4;8|
+@@@@@
+%%%ballo_del_fiore
 Ballo del Fiore (for 2)
-(Caroso 1581)
-(Lds 
-w/
- Flowers & Lys along edge of floor)
-| == In 4 == |
+Caroso
+Italian Balli - 16th Century & Later
+||(Lds w/ Flowers & Lys along edge of floor) | == In 4 == |
 |-----|----|-----|
-Intro
-Lds 
-only 
-Rev
-; 
-Ord
- 
-LR 
-turning in place
-2;2|
-V1
-Lds 
-Ord
- 
-LRLR 
-to face a 
-ptnr
-; 
-C
-on LR
-, 
-Rev
-4;4|
-V2
-Together,
- fwd,
-Ord
- LR; 
-Scorsi
- LR; (facing) 
-C
-on
- LR
-, 
-Rev
-2;2;4|
-V3 
-Ord
- 
-LR 
-turning
- L
-;
- 
-Ord
- 
-LR to 
-p
-ass 
-ptnr
- & face; 
-C
-on LR
-, 
-Rev
-2;2|
-;4
-V4
- 
-Ord
- 
-LRLR 
-–
- 
-zigzag to 
-ptnr
-; 
-C
-on LR
-, 
-Rev
-, Ld kiss
- & pass flower
-4;4|
-Repeat verses 1-4 
-w/
- 
-Ly seeking a new Ld
+|Intro| Lds only Rev; Ord LR turning in place |2;2|
+|V1| Lds Ord LRLR to face a ptnr; C on LR, Rev |4;4|
+|V2| Together, fwd, Ord LR; Scorsi LR; (facing) C on LR, Rev |2;2;4|
+|V3| Ord LR turning L; Ord LR to pass ptnr & face; C on LR, Rev |2;2;4|
+|V4| Ord LRLR – zigzag to ptnr; C on LR, Rev, Ld kiss & pass flower |4;4|
+||Repeat verses 1-4 w/ Ly seeking a new Ld||
+@@@@@
+
+%%%ballo_del_fiore_a_3
 Ballo del Fiore (for 3)
-(Caroso 1
-581
-)
-Open: Lds 
-(holding flower) 
-Rev
-; Con 
-LR
-2;2|
-P
-1
-Lds 
-Passi LR; 
-Ord
- L; Passi RL, 
-Ord
- R to Ly
-; Con LR; 
-Rev
-1;1;1;1|
-;2;2|
-2 bars rest;Both 
-Rev
-; 
-Ord
- LRLR; Con 
-LR
-; 
-Rev
- facing
-2
-;2;4;2;2|
-P2
-Lds 
-Rev
-; Con 
-LR
-; Pass
-i
- 
-LR
-; 
-Ord
- L 
-2;2;1;1|
-Lds Passi 
-RL
-; 
-Ord
-R to meet new Ly; Con 
-LR
-; Rev; rest
-1;1;2;2;2|
-Both 
-Rev
-; 
-Ord
- LRLR to meet Ly1, place Ly2 to R, form triangle
-2;4|
-Con 
-LR
-, 
-Rev
-2;2|
-P3
-Ord
- 
-LR
- turning L; 
-Ord
- L CW ( in wheel); 
-Ord
- R 
-C
-CW
-2;1;1|
-Con 
-LR
-; 
-Rev
-2;2|
-P4
-Ord
- 
-LR
- to meet, Ld in middle, Ld doffs hat; Scorsi 
-LR
- to invert set
-2;2|
-Puntate L fwd & R back; 
-Rev
-2;2|
-P5
-Ord
- 
-LR
- into smaller circle; 
-Rev
-2;2 
-Ld & Ly1 R hands: Passi 
-LR
-, 
-Ord
- L; R hands: Passi 
-RL
-, 
-Ord
- R
-2;2|
-Ld & Ly2 R hands: Passi 
-LR
-, 
-Ord
- L; R hands: Passi 
-RL
-, 
-Ord
- R
-2;2|
-Con 
-LR
-; 
-Rev
-2;2|
-P6
-Hey
- in 4 Scorsi; Con 
-LR
-; 
-Rev
-, giving flower to Ly 1
-4;2;2|
-P7
-Ld & Ly2r 4 
-Ord
- tog as Ly1 same to find new Ld; Con 
-LR
-; 
-Rev
-4;2;2|
+Caroso
+Italian Balli - 16th Century & Later
+||(Lds w/ Flowers & Lys along edge of floor) | == In 4 == |
+|-----|----|-----|
+|Open:| Lds (holding flower) Rev; Con LR |2;2|
+|P1| Lds Passi LR; Ord L; Passi RL, Ord R to Ly; Con LR; Rev |1;1;1;1;2;2|
+||2 bars rest; Both Rev; Ord LRLR; Con LR; Rev facing |2;2;4;2;2|
+|P2| Lds Rev; Con LR; Passi LR; Ord L |2;2;1;1|
+||Lds Passi RL; Ord R to meet new Ly; Con LR ; Rev; rest |1;1;2;2;2|
+||Both Rev; Ord LRLR to meet Ly1, place Ly2 to R, form triangle |2;4|
+||Con LR, Rev |2;2|
+|P3| Ord LR turning L; Ord L CW ( in wheel); Ord R C CW |2;1;1|
+||Con LR; Rev |2;2|
+|P4| Ord LR to meet, Ld in middle, Ld doffs hat; Scorsi LR to invert set |2;2|
+||Puntate L fwd & R back; Rev |2;2|
+|P5| Ord LR into smaller circle; Rev |2;2| 
+||Ld & Ly1 R hands: Passi LR, Ord L; R hands: Passi RL, Ord R |2;2|
+||Ld & Ly2 R hands: Passi LR, Ord L; R hands: Passi RL, Ord R |2;2|
+||Con LR; Rev |2;2|
+|P6| Hey in 4 Scorsi; Con LR; Rev, giving flower to Ly 1 |4;2;2|
+|P7| Ld & Ly2r 4 Ord tog as Ly1 same to find new Ld; Con LR; Rev| 4;2;2|
+@@@@@
 Italian Balli (16
 th
  Century & later)
+%%%bella_gioiosa
 Bella Gioiosa
-(Caroso 1581)
+Caroso
+Italian Balli - 16th Century & Later
 (3 people in circle)
 | == In 6
  == |
@@ -1875,8 +1458,10 @@ RL
  R; Cad; Chorus
 1;1;1;1;6|
  
+%%%chiara_stella
 Chiara Stella
-(Caroso 1581)
+Caroso
+Italian Balli - 16th Century & Later
 ||(Couples, Ld facing Ly) | == In 6 == |
 |-----|----|-----|
 V1:
@@ -1962,8 +1547,10 @@ Spez R, Cad; Repeat Chorus.
 Italian Balli (16
 th
  Century & later)
+%%%il_bianco_fiore
 Il Bianco Fiore
 (Negri 1602)
+Italian Balli - 16th Century & Later
 (
 2 
 Couple
@@ -2086,9 +1673,10 @@ Ord
  R
 1;1;1;1|
 Repeat Chorus
+%%%bizzaria_damore
 Bizzaria d'Amore
-(
 Negri 1602)
+Italian Balli - 16th Century & Later
 (2 
 Couple
 s in a diamond)
@@ -2228,6 +1816,7 @@ th
  Century & later)
 Brando di Cales
 ( Negri 1602)
+Italian Balli - 16th Century & Later
 (3 
 Couple
 s in a circle)
@@ -2339,8 +1928,10 @@ Lys
 Ord
  inside CW to face next Ld on other side; saltino; repeat
 1;½;1½
+%%%candida_luna
 Candida Luna
-(Caroso 1581)
+Caroso
+Italian Balli - 16th Century & Later
 (
 1
  
@@ -2394,8 +1985,10 @@ Turn in Spez L, Cad
 4;4;4;4|
 Repeat Chorus
 48
+%%%la_castellana
 La Castellana
-(Caroso 1581)
+Caroso
+Italian Balli - 16th Century & Later
 (
 1
  
@@ -2471,8 +2064,10 @@ LR
 Italian Balli (16
 th
  Century & later)
+%%%chiaranzan
 Chiaranzana 
-(Caroso 1581)
+Caroso
+Italian Balli - 16th Century & Later
 (
 Couple
 s in a line)
@@ -2529,9 +2124,10 @@ Continue til C1 at head of set
 P5:
 (Exit) Spezzati around floor; Spezzati off floor; Rev
  
+%%%contentezza_damore
 Contentezza d'Amore
- (Il Ballarino)
-(Caroso 1581)
+Caroso
+Italian Balli - 16th Century & Later
 (
 Couple
 s)
@@ -2644,10 +2240,10 @@ ake hands &
 8
 ;
 8;4;4|
-Contentezza d'Amore (Nobilt
-à
- di Dame)
-(Caroso 1600)
+%%%contentezza_damore
+Contentezza d'Amore 
+Caroso
+Italian Balli - 16th Century & Later
 (
 Couple
 s)
@@ -2758,8 +2354,10 @@ Rip RR, Trab RL; Passi RL, Saffice R; Puntate LR; Rev
 Italian Balli (16
 th
  Century & later)
+%%%il_conto_dell_orco
 Il Conto dell ’Orco
-(Caroso 1581)
+Caroso
+Italian Balli - 16th Century & Later
 (1 
 Couple
 , facing)
@@ -2855,8 +2453,10 @@ LR
 V8
 Lds Rev L; Lys Rev L; all figure 8; Rev 
 4;4;8|
+%%%contrapasso_in_due
 Contrapasso in Due
-(Caroso 1581)
+Caroso
+Italian Balli - 16th Century & Later
 (
 Couple
 s)
@@ -2982,8 +2582,10 @@ Lys
  figure 8 as Lds flank back & fwd
 4;4;
 8
+%%%dolce_amorosa_fiamma
 Dolce Amorosa Fiamma
-(Caroso 1581)
+Caroso
+Italian Balli - 16th Century & Later
 (3 
 Couple
 s in a line)
@@ -3040,8 +2642,10 @@ Lds Rev Lys; Lys Rev Lds; All slow turn to face the Presence & Rev
 Italian Balli (16
 th
  Century & later)
+%%%donna_leggiadra
 Donna Leggiadra
-(Caroso 1600)
+Caroso
+Italian Balli - 16th Century & Later
 (1 
 Couple
 )
@@ -3105,8 +2709,10 @@ RL
 1;1|
 Puntato L fwd & R back; Rev grave
 1;2|
+%%%fedelta
 Fedelta
-(Caroso 1581)
+Caroso
+Italian Balli - 16th Century & Later
 (
 Couple
 s in a circle)
@@ -3186,8 +2792,10 @@ Cad
 8;2;2;4|
 Repeat Chorus 
 4;4|
+%%%fiamma_damore
 Fiamma d’Amore
-(Caroso 1581)
+Caroso
+Italian Balli - 16th Century & Later
 (
 1
  
@@ -3289,6 +2897,7 @@ th
  Century & later)
 Fedelta d'Amore
 (Negri 1602)
+Italian Balli - 16th Century & Later
 (Ly betw
  2 Lds)
 | == In 4 == |
@@ -3422,8 +3031,10 @@ Ord
 LR
 , turning L; 4 scorsi in haye (Ly to orig place); Rev
 2;2;4;2|
+%%%florido_giglio
 Florido Giglio
-(Caroso 1581)
+Caroso
+Italian Balli - 16th Century & Later
 (1 Couple)
 | == In 3 == |
 |-----|----|-----|
@@ -3476,8 +3087,10 @@ Passi LR back, Trango L fwd; Turn R in Spez RL; same starting R
 Italian Balli (16
 th
  Century & later)
+%%%fulgente_stella
 Fulgente Stella
-(Caroso 1581)
+Caroso
+Italian Balli - 16th Century & Later
 (
 1
  or 
@@ -3580,8 +3193,10 @@ RL
 Cad
 1;1;2|
  
+%%%furioso
 Furioso
-(Caroso 1581)
+Caroso
+Italian Balli - 16th Century & Later
 (
 3
  
@@ -3644,8 +3259,10 @@ LR
  (turning L); 4 Spez to start; Rev
 4;4;4;8;4|
  
+%%%gentilezza_damore
 Gentilezza D’Amore
-(Caroso
+Caroso
+Italian Balli - 16th Century & Later
  
 1581)
 (
@@ -3735,9 +3352,10 @@ LR
 Italian Balli (16
 th
  Century & later)
+%%%giunto_mha_amore
 Giunto M'Ha Amore
-(
-(Caroso 1581) 
+Caroso
+Italian Balli - 16th Century & Later
 (
 Couples
 )
@@ -3762,8 +3380,10 @@ repeat ch
 V5
 Passi LRL to L; Passi RLR to R; Scam LR; repeat ch
 2;2;4;12
+%%%gloria_damore
 Gloria d'Amore
 (Caroso 1581) 
+Italian Balli - 16th Century & Later
 (
 Couples
 )
@@ -3807,9 +3427,10 @@ Slow Trab L, touch R hands; Slow Trab R, touch L hands
 1;1|
 Spez LR flanking back; Passi LR, Cad fwd
 2;2|
+%%%gracca_amorosa
 Gracca Amorosa
- 
-(Caroso 1581) 
+Caroso
+Italian Balli - 16th Century & Later
 (
 Couples
 )
@@ -3877,8 +3498,10 @@ Passo
 Italian Balli (16
 th
  Century & later)
+%%%gratia_damore
 Gratia d'Amore
-(Caroso 
+Caroso 
+Italian Balli - 16th Century & Later
 1581)
 ||(Couples) | == in 3== |
 |-----|----|-----|
@@ -3944,6 +3567,7 @@ Spez LRLR flank fwd; Con LR, touch hands, Puntata L fwd, R back
 Il Gratioso
  
 (Negri
+Italian Balli - 16th Century & Later
  1602)
 (Ly betw
  2 Lyds)
@@ -4123,8 +3747,10 @@ emidoppio L, turning L; Rev
 Italian Balli (16
 th
  Century & later)
+%%%laccio_damore
 Laccio d’Amore
-(Caroso 1581)
+Caroso
+Italian Balli - 16th Century & Later
 (
 Couples
 )
@@ -4193,8 +3819,10 @@ LR
  
 (turning L ) Spez L, Cad R
 1;1|
+%%%leggiadria_damore
 Leggiadria d’Amore
-(Caroso 1581)
+Caroso
+Italian Balli - 16th Century & Later
 (Ld betw
  two 
 Lys
@@ -4247,8 +3875,10 @@ Ord L fwd; Ord R back; Ord L, turning L; Trab RLR
 1;1;1;1|
 Ld Ord LR, turning L 1-½ times, while Lys Scorsi LR; Rev
 2
+%%%maraviglia_damore
 Maraviglia d’Amore
-(Caroso 1581)
+Caroso
+Italian Balli - 16th Century & Later
 ||(Couples) | == in 3 == |
 |-----|----|-----|
 P1
@@ -4283,9 +3913,10 @@ Cad
 Italian Balli (16
 th
  Century & later)
+%%%spagnoletta_regolata
 Spagnoletta Regolata
- 
-(Caroso 1600)
+Caroso
+Italian Balli - 16th Century & Later
 ||(Couples) | == In 6 == |
 |-----|----|-----|
 V1
@@ -4388,6 +4019,7 @@ LR
 ;2;2;2|
 Lo Spagnoletto
 (Negri 1602)
+Italian Balli - 16th Century & Later
 (2 Couples)
 | == In 6
  == |
@@ -4495,8 +4127,10 @@ RL
 ; chorus
 2;2|
 ; 16
+%%%villanella
 Villanella
-(Caroso 1581)
+Caroso
+Italian Balli - 16th Century & Later
 (one or more couples)
 | == In 3 == |
 |-----|----|-----|
@@ -4574,8 +4208,10 @@ Rev
 Italian Balli (16
 th
  Century & later)
+%%%torneo_amoroso
 Torneo Amoroso
-(Caroso 1581)
+Caroso
+Italian Balli - 16th Century & Later
 ||(Couples) | ==In 2== |
 |-----|----|-----|
 P1 
@@ -4640,6 +4276,7 @@ Ly Figure 8 as Ld: Ord LR (turn L) & Ord (to Ly); Rev
 Villanicco
  
 (Negri 1602)
+Italian Balli - 16th Century & Later
  
 (2 Lds & 2 
 Lys
