@@ -803,18 +803,18 @@ Italian Balli - 15th Century
 ||(for 3 in column, ideally Ld, Ly, Ld) | == In 4 == |
 |-----|----|-----|
 |P1| Ted LRL, VdG (= In 6 =); repeat |3;2|
-|P2| Doubles RLR in 1/2 Hey, leader & center starting w/ R hands *== In 6 ==* | 3 |
+|P2| Doubles RLR in 1/2 Hey, leader & center starting w/ R hands **== In 6 ==** | 3 |
 ||Singles LR, Double L fwd |2|
 ||Doubles RLR in 1/2 Hey, last & center starting w/ R hands |3|
 ||Singles LR, Double L fwd |2|
-|P3| Leader MV L w/ a hop to face down as others hop onto R *== In 3 ==* ||
+|P3| Leader MV L w/ a hop to face down as others hop onto R **== In 3 ==** ||
 ||Contrapassi LL, Leader weaves to bottom passing Center by L and Last by R,||
 ||Leader & Center edning w/ MV L |3|
 ||Contrapassi LL, Center weaves to the bottom the same way|3|
 ||Contrapassi LL, Last weaves to the bottom the same way, end w/ all facing up |3|
 |P4| Salt LR fwd; Center still as Leader & Last Salt LR to switch places CW |2;2|
 ||Leader & Last stand still as Center VdG (= In 6 =); Repeat | 2;6|
-|P5| Leader MV R & Riv L w/ center, touching R hands *== In 6 ==* | 1|
+|P5| Leader MV R & Riv L w/ center, touching R hands **== In 6 ==** | 1|
 ||Centr MV R & Riv L w/ Last, touch R hands, Centr & Leader MV to face fwd | 1|
 @@@@@
 
@@ -829,7 +829,7 @@ Italian Balli - 15th Century
 | Single, 3 Pive, 1 Single |4|
 |Lds 2 Saltarelli; VT in 4 steps; Lys 2 Saltarelli; MV |2;1;3|
 |All 3 Contrapassi fwd, MV; 3 Contrapassi fwd, MV| 2;2|
-|Ly Double L; Lds same; Ly Double R; Lds same, MV (all, to face) *== In 6 ==* | 1;1;1;1|
+|Ly Double L; Lds same; Ly Double R; Lds same, MV (all, to face) **== In 6 ==** | 1;1;1;1|
 |All Riprese LR; Con LR, Rev; Ly Double L; Lds same |2;2;1;1|
 |Ly Double R; Lds same, MV (Lds only); All Rev; Ly Movi, Lds Movi |1;1;1;1|
 @@@@@
@@ -838,81 +838,31 @@ Italian Balli - 15th Century
 Leoncello Vecchio
 Domenico
 Italian Balli - 15th Century
-||(Couples) | == In 4 == |
-|-----|----|-----|
-6 salterelli
-6
-Movi (Ld then Ly); Ld Salt to R of Ly; Repeat (exchanging roles)
-1;1;2|
-Ld
- 
-4 Singles & 1 Double away; Ly same; Ld
- 
-3 quick Doubles away; Ly same
-3;3;
-2
-;
-2
-Ld
- 
-2 Singles & 2 Doubles away; Ly same to join
-                 
-| == In 6 == |
-|-----|----|-----|
-3;3|
-(both) Riprese 
-LR
-; 2 Singles; 2 Doubles; Riprese 
-LR
-; Movi
- 
-(Ld then Ly)
-2;1;2;2;
-2
+|(Couples) | == In 4 == |
+|----|-----|
+|6 salterelli| 6|
+|Movi (Ld then Ly); Ld Salt to R of Ly; Repeat (exchanging roles) |1;1;2|
+|Ld 4 Singles & 1 Double away; Ly same; Ld 3 quick Doubles away; Ly same |3;3;2;2|
+|Ld 2 Singles & 2 Doubles away; Ly same to join **== In 6 ==** |3;3|
+|(both) Riprese LR; 2 Singles; 2 Doubles; Riprese LR; Movi (Ld then Ly) |2;1;2;2;2|
+@@@@@
 
 %%%marchesana
 Marchesana
 Domenico
 Italian Balli - 15th Century
-||(Couples) | == In 4 == |
-|-----|----|-----|
-8 salterelli
-8
-Ld stamp LRL; then Double R; Ly stamp LR L; then Double R
-1;1;1;1|
-Hold hands - Rip 
-LR
- (drop hands)
-| == In 6 == |
-|-----|----|-----|
-       
- 2
-R hands - circle 
-w/
- Singles 
-LR
-; Double L drop hands; RipR; Same w/ L 
-1;1;1;3|
-Doubles 
-LR
- fwd, passing L shoulders & turn to face
-2
-Rip 
-LR
-; Continenza 
-LR
-; Ld Rev; Ly Rev 
-2;1;1;1|
-Movimenti (Ld then Ly); Both Double L fwd
- 
-| == In 4 == |
-|-----|----|-----|
-    
-1;1|
-Movimenti(Ly then Ld); Both Double R fwd (end w/ R shoulders together)
-1;1|
-Double L turning (Ly VT & Ld MV) to face same way, Ly on L (next repeat, Ly leads)
-1
+|(Couples) | == In 4 == |
+|----|-----|
+|8 salterelli |8|
+|Ld stamp LRL; then Double R; Ly stamp LR L; then Double R |1;1;1;1|
+|Hold hands - Rip LR (drop hands) **== In 6 ==** |2|
+|R hands - circle w/ Singles LR; Double L drop hands; RipR; Same w/ L |1;1;1;3|
+|Doubles LR fwd, passing L shoulders & turn to face |2|
+|Rip LR; Continenza LR; Ld Rev; Ly Rev |2;1;1;1|
+|Movimenti (Ld then Ly); Both Double L fwd **== In 4 ==** |1;1|
+|Movimenti(Ly then Ld); Both Double R fwd (end w/ R shoulders together) |1;1|
+|Double L turning (Ly VT & Ld MV) to face same way, Ly on L (next repeat, Ly leads) |1|
+@@@@@
 Italian Balli (15
 th
  Century)
@@ -1295,168 +1245,33 @@ th
 Bella Gioiosa
 Caroso
 Italian Balli - 16th Century & Later
-(3 people in circle)
-| == In 6
- == |
+||(3 people in circle) | == In 6 == |
 |-----|----|-----|
-V1
-Take hands & 
-Rev
- w/ jump; Trab LRLR & drop hands
-2;2|
-Turn
- L: 
-Spez 
-LR
-,
- Passi 
-LR
-; Cad
-2;1;1|
- 
-Face L i
-n wheel Spez LRLR;Scam
- 
-LR
-4;4|
-Ch
-Leader turn L in Spez L, Cad; #2 
-(to R of Leader) same; #3 same
-2
- (3x)
-V2
-Leader Passi 
-LR
-; Cad; Trab
- LRLR or Canario LRLRL
-1;1;2|
-(Leader only) Rip 
-LL
-, Trab 
-LR
-; (turn L in) Spez L; Cad
-1;1;1;1|
-Joust all L side in Spez L 
-fwd
-; Spez R
- back; Spez 
-LR
- to switch
-1;1;2|
-L side in Spez L fwd; Spez R back; Spe
-z 
-LR
- to switch; Chorus
-1;1;2;6|
-V3
-Verse 2 
-w/
- #2 (to R of Leader) 
-as Leader; Chorus w/#2 leading
-16;6|
-V4
-Verse 2 
-w/
- #3 a
-s Leader; Chorus w/ #3 leading
-16;6|
-V5
-Face L in wheel Sem
-idoppio 
-LR
-; Rip 
-LL
-; Trab 
-LR
-4;1;1|
- 
-Turn 
-L 
- in 
-Spez L 
-,
-Cad
-2
- 
-Face R in wheel Semidoppio 
-RL
-; Rip 
-RR
-; Trab 
-RL
-4;1;1|
- 
-Turn 
-R in S
-pez R
-,
- Cad
-; Chorus (w/ orig leader)
-2
-;6
- 
-V6
-Fioretti a 
-pie pari 
-LR
-; Passi 
-LR
- (back)
-1;1|
- 
-Spez 
-LR
- (chang
-e places, leader pass betw
-)
-2
-Fioretti a 
-pie pari 
-RL
-; Passi 
-RL
- (back)
-1;1|
- 
-Spez 
-RL
- (chang
-e places, leader pass betw
-)
-2
-Chain w/ 6 
-Spez (leader betw
- then L)
-6
-Pas
-si 
-LR
-; Cad; repeat Chorus
-1;1;6|
- 
-V7
- 
-Trab LRLR; 
-Canario LRLR
-2;2|
-Rip 
-LL
-; Trab 
-LR
-; (turn 
-L in) Spez L; Cad
-1;1;1;1|
- 
-Trab RLRL; 
-Canario RLRL
-2;2|
-Rip 
-RR
-; Trab 
-RL
-; (turn R in) Spez
- R; Cad; Chorus
-1;1;1;1;6|
+|V1| Take hands & Rev w/ jump; Trab LRLR & drop hands |2;2|
+||Turn L: Spez LR, Passi LR; Cad |2;1;1|
+|| Face L i n wheel Spez LRLR;Scam LR |4;4|
+|Ch| Leader turn L in Spez L, Cad; #2 (to R of Leader) same; #3 same |2 (3x)|
+|V2| Leader Passi LR; Cad; Trab LRLR or Canario LRLRL |1;1;2|
+||(Leader only) Rip LL, Trab LR; (turn L in) Spez L; Cad |1;1;1;1|
+||Joust all L side in Spez L fwd; Spez R back; Spez LR to switch |1;1;2|
+||L side in Spez L fwd; Spez R back; Spez LR to switch; Chorus |1;1;2;6|
+|V3| Verse 2 w/ #2 (to R of Leader) as Leader; Chorus w/#2 leading |16;6|
+|V4| Verse 2 w/ #3 as Leader; Chorus w/ #3 leading |16;6|
+|V5| Face L in wheel Semidoppio LR; Rip LL; Trab LR |4;1;1| 
+||Turn L in Spez L, Cad |2| 
+||Face R in wheel Semidoppio RL; Rip RR; Trab RL |4;1;1|
+|| Turn R in Spez R, Cad; Chorus (w/ orig leader) |2;6|
+|V6| Fioretti a pie pari LR; Passi LR (back) |1;1|
+|| Spez LR (change places, leader pass betw) |2|
+||Fioretti a pie pari RL; Passi RL (back) |1;1|
+|| Spez RL (change places, leader pass betw) |2|
+||Chain w/ 6 Spez (leader betw then L) |6|
+||Passi LR; Cad; repeat Chorus |1;1;6|
+|V7| Trab LRLR; Canario LRLR |2;2|
+||Rip LL; Trab LR; (turn L in) Spez L; Cad |1;1;1;1|
+|| Trab RLRL; Canario RLRL |2;2|
+||Rip RR; Trab RL; (turn R in) Spez R; Cad; Chorus |1;1;1;1;6|
+@@@@@
  
 %%%chiara_stella
 Chiara Stella
@@ -1464,603 +1279,141 @@ Caroso
 Italian Balli - 16th Century & Later
 ||(Couples, Ld facing Ly) | == In 6 == |
 |-----|----|-----|
-V1:
-Hold R hands, R
-ev; drop hands, 8 spez in CW wheel, starting L
-2;8|
-Scambiata
- L
-,
- 
-Cad
- L, landing to face 
-ptnr
-2
-Ch:
-T
-rab
- 
-LRLR;
- 
-Passi T
-rangati 
-LR
- flanking back
-2;2|
-Rip LL; Trab
- 
-LR; 
-turn 
-L 
-in 
-Spez L,
- Cad 
-1;1;2|
-Rip RR; Trab
- 
-RL; 
-turn i
-R 
-n 
-Spez R,
- Cad
-1;1;2|
-V2: 
-Ld’s solo: Spez 
-LR
- flanking fwd; 
-Passi
- 
-LR
- fwd; Trab 
-LR
-2;1;1|
-Turn in 
-Spez L, Cad; Repeat starting R
-2;6|
-Repeat Chorus (both)
-12
-V3:
-Ly’s solo: 
-Lys
- do as Lds did in V2
-12
- 
-Repeat Chorus
-12
-V4:
-Take R hands, Passi
- LR; Trab LR; Rip LL, Trab LR
-1;1;2|
-Drop hands, 
-Turn L in 
-Spez L, Cad
-2
-Take L hands, 
-Passi
- RL; Trab RL; Rip RR, Trab RL 
-1;1;2|
-Drop hands, 
-Turn R in 
-Spez R, Cad; Repeat Chorus.
-2;12
-Italian Balli (16
-th
+|V1:| Hold R hands, Rev; drop hands, 8 spez in CW wheel, starting L |2;8|
+||Scambiata L, Cad L, landing to face ptnr |2|
+|Ch:| Trab LRLR; Passi Trangati LR flanking back |2;2|
+||Rip LL; Trab LR; turn L in Spez L, Cad |1;1;2|
+||Rip RR; Trab RL; turn in R Spez R, Cad |1;1;2|
+|V2:| Ld’s solo: Spez LR flanking fwd; Passi LR fwd; Trab LR |2;1;1|
+||Turn in Spez L, Cad; Repeat starting R |2;6|
+|Ch:|Repeat Chorus (both) |12|
+|V3:| Ly’s solo: Lys do as Lds did in V2 |12|
+|Ch:|Repeat Chorus|12|
+|V4:| Take R hands, Passi LR; Trab LR; Rip LL, Trab LR |1;1;2|
+||Drop hands, Turn L in Spez L, Cad |2|
+||Take L hands, Passi RL; Trab RL; Rip RR, Trab RL |1;1;2|
+||Drop hands, Turn R in Spez R, Cad; Repeat Chorus. |2;12|
+@@@@@
+Italian Balli (16 th
  Century & later)
+
 %%%il_bianco_fiore
 Il Bianco Fiore
-(Negri 1602)
+Negri
 Italian Balli - 16th Century & Later
-(
-2 
-Couple
-s in a diamond)
-| == In 6 == |
+||( 2 Couple s in a diamond) | == In 6 == |
 |-----|----|-----|
-V1:
-Rev; Con 
-LR
-; Figure 8: turn L in Ord 
-LR
-, then R in Ord 
-LR
- 
-2;2;4|
-Lords: Passi (grave) 
-LR
- to center; Ord L; Turning R; Spez 
-RL
-; Ord R
-2;1;1|
-Ladies: Passi (grave) 
-LR
- to center; Ord L; Turning R; Spez 
-RL
-; Ord R
-2;1;1|
-Ch:
-Sottopiede 
-LL
-L, Cad L, Trab R; Ord L turning L
-1;1|
-Sottopiede 
-RR
-R, Cad R,
- 
-Trab L; Ord R turning R
-1;1|
-V2:
-Lord
-s
-: Spez LRLR in CCW loop around 
-ptnr
-; Ord 
-LR
- turning R
-2;2|
-Ladies: Spez LRLR in CCW loop around 
-ptnr
-; Ord 
-LR
- turning R
-2;2|
-Lords: 4 measures of Galliard 
-4
-Ladies: Snub seq: Ord L to center; Rip R away; Ord 
-RL
- to center & back
-1;1;2|
-Repeat Chorus
-V3:
-Circle 
-w/
- 
-ptnr
- (R hands) in 
-Ord
- LR
-; counter circle L Ord
- LR
-2;2|
-Circle 
-w/
- corner (L hands) in 
-Ord
- LR
-; counter circle R in 
-Ord LR
-2;2|
-Lords: 4 measures of Galliard; Ladies: 4 measures of Galliard
-4;4|
-Repeat Chorus
-V4:
-Grand 
-RL
-: 
-Start
- R hands 
-w/
- 
-ptnr
- & 
-switch in 
-Ord L
-; do 3 more switches
-1
-;3
-Keeping L hands 
-w/
- corner, complete the turn 
-w/
- Ord L 
-1
-Take R hands 
-w/
- 
-ptnr
- & switch in Ord R; continue 
-w/
- 2 more switches
-1;2|
-All do 4 measures of Galliard
-4
-Fioretti 
-LR
-; turn L in Ord L; Fioretti 
-RL
-; turn R in 
-Ord
- R
-1;1;1;1|
-Repeat Chorus
+|V1:| Rev; Con LR; Figure 8: turn L in Ord LR, then R in Ord LR |2;2;4|
+||Lords: Passi (grave) LR to center; Ord L; Turning R; Spez RL; Ord R |2;1;1|
+||Ladies: Passi (grave) LR to center; Ord L; Turning R; Spez RL; Ord R |2;1;1|
+|Ch:| Sottopiede LL L, Cad L, Trab R; Ord L turning L |1;1|
+||Sottopiede RR R, Cad R, Trab L; Ord R turning R |1;1|
+|V2:| Lords : Spez LRLR in CCW loop around ptnr; Ord LR turning R |2;2|
+||Ladies: Spez LRLR in CCW loop around ptnr; Ord LR turning R |2;2|
+||Lords: 4 measures of Galliard |4|
+||Ladies: Snub seq: Ord L to center; Rip R away; Ord RL to center & back |1;1;2|
+|Ch:|Repeat Chorus||
+|V3:| Circle w/ ptnr (R hands) in Ord LR; counter circle L Ord LR |2;2|
+||Circle w/ corner (L hands) in Ord LR; counter circle R in Ord LR |2;2|
+||Lords: 4 measures of Galliard; Ladies: 4 measures of Galliard |4;4|
+|Ch:|Repeat Chorus||
+|V4:| Grand RL: Start R hands w/ ptnr & switch in Ord L; do 3 more switches |1;3|
+||Keeping L hands w/ corner, complete the turn w/ Ord L |1|
+||Take R hands w/ ptnr & switch in Ord R; continue w/ 2 more switches |1;2|
+||All do 4 measures of Galliard |4|
+||Fioretti LR; turn L in Ord L; Fioretti RL; turn R in Ord R |1;1;1;1|
+|Ch:|Repeat Chorus||
+@@@@@
 %%%bizzaria_damore
 Bizzaria d'Amore
-Negri 1602)
+Negri
 Italian Balli - 16th Century & Later
-(2 
-Couple
-s in a diamond)
-| == In 4 == |
+||(2 Couples in a diamond) | == In 4 == |
 |-----|----|-----|
-Verse 1
-Lds 
-Rev
-; 
-Sottopiede 
-LL
- & Sottopiede 
-R
-R; 
-Lys
- same
-4;4;8|
-Chorus
-Hop; Hop; 
-Rip Min L; Hop; Hop; Rip Min R
-1;1;2;1;1;2|
- 
-Spez 
-LR
- 
-back
- a
-t 45 deg to R; 
-Ord
- to place
-1;1;2|
-Spez 
-RL
- 
-back
- at 45 deg to L; 
-Ord
- to place
-1;1;2|
-Verse 2
-Lds Exchange places (pass R
- shoulders) Spez 
-LR
-; 
-Ord
- L
-2;2|
-Counter circle in Spez 
-RL
-; 
-Ord
- R; 
-Lys
- same, but pass L 
-2;2;8|
-Repeat Chorus
-16
-Verse 3
-Circle w/ 
-ptnr
- (R hands) in 2 
-Ord
-; counter circle in 2 
-Ord
-4;4|
-Circle w/ corner (L hands) in 2 
-Ord
-; counter circle in 2 
-Ord
-4;4|
-Repeat Chorus
-16
-Verse 4
-Lds Exchange places 
-(R hands) in Spez
-LR
-; 
-Ord
- L
-2;2|
-Counter circle in Spez 
-RL
-; 
-Ord
- R; 
-Lys
- same but L hands
-2;2;8|
-Repeat Chorus
-16
-Verse 5
-R hands w/ 
-ptnr
-, 
-Ord
- L to swit
-ch; L hands, 
-Ord
- R to place
-2;2|
-Counter circle in 
-Ord
- 
-LR
-4
-L hands w/ corner, 
-Ord
- L to swit
-ch; R hands, 
-Ord
- R to place
-2;2|
-Counter circle in 2 
-Ord
-; repeat chorus
-4;16
-Verse 6
-R hands 
-w/ 
-ptnr
-, circle in 2 
-Ord
-4
-Grand 
-RL
- (L to corner 1
-st
-) in 4 
-Ord
-; L hands w/corner, 2 
-Ord
-8;4|
-Repeat Chorus
-16
+|Verse 1| Lds Rev; Sottopiede LL & Sottopiede R R; Lys same |4;4;8|
+|Chorus| Hop; Hop; Rip Min L; Hop; Hop; Rip Min R |1;1;2;1;1;2|
+|| Spez LR back a t 45 deg to R; Ord to place |1;1;2|
+||Spez RL back at 45 deg to L; Ord to place |1;1;2|
+|Verse 2| Lds Exchange places (pass R shoulders) Spez LR; Ord L |2;2|
+||Counter circle in Spez RL; Ord R; Lys same, but pass L |2;2;8|
+|Chorus| Repeat Chorus| 16|
+|Verse 3| Circle w/ ptnr (R hands) in 2 Ord; counter circle in 2 Ord|4;4|
+||Circle w/ corner (L hands) in 2 Ord; counter circle in 2 Ord |4;4|
+|Chorus|Repeat Chorus| 16|
+|Verse 4| Lds Exchange places (R hands) in Spez LR; Ord L |2;2|
+||Counter circle in Spez RL; Ord R; Lys same but L hands |2;2;8|
+|Chorus|Repeat Chorus |16|
+|Verse 5| R hands w/ ptnr, Ord L to swit ch; L hands, Ord R to place |2;2|
+||Counter circle in Ord LR |4|
+||L hands w/ corner, Ord L to swit ch; R hands, Ord R to place |2;2|
+||Counter circle in 2 Ord; repeat chorus |4;16|
+|Verse 6| R hands w/ ptnr, circle in 2 Ord |4|
+||Grand RL (L to corner 1 st) in 4 Ord; L hands w/corner, 2 Ord |8;4|
+|Chorus|Repeat Chorus |16|
+@@@@@
 Italian Balli (16
 th
  Century & later)
+%%%brando_di_cales
 Brando di Cales
-( Negri 1602)
+Negri
 Italian Balli - 16th Century & Later
-(3 
-Couple
-s in a circle)
-| == In 6
- == |
+||(3 Couple s in a circle) | == In 6 == |
 |-----|----|-----|
-P1
-C1 
-Rev
- (grave); Rip 
-LR
-; 
-1;1|
-Passi 
-LR
-,
-Ord
- L turning L; Passi 
-RL
-, 
-Ord
- R turning R
-1;1 
-C2 do the same; C3 do the same
-4;4|
-P2
-Saltini a pie pari 
-LR
-1
-Take R hands w/
- ptnr
- & circle in 5 Battute (stamps); Galliard turning L
-1¼;¾ 
-Take L hands w/
- ptnr
- & circle in 5 Battute (stamps),;Galliard turning R
-1¼;¾
-P3
-Lds
- 
-Passi 
-LR
-, 
-Ord
- L (fwd); Circle to place Passi 
-RL
-, 
-Ord
- R
-1;1|
-Lys
- 
-do the same
-2
-P4
-C1
- 
-Spez 
-LR
-, 
-Ord
- L fwd; Spez 
-RL
-, 
-Ord
- R back
-1;1|
-C1
- 
-Rev breve to corner, then ; 2 Saltini a pie pari
-1;1|
-C1
- 
- 
-Ord
- 
-LR
- fwd; drop hands, turn L to place in 
-Ord
- 
-RL
-1;1|
-C2 do the same; C3 do the same
-6;6|
-P5
-Hands in circle – 4 Rip L; Saltino; 4 Rip R; Saltino
-2;½ ;2;½
-P6
-Lds 
-Ord
- to pass 
-ptnr
- inside to face on other side, take hands; saltino
-1;½ 
-Lds 
-Ord
- inside CCW to face next Ly on other side; saltino; repeat
-1;½;1½ 
-P7
-Hands in circle; 4 Rip L; Saltino; 4 Rip R; Saltino
-2;½;2;½ 
-Lys 
-Ord
- to pass 
-ptnr
- inside to face on other side, take hands; saltino
-1;½
-Lys 
-Ord
- inside CW to face next Ld on other side; saltino; repeat
-1;½;1½
+|P1| C1 Rev (grave); Rip LR; |1;1|
+||Passi LR, Ord L turning L; Passi RL, Ord R turning R |1;1| 
+||C2 do the same; C3 do the same |4;4|
+|P2| Saltini a pie pari LR |1|
+||Take R hands w/ ptnr & circle in 5 Battute (stamps); Galliard turning L |1¼;¾| 
+||Take L hands w/ ptnr & circle in 5 Battute (stamps); Galliard turning R |1¼;¾|
+|P3| Lds Passi LR, Ord L (fwd); Circle to place Passi RL, Ord R |1;1|
+||Lys do the same |2|
+|P4| C1 Spez LR, Ord L fwd; Spez RL, Ord R back |1;1|
+||C1 Rev breve to corner, then ; 2 Saltini a pie pari |1;1|
+||C1 Ord LR fwd; drop hands, turn L to place in Ord RL |1;1|
+||C2 do the same; C3 do the same |6;6|
+|P5| Hands in circle – 4 Rip L; Saltino; 4 Rip R; Saltino 2;½ ;2;½
+|P6| Lds Ord to pass ptnr inside to face on other side, take hands; saltino |1;½| 
+||Lds Ord inside CCW to face next Ly on other side; saltino; repeat |1;½;1½|
+|P7| Hands in circle; 4 Rip L; Saltino; 4 Rip R; Saltino |2;½;2;½|
+||Lys Ord to pass ptnr inside to face on other side, take hands; saltino |1;½|
+||Lys Ord inside CW to face next Ld on other side; saltino; repeat |1;½;1½|
+@@@@@
+
 %%%candida_luna
 Candida Luna
 Caroso
 Italian Balli - 16th Century & Later
-(
-1
- 
-Couple
-, facing)
- == In 
-3
- == |
+||( 1 Couple, facing) | == In 3 == |
 |-----|----|-----|
-V1
-Rev; Trab LRLR; Spez LR in wheel; Turn in Spez L, 
-Cad
-4;4;4;4|
-Ch
-Spez sideways L & honor; Spez R; & honor
-4;4|
-Trangi 
-LR
- diag back; Rip 
-LL
-, Trab L to place
-4;4|
-Spez sideways R & honor; Spez L; & honor
-4;4|
-Trangi 
-RL
- diag back; Rip 
-RR
-, Trab R to place
-4;4|
-Rip 
-LL
-, Trab 
-LR
-; (Turn over L sh) Spez L, Cad R
-4;4|
-Rip 
-RR
-, Trab 
-RL
-; (Turn over R sh) Spez R, Cad L
-4;4|
-V2
-Take R hands & Spez LR; Trab LRLR; Take L hands & same
-4;4;8|
-Repeat Chorus
-48
-V3
-Turn L & Passi LR, Cad; Turn R & same; Trab LRLR; 
-Turn in Spez L, Cad
-4;4;4;4|
-Repeat Chorus
-48
+|V1| Rev; Trab LRLR; Spez LR in wheel; Turn in Spez L, Cad |4;4;4;4|
+|Ch| Spez sideways L & honor; Spez R; & honor |4;4|
+||Trangi LR diag back; Rip LL, Trab L to place |4;4|
+||Spez sideways R & honor; Spez L; & honor |4;4|
+||Trangi RL diag back; Rip RR, Trab R to place |4;4|
+||Rip LL, Trab LR; (Turn over L sh) Spez L, Cad R |4;4|
+||Rip RR, Trab RL; (Turn over R sh) Spez R, Cad L |4;4|
+|V2| Take R hands & Spez LR; Trab LRLR; Take L hands & same |4;4;8|
+|Ch|Repeat Chorus |48|
+|V3| Turn L & Passi LR, Cad; Turn R & same; Trab LRLR; Turn in Spez L, Cad |4;4;4;4|
+|Ch|Repeat Chorus| 48|
+@@@@@
 %%%la_castellana
 La Castellana
 Caroso
 Italian Balli - 16th Century & Later
-(
-1
- 
-Couple
-, facing
-)
- == In 3
- == |
+||( 1 Couple, facing) | == In 3 == |
 |-----|----|-----|
-V1
-Rev; (in wheel) Spez 
-LRLR; (turn over L sh) Spez LR
-4;8;4|
-Ch
-Flank fwd & back w/ Putat
-e
- 
-LR
-; Trab LRLR
-; Spez
- 
-L & rev; Spez R; & rev
-4;4;4;4|
-Rip 
-LL
-, Trab 
-LR
-; 
-(Turn over L sh) Spez L, Cad R
-4;4|
-Rip 
-RR
-, Trab 
-RL
-; (Turn over R sh) Spez R, Cad L
-4;4|
-V2
-Spez 
-LR
- to switch 
-w/ R hands; Spez 
-LR
- to curl L
-4;4|
-Spez 
-LR
- to switch w/ L hands; Spez 
-LR
- to curl R
-; Repeat Chorus
-4;4;32
-V3
-(in wheel)
- 
-Passi 
-LR
-, C
-ad L;
- 
-Rip 
-RR
-, Trab 
-RL
-4;4|
-Passi 
-RL
-, Cad R; Rip 
-LL
-, Trab 
-LR
-; repeat Chorus
-4;4;32
+|V1| Rev; (in wheel) Spez LRLR; (turn over L sh) Spez LR |4;8;4|
+|Ch| Flank fwd & back w/ Putate LR; Trab LRLR; Spez L & rev; Spez R; & rev|4;4;4;4|
+||Rip LL, Trab LR; (Turn over L sh) Spez L, Cad R |4;4|
+||Rip RR, Trab RL; (Turn over R sh) Spez R, Cad L |4;4|
+|V2| Spez LR to switch w/ R hands; Spez LR to curl L |4;4|
+||Spez LR to switch w/ L hands; Spez LR to curl R; Repeat Chorus |4;4;32|
+|V3| (in wheel) Passi LR, C ad L; Rip RR, Trab RL |4;4|
+||Passi RL, Cad R; Rip LL, Trab LR; repeat Chorus |4;4;32|
+@@@@@
+
 Italian Balli (16
 th
  Century & later)
@@ -2068,289 +1421,62 @@ th
 Chiaranzana 
 Caroso
 Italian Balli - 16th Century & Later
-(
-Couple
-s in a line)
- 
- 
-(Sequences, (S), then Patterns (P))
-| == in 
-3
- == |
+||(Couples in a line) | == in 3 == |
 |-----|----|-----|
-S1:
-Rev
-; Continenze 
-LR
-; Puntat
-a
- L fwd & Puntat
-a
- R back
-4;4;4|
-S2:
-Passi 
-LR
-, 
-Ord L; Passi
- 
-RL
- back, Riprese RR; Con 
-LR
-4;4;4|
-S3:
-Take hands, Passi 
-LR
-, Ord 
-L CW; Passi 
-RL
-, Ord R CCW
-4;4|
-Take R hands, Spez L, Mezza Rev; 
-Take L hands Spez R, Mezza Rev
-2;2|
-P1:
-(Procession) - S1:1x; S2: any number of times
-P2:
-(Pass-Through) - Use S2: C1 convert; C1&C2 take hands; C1 pass-through;
-C1 & C3 take hands while C2 convert; Continue until C1 at head of set
-P3:
-(Casting) - Cast around w/ Spezzati
-P4:
-(Reel) - Use S3:
- 
-C1 cross-over take hands w/C2; 
-Continue til C1 at head of set
-P5:
-(Exit) Spezzati around floor; Spezzati off floor; Rev
- 
-%%%contentezza_damore
-Contentezza d'Amore
+|| (Sequences, (S), then Patterns (P))||
+|S1:| Rev; Continenze LR; Puntat a L fwd & Puntata R back |4;4;4|
+|S2:| Passi LR, Ord L; Passi RL back, Riprese RR; Con LR |4;4;4|
+|S3:| Take hands, Passi LR, Ord L CW; Passi RL, Ord R CCW |4;4|
+||Take R hands, Spez L, Mezza Rev; Take L hands Spez R, Mezza Rev |2;2|
+|P1:| (Procession) - S1:1x; S2: any number of times||
+|P2:| (Pass-Through) - Use S2: C1 convert; C1&C2 take hands; C1 pass-through;||
+||C1 & C3 take hands while C2 convert; Continue until C1 at head of set||
+|P3:| (Casting) - Cast around w/ Spezzati ||
+|P4:| (Reel) - Use S3: C1 cross-over take hands w/C2; Continue til C1 at head of set||
+|P5:| (Exit) Spezzati around floor; Spezzati off floor; Rev ||
+@@@@@
+
+%%%contentezza_damore_il_ballarino
+Contentezza d'Amore (From Il Ballarino)
 Caroso
 Italian Balli - 16th Century & Later
-(
-Couple
-s)
-| == in 4 == |
+||(Couples) | == in 4 == |
 |-----|----|-----|
-V1
-Take hands, 
-Rev; Con 
-LR
-; 4 Rip in circle L, then R
-4
-;
-4
-;
-4
-;
-4
- 
-C
-on 
-LR
-; 
-Rev
-, drop hands
-4
-;
-4
-V2
-Ly away from 
-ptnr
- Puntate 
-LR
-; 
-Passi
- 
-LR
-; Double L; Puntate 
-RL
- 
-4
-;
-2
-;
-2
-;
-4
-Passi
- 
-RL
-; Double R; Ly turn to face, both Puntata L fwd, & R back; Rev
-;
-2;2|
-;
-4
-;
-4
-V3
-Ld join 
-ptnr
- 
-in same steps; Both facing head Puntata L fwd & R back; Rev
-16;4;4|
-V4
-Ly pass front of Ld in
- 
-½
- 
-circle 
-Passi
- 
-LR
-,
- 
-Double L; 
-Passi
- 
-RL
-, Double R
-4;4|
-Ld pass Ly in half circle 
-w/
- same steps; Puntata L fwd & R back; Rev
-8;4;4|
-V5
-Take hands & switch Puntate 
-LR
-; 6 Double
-s to back of the hall, & face 
-4;12
-Together Puntata L 
-fwd
-,
- Puntata R 
-back
-; 
-Rev
-4;4|
-V 6
-Take L hands & 2 Spez to switch; 6
- Spez
- up the hall
-         
- 
-| == in 3 == |
-|-----|----|-----|
-4;12
-T
-ake hands &
- 8 Rip in a circle L, then R; drop hands & 4 Trab; Rev
-8
-;
-8;4;4|
-%%%contentezza_damore
-Contentezza d'Amore 
+|V1| Take hands, Rev; Con LR; 4 Rip in circle L, then R |4;4;4;4|
+|| C on LR; Rev, drop hands |4;4| 
+|V2| Ly away from ptnr Puntate LR; Passi LR; Double L; Puntate RL |4;2;2;4|
+||Passi RL; Double R; Ly turn to face, both Puntata L fwd, & R back; Rev; |2;2;4;4|
+|V3| Ld join ptnr in same steps; Both facing head Puntata L fwd & R back; Rev |16;4;4|
+|V4| Ly pass front of Ld in ½ circle Passi LR, Double L; Passi RL, Double R |4;4|
+||Ld pass Ly in half circle w/ same steps; Puntata L fwd & R back; Rev |8;4;4|
+|V5| Take hands & switch Puntate LR; 6 Doubles to back of the hall, & face |4;12|
+||Together Puntata L fwd, Puntata R back; Rev |4;4|
+|V6| Take L hands & 2 Spez to switch; 6 Spez up the hall *== in 3 ==* |4;12|
+||Take hands & 8 Rip in a circle L, then R; drop hands & 4 Trab; Rev 8; |8;4;4|
+
+%%%contentezza_damore_nobilita
+Contentezza d'Amore (from Nobilità di Dame)
 Caroso
 Italian Balli - 16th Century & Later
-(
-Couple
-s)
-| == in 4 == |
+||(Couples) | == in 4 == |
 |-----|----|-----|
-V1
-Take hands, Rev; Con 
-LR
-; 
-Cicle CW in 2
- Rip
-, 2 Trab, 
-Ord
- L 
-4;4;4|
- 
-Circle CCW in 2 Rip, 2 Trab, 
-Ord
- R; 
-Con 
-LR
-; Rev, 
-take ord hands
-4;4;4|
-V2
-Up the hall: 
-Puntate L
-R; Pass
-i LR, 
-Ord
- L; Puntate RL
-4;4;4|
-Passi RL, 
-Ord
- L; (Facing) Trab LR; Trab LRL; Con RL
-4
-; 
-2;2;4|
-V3
-Down the hall: Puntate RL; 
-Passi RL, 
-Ord
- R; Puntate LR
-4;4;4|
-Passi LR, 
-Ord
- R; (Facing) Trab 
-RL
-; Trab RL
-R
-; Con L
-R
-4;2;2;4|
-V4
-Take 
-R 
-hands, 
-Ord
- LR CW; Curl L, 
-Ord
- LR
-4;4|
-Puntate LR (twd 
-ptnr
-); 
-Ord
- LR flanking
-4;4|
-Trab LR; Destice L, Puntate RL
- 
-2;2;4|
-V5
-Take L hands, 
-Ord
- RL CCW; Curl R, 
-Ord
- RL
-4
-;
-4
-Puntate RL (twd 
-ptnr
-); 
-Ord
- RL flanking
-4
-;
-4
-Trab RL; Destice R, Puntate LR
-2;2;4|
-V 6
-Take 
-both 
-hands
-,
- Spez
- LR CW; Curl L in Passi LR, Spez L
-   
-| == in 3 == |
-|-----|----|-----|
-4;4|
-Take both hands, Spez RL CCW; Curl R in Passi RL, Spez R
-4;4|
-Facing: RipLL, Trab LR; Passi LR, Saffice L
-4;4|
-Rip RR, Trab RL; Passi RL, Saffice R; Puntate LR; Rev
-4;4;4;4|
+|V1| Take hands, Rev; Con LR; Cicle CW in 2 Rip, 2 Trab, Ord L |4;4;4|
+|| Circle CCW in 2 Rip, 2 Trab, Ord R; Con LR; Rev, take ord hands |4;4;4|
+|V2| Up the hall: Puntate L R; Passi LR, Ord L; Puntate RL |4;4;4|
+||Passi RL, Ord L; (Facing) Trab LR; Trab LRL; Con RL |4;2;2;4|
+|V3| Down the hall: Puntate RL; Passi RL, Ord R; Puntate LR |4;4;4|
+||Passi LR, Ord R; (Facing) Trab RL; Trab RL R; Con L R |4;2;2;4|
+|V4| Take R hands, Ord LR CW; Curl L, Ord LR |4;4|
+||Puntate LR (twd ptnr); Ord LR flanking |4;4|
+||Trab LR; Destice L, Puntate RL |2;2;4|
+|V5| Take L hands, Ord RL CCW; Curl R, Ord RL |4;4|
+||Puntate RL (twd ptnr); Ord RL flanking |4;4|
+||Trab RL; Destice R, Puntate LR |2;2;4|
+|V6| Take both hands, Spez LR CW; Curl L in Passi LR, Spez L *== in 3 ==* |4;4|
+||Take both hands, Spez RL CCW; Curl R in Passi RL, Spez R |4;4|
+||Facing: RipLL, Trab LR; Passi LR, Saffice L |4;4|
+||Rip RR, Trab RL; Passi RL, Saffice R; Puntate LR; Rev |4;4;4;4|
+@@@@@
 Italian Balli (16
 th
  Century & later)
@@ -2358,287 +1484,66 @@ th
 Il Conto dell ’Orco
 Caroso
 Italian Balli - 16th Century & Later
-(1 
-Couple
-, facing)
-| == in 4 == |
+||(1 Couple, facing) | == in 4 == |
 |-----|----|-----|
-V1
-Rev; 
-Ord
- LRL in wheel to change places
-2;3|
-Ch
-Trab RLR; Trang flanking back LR; Turn L in Spez L, Cad 
-1;1;1|
-V2
-Ord LRLRL circling to starting place; repeat Ch
-5;3|
-V3
-Ld Doppio L; Passi RL diagonal back; 
-Slow 
-Trab RL; Rip RR; Chorus
-2;1;1;1;3|
-V4
-Ly do as Ld 
-did in V3
-8
-V5
-Turn L: Passi
- 
-gravi LR, 
-Ord
- L; Turn R: Passi Gravi RL, 
-Ord
- R
-2;2|
-Face: quick Doppio L; Repeat Ch; Rev
-1;3|
+|V1| Rev; Ord LRL in wheel to change places |2;3|
+|Ch| Trab RLR; Trang flanking back LR; Turn L in Spez L, Cad |1;1;1|
+|V2| Ord LRLRL circling to starting place; repeat Ch |5;3|
+|V3| Ld Doppio L; Passi RL diagonal back; Slow Trab RL; Rip RR; Chorus |2;1;1;1;3|
+|V4| Ly do as Ld did in V3 |8|
+|V5| Turn L: Passi gravi LR, Ord L; Turn R: Passi Gravi RL, Ord R |2;2|
+||Face: quick Doppio L; Repeat Ch; Rev |1;3|
+@@@@@
+
+%%%contrapasso_in_routa
 Contrapasso
-(Chigi Manuscripts,
- 
-c1560's)
+Anonymous
+Italian Balli - 16th Century & Later
 ||(Circle of Couples) | == in 6 == |
 |-----|----|-----|
-V1
-Rev; Con 
-LR
-; Turn L & Passi 
-LR
-, 
-Ord L; Passi 
-RL
-, 
-Ord
- R
-4;4;4;4|
-V2
-R hands w/ptnr & Passi 
-LR
-, Doppio L; L hands Passi 
-RL
-, Doppio R
-4;4|
-Indiv figure 8 Turn L in 
-Ord
- 
-LR
-; Turn R in 
-Ord
- 
-LR
-4;4|
-V3
-Repeat V2, taking R then L arms w/ ptnr instead of hands, all figure 8
-16
-V4
-Repeat V2, taking 2 hands. all figure 8
-16
-V5
-Hey
- in 8 
-Ord
-, starting R hands w/ptnr, then move around circle
-16
-V6
-Face ptnr & Rev; Con 
-LR
-; All figure 8
-4;4;8|
-V7
-Lds back Lys up Passi 
-LR
-, Doppio L; Lys back Lds up; All figure 8
-4;4;8|
-V8
-Lds Rev L; Lys Rev L; all figure 8; Rev 
-4;4;8|
+|V1| Rev; Con LR ; Turn L & Passi LR, Ord L; Passi RL, Ord R |4;4;4;4|
+|V2| R hands w/ptnr & Passi LR, Doppio L; L hands Passi RL, Doppio R |4;4|
+||Indiv figure 8 Turn L in Ord LR; Turn R in Ord LR |4;4|
+|V3| Repeat V2, taking R then L arms w/ ptnr instead of hands, all figure 8 |16|
+|V4| Repeat V2, taking 2 hands. all figure 8 |16|
+|V5| Hey in 8 Ord , starting R hands w/ptnr, then move around circle |16|
+|V6| Face ptnr & Rev; Con LR; All figure 8 |4;4;8|
+|V7| Lds back Lys up Passi LR , Doppio L; Lys back Lds up; All figure 8 |4;4;8|
+|V8| Lds Rev L; Lys Rev L; all figure 8; Rev |4;4;8|
+@@@@@
+
 %%%contrapasso_in_due
 Contrapasso in Due
 Caroso
 Italian Balli - 16th Century & Later
-(
-Couple
-s)
-| == in 6
- == |
+||(Couples) | == in 6 == |
 |-----|----|-----|
-V1
-Rev
- L
-; Con 
-LR
-; 
-Passi
- 
-LR
-, Do
-ppio
- L; 
-back Passi
- 
-RL
-, Rip 
-RR
-4
-;
-4;4;4|
-Passi
- 
-L
-R
-, Do
-ppio
- 
-L
-; 
-back Passi
- 
-R
-L
-, Rip 
-RR
-4
-;
-4
-V2
-R hands w/
-ptnr
- & 
-Passi
- 
-LR
-, D
-oppio
- L; L hands 
-Passi
- 
-RL
-, Do
-ppio
- R
-4;4|
-Indiv figure 8 Turn L in 
-Ord
- 
-LR
-, M Rev
-; Turn R in 
-Ord
- 
-LR
-4
-;
-4
-V3
-Repeat V2, taking R then L arms w/ 
-ptnr
- instead of hands
-, all figure 8
-16
-V4
-Repeat V2, taking 2 hands. 
-Lys
- figu
-re 8 as Lds flank back & fwd (4 
-Ord
-)
-16
-V5
-Take hands w/ 
-ptnr
- & 8 
-Ord
-, starting L
- (12 in some music)
-16
-V6
-Face 
-ptnr
- & Rev
- L
-; Con 
-LR
-; All figure 8
-4;4;
-8
-V7
-Lds back Lys up 
-Passi
- 
-LR
-, Do
-ppio
- L; Lys back Lds up; All figure 8
-4;4;
-8
-V8
-Lds Rev
- L
-; Lys Rev
- L
-; 
-Lys
- figure 8 as Lds flank back & fwd
-4;4;
-8
+|V1| Rev L; Con LR; Passi LR, Doppio L; back Passi RL, Rip RR 4; |4;4;4|
+|| Passi L R, Doppio L; back Passi R L, Rip RR |4;4|
+|V2| R hands w/ ptnr & Passi LR, Doppio L; L hands Passi RL, Doppio R |4;4|
+||Indiv figure 8 Turn L in Ord LR, M Rev; Turn R in Ord LR |4;4|
+|V3| Repeat V2, taking R then L arms w/ ptnr instead of hands, all figure 8 |16|
+|V4| Repeat V2, taking 2 hands.  Lys figure 8 as Lds flank back & fwd (4 Ord) |16|
+|V5| Take hands w/ ptnr & 8 Ord , starting L (12 in some music) |16|
+|V6| Face ptnr & Rev L; Con LR; All figure 8 |4;4;8|
+|V7| Lds back Lys up Passi LR, Doppio L; Lys back Lds up; All figure 8 |4;4;8|
+|V8| Lds Rev L; Lys Rev L; Lys figure 8 as Lds flank back & fwd |4;4;8|
+@@@@@
+
 %%%dolce_amorosa_fiamma
 Dolce Amorosa Fiamma
 Caroso
 Italian Balli - 16th Century & Later
-(3 
-Couple
-s in a line)
-(Based on 
-Dolce Amoroso Fuoco
-)
-| == In 4 == |
+||(3 Couples in a line) (Based on Dolce Amoroso Fuoco) | == In 4 == |
 |-----|----|-----|
-V1
-(Face head of hall) Rev; Con 
-LR
-; 2 
-Ord
-; 2 Scorsi - pass R & curl L
-2;2;2;2|
-2 
-Ord
- fwd; 2 Scorsi - pass L & curl R; (face prtner); Con 
-LR
-; Rev
-2;2;2;2|
-V2
-Lds
- 
-Spez 
-LR
- to 
-ptnr
-, Trab LRL; Spez 
-RL
- to place, Trab RLR
-2;2;2;2|
-All
- 
-Con 
-LR
-, Rev; Lys
- 
-same as Lds above; All
- 
-Con 
-LR
-, Rev
-2;2;8;2;2|
-V3
-C1 begin grand 
-RL
- by giving R hands (1 
-Ord
- per exhange)
-8
-Lds Rev Lys; Lys Rev Lds; All slow turn to face the Presence & Rev
-2;2;2;2|
+|V1| (Face head of hall) Rev; Con LR; 2 Ord; 2 Scorsi - pass R & curl L |2;2;2;2|
+||2 Ord fwd; 2 Scorsi - pass L & curl R; (face prtner); Con LR; Rev |2;2;2;2|
+|V2| Lds Spez LR to ptnr, Trab LRL; Spez RL to place, Trab RLR |2;2;2;2|
+|| All Con LR, Rev; Lys same as Lds above; All Con LR, Rev |2;2;8;2;2|
+|V3| C1 begin grand RL by giving R hands (1 Ord per exhange) |8|
+||Lds Rev Lys; Lys Rev Lds; All slow turn to face the Presence & Rev |2;2;2;2|
+@@@@@
+
 Italian Balli (16
 th
  Century & later)
@@ -2646,709 +1551,175 @@ th
 Donna Leggiadra
 Caroso
 Italian Balli - 16th Century & Later
-(1 
-Couple
-)
-| == In 4 == |
+||(1 Couple) | == In 4 == |
 |-----|----|-----|
-P1
-Rev; (circle L) Spez LRLR; Saffice 
-LR
-; Puntato L fwd & R back
-1;2;1;1|
-Rip 
-LL
-, Trab 
-LR
-; Double L, Passi
- 
-RL
-1;1|
-P2
-(circlieR) Spez RLRLRL; Saffice 
-RL
-; Puntato R fwd & R back
-3;1;1|
-Rip 
-RR
-, Trab 
-RL
-; Double R, Passi
- 
-LR
-1;1|
-P3
-Lds Fioretti 
-LR
-, Trab 
-LR
-; Spez Puntato L (to L), Mezza Rev
-1;1|
-Fioretti 
-RL
-, Trab 
-RL
-; Spez Puntato R (to R), Mezza Rev
-1;1|
-Puntato L fwd & R back; Semidoppio 
-LR
- (to L then R)
-1;2|
-P4
-Ly do as Ld 
-did in P3
-7
-P5
-Take R hands & Passi 
-LR
-; Semidoppio L (circling CW)
-1;1|
-Take L hands & Passi 
-RL
-; Semidoppio R (circling CCW)
-1;1|
-Puntato L fwd & R back; Rev grave
-1;2|
+|P1| Rev; (circle L) Spez LRLR; Saffice LR; Puntato L fwd & R back |1;2;1;1|
+||Rip LL, Trab LR; Double L, Passi RL |1;1|
+|P2| (circlieR) Spez RLRLRL; Saffice RL; Puntato R fwd & R back |3;1;1|
+||Rip RR, Trab RL; Double R, Passi LR |1;1|
+|P3| Lds Fioretti LR, Trab LR; Spez Puntato L (to L), Mezza Rev |1;1|
+||Fioretti RL, Trab RL; Spez Puntato R (to R), Mezza Rev |1;1|
+||Puntato L fwd & R back; Semidoppio LR (to L then R) |1;2|
+|P4| Ly do as Ld did in P3 |7|
+|P5| Take R hands & Passi LR ; Semidoppio L (circling CW) |1;1|
+||Take L hands & Passi RL; Semidoppio R (circling CCW) |1;1|
+||Puntato L fwd & R back; Rev grave |1;2|
+@@@@@
+
 %%%fedelta
 Fedelta
 Caroso
 Italian Balli - 16th Century & Later
-(
-Couple
-s in a circle)
-| == In 3
- == 
-V1
-Rev; Spez LRLR (
-CW wheel); Passi 
-LR
-; 
-Cad
- 
-4;8;2;2|
-Spez RLRLRL (C
-CW wheel); Passi 
-RL
-; 
-Cad
- 
-12;2;2|
-Ch
-Lds turn L in Ord
- L, 
-Cad
-; 
-Lys
- same
-4;4|
-V2
-R hands w/ 
-ptnr
- & Semi
-doppii 
-LR
- (circling to place)
-8
-Face 
-ptnr
- & Rip 
-LL
-; Trab 
-LR
-; Turn L in Spez L , 
-Cad
-2;2;4|
-L hands w/ 
-ptnr
- & Semi
-doppii 
-RL
- (circling to place)
-8
-Face 
-ptnr
- & Rip 
-RR
-; Trab 
-RL
-; Turn R in
- Spez R, 
-Cad
-2;2;4|
-Repeat Chorus
-4;4|
-V3
-Semidoppio L to L & R to R; Passi LR, Cad in
-to circle; Passi RL, Cad out
-8;8|
-Scambiate 
-LR
-; Rip 
-LL
-; Trab 
-LR
-; Turn L in Spez L, 
-Cad
-8;2;2;4|
-Repeat Chorus 
-4;4|
+||(Couples in a circle) | == In 3 == |
+|V1| Rev; Spez LRLR (CW wheel); Passi LR; Cad |4;8;2;2|
+||Spez RLRLRL (CCW wheel); Passi RL; Cad |12;2;2|
+|Ch| Lds turn L in Ord L, Cad ; Lys same |4;4|
+|V2| R hands w/ ptnr & Semi doppii LR (circling to place) |8|
+||Face ptnr & Rip LL; Trab LR; Turn L in Spez L, Cad |2;2;4|
+||L hands w/ ptnr & Semi doppii RL (circling to place) |8|
+||Face ptnr & Rip RR; Trab RL; Turn R in Spez R, Cad |2;2;4|
+|Ch|Repeat Chorus |4;4|
+|V3| Semidoppio L to L & R to R; Passi LR, Cad in to circle; Passi RL, Cad out |8;8|
+||Scambiate LR; Rip LL; Trab LR; Turn L in Spez L, Cad |8;2;2;4|
+|Ch|Repeat Chorus |4;4|
+@@@@@
+
 %%%fiamma_damore
 Fiamma d’Amore
 Caroso
 Italian Balli - 16th Century & Later
-(
-1
- 
-Couple
-, facing)
-| == In 
-3
- == |
+||( 1 Couple, facing) | == In 3 == |
 |-----|----|-----|
-| == In 4 == |
-|-----|----|-----|
-V1
-Spez L, Rev; Spez R, Rev; Spez 
-LR
- to switch in CW wheel
-4
-;
-4
-;
-4
-Trab LRLR; Spez LRLR in CW wheel; Scambiate 
-LR
-4
-;
-8
-;
-8
-Ch
-Puntata L back, hop; Puntata R back, hop
-3
-;
-3
-Spez L, turning over L shoulder, 
-Cad
-4
-V2 
-Lds only
-: Spez LRL, Rev; Spez RLR, Rev
-8;8|
-Rip 
-LL
-, Trab 
-LR
- 
-(flank back L); Passi
- 
-LR
-, 
-Cad
- (return to ptnr)
-4;4|
-Rip 
-RR
-, Trab 
-RL
- (flank back R); Passi
- 
-RL
-, 
-Cad
- (return to ptnr)
-4;4|
-Repeat Chorus
-3
-V3
-Lys
- do what L
-ds did in V2
-32
-Repeat Chorus
-3
-V4
-Spiral in CW, Spez 
-LR
-, SemiDoppi
-o L; CCW Spez 
-RL
- SemiDoppio R
-8;8|
-Rip 
-LL
-, Trab 
-LR
- 
-(flank back L); Spez 
-L & Rev (return & touch hands)
-4;4|
-Rip 
-RR
-, Trab 
-RL
- (flank back R); Spez 
-R & Rev (return & touch hands)
-4;4|
-Repeat Chorus
-3
+|V1| Spez L, Rev; Spez R, Rev; Spez LR to switch in CW wheel |4;4;4| 
+||Trab LRLR; Spez LRLR in CW wheel; Scambiate LR |4;8;8| 
+|Ch| Puntata L back, hop; Puntata R back, hop |3;3|
+|| Spez L, turning over L shoulder, Cad |4|
+|V2| Lds only: Spez LRL, Rev; Spez RLR, Rev |8;8|
+||Rip LL, Trab LR (flank back L); Passi LR, Cad (return to ptnr) |4;4|
+||Rip RR, Trab RL (flank back R); Passi RL, Cad (return to ptnr) |4;4|
+|Ch| Repeat Chorus |3|
+|V3| Lys do what Lds did in V2 |32|
+|Ch| Repeat Chorus |3|
+|V4| Spiral in CW, Spez LR, SemiDoppio L; CCW Spez RL SemiDoppio R |8;8|
+||Rip LL, Trab LR (flank back L); Spez L & Rev (return & touch hands) |4;4|
+||Rip RR, Trab RL (flank back R); Spez R & Rev (return & touch hands) |4;4|
+|Ch|Repeat Chorus |3|
+@@@@@
 Italian Balli (16
 th
  Century & later)
+%%%fedelta_damore
 Fedelta d'Amore
-(Negri 1602)
+Negri 
 Italian Balli - 16th Century & Later
-(Ly betw
- 2 Lds)
-| == In 4 == |
+||(Ly betw 2 Lds) | == In 4 == |
 |-----|----|-----|
-P1
-Rev; Rip 
-LR
-; 
-Ord 
-LR
- turning L; Ord
- 
-LR
- turning R
-2;2;2;2|
-Twd foot of hallTake hands & Spez 
-LR
-; 
-Ord
- L 
-1;1|
-Spez 
-RL
-; 
-Ord
- R & turn to face head of hall
-1;1|
-8 Spez grave (haye, Ly passes Ld on L until Ld on R in middle)
-8
-Mid Ld take R hands w/ Ly & circle in 2 galliards; L hands, 2 galliards
-2;2|
-Mid Ld does same w/ Ld on L
-4
-P2
-4 
-Ord
- to head of hall & turn to face foot
-4
-Sottopiede 
-LL
-; Trab 
-LR
-; Ord
-, turning L
-½;½;1
-Sottopiede 
-RR
-; Trab 
-RL
-; 
-Ord
-, turning R
-½;½;1
-8 Spez grave (haye, as before); 8 galliards, as before
-8;8|
-P3
-Twd foot of hall 2 Spez; 
-Ord
-; 2 Spez; 
-Ord
- (& face head)
-1;1;1;1|
-Rip 
-LR
-; 
-Ord
- 
-LR
-, turning L
-2;2|
-8 Spez grave (haye, as before); 8 galliards, as before (to orig place)
-8;8|
-P4
-Ord
- 
-LR
-, Ly fwd, Lds turning L, end facing in triangle; Rip 
-LR
-2;2|
-Ord
- 
-LR
- circling L; 
-Ord
- 
-LR
- fwd, turn L
- 
-& to place; same, but turn R
-2;2;2|
-Trab presti 
-LR
-; Rip L; Trab presti 
-RL
-; Rip R; 
-Ord
- 
-LR
-, circling L
-1;1;1;1;2|
-(in 6)
-Ly
- Passi fwd & back flat, fwd high, Cad; Rip 
-RL
-; Galliard turning R
-1;1;1|
-Lds Saltino onto R, passi grave back, Cad; Zopetti Fwd & back, Cad
-1;1|
-Lds 3 Passi L, rising on R; Fioretto R & Battute Fwd & back 
-½;2/3
-Lds Sottopiede L, Battuta R, Passo fwd, Cad L
-5/6 
-P5
-Spez 
-LR
-, 
-Ord
- Ly circling L, Lds coming fwd to meet Ly
-2
-Spez 
-RL
-, 
-Ord
-, to head of hall, all turning L
-2
-Rip 
-LR
-; 
-Ord
- 
-LR
-, turning L; 4 scorsi in haye (Ly to orig place); Rev
-2;2;4;2|
+|P1| Rev; Rip LR; Ord LR turning L; Ord LR turning R |2;2;2;2|
+||Twd foot of hallTake hands & Spez LR; Ord L |1;1|
+||Spez RL; Ord R & turn to face head of hall |1;1|
+||8 Spez grave (haye, Ly passes Ld on L until Ld on R in middle) |8|
+||Mid Ld take R hands w/ Ly & circle in 2 galliards; L hands, 2 galliards |2;2|
+||Mid Ld does same w/ Ld on L |4| 
+|P2| 4 Ord to head of hall & turn to face foot |4|
+||Sottopiede LL; Trab LR; Ord , turning L |½;½;1|
+||Sottopiede RR; Trab RL; Ord, turning R |½;½;1|
+||8 Spez grave (haye, as before); 8 galliards, as before |8;8|
+|P3| Twd foot of hall 2 Spez; Ord; 2 Spez; Ord (& face head) |1;1;1;1|
+||Rip LR; Ord LR, turning L |2;2|
+||8 Spez grave (haye, as before); 8 galliards, as before (to orig place) |8;8|
+|P4| Ord LR, Ly fwd, Lds turning L, end facing in triangle; Rip LR |2;2|
+||Ord LR circling L; Ord LR fwd, turn L & to place; same, but turn R |2;2;2|
+||Trab presti LR; Rip L; Trab presti RL; Rip R; Ord LR, circling L |1;1;1;1;2|
+|(in 6)| Ly Passi fwd & back flat, fwd high, Cad; Rip RL; Galliard turning R |1;1;1|
+||Lds Saltino onto R, passi grave back, Cad; Zopetti Fwd & back, Cad |1;1|
+||Lds 3 Passi L, rising on R; Fioretto R & Battute Fwd & back |½;2/3|
+||Lds Sottopiede L, Battuta R, Passo fwd, Cad L |5/6| 
+|P5| Spez LR, Ord Ly circling L, Lds coming fwd to meet Ly |2|
+||Spez RL, Ord, to head of hall, all turning L |2|
+||Rip LR; Ord LR, turning L; 4 scorsi in haye (Ly to orig place); Rev |2;2;4;2|
+@@@@@
 %%%florido_giglio
 Florido Giglio
 Caroso
 Italian Balli - 16th Century & Later
-(1 Couple)
-| == In 3 == |
+||(1 Couple) | == In 3 == |
 |-----|----|-----|
-P1
-Take R hands, Spez L to L, Rev; 
-Turn R in Spez RL
-; Repeat to R
-4;
-4
-;8
-Spez LR, circling L; Trab LRLR; 
-Fiorette
- LR
-; Trab LR
-4;4;2;2|
-Turn L in 
-Spez L, Cad
-; Scambiate LR
-4;8|
-Rip LL, Trab LR (flank back L); Passi LR, Cad (return to ptnr)
-4;4|
-Rip RR, Trab RL (flank back R); Passi RL, Cad (return to ptnr)
-4;4|
-P2
-Ld 
-turn L &
- Passi LR, Trab LR, Spez L & honor; Same to R
-8;8|
-Ld Spez LR back; fwd Passi LR, Cad; Spez RL back; Passi RL, Cad
-8;8|
-Ld Stomp LR Canario L; Stomp RL, Canario R; Ly same
-4;4;8|
-Passi LR back, Trango L fwd; Turn R in Spez RL; same starting R
-4;4;8|
-P3
-Ly Solo – P2
-, with Ly and Ld roles reversed
-64
-P4
-Spez L to L ; Trab RL; Rip RR, Trab RL; Same starting R
-2;2;2;2;8|
-Fioretti LR flanked back; Passi LR back; Passi RL fwd, Cad
-2;2;4|
-Fioretti RL flanked back; Passi RL back; Passi LR fwd, Cad
-2;2;4|
-Passo L & honor; Passo R & honor
-4;4|
-Passi LR back, Trango L fwd; Turn R in Spez RL; same starting R
-4;4;8|
+|P1| Take R hands, Spez L to L, Rev; Turn R in Spez RL ; Repeat to R |4;4;8|
+||Spez LR, circling L; Trab LRLR; Fiorette LR; Trab LR |4;4;2;2|
+||Turn L in Spez L, Cad; Scambiate LR |4;8|
+||Rip LL, Trab LR (flank back L); Passi LR, Cad (return to ptnr) |4;4|
+||Rip RR, Trab RL (flank back R); Passi RL, Cad (return to ptnr) |4;4|
+|P2| Ld turn L & Passi LR, Trab LR, Spez L & honor; Same to R |8;8|
+||Ld Spez LR back; fwd Passi LR, Cad; Spez RL back; Passi RL, Cad |8;8|
+||Ld Stomp LR Canario L; Stomp RL, Canario R; Ly same |4;4;8|
+||Passi LR back, Trango L fwd; Turn R in Spez RL; same starting R |4;4;8|
+|P3| Ly Solo – P2, with Ly and Ld roles reversed |64|
+|P4| Spez L to L ; Trab RL; Rip RR, Trab RL; Same starting R |2;2;2;2;8|
+||Fioretti LR flanked back; Passi LR back; Passi RL fwd, Cad |2;2;4|
+||Fioretti RL flanked back; Passi RL back; Passi LR fwd, Cad |2;2;4|
+||Passo L & honor; Passo R & honor |4;4|
+||Passi LR back, Trango L fwd; Turn R in Spez RL; same starting R |4;4;8|
+@@@@@
 Italian Balli (16
 th
  Century & later)
+
 %%%fulgente_stella
 Fulgente Stella
 Caroso
 Italian Balli - 16th Century & Later
-(
-1
- or 
-2
- 
-Couple
-s)
-| == In 6 == |
+||(1 or 2 Couples) | == In 6 == |
 |-----|----|-----|
-P1
-Rev; Trab LRLR; Spez L & honor;
- 
-Spez R & honor
-2;2;2;2|
-In CW Wheel, Spez LRLR; Scambiate 
-LR
-4;4|
-Rip 
-LL
-; Trab 
-LR
-; (turn L in) Spez L, 
-Cad
-1;1;2|
-Rip 
-RR
-; Trab 
-RL
-; (turn R in) Spez R, 
-Cad
-1;1;2|
-P2
-Ld: Passi 
-LR
-, Cad; Trab LRLR;
- 
-Spez L & honor;
- 
-Spez R & honor
-2;2;2;2|
-1 
-Couple
-: L hand w/ptnr & Spez 
-LR
- to switch; turn R in Passi LR, Cad
-2;2|
-R hand w/ptnr & Spez 
-LR
- to switch; turn L in Passi LR Cad
-2;2|
-2 
-Couples
-: Same
- 
-as for 1 
-Couple
-, but start w/ R hand, then L
-8
-Rip 
-LL
-; Trab 
-LR
-; (turn L in) Spez L, 
-Cad
-1;1;2|
-Rip 
-RR
-; Trab 
-RL
-; (turn R in) Spez R, 
-Cad
-1;1;2|
-P3
-Ly do what Lord did in P2 and together do same braiding and end
-24
-In 2 
-Couple
- version, Ly dances 
-w/
- the Ld on her right
-P4
-Trab LRLR; Semidoppio L; Trab RLRL; Semidoppio R
-2;2;2;2|
-Spez L & honor;
- 
-Spez R & honor; Passi LRLR flanked back
-2;2;4|
-Rip 
-LL
-; Trab 
-LR
-; (turn L in) Spez L, 
-Cad
-1;1;2|
-Rip 
-RR
-; Trab 
-RL
-; (turn R in) Spez R, 
-Cad
-1;1;2|
+|P1| Rev; Trab LRLR; Spez L & honor; Spez R & honor |2;2;2;2|
+||In CW Wheel, Spez LRLR; Scambiate LR |4;4|
+||Rip LL; Trab LR; (turn L in) Spez L, Cad |1;1;2|
+||Rip RR; Trab RL; (turn R in) Spez R, Cad |1;1;2|
+|P2| Ld: Passi LR, Cad; Trab LRLR; Spez L & honor; Spez R & honor |2;2;2;2|
+||1 Couple: L hand w/ptnr & Spez LR to switch; turn R in Passi LR, Cad |2;2|
+||R hand w/ptnr & Spez LR to switch; turn L in Passi LR Cad |2;2|
+||2 Couples: Same as for 1 Couple, but start w/ R hand, then L |8|
+||Rip LL; Trab LR; (turn L in) Spez L, Cad |1;1;2|
+||Rip RR; Trab RL; (turn R in) Spez R, Cad |1;1;2|
+|P3| Ly do what Lord did in P2 and together do same braiding and end |24|
+||In 2 Couple version, Ly dances w/ the Ld on her right||
+|P4| Trab LRLR; Semidoppio L; Trab RLRL; Semidoppio R |2;2;2;2|
+||Spez L & honor; Spez R & honor; Passi LRLR flanked back |2;2;4|
+||Rip LL; Trab LR; (turn L in) Spez L, Cad |1;1;2|
+||Rip RR; Trab RL; (turn R in) Spez R, Cad |1;1;2|
+@@@@@
  
 %%%furioso
 Furioso
 Caroso
 Italian Balli - 16th Century & Later
-(
-3
- 
-Couple
-s)
-| == In 4 == |
+||(3 Couples) | == In 4 == |
 |-----|----|-----|
-P1
-Rev; Con 
-LR
-; 
-4;4|
-P2
-Mid C.
- 
-meet 
-Ord
- 
-LR
-,
-Rev; switch w/ 2 Scorsi
-4;4|
-End C.’s same;
- Mirror hay
- (Lds R, Lys L) w/ 1 extra pass in 4 Scorsi
-8;8|
-P3
-Repeat P2 w/ new Mid C.; Repeat P2 w/ new Mid C.
-24;24
-P4
-Rev; Con 
-LR
-; Lds hay
- in 8 Spez; 
-Lys
- haye in 8 Spez
-4
-;
-4
-;
-16
-P5
-Rev; 2 Scorsi
- 
-to form circle; 8 Rip L; Indiv Fig 8’s in 4 Spez
-4
-;
-4
-;
-8
-;
-8
-8 Rip R; Indiv Fig 8’s (as in Contrapasso)
-8
-;
-8
-P6
-Lds Rev; Lys Rev; Spez 
-LR
- (turning L); 4 Spez to start; Rev
-4;4;4;8;4|
+|P1| Rev; Con LR; |4;4|
+|P2| Mid C. meet Ord LR, Rev; switch w/ 2 Scorsi |4;4|
+||End C.’s same; Mirror hay (Lds R, Lys L) w/ 1 extra pass in 4 Scorsi |8;8|
+|P3| Repeat P2 w/ new Mid C.; Repeat P2 w/ new Mid C. |24;24|
+|P4| Rev; Con LR; Lds hay in 8 Spez; Lys haye in 8 Spez |4;4;16|
+|P5| Rev; 2 Scorsi to form circle; 8 Rip L; Indiv Fig 8’s in 4 Spez |4;4;8;8|
+||8 Rip R; Indiv Fig 8’s (as in Contrapasso) 8;8|
+|P6| Lds Rev; Lys Rev; Spez LR (turning L); 4 Spez to start; Rev |4;4;4;8;4|
+@@@@@
  
 %%%gentilezza_damore
 Gentilezza D’Amore
 Caroso
 Italian Balli - 16th Century & Later
- 
-1581)
-(
-Couples
-)
-| == In 4 == |
+||(Couples)| == In 4 == |
 |-----|----|-----|
-P1
-Rev;
-(turn L in) 
-Spez L, 
-Cad
-;
- 
-Spez 
-LR
- in CW wheel; Trab LRLR
-1;1|
-;1;1|
-Trang
-i 
-LR
-, flanked
- fwd; 
-T
-urn L in 
-Spez L, 
-Cad
-; same starting R
-1;1|
-; 2
-P2
-Circle 
-CW 
-w/
- Passi 
-LR
-; Trab 
-LR
-; Spez 
-LR
-; repeat to finish wheel
-½;½;1; 2
-Scambiate 
-LR
-; Rip 
-LL
-; Trab 
-LR
-; 
-Turn L in 
-Spez L, 
-Cad
-2;½;½;1
-P3
-Ld: Passi 
-LR
-, Spez L; Trab RLRL; back:Passi 
-RL
-, Spez R; Trab LRLR
-1;1;1;1|
-Both: Trang
-i
- 
-LR
- flanking back; Passi 
-LR
-, Cad fwd; repeat start R
-1;1;2|
-P4
-Ly do as Ld 
-did in V3,w/ both dancing the part for both
-8
-P5
- 
-Semidoppio L to L & R to R; Trab LRLR; 
-Turn L in 
-Spez L, Cad 
-2;1;1|
-Trang
-i 
-LR
- flanking back; Passi 
-LR
-, Cad fwd; repeat start R; Rev
-1;1;2;1|
+|P1| Rev; (turn L in) Spez L, Cad; Spez LR in CW wheel; Trab LRLR |1;1;1;1|
+||Trangi LR, flanked fwd; Turn L in Spez L, Cad; same starting R |1;1;2|
+|P2| Circle CW w/ Passi LR; Trab LR; Spez LR; repeat to finish wheel |½;½;1;2|
+||Scambiate LR; Rip LL; Trab LR; Turn L in Spez L, Cad |2;½;½;1| 
+|P3| Ld: Passi LR, Spez L; Trab RLRL; back:Passi RL, Spez R; Trab LRLR |1;1;1;1|
+||Both: Trangi LR flanking back; Passi LR, Cad fwd; repeat start R |1;1;2|
+|P4| Ly do as Ld did in V3,w/ both dancing the part for both |8|
+|P5| Semidoppio L to L & R to R; Trab LRLR; Turn L in Spez L, Cad |2;1;1|
+||Trangi LR flanking back; Passi LR, Cad fwd; repeat start R; Rev |1;1;2;1|
+@@@@@
 Italian Balli (16
 th
  Century & later)
@@ -3356,143 +1727,53 @@ th
 Giunto M'Ha Amore
 Caroso
 Italian Balli - 16th Century & Later
-(
-Couples
-)
-| == In 6 == |
+||(Couples) | == In 6 == |
 |-----|----|-----|
-V1
-Rev; Trab LRLR; Spez LR  to switch; Scam L, Cad
-2;2;2;2|
-Ch
-Rip RR; Trab RL; Trangi RL flanked fwd; (turn R in) Spez R, Cad
-1;1;2;2|
-V2
-Circle CW w/Spez LRLR to place; Scam LR; repeat ch
-4;4;12
-V3
-Ld approaches w/ Spez LR diagonally fwd; Ld Trab LRLR
-2;2|
-V4
-Ly do as Ld did in V3; 
-repeat ch
-8;12
-V5
-Passi LRL to L; Passi RLR to R; Scam LR; repeat ch
-2;2;4;12
+|V1| Rev; Trab LRLR; Spez LR  to switch; Scam L, Cad |2;2;2;2|
+|Ch| Rip RR; Trab RL; Trangi RL flanked fwd; (turn R in) Spez R, Cad |1;1;2;2|
+|V2| Circle CW w/Spez LRLR to place; Scam LR; repeat ch |4;4;12|
+|V3| Ld approaches w/ Spez LR diagonally fwd; Ld Trab LRLR |2;2|
+|V4| Ly do as Ld did in V3; repeat ch |8;12|
+|V5| Passi LRL to L; Passi RLR to R; Scam LR; repeat ch |2;2;4;12|
+@@@@@
+
 %%%gloria_damore
 Gloria d'Amore
 (Caroso 1581) 
 Italian Balli - 16th Century & Later
-(
-Couples
-)
-| == In 6 == |
+||(Couples) | == In 6 == |
 |-----|----|-----|
-P1
-Rev;
-Spez LR to switch; ScamLR; Puntate L fwd & R back
-2;2;2;2;2|
-Spez 
-LR 
-flanking back; Passi LR, Cad fwd
-2;2|
-P2
-Circle
-CW w/Spez LRLR to place; Trab LRLR; 
-T
-urn L in Spez L, Cad
-4;2;2|
-Spez LR flanking back; return w/ Rip LL; Trab LR; (turn L in) Spez L, Cad
-2;2;2|
-P3
-Ld
- Fioretti a pie pari LR; Passi LR (back); Spez L & honor
-1;1;2|
-Ld Fioretti a pie pari RL; Passi RL (back); Spez R & honor
-1;1;2|
-Both
-: Puntate L f
-wd & R back; Rip LL; Trab LR; T
-urn L in Spez L, Cad
-21;1;2|
-P4
-Ly do as Ld 
-did in V3,w/ both dancing the part for both
-14
-P5 
-Spez LR, Semidoppio L CW; Spez RL, Semidoppio R CCW
-4;4|
-Slow Trab L, touch R hands; Slow Trab R, touch L hands
-1;1|
-Spez LR flanking back; Passi LR, Cad fwd
-2;2|
+|P1| Rev; Spez LR to switch; ScamLR; Puntate L fwd & R back |2;2;2;2;2|
+||Spez LR flanking back; Passi LR, Cad fwd |2;2|
+|P2| Circle CW w/Spez LRLR to place; Trab LRLR; Turn L in Spez L, Cad |4;2;2|
+||Spez LR flanking back; return w/ Rip LL; Trab LR; (turn L in) Spez L, Cad |2;2;2|
+|P3| Ld Fioretti a pie pari LR; Passi LR (back); Spez L & honor |1;1;2|
+||Ld Fioretti a pie pari RL; Passi RL (back); Spez R & honor |1;1;2|
+||Both: Puntate L fwd & R back; Rip LL; Trab LR; Turn L in Spez L, Cad |21;1;2|
+|P4| Ly do as Ld did in V3,w/ both dancing the part for both |14|
+|P5| Spez LR, Semidoppio L CW; Spez RL, Semidoppio R CCW |4;4|
+||Slow Trab L, touch R hands; Slow Trab R, touch L hands |1;1|
+||Spez LR flanking back; Passi LR, Cad fwd |2;2|
+@@@@@
+
 %%%gracca_amorosa
 Gracca Amorosa
 Caroso
 Italian Balli - 16th Century & Later
-(
-Couples
-)
-| == In 6 == |
+||(Couples) | == In 6 == |
 |-----|----|-----|
-V1
-Rev; Spez 
-LR
- to switch; curl CCW in Spez 
-LR
- to face; Trab LRLR
-2;2;2;2|
-Spez sideways L & honor; Spez R; & honor
-2;2|
-Ch
-Spez L away from 
-ptnr
-; Spez R away; 3 Rip & Trab all to L
-1;1;2|
-Spez R away from 
-ptnr
-; Spez L away; 3 Rip & Trab all to R
-1;1;2|
-V2
-circle CW 
-w/
- Spez LRLR to place; Trab LRLR
-4;2|
-curl CCW 
-w/
- Spez 
-LR
- to face; Scam 
-LR
-; Repeat ch
-2;4;8|
-V3
-Ld 
-Spez 
-LR
- flank fwd; 
-Trab LRLR
-; curl to place in Spez LR; Trab LRLR
-2;2|
-;2;2|
-Ld Passo L & honor; Passo R & honor; All repeat ch
-2;2;8|
-V4
-Ly do as Ld did in V3; 
-d; All repeat ch
-12;8|
-V5
-Ord
- L; Rip RR, Trab RL; 
-Ord
- R; Rip LL, Trab LR
-4;4|
-Passo L
- & touch R hands; 
-Passo
- R & touch L hands; Repeat ch
-2;2;8|
+|V1| Rev; Spez LR to switch; curl CCW in Spez LR to face; Trab LRLR |2;2;2;2|
+||Spez sideways L & honor; Spez R; & honor |2;2|
+|Ch| Spez L away from ptnr; Spez R away; 3 Rip & Trab all to L |1;1;2|
+||Spez R away from ptnr; Spez L away; 3 Rip & Trab all to R |1;1;2|
+|V2| circle CW w/ Spez LRLR to place; Trab LRLR |4;2|
+||curl CCW w/ Spez LR to face; Scam LR; Repeat ch |2;4;8|
+|V3| Ld Spez LR flank fwd; Trab LRLR; curl to place in Spez LR; Trab LRLR |2;2;2;2|
+||Ld Passo L & honor; Passo R & honor; All repeat ch |2;2;8|
+|V4| Ly do as Ld did in V3; All repeat ch |12;8|
+|V5| Ord L; Rip RR, Trab RL; Ord R; Rip LL, Trab LR |4;4|
+||Passo L & touch R hands; Passo R & touch L hands; Repeat ch |2;2;8|
+@@@@@
          
  
 Italian Balli (16
@@ -3505,245 +1786,61 @@ Italian Balli - 16th Century & Later
 1581)
 ||(Couples) | == in 3== |
 |-----|----|-----|
-P1
--2
-Rev
- (hold both hands)
-; 
-Turn L  in 
-Ord
- LR; Con LR
-, touch
- hands
-4;4;4 
-Passi LR; 
-Ord
-L; Passi R
-L back; Rip RR; Con LR
-2;2;2;2;4|
-Opt:.
-Ord
- LRLR; Con L
-R
-8;4|
-P3-4
-R hands & Passi LR, 
-Ord
- L
-; L hands & Passi RL, 
-Ord
- R; Con  LR
-4;4;4|
-Passi LR; Cast in Ord L; Passi 
-RL
- down hall, Cast in 
-Ord
- R
-; Con LR
-4;4|
-;4
-P5
-Rev; 
-Trade places & curl in 
-Sepz LRLR; 
-Trab LR      
-(Sciolta)
-  
-| == in 6== |
-|-----|----|-----|
-4;4;2|
- Turn L inSpez L, Cad R            
-;2
-P6
-Fioretti a piede pari LR; Passi LR back; Spez LR, clap R hands as pass
-1;1;2|
-Fioretti a piede pari LR; Passi LR back, Spez LR, clap L hands as pass
-1;1;2|
-Trab LR; Turn L in Spez L, Cad R
-2;2|
-P7
-Spez LRLR flank fwd; Con LR, touch hands, Puntata L fwd, R back
-4;4;4|
+|P1-2| Rev (hold both hands); Turn L in Ord LR; Con LR, touch hands |4;4;4 |
+||Passi LR; Ord L; Passi R L back; Rip RR; Con LR |2;2;2;2;4|
+|Opt.| Ord LRLR; Con L R |8;4|
+|P3-4| R hands & Passi LR, Ord L; L hands & Passi RL, Ord R; Con  LR |4;4;4|
+||Passi LR; Cast in Ord L; Passi RL down hall, Cast in Ord R; Con LR |4;4;4|
+|P5| Rev; Trade places & curl in Sepz LRLR; Trab LR **(Sciolta) == in 6==** |4;4;2|
+||Turn L inSpez L, Cad R            |2|
+|P6| Fioretti a piede pari LR; Passi LR back; Spez LR, clap R hands as pass |1;1;2|
+||Fioretti a piede pari LR; Passi LR back, Spez LR, clap L hands as pass |1;1;2|
+||Trab LR; Turn L in Spez L, Cad R |2;2|
+|P7| Spez LRLR flank fwd; Con LR, touch hands, Puntata L fwd, R back |4;4;4|
+@@@@@
+
+%%%il_gratioso
 Il Gratioso
- 
-(Negri
+Negri
 Italian Balli - 16th Century & Later
- 1602)
-(Ly betw
- 2 Lyds)
- == in 6== |
+||(Ly betw 2 Lyds) |== in 6== |
 |-----|----|-----|
- 
-P1:
-Rev; Barbell: Ly RipMin 
-LR
- as Lds 
-Ord
- 
-LR
- over L sh
-4;4|
-Hands around, Passi 
-LR
-; 
-Ord
- 
-L 
-over L; Passi 
-RL
-; 
-Ord
- 
-R 
-over R
-2;2;2;2|
-Hay: RLd: 
-4 
-Ord
- to L of Ly, pass betw
- Ly & Ld, around Ld’s place & end
-middle as Ly & Ld 4 spez to switch (Ly in front) & 2 
-Ord
- over L; Rev 
-8;4|
-Repeat; Repeat Hay (w/o Rev Grave)
-12;8|
-P2:
-Rev Grave; Triangle: Ly 
-Ord
- 
-L 
-fwd & over L sh as Lds 2 
-Ord
- over L 
-4;4|
-Ly
-: Rip
-Min
- 
-LR
- as Lds: take R
- hands & switch w/ 2 Passi 
- &
- 
-1 
-Ord
- over L sh
-4
-Ly: 2 
-Ord
- over L sh as Lds exchange w/ L hands & turn R
-4
-All: in CW wheel, 3 
-Ord
-; 1 
-Ord
- turning over L sh
-6;2|
-In CCW wheel, 3 
-Ord
-; 1 
-Ord
- turning over R sh
-6;2|
-P3:
-Rev Grave; Ly 2 
-Ord
- over L as Lds 2 
-Ord
- back to line
-4;4|
-Rip 
-LR
-; 
-O
-rd
- 
-L 
-over L sh; Rip 
-RL
-; 
-Ord
- 
-R 
-over R sh
-2;2;2;2|
-Hay: 
-6 Scorsi, - to start, Ly and LLd exchang w/ 1 Scorsi
-Then LLd & RLd, etc. until back to original place; Rev Grave
-12;4|
+|P1:| Rev; Barbell: Ly RipMin LR as Lds Ord LR over L sh |4;4|
+||Hands around, Passi LR; Ord L over L; Passi RL; Ord R over R |2;2;2;2|
+||Hay: RLd: 4 Ord to L of Ly, pass betw Ly & Ld, around Ld’s place & end ||
+||middle as Ly & Ld 4 spez to switch (Ly in front) & 2 Ord over L; Rev |8;4|
+||Repeat; Repeat Hay (w/o Rev Grave) |12;8|
+|P2:| Rev Grave; Triangle: Ly Ord L fwd & over L sh as Lds 2 Ord over L |4;4|
+||Ly: Rip Min LR as Lds: take R hands & switch w/ 2 Passi & 1 Ord over L sh |4|
+||Ly: 2 Ord over L sh as Lds exchange w/ L hands & turn R |4|
+||All: in CW wheel, 3 Ord; 1 Ord turning over L sh |6;2|
+||In CCW wheel, 3 Ord ; 1 Ord turning over R sh |6;2|
+|P3:| Rev Grave; Ly 2 Ord over L as Lds 2 Ord back to line |4;4|
+||Rip LR; Ord L over L sh; Rip RL; Ord R over R sh |2;2;2;2|
+||Hay: 6 Scorsi, - to start, Ly and LLd exchang w/ 1 Scorsi||
+|| Then LLd & RLd, etc. until back to original place; Rev Grave |12;4|
+@@@@@
+
+%%%griffone_doro
 Griffoné d'Oro (A Lieta Vita)
+Anonymous
 (SCA Choreography)
-(
-Couples
-)
-| == in 3== |
+||(Couples) | == in 3== |
 |-----|----|-----|
- 
-P1
-Rev; Semidoppio L, turn L; Spez 
-RL
- to switch; Sem
-idoppio
- R, turn R
-4;4;4;4|
-Ld Spez 
-LR
- (flanking back); Ly Spez 
-LR
- (flanking back)
-4;4|
-Semidoppio L, turning L; Semidoppio R to place
-4;4|
-P2
-Ld
- 
-Spez 
-LR
- to 
-ptnr
-; Semidoppio L turning to place
-4;4|
-Spez 
-RL
- to 
-ptnr
-; Semidoppio R turning to place
-4;4|
-Spez LRLR back& fwd in diamond; Semidoppio L, turn L; All Rev
-4;4;4;4|
-P3
-Ly do as Ld 
-did in P
-3; 
-All Rev
-28;4|
- 
-P4
-Ld Spez 
-LR
- flanking back; Ly same; Both Semidoppio L, turning L
-4;4;4|
-Semidoppio R to place
-4
-P5
-Take R hands & Spez 
-LR
- to switch; Semidoppio L, turning L
-4;4|
-Take L hands & Spez 
-RL
- to switch; Semidoppio R, turning R
-4;4|
-Spez 
-LR
- flanking back; Spez 
-LR
- flanking fwd (end w/ L shoulders)
-4;4|
-S
-emidoppio L, turning L; Rev
-4;4|
+|P1| Rev; Semidoppio L, turn L; Spez RL to switch; Semidoppio R, turn R |4;4;4;4|
+||Ld Spez LR (flanking back); Ly Spez LR (flanking back) |4;4|
+||Semidoppio L, turning L; Semidoppio R to place |4;4|
+|P2| Ld Spez LR to ptnr; Semidoppio L turning to place |4;4|
+||Spez RL to ptnr; Semidoppio R turning to place |4;4|
+||Spez LRLR back& fwd in diamond; Semidoppio L, turn L; All Rev |4;4;4;4|
+|P3| Ly do as Ld did in P3; All Rev |28;4| 
+|P4| Ld Spez LR flanking back; Ly same; Both Semidoppio L, turning L |4;4;4|
+||Semidoppio R to place |4|
+|P5| Take R hands & Spez LR to switch; Semidoppio L, turning L |4;4|
+||Take L hands & Spez RL to switch; Semidoppio R, turning R |4;4|
+||Spez LR flanking back; Spez LR flanking fwd (end w/ L shoulders) |4;4|
+||Semidoppio L, turning L; Rev |4;4|
+@@@@@
 Italian Balli (16
 th
  Century & later)
@@ -3751,165 +1848,57 @@ th
 Laccio d’Amore
 Caroso
 Italian Balli - 16th Century & Later
-(
-Couples
-)
-| == In 4 == |
+||(Couples) | == In 4 == |
 |-----|----|-----|
-V1
-Rev; Face L in wheel
- 
-Spez LRLR; Face ptnr Trab LRLR
-1;2;1|
-Spez 
-LR
- flanking back; turning L, Spez L, Cad R; Same starting R
-1;1;2|
-V2
-Ld’s solo
- 
-Passi 
-LR
-, Trab 
-LR
-; turning L, Spez L, Cad R
-1;1|
-Passi 
-RL
-, Trab 
-RL
-; turning R, Spez R, Cad L
-1;1|
-Take R hands & Spez 
-LR
-; Passi 
-LR
-, Cad L, Same w/L
-1;1;2|
-V3
-Ly do as Ld 
-did in V3
-8
-V4
-Fioretti a pie pari 
-LR
-, Passi 
-LR
- (flank bck); Semidoppio L (turn L)
-1;1|
-Fioretti a pie pari 
-RL
-, Passi 
-RL
- (flank bck); Semidoppio R (turn R)
-1;1|
-Passi 
-LR
-, Batt di Piedi 
-LR
- ; Spez 
-LR 
-(flank bck)
-1;1|
-Rip 
-LL
-, Trab 
-LR
-;
- 
-(turning L ) Spez L, Cad R
-1;1|
+|V1| Rev; Face L in wheel Spez LRLR; Face ptnr Trab LRLR |1;2;1|
+||Spez LR flanking back; turning L, Spez L, Cad R; Same starting R |1;1;2|
+|V2| Ld’s solo Passi LR, Trab LR; turning L, Spez L, Cad R |1;1|
+||Passi RL, Trab RL; turning R, Spez R, Cad L |1;1|
+||Take R hands & Spez LR; Passi LR, Cad L, Same w/L |1;1;2|
+|V3| Ly do as Ld did in V3 |8|
+|V4| Fioretti a pie pari LR, Passi LR (flank bck); Semidoppio L (turn L) |1;1|
+||Fioretti a pie pari RL, Passi RL (flank bck); Semidoppio R (turn R) |1;1|
+||Passi LR, Batt di Piedi LR; Spez LR (flank bck) |1;1|
+||Rip LL, Trab LR; (turning L ) Spez L, Cad R |1;1|
+@@@@@
+
 %%%leggiadria_damore
 Leggiadria d’Amore
 Caroso
 Italian Balli - 16th Century & Later
-(Ld betw
- two 
-Lys
-)
-| == in 2 == |
+||(Ld betw two Lys) | == in 2 == |
 |-----|----|-----|
-P1:
-Rev
-; Cont
-LR
-; Ord 
-LR
-, turning L
-2;2;2|
-P2:
-3 Ord LRL; Ord R, turning R
-3;1|
-Spez L; Passi RL, 
-Cad
-; Battute di Campenella RR; Trab R
-½;½;½;½
-P3:
-Ld Ord LR; Ord L, turning L; Trab RLR
-2;1;1|
-All Spez L; Passi RL, 
-Cad
-; Battute di Campenella RR; Trab R
-½;½;½;½
-P4:
-Lys
- 
-Ord LR; Ord L, turning L; Trab RLR
-2;1;1|
-All Spez L; Passi RL, 
-Cad
-; Battute di Campenella RR; Trab R
-½;½;½;½
-P5:
-3 Scorsi 
-Hey
-; Trab RLR; Spez L, Passi RL, Cad; Batt di Camp RR, Trab R
-3;1;1;1|
-P6:
-Take hands Passi LR, Ord L CW; Passi RL, Ord R CCW
-2;2|
-Drop hands Spez LR, flanking back; Trab LR
-1;1|
-P7:
-Ord L fwd; Ord R back; Ord L, turning L; Trab RLR
-1;1;1;1|
-Ld Ord LR, turning L 1-½ times, while Lys Scorsi LR; Rev
-2
+|P1:| Rev; Cont LR; Ord LR, turning L |2;2;2|
+|P2:| 3 Ord LRL; Ord R, turning R |3;1|
+||Spez L; Passi RL, Cad; Battute di Campenella RR; Trab R |½;½;½;½|
+|P3:| Ld Ord LR; Ord L, turning L; Trab RLR |2;1;1|
+||All Spez L; Passi RL, Cad; Battute di Campenella RR; Trab R |½;½;½;½|
+|P4:| Lys Ord LR; Ord L, turning L; Trab RLR |2;1;1|
+||All Spez L; Passi RL, Cad; Battute di Campenella RR; Trab R |½;½;½;½|
+|P5:| 3 Scorsi Hey; Trab RLR; Spez L, Passi RL, Cad; Batt di Camp RR, Trab R |3;1;1;1|
+|P6:| Take hands Passi LR, Ord L CW; Passi RL, Ord R CCW |2;2|
+||Drop hands Spez LR, flanking back; Trab LR |1;1|
+|P7:| Ord L fwd; Ord R back; Ord L, turning L; Trab RLR |1;1;1;1|
+||Ld Ord LR, turning L 1-½ times, while Lys Scorsi LR; Rev |2|
+@@@@@
+
 %%%maraviglia_damore
 Maraviglia d’Amore
 Caroso
 Italian Balli - 16th Century & Later
 ||(Couples) | == in 3 == |
 |-----|----|-----|
-P1
-Take R hands, Spez L to L, Rev; Rip RR; Trab RL; Repeat to R
-4;2;2;8|
-Spez LR, circling L; Trab LRLR; Scambiate LR
-4;4;2|
-Out L: Rip LL; Trab LR; Spiral in Passi LR, 
-Cad
-; Repeat to R
-2;2;4;8|
-P2
-Ld Spez LR, flank back; Trab LRLR; Spez LR, turning L; Passi LR, Cad
-4;4;4;4|
-Both Trab LRLR; Spez L to L, Rev; Repeat to R
-4;4;8|
-Passi LR back; Trangato L fwd; Spez RL, turning R; Repeat to R
-2;2;4;8|
-P3
-Ly do as Ld 
-did in P3, with both dancing the part for both
-48
-P4
-In CW Wheel Passi LR; Spez L; Repeat tCCW, starting R; Scamb LR
-2;2;4;8|
-Fioretti pari LR; Passi LR back; Spez LR, clap R hands; Repeat to R
-2;2;4;8|
-Trab LRLR; Spez L, turning, 
-Cad
-; Repeat to R; Rev
-4;4;4;4|
+|P1| Take R hands, Spez L to L, Rev; Rip RR; Trab RL; Repeat to R |4;2;2;8|
+||Spez LR, circling L; Trab LRLR; Scambiate LR |4;4;2|
+||Out L: Rip LL; Trab LR; Spiral in Passi LR, Cad; Repeat to R |2;2;4;8|
+|P2| Ld Spez LR, flank back; Trab LRLR; Spez LR, turning L; Passi LR, Cad |4;4;4;4|
+||Both Trab LRLR; Spez L to L, Rev; Repeat to R |4;4;8|
+||Passi LR back; Trangato L fwd; Spez RL, turning R; Repeat to R |2;2;4;8|
+|P3| Ly do as Ld did in P3, with both dancing the part for both |48|
+|P4| In CW Wheel Passi LR; Spez L; Repeat tCCW, starting R; Scamb LR |2;2;4;8|
+||Fioretti pari LR; Passi LR back; Spez LR, clap R hands; Repeat to R |2;2;4;8|
+||Trab LRLR; Spez L, turning, Cad; Repeat to R; Rev |4;4;4;4|
+@@@@@
 Italian Balli (16
 th
  Century & later)
@@ -3919,292 +1908,57 @@ Caroso
 Italian Balli - 16th Century & Later
 ||(Couples) | == In 6 == |
 |-----|----|-----|
-V1
-Rev
-; Spez LRLR; Passi LRLR
-; (facing) Rip LL, Trab LR
-2;4;2|
-;2
-Turn CCW in Semidoppio L
-; Rip RR, Trab RL; Semidoppio CW
- 
-2
-;2;2|
-Chorus
-Spez L
-R
- (flank
- back), Semidoppio L fwd; Spez RL back, Semidoppio R
-4;4|
-V2
-Repeat Vers
-e 1, replacing Rev w/ 2 Spez
- (6 Spez total)
-; Chorus
-16
-;8
-V3
-Ld:
- (face 
-ptnr
-) Spez 
-LR
-, Passi 
-LR
- (in CCW circle); Saffice L
-2;1;1|
-Spez 
-RL
-, Passi 
-RL
- (i
-n CW circle); Saffice R
-;
- 
-Sotto
-piede
- 
-LL
-2;1;1|
-;1
-Tra
-b 
-LR, Corinto L; 
-Sotto
-piede
- R
-R; Tra
-b 
-RL
-, Corinto R; chorus
-1;2;1;1|
-;2
-;8
-V4
-Ly do as Ld 
-did in V3
-; chorus
-16
-;8
-V5
-(face fwd) Passi 
-LR
-; Tra
-b LR Saffice L;Passi RL; Treb RL Saffice R
-2;2;2;2|
-(face 
-ptnr
-) 
-Sottopiede 
-L
-L, Treb 
-LR
-; Semidoppio L (CCW circle)
-2;2|
-Sottopiede 
-RR, Tra
-b 
-RL
-; 
-Semidoppio R (CW circle)
-2;2|
-Final Ch
-Saffice L
-R (flank back)
-; Spezi 
-LR
-; Saffice RL back; Puntati RL; Rev
-2
-;2
-;2;2;2|
+|V1| Rev; Spez LRLR; Passi LRLR; (facing) Rip LL, Trab LR |2;4;2;2|
+||Turn CCW in Semidoppio L; Rip RR, Trab RL; Semidoppio CW |2;2;2|
+|Chorus| Spez L R (flank back), Semidoppio L fwd; Spez RL back, Semidoppio R |4;4|
+|V2| Repeat Verse 1, replacing Rev w/ 2 Spez (6 Spez total); Chorus |16;8|
+|V3| Ld: (face ptnr) Spez LR, Passi LR (in CCW circle); Saffice L |2;1;1|
+||Spez RL, Passi RL (in CW circle); Saffice R; Sotto piede LL |2;1;1;1|
+||Trab LR, Corinto L; Sottopiede R R; Trab RL, Corinto R; chorus |1;2;1;1;2;8|
+|V4| Ly do as Ld did in V3; chorus |16;8|
+|V5| (face fwd) Passi LR; Tra b LR Saffice L;Passi RL; Treb RL Saffice R |2;2;2;2|
+||(face ptnr) Sottopiede L L, Treb LR; Semidoppio L (CCW circle) |2;2|
+||Sottopiede RR, Trab RL; Semidoppio R (CW circle) |2;2|
+||Final Ch Saffice L R (flank back); Spezi LR; Saffice RL back; Puntati RL; Rev |2;2;2;2;2| 
+@@@@@
+
+%%%lo_spagnoletto
 Lo Spagnoletto
-(Negri 1602)
+Negri 
 Italian Balli - 16th Century & Later
-(2 Couples)
-| == In 6
- == |
+||(2 Couples) | == In 6 == |
 |-----|----|-----|
-V1
-Rev w/ jump; 
-In wheel: 
-Ord
- L
-;
- Spez 
-R
-L;
- Ord
- R
-2;2;2;2|
-Cha
-Sottopiede L
-LL
-, 
-Cad
- L, Trab R; Ord
- L turning L
-2;2|
-Sottopiede R
-RR
-, 
-Cad
- R, Trab L; Ord
- R turning R
-2;2|
-Chb
-Passi 
-LR
- 
-back
-; Ord
- L 
-fwd
- to place
-; Passi RL back; Ord R to place
-2;2|
-;2;2|
-V2
-Lys 
-slow 
-Passi 
-LR
-; Ord
- L to 
-switch; 
-Spez 
-RL; Ord R 
-to place
-2;2|
-;2;2|
-Cha
-Lys only; Chb everone
-8;8|
-V3
-Lds do as Lys
- 
-did in V2; Lds Cha; All Chb
-8
-;8;8|
-V4
-(In wheel L) Spez 
-LR
-; Ord
- L; Spez 
-RL
-; Ord
- R
-; chorus
-2;2;2;2|
-;16
-V5
-Lys Passi LR; Trab LR; Seguito L in tight circle
-1;1;2|
-Lys Passi RL; Trab RL; Seguito R to place
-1;1;2|
-Cha
-Lys only; Chb
- 
-everone
-8;8|
-V6
-Lds do as Lys
- 
-did in V5; Lds Cha; All Chb
-8
-;8;8|
-V7
-(R hands w/
-ptnr
-) Spez 
-LR
-; Ord
- L turning L
-2;2|
-(L hands w/contrary) Spez 
-RL
-; Ord
- R turning R
-; chorus
-2;2|
-; 16
+|V1| Rev w/ jump; In wheel: Ord L; Spez R L; Ord R |2;2;2;2|
+|Cha| Sottopiede LLL, Cad L, Trab R; Ord L turning L |2;2|
+||Sottopiede RRR, Cad R, Trab L; Ord R turning R |2;2|
+|Chb| Passi LR back; Ord L fwd to place; Passi RL back; Ord R to place |2;2;2;2|
+|V2| Lys slow Passi LR; Ord L to switch; Spez RL; Ord R to place |2;2;2;2|
+|Chorus|Cha Lys only; Chb everone |8;8|
+|V3| Lds do as Lys did in V2; Lds Cha; All Chb |8;8;8| 
+|V4| (In wheel L) Spez LR; Ord L; Spez RL; Ord R; chorus |2;2;2;2;16|
+|V5| Lys Passi LR; Trab LR; Seguito L in tight circle |1;1;2|
+||Lys Passi RL; Trab RL; Seguito R to place |1;1;2|
+|Chorus|Cha Lys only; Chb everone |8;8|
+|V6| Lds do as Lys did in V5; Lds Cha; All Chb |8;8;8|
+|V7| (R hands w/ ptnr) Spez LR; Ord L turning L |2;2|
+||(L hands w/contrary) Spez RL; Ord R turning R; chorus |2;2;16|
+@@@@@
 %%%villanella
 Villanella
 Caroso
 Italian Balli - 16th Century & Later
-(one or more couples)
-| == In 3 == |
+||(one or more couples) | == In 3 == |
 |-----|----|-----|
-V1
-Facing ptnr, 
-Rev
-; Con 
-LR
-; 
-Ord
- 
-LR
- fwd; Con L, Rip 
-RR
-4;4;4;4|
-V2
-Fwd Passi 
-LR
-, 
-Ord
- L; Passi RL, 
-Ord
- R; Con L, Rip 
-RR
-; 
-Rev
-4;4;4;4|
-V3
-Ld in front of Ly to her R: Passi 
-LR
-, 
-Ord
- L; Passi 
-RL
-, 
-Ord
- R
-4;4|
-Together:
- 
-Con L, Rip 
-RR
-; 
-Rev
-4;4|
-V4
-Repeat, beginning 
-w/
- Ly passing in front Ld to his R 
-16
-V5
-Cast off to face down hall in Passi 
-LR
-, Ord
- 
-L; Cast off to face up
-4
-the hall in Passi 
-RL
-, 
-Ord 
-R; Con L, Rip 
-RR
-; 
-Rev
-4;4|
-V6
-Fast Spez 
-LR
- to switch w/ R hands; Spez LR to curl L 
-2;2|
-Spez LR to switch w/ L hands; Spez LR to curl R; Con L, Rip RR; 
-Rev
-2;2;4;4|
+|V1| Facing ptnr, Rev; Con LR; Ord LR fwd; Con L, Rip RR |4;4;4;4|
+|V2| Fwd Passi LR, Ord L; Passi RL, Ord R; Con L, Rip RR; Rev |4;4;4;4|
+|V3| Ld in front of Ly to her R: Passi LR, Ord L; Passi RL, Ord R |4;4|
+||Together: Con L, Rip RR; Rev |4;4|
+|V4| Repeat, beginning w/ Ly passing in front Ld to his R |16| 
+|V5| Cast off to face down hall in Passi LR, Ord L; Cast off to face up |4|
+||the hall in Passi RL, Ord R; Con L, Rip RR; Rev |4;4|
+|V6| Fast Spez LR to switch w/ R hands; Spez LR to curl L |2;2|
+||Spez LR to switch w/ L hands; Spez LR to curl R; Con L, Rip RR; Rev |2;2;4;4|
+@@@@@
 Italian Balli (16
 th
  Century & later)
@@ -4214,205 +1968,53 @@ Caroso
 Italian Balli - 16th Century & Later
 ||(Couples) | ==In 2== |
 |-----|----|-----|
-P1 
-(Fwd) Rev; Con LR; Puntat
-e
- LR; Doppio L; Repeat w/R 
-4;4;4;4|
-Ord LRLR 
-8
-Ch 
-(Drop hands & face) Rip LLRR; Passi LR (flanking)
-4;2 
-Ord L (back)
-2
-   
-Rip RRLL; (change places w/) Passi RL; Ord R
-4;2;2|
-P2 
-(Fwd) Punt L (Ld); Punt L (Ly); Punt R (Ld); Punt R (Ly)
-1;1;1;1|
-   
-Ord LR (flanking Ld); Ord LR (flanking Ly)
-4;4|
-   
-Repeat above 2 lines
-; Chorus
-12
-;16
-P3 
-Repeat part 2 w/ Ly moving first each time
-; Chorus
-24;16
-P4 
-Rev; Spez LR (turn L); Spez LRLR (away)
-                               
-| ==In 6== |
-|-----|----|-----|
-2;2;4|
-   
-(Face) Spez Scorsi LL* (strike R hands); Spez LR (away) 
-2;2|
-Repeat
- 
-(strike L)
-2;2;4|
-   
-Spez LRLR (flanking); Trab LRLR (strike opposite hands) 
-4;2|
-(Take hands) Rev
-    
-(next part ==In 3==)
-2
-P5 
-(Face) Ord LRLR (flanking back); Ord LRLR (Figure 8)
-8;8|
-   
-Ord LRLR (change places); Ord LRLR (flanking fwd)
-8;8|
-   
-Ly Figure 8 as Ld: Ord LR (turn L) & Ord (to Ly); Rev
-8
+|P1| (Fwd) Rev; Con LR; Puntate LR; Doppio L; Repeat w/R |4;4;4;4|
+||Ord LRLR |8| 
+|Ch| (Drop hands & face) Rip LLRR; Passi LR (flanking) |4;2| 
+||Ord L (back) |2|
+||Rip RRLL; (change places w/) Passi RL; Ord R |4;2;2|
+|P2| (Fwd) Punt L (Ld); Punt L (Ly); Punt R (Ld); Punt R (Ly) |1;1;1;1|
+||Ord LR (flanking Ld); Ord LR (flanking Ly) |4;4|
+||Repeat above 2 lines; Chorus |12;16| 
+|P3| Repeat part 2 w/ Ly moving first each time; Chorus |24;16|
+|P4| Rev; Spez LR (turn L); Spez LRLR (away) **==In 6==** |2;2;4|
+||(Face) Spez Scorsi LL* (strike R hands); Spez LR (away) |2;2|
+||Repeat (strike L) |2;2;4|
+||Spez LRLR (flanking); Trab LRLR (strike opposite hands) |4;2|
+||(Take hands) Rev (next part ==In 3==) |2|
+|P5| (Face) Ord LRLR (flanking back); Ord LRLR (Figure 8) |8;8|
+||Ord LRLR (change places); Ord LRLR (flanking fwd) |8;8|
+||Ly Figure 8 as Ld: Ord LR (turn L) & Ord (to Ly); Rev |8|
+@@@@@
+
+%%%villanicco
 Villanicco
- 
-(Negri 1602)
+Negri
 Italian Balli - 16th Century & Later
- 
-(2 Lds & 2 
-Lys
- in a sqaure)
-| == In 4 == |
+||(2 Lds & 2 Lys in a sqaure) | == In 4 == |
 |-----|----|-----|
-V1
-Rev
-; 
-Ord
- 
-LR
-L 
-2
-;
-3
-Ch
-Passi RLR, Passo L w/ hop
-, turning R: Spez 
-RL
-, 
-Ord
- R w/ Cad
-1
-;2
-V2
-5 
-Ord
- 
-LRLR
-L
- 
-in CW
- wheel 
-5
- Repeat chorus
-3
-V 3
-(Lds only) 2 Passi (grave) 
-LR
- to center; 
-Ord
- L
-1
-;
-1
-Puntato R back turn L hip to center; Con 
-LR
-; Rip R, Cad to face
- 
-1;1|
-;1
-Lds only 
-Repeat chorus
-8
-V 4
-Lys do what Lds did in V3 
-8
-Lys
- only 
-Repeat chorus
-8
-V5
-Ld1: Take R hands w/Ly on R & 
-Ord
- 
-LR
-, Drop hands
-2
-Ord
- 
-LR
-, turning L ; 
-Rip
- L
-L
-R
-R ; 
-Ord
- 
-LR
-, turning L
-2
-;
-2;2|
-Ld1: Take 
-R
- hands w/Ly on L & 
-Ord
- 
-LR
-, Drop hands
-2
-Ord
- 
-LR
-, turning L; 
-Ord
- 
-LR
- to Ly & back; 
-Ord
- 
-LR
-, turning L
-2;2;2|
-V6
-Ly1 repeats V5 (w/ Ld on R, then L)
-16
-V7
-Ld2 repeats V5
-16
-V8
-Ly2 repeats V5
-16
-V9
-All repeat V5 together, begin w/ ptnr
-16
-V
-10
-In CW wheel: Passi 
-LR
-, 
-Ord
- L; CCW: Passi 
-RL
-, 
-Ord
- R
-2;2|
-V11
-All together Repeat V 3
-5
-Repeat Chorus
-3
-For a shorter version of the dance, skip V5-V8
+|V1| Rev; Ord LR L |2;3|
+|Ch| Passi RLR, Passo L w/ hop, turning R: Spez RL, Ord R w/ Cad |1;2|
+|V2| 5 Ord LRLRL in CW wheel |5|
+|Ch|Repeat chorus |3|
+|V3| (Lds only) 2 Passi (grave) LR to center; Ord L |1;1|
+||Puntato R back turn L hip to center; Con LR; Rip R, Cad to face |1;1;1|
+|Ch|Lds only Repeat chorus|8|
+|V4| Lys do what Lds did in V3 |8|
+|Ch|Lys only Repeat chorus |8|
+|V5| Ld1: Take R hands w/Ly on R & Ord LR, Drop hands |2|
+||Ord LR, turning L; Rip L L R R; Ord LR, turning L |2;2;2|
+||Ld1: Take R hands w/Ly on L & Ord LR, Drop hands |2|
+||Ord LR , turning L; Ord LR to Ly & back; Ord LR, turning L |2;2;2|
+|V6| Ly1 repeats V5 (w/ Ld on R, then L) |16|
+|V7| Ld2 repeats V5 |16|
+|V8| Ly2 repeats V5 |16|
+|V9| All repeat V5 together, begin w/ ptnr |16|
+|V10| In CW wheel: Passi LR, Ord L; CCW: Passi RL, Ord R |2;2|
+|V11| All together Repeat V3 |5|
+|Ch|Repeat Chorus |3|
+||For a shorter version of the dance, skip V5-V8||
+@@@@@
 Steps for 16
 th
  Century Italian Dance
