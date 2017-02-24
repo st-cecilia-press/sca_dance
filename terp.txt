@@ -379,7 +379,7 @@ Bransle
 
 %%%rondo_tutti_battuti
 Rondo Tutti Battuti or The Two Five Hundred Pound Canaries Bransle
-Sion Andreas
+Sion Andreas o Wynedd
 SCA Choreography
 ||(Circle mixer for couples, Lys facing out, Lds in) | == In 4 == |
 |-----|----|-----|
@@ -2407,7 +2407,7 @@ English Country
 ||That again, Lds taking hand of Ly to L |4|
 @@@@@
 Crossed Purposes
-Sion
+Sion Andreas o Wynedd
 SCA Choreography
 ||(6 Couples in a cross (square for 4 w/2 Couples inside)) | == In 4 == |
 |-----|----|-----|
@@ -2662,2740 +2662,822 @@ English Country
 @@@@@
 %%%hockley_in_the_hole
 Hockley-in-the-Hole
-
 John Playford
 English Country
-(Longways for as Many as Will)
-| == In 4 == |
+||(Longways for as Many as Will) | == In 4 == |
 |-----|----|-----|
-V1
-Double fwd & back; repeat
-2;2|
-Ch
-Set and turn; repeat 
-2;2|
-V2
-Ld1 & Last Ly Double to meet & back; Ly1 & Last Ld same; repeat Chorus
-2;2;4|
-V3
-Ld1 & Last Ly Arm R; Ly1 & Last Ld Arm L; repeat Chorus
-2;2;4|
-V4
-Ld1 2 Doubles to meet Last Ly at bottom of set
-2 
-2 Doubles for Ld1 & Last Ly to go 
-to top of set (other Lys shift down)
- 
-2
-repeat Chorus
-4
-V5
-Last Ld 2 Doubles to meet his Ly at top of set
-2
-Last C 2 Doubles to bottom of set as
- 
-C1 follow & pas
-s through to 
-become new Last C; 
-repeat Chorus
-2;
-4
+|V1| Double fwd & back; repeat |2;2|
+|Ch| Set and turn; repeat |2;2|
+|V2| Ld1 & Last Ly Double to meet & back; Ly1 & Last Ld same; repeat Chorus |2;2;4|
+|V3| Ld1 & Last Ly Arm R; Ly1 & Last Ld Arm L; repeat Chorus |2;2;4|
+|V4| Ld1 2 Doubles to meet Last Ly at bottom of set |2|
+||2 Doubles for Ld1 & Last Ly to go to top of set (other Lys shift down) |2|
+||repeat Chorus |4|
+|V5| Last Ld 2 Doubles to meet his Ly at top of set |2|
+||Last C 2 Doubles to bottom of set as C1 follow & pass through to ||
+||become new Last C; repeat Chorus |2;4|
+@@@@@
+
 %%%hyde_park
 Hyde Park
-
 John Playford
 English Country
- 
-(4 
-Couple
-s in a square)
-| == In 4 == |
+|| (4 Couples in a square) | == In 4 == |
 |-----|----|-----|
-V
-Heads
- Double fwd & back; 
-Sides
- same
-2
-;2
-C
-1 
-Heads
- slip into center to meet other C; slip out w/ corner through 
-n
-earest Ina
-ctive C; cast to place
-; Sides same; repeat V
-1;1;2|
-;4;4|
-C
-2
-Sides
- change places w/ 
-ptnr
- & make arch while 
-Heads
- 
-pass p
-tnr
- by R & continue around set to meet corner outside of arch;
- 
-Heads
- go through arches to meet 
-ptnr; fall back to place
-2;1;1|
-This again, Heads and Sides switching roles
-; repeat V
-4
-;4
-C
-3
-All Lds
- 
-pass 
-ptnr
- by the inside shou
-lder & continue around set, 
- 
-Going around the 
-Lys
- by alternating shoulders
-4
-All 
-Lys
- pass 
-ptnr
- by the inside shoulder do same around Lds
-4
+|V1| Heads Double fwd & back; Sides same |2;2|
+|C1| Heads slip into center to meet other C; slip out w/ corner through ||
+||nearest Inactive C; cast to place; Sides same; repeat V |1;1;2;4;4|
+|C2| Sides change places w/ ptnr & make arch while Heads pass ptnr ||
+||by R & continue around set to meet corner outside of arch;||
+|| Heads go through arches to meet ptnr; fall back to place |2;1;1|
+||This again, Heads and Sides switching roles; repeat V |4;4|
+|C3| All Lds pass ptnr by the inside shoulder & continue around set,|| 
+||Going around the Lys by alternating shoulders |4|
+||All Lys pass ptnr by the inside shoulder do same around Lds |4|
+@@@@@
+
 English Country
 %%%if_all_the_world_were_paper
 If All the World Were Paper
-
 John Playford
 English Country
-(4 
-Couple
-s in a square)
-| == In 4 == |
+||(4 Couples in a square) | == In 4 == |
 |-----|----|-----|
-V1
-Double 
-fwd
- & back; Set & turn (2x)
-2;2 (2x)
-C1
-Head 
-Lds switch places, then 
-Lys
-; 
-Hey
- to place; 
-Sides
- same
-2;2;4|
-V2
-Side R
-; 
-Set & turn; Side L
-; Set & turn
-1;1;1;1|
-C2
-Heads
- double in; take corner 
-betw
- 
-Sides
-;
- cast to place; 2 hand turn
-;
-Sides
- same
-1;1;2;4|
-V3
-Arm R; Set & turn; Arm L
-; Set & turn
-1;1;1;1|
-C3
-Heads
- 
-do 
-Hey
- for 4 start R hands w/ opposite; 
-Sides
- same
-4;4|
+|V1| Double fwd & back; Set & turn (2x) |2;2 (2x)|
+|C1| Head Lds switch places, then Lys; Hey to place; Sides same |2;2;4|
+|V2| Side R; Set & turn; Side L; Set & turn |1;1;1;1|
+|C2| Heads double in; take corner betw Sides; cast to place; 2 hand turn;||
+||Sides same |1;1;2;4|
+|V3| Arm R; Set & turn; Arm L; Set & turn |1;1;1;1|
+|C3| Heads do Hey for 4 start R hands w/ opposite; Sides same |4;4|
+@@@@@
+%%%if_wishes_were_horses
 If Wishes Were Horses (Not your gaffer’s Villanella)
-(SCA Choreography)
-(3 Couples in a line)
-| ==In 4== |
+Sion Andreas o Wynedd
+SCA Choreography
+||(3 Couples in a line) | ==In 4== |
 |-----|----|-----|
-P1
-Double fwd & back; Set L, 2 quick steps R, turn; Set R, 2 steps L, turn
-2;2;2|
-P2
-Side R&L; Set L, 2 quick steps R, turn; Set R, 2 steps L, turn
-2;2;2|
-P3
-Slip L&R; Take R hands & switch, L & switch back; Set L, 2 steps R, turn
-4;1;1|
+|P1| Double fwd & back; Set L, 2 quick steps R, turn; Set R, 2 steps L, turn |2;2;2|
+|P2| Side R&L; Set L, 2 quick steps R, turn; Set R, 2 steps L, turn |2;2;2|
+|P3| Slip L&R; Take R hands & switch, L & switch back; Set L, 2 steps R, turn |4;1;1|
+@@@@@
+%%%the_irish_gypsy
 The Irish Gypsy (or Sionnain’s Shamrock)
-(SCA Choreography)
-(4 
-Couple
-s in a square)
-| == In 4 == |
+Sion Andreas o Wynedd
+SCA Choreography
+||(4 Couples in a square) | == In 4 == |
 |-----|----|-----|
-V1
-Heads
- double fwd & back; 
-Heads
- double fwd & cast to place; 
-Sides
- same
-2;2;4|
-C
-1
-Heads
- slip in; set LR; Slip w/ opp betw 
-Sides
- & cast to place; 
-Sides
- same
-1;1;2;4|
-½ 
-Hey
- begin by passing 
-ptnr
- by R; gypsy w/ 
-ptnr
-; repeat
-2;2;4|
-V2
-Side R w/
- 
-ptnr; Set & turn; Side L w/
- 
-corner; Set & t
-urn
-2;2;2;2|
-C
-2
-Pass & post 
-Heads
- walk through the set (Ldys pass on inside); give near
-arm to nearest Side & post to face into set; repeat 3x; 
-Sides
- same
- 1;1;6; 8
-V3
-Arm R w/ ptnr; Set & turn; Arm L w/ corner; S
-et & turn
-2;2;2;2|
-C
-3
-Lds form for L hand star & pass in front of 
-ptnr
- to next Ldy;
-1
-Take Ldy by R hand & cirle 1x, ending back in the L hand star; repeat 3x
-1;6|
-Lys
- form for R hand star & do as Lds did
-8
+|V1| Heads double fwd & back; Heads double fwd & cast to place; Sides same |2;2;4|
+|C1| Heads slip in; set LR; Slip w/ opp betw Sides & cast to place; Sides same |1;1;2;4|
+||½ Hey begin by passing ptnr by R; gypsy w/ ptnr; repeat |2;2;4|
+|V2| Side R w/ ptnr; Set & turn; Side L w/ corner; Set & turn |2;2;2;2|
+|C2| Pass & post Heads walk through the set (Ldys pass on inside); give near ||
+arm to nearest Side & post to face into set; repeat 3x; Sides same |1;1;6;8|
+|V3| Arm R w/ ptnr; Set & turn; Arm L w/ corner; Set & turn |2;2;2;2|
+|C3| Lds form for L hand star & pass in front of ptnr to next Ldy; |1|
+||Take Ldy by R hand & cirle 1x, ending back in the L hand star; repeat 3x |1;6|
+||Lys form for R hand star & do as Lds did |8|
+@@@@@
 %%%jenny_pluck_pears
 Jenny Pluck Pears
-
 John Playford
 English Country
-(3 
-Couple
-s in a circle)
-| == In 4 == |
+||(3 Couples in a circle) | == In 4 == |
 |-----|----|-----|
-V1
-Slip L; Set & turn; Slip R; Set & turn
-2;2;2;2|
-C
-1
-Ld1 turns Ly into center; Ld2 same; Ld 3 same; All 
-Rev
-1;1;1;1 
-Lds skip around L; then R
-4;4|
-Ld1 turns Ly to place; Ld2 same; Ld3 same; All 
-Rev
-1;1;1;1|
-V2
-Side R; Set & turn; Side L; Set & turn
-2;2;2;2|
-C
-2
-Same as 
-C
-1, except Ly turn Ld in & skip around
-16
-V3
-Arm R; Set & turn; Arm 
-L; Set & turn
-2;2;2;2|
-C
-3
-Same as 
-C
-1
-16
+|V1| Slip L; Set & turn; Slip R; Set & turn |2;2;2;2|
+|C1| Ld1 turns Ly into center; Ld2 same; Ld 3 same; All Rev |1;1;1;1|
+||Lds skip around L; then R |4;4|
+||Ld1 turns Ly to place; Ld2 same; Ld3 same; All Rev |1;1;1;1|
+|V2| Side R; Set & turn; Side L; Set & turn |2;2;2;2|
+|C2| Same as C1, except Ly turn Ld in & skip around |16|
+|V3| Arm R; Set & turn; Arm L; Set & turn |2;2;2;2|
+|C3| Same as C1 |16|
+@@@@@
+
 English Country
 %%%jack_pudding
 Jack Pudding
-
 John Playford
 English Country
-(3 
-Couple
-s in a line)
-| == In 4 == |
+||(3 Couples in a line) | == In 4 == |
 |-----|----|-----|
-V1
-Double fwd; C1
- 
-&
- 
-C2 separate & Double back as C3 Double fwd
-1;1|
-C1 & C2
- Double fwd (still apart) as C3
- Double back
-1
-C1 & C2 take hands & all Double back
-1
-C
-1
-C3 move 
-betw
- C1 & C2 as Lds 1&2 make an arch & 
-Lys
- same
-2
-C3 cast round C1, under arches & cast round C2, to place, proper
-4
-C1 & C2 join hands & circle once around as C3 does full turn
-2
-V2
-Side 
-RL
-4
-C
-2
-Lds form a circle & go once around, raising arms
-2
-Lys
- under arches & turn 
-ptnr
- back to place
-2
-Repeat 
-w/
- genders reversed
-4
-V3
-Arm 
-RL
-4
-C
-3
-C1 turn to face down as C3 heads up line
-C2 moves to C3 place as C1 makes arch & C3 passes under
-1
-C3 change places and face down as C1 turns to face up
-1
-C1
- 
-&C3 take hands & go once around; C2 heads up the line
-2
-C1 moves to C3’s original position as C2 makes an arch & C3 passes under
-1
-C3 change places & face up as C2 turn to face down
-1
-C2
- 
-&
- 
-C3 take hands & go 
-once around; C2 turn to face up
-2
+|V1| Double fwd; C1 & C2 separate & Double back as C3 Double fwd |1;1|
+||C1 & C2 Double fwd (still apart) as C3 Double back |1|
+||C1 & C2 take hands & all Double back |1|
+|C1| C3 move betw C1 & C2 as Lds 1&2 make an arch & Lys same |2|
+||C3 cast round C1, under arches & cast round C2, to place, proper |4|
+||C1 & C2 join hands & circle once around as C3 does full turn |2|
+|V2| Side RL |4|
+|C2| Lds form a circle & go once around, raising arms |2|
+||Lys under arches & turn ptnr back to place |2|
+||Repeat w/ genders reversed |4|
+|V3| Arm RL |4|
+|C3| C1 turn to face down as C3 heads up line ||
+||C2 moves to C3 place as C1 makes arch & C3 passes under |1|
+||C3 change places and face down as C1 turns to face up |1|
+||C1&C3 take hands & go once around; C2 heads up the line |2|
+||C1 moves to C3’s original position as C2 makes an arch & C3 passes under |1|
+||C3 change places & face up as C2 turn to face down |1|
+||C2 & C3 take hands & go once around; C2 turn to face up |2|
+@@@@@
 %%%kelsterne_gardens
 Kelsterne Gardens
-(Playford 1726)
 John Playford
 English Country
-(3 
-Couple
-s in a line)
-| == In 4 == |
-|-----|----|-----|
-Hey
- for 
-Couple
-s; C1 figure 8 crossing through C2, as C2 follows (start outside) 
-2;2|
-C1 &
- 
-C2 circle; C1 cast down 1 place; C1&C3 circle; C1 cast to bottom of set
-2;1;2;1 
+|(3 Couples in a line) | == In 4 == |
+|----|-----|
+|Hey for Couples; C1 figure 8 crossing through C2, as C2 follows (start outside)|2;2|
+|C1 & C2 circle; C1 cast down 1 place; C1&C3 circle; C1 cast to bottom of set |2;1;2;1|
+@@@@@
 %%%kemps_jegg
 Kemps Jegg
-
 John Playford
 English Country
-(3 
-Couple
-s in a circle)
-| == In 4 == |
+||(3 Couples in a circle) | == In 4 == |
 |-----|----|-----|
-P1
-Ld1 lead Lys1&3 fwd & back a Double (2x)
-2(2x)
-Ld1 honor Ly3, then Ly1; Ld1 turns Ly2 to progress to Ld2’s place as
-Lds
-2&3 rotate CCW into next place (Ly2 returns to own spot)
-2;2|
-Repeat 2x, w/ same active Ld until all are back to place
-16
-Repeat entire Part 2x 
-w/
- Lds2&3 active
-48
-P2
-Ld1 lead Lys1&3 fwd & back a Double (2x)
-2(2x)
-Ld1 & Ly3 switch by R han
-ds; Ld1 & Ly1 switch by L as Ly
-3 to orig place
-1;1|
-Ld1 & Ly2 full turn as Ly
-1 to place & Lds2&3 rotate CW to new places
-2
-Repeat as in P1
-16;48
-P3
-Ld1 w/ Lys1&3 Double fwd & back, hold 
-Lys
- outsd hnds behind backs(2x)
-2(2x)
-Ld1 unwinds Ly3 & kisses her; Ld1 unwinds Ly1 & kisses
-1;1|
-Ld1 turn Ly2 to progress as Lds2&3 rotate CCW
-2
-Repeat as in P1
-16;48
-Short Version
-: Ignore direction to “repeat entire part 2x w/ same active Ld” – Ld 1 is now active for o
-nly 1 repeat of each verse. Lds
-2&3 do likewise.
-Egalitarian Version
-: Ignore direction to “repeat entire part 2x w/ same active Ld” Once the Lds all been active, the dance begins again 
-w/
- the 
-Lys
- active.
+|P1| Ld1 lead Lys1&3 fwd & back a Double (2x) |2(2x)|
+||Ld1 honor Ly3, then Ly1; Ld1 turns Ly2 to progress to Ld2’s place as ||
+||Lds 2&3 rotate CCW into next place (Ly2 returns to own spot) |2;2|
+||Repeat 2x, w/ same active Ld until all are back to place |16|
+||Repeat entire Part 2x w/ Lds2&3 active |48|
+|P2| Ld1 lead Lys1&3 fwd & back a Double (2x) |2(2x)|
+||Ld1 & Ly3 switch by R hands; Ld1 & Ly1 switch by L as Ly 3 to orig place |1;1|
+||Ld1 & Ly2 full turn as Ly 1 to place & Lds2&3 rotate CW to new places |2|
+||Repeat as in P1 |16;48|
+|P3| Ld1 w/ Lys1&3 Double fwd & back, hold Lys outsd hnds behind backs(2x) |2(2x)|
+||Ld1 unwinds Ly3 & kisses her; Ld1 unwinds Ly1 & kisses |1;1|
+||Ld1 turn Ly2 to progress as Lds2&3 rotate CCW |2|
+||Repeat as in P1 |16;48|
+||**Short Version:** Ignore direction to “repeat entire part 2x w/ same active Ld”||
+||– Ld 1 is now active for only 1 repeat of each verse. Lds 2&3 do likewise. ||
+||**Egalitarian Version:** Ignore direction to “repeat entire part 2x w/ same active|| 
+||Ld” Once the Lds all been active, the dance begins again w/ the Lys active.||
+@@@@@
 English Country
 %%%kettle_drum
 Kettle Drum
-
 John Playford
 English Country
-(4 
-Couple
-s in a square)
-| == In 4 == |
+||(4 Couples in a square) | == In 4 == |
 |-----|----|-----|
-V1
-D
-ouble 
-fwd &
- back
-; repeat
-2;2|
-C
-1
-Lys
- R hand
-s across;
- Lds same; all turn ptnr by R hand
-1
-;
-1
-;
-2
-Lds L hand
-s across
-; 
-Lys
- same; 
-all turn
- ptnr 
-by 
-L hand 
-1
-;
-1
-;
-2
-V2
-Side 
-RL
-4
-C
-2
-Heads in a double; Heads back as 
-Sides
- in a double; 
-1;1|
-Sides
- R hand w/
- 
-corner & turn into their place
-2
-Same 
-w/
- 
-Sides
- doing what 
-H
-eads did and v
-ice versa
-4
-V3
-Arm 
-RL
-4
-C
-3
-Ptnrs take 2 hands, swing in, out, & in, break hands & turn to crnr
-2
-Lean in & kiss c
-o
-rn
-e
-r, lean back; repeat
-1;1|
-Take corner by both hands & do same swings, face 
-ptnr
-2
-Lean in 
-&
- kiss 
-ptnr
-, lean back; repeat
-1;1|
+|V1| Double fwd & back; repeat |2;2|
+|C1| Lys R hands across; Lds same; all turn ptnr by R hand |1;1;2|
+|| Lds L hands across; Lys same; all turn ptnr by L hand |1;1;2|
+|V2| Side RL |4| 
+|C2| Heads in a double; Heads back as Sides in a double; |1;1|
+||Sides R hand w/ corner & turn into their place |2|
+||Same w/ Sides doing what Heads did and vice versa |4|
+|V3| Arm RL |4|
+|C3| Ptnrs take 2 hands, swing in, out, & in, break hands & turn to crnr |2|
+||Lean in & kiss corner, lean back; repeat |1;1|
+||Take corner by both hands & do same swings, face ptnr |2|
+||Lean in & kiss ptnr, lean back; repeat |1;1|
+@@@@@
+
 %%%lord_of_carnavans_jegg
 Lord of Carnavan’s Jegg
-
 John Playford
 English Country
-(4 
-Couple
-s in a line)
-| == In 4 == |
+||(4 Couples in a line) | == In 4 == |
 |-----|----|-----|
-P1
-Double Fwd & back (2x); Do-Si-Do
- w/ ptnr (2x)
-2(2x);2(2x)
-P
-2
-C1 cross over & go behind C2 into their place (on 
-ptnr
-’s side)
-2
-C1 cross over & go behind C3 into their place (on own side)
-2
-C1 go betw C
-4, cast off 
-& lead line around; Arm R 1½ 
-2;2|
-(order from top to bottom is now C1, C4, C3, C2)
-Repeat 
-w/
- C2 leading in other direction (order ends C3, C4, C1, C2)
-16
-Repeat 
-w/
- C3 leading in first direction (order ends C3, C2, C1, C4)
-16
-Repeat 
-w/
- C4 leading in other direction (order ends C1, C2, C3, C4)
-16
+|P1| Double Fwd & back (2x); Do-Si-Do w/ ptnr (2x) |2(2x);2(2x)|
+|P2| C1 cross over & go behind C2 into their place (on ptnr’s side) |2|
+||C1 cross over & go behind C3 into their place (on own side) |2|
+||C1 go betw C4, cast off & lead line around; Arm R 1½ |2;2|
+||(order from top to bottom is now C1, C4, C3, C2)||
+||Repeat w/ C2 leading in other direction (order ends C3, C4, C1, C2) |16|
+||Repeat w/ C3 leading in first direction (order ends C3, C2, C1, C4) |16|
+||Repeat w/ C4 leading in other direction (order ends C1, C2, C3, C4) |16|
+@@@@@
+
+%%%lord_sun_and_lady_moon
 Lord Sun & Lady Moon
- 
-(SCA Choreography)
-(3 
-Couple
-s In a line, the middle 
-Couple
- improper)
- == In 4 == |
+Anonymous
+SCA Choreography
+||(3 Couples In a line, the middle Couple improper) |== In 4 == |
 |-----|----|-----|
-P1
-C1 & C2 take R hands across; Rotate CW halfway around
-1
- 
-C1 & C3 take L hands across; Rotate CCW halfway around
-1
-C2 & C3 take R hands across; Rotate CW halfway around; all honor ptnr
-1;1|
-P2
-C1 & C2 take L
- 
-hands & Rotate CCW; C1 & C3 take R hands & Rotate CW
-1;1|
-C2 & C3 take L hands across; Rotate CCW halfway around; all honor ptnr
-1;1|
-P3
-Lys walk in a CW circle (no hands) around Ld2 & back to place
-2
-P4
-Lds walk in a CW circle (no hands) around Ly2 & back to place
-2
-P5
-C1 & C2 take hands in a circle of four & circle CW halfway around;
-1
-C2 drops hands while Ld1 turns Ly1
-1
-P6
-C1 & C3 take hands in a circle of four & circle CW halfway; All honor p
-tnr
-1;1|
-(Order of couples is C2
-, C3 (improper)
-,
- C1, becoming C1, C2 & C3
- 
-for next repeat) 
+|P1| C1 & C2 take R hands across; Rotate CW halfway around |1|
+|| C1 & C3 take L hands across; Rotate CCW halfway around |1|
+||C2 & C3 take R hands across; Rotate CW halfway around; all honor ptnr |1;1|
+|P2| C1 & C2 take L hands & Rotate CCW; C1 & C3 take R hands & Rotate CW |1;1|
+||C2 & C3 take L hands across; Rotate CCW halfway around; all honor ptnr |1;1|
+|P3| Lys walk in a CW circle (no hands) around Ld2 & back to place |2|
+|P4| Lds walk in a CW circle (no hands) around Ly2 & back to place |2|
+|P5| C1 & C2 take hands in a circle of four & circle CW halfway around; |1|
+||C2 drops hands while Ld1 turns Ly1 |1|
+|P6| C1 & C3 take hands in a circle of four & circle CW halfway; All honor ptnr |1;1|
+||(Order of couples is C2, C3 (improper), C1, becoming C1, C2 & C3 for next repeat)||
+@@@@@
 English Country
 %%%lull_me_beyond_thee
 Lull Me Beyond Thee
-
 John Playford
 English Country
-(2 
-Couple
-s facing 2 
-Couple
-s
- 
-C3, C1, C2, C4))
-| == In 4 == |
+||(2 Couples facing 2 Couples C3, C1, C2, C4)) | == In 4 == |
 |-----|----|-----|
-V1
-Double fwd & back (2x)
-2(2x)
-C1
- 
-C3
- 
-&
- 
-C4 
-D
-ouble 
-toge
-ther as 
-rest
- 
-D
-ouble away from set
-1
-New lines 
-Double 
-back; turn your opposite
-1;2|
-C3
- 
-&
- 
-4 
-D
-ouble 
-back
- as 
-rest
- 
-D
-ouble together
-; Lines Double back; turn ptnr
-1
-;1;2|
-V2
-Side R w/
- 
-ptnr; C1
- 
-&
- 
-C2 side L w/
- 
-corner as C3
- 
-&
- 
-C4 side L w/
- 
-ptnr
-2;2|
-C
-2
- 
-Lead away from ptnr, fall back into circle; go once around
-2;2|
-Lead away from corner, fall back into circle; go once around
-2;2|
-V3
-Arm R w/
- 
-ptnr; Arm L w
-/
- person you sided L 
-w/
-2;2|
-C3
-C1
- 
-&
- 
-C2 lead out & in (to wall & back) forming arch as 
-C3 & C4 lead in, then out w/corner under arch
-2
-C1
- 
-& C2 lead out (to C3
- 
-&
- 
-C4 places) as rest lead in & all turn ptnr
-2
-Repeat w/ C3 & C4 leading out first
-2;2|
+|V1| Double fwd & back (2x) |2(2x)|
+|C1| C3 & C4 Double together as rest Double away from set |1|
+||New lines Double back; turn your opposite |1;2|
+||C3 & C4 Double back as rest Double together; Lines Double back; turn ptnr |1;1;2|
+|V2| Side R w/ ptnr; C1 & C2 side L w/ corner as C3 & C4 side L w/ ptnr |2;2|
+|C2| Lead away from ptnr, fall back into circle; go once around |2;2|
+||Lead away from corner, fall back into circle; go once around |2;2|
+|V3| Arm R w/ ptnr; Arm L w/ person you sided L w/ |2;2|
+|C3| C1 & C2 lead out & in (to wall & back) forming arch as ||
+||C3 & C4 lead in, then out w/corner under arch |2|
+||C1 & C2 lead out (to C3 & C4 places) as rest lead in & all turn ptnr |2|
+||Repeat w/ C3 & C4 leading out first |2;2|
+@@@@@
 %%%mage_on_a_cree
 Mage on a Cree
-
 John Playford
 English Country
-(4 
-Couple
-s in a circle)
-| == In 4 == |
+||(4 Couples in a circle) | == In 4 == |
 |-----|----|-----|
-V1
-All join hands, Double fwd
- 
-& back, Set & turn (2x)
-4(2x)
-C1
-Lds circle facing out; turn Corner; Lys circle facing out; turn ptnr
-2;2;2;2|
-V2
-Side R; Set & turn; Side L; Set & turn
-2;2;2;2|
-C2
-Lds weave L in front of 
-Co.
- Ly & behind next; Lds meet
-, clap & Double back
-2;2|
-Lds weave L in front & behind 2 
-Lys
-; Lds 
-meet, clap & Double back
-2;2|
-Lys
- do as Lds did, but weaving to the R
-8 
-V3
-Arm R; Set & turn; Arm L; Set & turn
-2;2;2;2|
-C3
-All turn Corner 1½
- 
-times to progress; continue until to place
-8
+|V1| All join hands, Double fwd & back, Set & turn (2x) |4(2x)|
+|C1| Lds circle facing out; turn Corner; Lys circle facing out; turn ptnr |2;2;2;2|
+|V2| Side R; Set & turn; Side L; Set & turn |2;2;2;2|
+|C2| Lds weave L in front of Co.  Ly & behind next; Lds meet, clap & Double back |2;2|
+||Lds weave L in front & behind 2 Lys; Lds meet, clap & Double back |2;2|
+||Lys do as Lds did, but weaving to the R |8| 
+|V3| Arm R; Set & turn; Arm L; Set & turn |2;2;2;2|
+|C3| All turn Corner 1½ times to progress; continue until to place |8|
+@@@@@
 %%%maid_peeped_out_the_window
 Maid Peeped Out the Window
-
 John Playford
 English Country
-(4 
-Couple
-s in a line)
-| == In 4 == |
+||(4 Couples in a line) | == In 4 == |
 |-----|----|-----|
-V1
-Double fwd & back (2x)
-2(2x)
-C1
-C1 C
-ast & lead to bottom; Set & turn; C1 
-C
-ast
- 
-& lead to top; Set & turn
-2;2;2;2|
-V2
-Side R
-L
-4
-C2
-All slide across at L diagonal; Double into 
-ptnr
-s place; Set & turn
-1;1;2|
-All slide back at L diagonal; Double into own place; Set & turn
-1;1;2|
-V3
-Arm R
-L
-4
-C3
-Lds 1&
-3 push L
-ys 2&
-4 out, around, & ac
-ross into Lds' place
-1
-Lds 2&4 push Lys 1&
-3 into men’s place; Set & turn
-1;2|
-Repeat above, pushing 
-Lys
- back itno own place; Set & turn 
-2;2|
+|V1| Double fwd & back (2x) |2(2x)|
+|C1| C1 Cast & lead to bottom; Set & turn; C1 Cast & lead to top; Set & turn |2;2;2;2|
+|V2| Side R L |4|
+|C2| All slide across at L diagonal; Double into ptnrs place; Set & turn |1;1;2|
+||All slide back at L diagonal; Double into own place; Set & turn |1;1;2|
+|V3| Arm R L |4|
+|C3| Lds 1& 3 push Lys 2& 4 out, around, & across into Lds' place |1|
+||Lds 2&4 push Lys 1&3 into men’s place; Set & turn |1;2|
+||Repeat above, pushing Lys back itno own place; Set & turn |2;2|
+@@@@@
 %%%maiden_lane
 Maiden Lane
-
 John Playford
 English Country
-(3 
-Couple
-s in a line)
-| == In 4 == |
+||(3 Couples in a line) | == In 4 == |
 |-----|----|-----|
-V1
-Double fwd & back (2x); Double L & back
-4;
-2
-Double speed single 
-Hey
- on both sides; Set & turn 
-(2x)
-2;
-4
-V2
-Side
- 
-RL
-; Back a double & switch 
-w/
- ptnr; repeat; 
-S
-et & turn 
-(
-2x
-)
-4;2;2;
-4
-V3
-Arm 
-RL
-;
- 
-Ld1
- 
-&
- 
-Ly2 switch, Ld2
- 
-&
- 
-Ly1 switch as C3 switch
-4;1;1|
-Ld1
- 
-&
- 
-Ly3 switch, Ld3
- 
-&
- 
-Ly1 switch
- 
-as C2 switch; Set & turn
- (
-2x
-)
-1;1;
-4
-Couple
-s should now be progressed, ready to do the dance 2 more times.
+|V1| Double fwd & back (2x); Double L & back |4;2|
+||Double speed single Hey on both sides; Set & turn (2x) |2;4|
+|V2| Side RL; Back a double & switch w/ ptnr; repeat; Set & turn (2x)| 4;2;2;4|
+|V3| Arm RL; Ld1 & Ly2 switch, Ld2 & Ly1 switch as C3 switch |4;1;1|
+||Ld1 & Ly3 switch, Ld3 & Ly1 switch as C2 switch; Set & turn (2x)|1;1;4|
+||Couples should now be progressed, ready to do the dance 2 more times.||
+@@@@@
 English Country
 %%%merry_merry_milk_maids
 Merry Merry Milk Maids
-
 John Playford
 English Country
-(4 
-Couple
-s in a line)
-| == In 4 == |
+||(4 Couples in a line) | == In 4 == |
 |-----|----|-----|
-V1
-Double 
-fwd
- & back; Set & turn; repeat
-2;2;4|
-C1
-C1 & C3 
-Double to meet ptnr; slip down 
-betw
- C below (who moves up)
-1;1|
-In groups of 4, R hand star; L hand star
-2;2|
-C2 & C4 (in new positions) same; R hand star; L hand star
-2;2;2|
-V2
-Side R; Set & turn; Side L; Set & turn
-2;2;2;2|
-C2
-Lds cast from front to invert set; Lys same; Set & turn
-2;2;2|
-Lds cast from bottom to orig place; Lys same; Set & turn
-2;2;2|
-V3
-Arm R; Set & turn; Arm L; Set & turn
-2;2;2;2|
-C3
-Lds back & fwd a double; Lds 
-Hey
-; Lys back & fwd a double; Lys 
-Hey
-2;4;2;4|
+|V1| Double fwd & back; Set & turn; repeat |2;2;4|
+|C1| C1 & C3 Double to meet ptnr; slip down betw C below (who moves up) |1;1|
+||In groups of 4, R hand star; L hand star |2;2|
+||C2 & C4 (in new positions) same; R hand star; L hand star |2;2;2|
+|V2| Side R; Set & turn; Side L; Set & turn |2;2;2;2|
+|C2| Lds cast from front to invert set; Lys same; Set & turn |2;2;2|
+||Lds cast from bottom to orig place; Lys same; Set & turn |2;2;2|
+|V3| Arm R; Set & turn; Arm L; Set & turn |2;2;2;2|
+|C3| Lds back & fwd a double; Lds Hey; Lys back & fwd a double; Lys Hey |2;4;2;4|
+@@@@@
 %%%milke_mayds_bobb
 Milke-Mayds Bobb
-
 John Playford
 English Country
-(4 
-Couple
-s in a line)
-| == In 4 == |
+||(4 Couples in a line) | == In 4 == |
 |-----|----|-----|
-V1
-Double fwd & back (2x)
-2(2x)
-C1
-C1&2 
-Hey
- for 4, start w/ R hands to 
-ptnr
- as C3&4 same
-4
-V2
-Side RL
-4
-C2
-C1 2 hands & slip betw C2 as C3 slip betw
- C4; switch w/ ptnr
-1;1 
-C2 2 hands & slip betw
- C1 as 
-C4 slip betw
- C3; switch w/ ptnr
-1;1 
-V3
-Arm 
-RL
-4
-C3
-Ld1 & Ly2 switch by R hands as Ld3
- 
-& Ly4 same
-1
-Ld2 & Ly1 switch by R hands
- as 
-Ld4 & Ly3 same; repeat
-1;2 
+|V1| Double fwd & back (2x) |2(2x)|
+|C1| C1&2 Hey for 4, start w/ R hands to ptnr as C3&4 same |4|
+|V2|Side R L |4|
+|C2| C1 2 hands & slip betw C2 as C3 slip betw C4; switch w/ ptnr |1;1| 
+||C2 2 hands & slip betw C1 as C4 slip betw C3; switch w/ ptnr |1;1|
+|V3| Arm R L 4 C3 Ld1 & Ly2 switch by R hands as Ld3 & Ly4 same |1|
+||Ld2 & Ly1 switch by R hands as Ld4 & Ly3 same; repeat |1;2| 
+@@@@@
+%%%never_give_consent
 Never Give Consent
-(SCA Choreography)
-(2 Couples facing 2 Couples)
-| == In 4 == |
+James Blackcloak
+SCA Choreography
+||(2 Couples facing 2 Couples) | == In 4 == |
 |-----|----|-----|
-V1
-Double fwd & back
-2
-Squish the set: Insides change places w/ prtnr & Double back 
-as outsides Double fwd & change places w/ opposite
-2
-Double fwd & back w/ opposite; Squish the set
-2;2|
-C1
-Outsides cast away from set & back to place, insides following
-2
-Groups of 4 circle halfway; turn single; R hand star; turn single
-1;1;1;1|
-Squish the set; Repeat chorus w/ new outsides leading
-2;8|
-V2
-Side R w/ ptnr; Squish the set; Side L w/ opposite; Squish the set
-2;2;2;2|
-C2
-Outsides cast as before; Arches: Lds slip under Lys arches
-2;1|
-Lys slip under Lds; Insides slip under outsides; Outsides under insides
-1;1;1|
-Squish the set; Repeat chorus
-2;8|
+|V1| Double fwd & back |2|
+||Squish the set: Insides change places w/ prtnr & Double back ||
+||as outsides Double fwd & change places w/ opposite |2|
+||Double fwd & back w/ opposite; Squish the set |2;2|
+|C1| Outsides cast away from set & back to place, insides following |2|
+||Groups of 4 circle halfway; turn single; R hand star; turn single |1;1;1;1|
+||Squish the set; Repeat chorus w/ new outsides leading |2;8|
+|V2| Side R w/ ptnr; Squish the set; Side L w/ opposite; Squish the set |2;2;2;2|
+|C2| Outsides cast as before; Arches: Lds slip under Lys arches |2;1|
+||Lys slip under Lds; Insides slip under outsides; Outsides under insides |1;1;1|
+||Squish the set; Repeat chorus |2;8|
+@@@@@
 English Country
 %%%newcastle
 Newcastle
-
 John Playford
 English Country
-(4 
-Couple
-s in a square)
-| == In 4 == |
+||(4 Couples in a square) | == In 4 == |
 |-----|----|-----|
-V1
-Double fwd & back
-; Set to 
-ptnr
-; Set to next of opp gender
- (2x)
-2;2 (2x)
-C1
-Arm R 
-w/
- 
-ptnr
-; Lds 
-L hand 
-into center as 
-Lys
- circle
- around set
-1;3|
-Arm R 
-w/
- 
-ptnr
-; 
-Lys
- 
-L hand 
-into center as Lds circle
- around set
-1;3|
-V2
-Side R
-; Side L & p
-ass; repeat w/ next
-2;2|
-;4
-C2
-Heads 
-D
-ouble fwd & back, make arch 
-2
-Sides 
-C
-ast behind, through arch & to place
-2
-Sides 
-D
-ouble fwd & back, make arch
-2
-Heads 
-C
-ast behind, thro
-ugh arch, & to place
-2
-V3
-Arm 
-RL
-; Pass by in extra ½ turn; repeat w/ next
-3;1;4|
-C3
-Double back in line (H
-eads split); 
-Turn single
-; D
-ouble fwd & switch across
- 
-1;1;2|
-Double back in line (S
-ides split
-)
-; 
-Turn single
-; 
-D
-ouble fwd
- & switch across
-1;1;2|
-(3 
-Couple
-s in a line)
- 
- 
-| == In 4 == |
-|-----|----|-----|
-V1
-Double fwd & back; Set & switch w/ ptnr; repeat
-2;2;4|
-C1
-Ld1 Set to Ly1; Ld2 S
-et to Ly2; C3 2 hand turn back to place
-1;1;2 
-Ld3 Set to Ly3; Ld2 S
-et to Ly2; C1 2 hand turn back to place
-1;1;2|
-V2
-Side R; Set & switch w/ ptnr; Side L; Set & switch w/ ptnr
-2;2;2;2|
-C2
-Ld1 & Ly3 meet; Ld3 & Ly1 meet; Ld1 & Ly3 switch; 
-1;1;½;
-Ld3 & Ly1 switch; C2 switc
-h; Repeat entire chorus 
-½;1;
-4
-V3
-Arm R; Set & switch w/ ptnr;
- 
-Arm L; Set & switch w/ ptnr
-2;2;2;2|
-C3
-Half 
-Hey
- for 
-Couple
-s; Set & turn; Half 
-Hey
- for 
-Couple
-s; Set & turn
-2;2;2;2|
-%%%the_night_peece
-The Night Peece
-
-John Playford
-English Country
-(3 
-Couple
-s in a line)
- 
- 
-| == In 4 == |
-|-----|----|-----|
-V1
-Double fwd & back (2x)
-2 (2x)
-C1
-C2 fall back a Double & slip up to C1 place as C1&3 switch(3X)
-2 (3x)
-V2
-Side 
-RL
-4
-C2
-C1 cross
- 
-& cast to C2 place as C2 slides up; Same w/
- 
-C3; Repeat 2x
-1;1;2;2|
-V3
-Arm 
-RL
-4
-C3
-Ld1 & Ly2 switch; Ly1 & Ld2 switch; C3 switch
-½;½;1
-Ld1 & Ly3 swit
-ch; Ly1 & Ld3 switch; C2 switch
-; Set & turn
-½;½;1;2|
-%%%nonesuch
-Nonesuch
-
-John Playford
-English Country
-(4 
-Couple
-s in a line)
-| == In 4 == |
-|-----|----|-----|
-V1
-Double fwd & back (2x); Set & turn (2x)
-4;4|
-C1
-C1 slip betw C2; C1 turn to face C2 
-1;1|
- 
-C1 push C2 & switch places twice, C2 ending in C1 position; C1 turn
-4;2|
-C1 repeat w/C3;
- then w/ C4 as C2 w/C3; C2 w/C4
-, etc
-64
-V2
-Side R; Side L; Set & turn (2x)
-2;2;4|
-C2
-Form a line (1 at a time) w/
- 
-double to center -
- 
-Ld1 face down, Ly1 next, etc.
-8
-V3
-Arm R & L; 3 slips L & back; 3 slips R & back
-4;2;2|
-C3
-1 at a time as before, double to improper side 
-8
-Grand 
-RL
- in a "
-U", crossing at bottom - 1st sw
-itch is C1 w/
- 
-C2 & C3 w/C4
-8
-English Country
+|V1| Double fwd & back; Set to ptnr; Set to next of opp gender (2x) |2;2 (2x)|
+|C1| Arm R w/ ptnr; Lds L hand into center as Lys circle around set |1;3|
+||Arm R w/ ptnr; Lys L hand into center as Lds circle around set |1;3|
+|V2| Side R; Side L & pass; repeat w/ next |2;2;4|
+|C2| Heads Double fwd & back, make arch |2|
+||Sides Cast behind, through arch & to place |2|
+||Sides Double fwd & back, make arch |2|
+||Heads Cast behind, through arch, & to place |2|
+|V3| Arm RL; Pass by in extra ½ turn; repeat w/ next |3;1;4|
+|C3| Double back in line (Heads split); Turn single; Double fwd & switch across |1;1;2|
+||Double back in line (Sides split); Turn single; Double fwd & switch across |1;1;2|
+@@@@@
 %%%new_exchange
 New Exchange
-
 John Playford
 English Country
+||(3 Couples in a line) | == In 4 == |
+|-----|----|-----|
+|V1| Double fwd & back; Set & switch w/ ptnr; repeat |2;2;4|
+|C1| Ld1 Set to Ly1; Ld2 Set to Ly2; C3 2 hand turn back to place |1;1;2|
+||Ld3 Set to Ly3; Ld2 Set to Ly2; C1 2 hand turn back to place |1;1;2|
+|V2| Side R; Set & switch w/ ptnr; Side L; Set & switch w/ ptnr |2;2;2;2|
+|C2| Ld1 & Ly3 meet; Ld3 & Ly1 meet; Ld1 & Ly3 switch; |1;1;½;|
+||Ld3 & Ly1 switch; C2 switch; Repeat entire chorus |½;1;4|
+|V3| Arm R; Set & switch w/ ptnr; Arm L; Set & switch w/ ptnr |2;2;2;2|
+|C3| Half Hey for Couples; Set & turn; Half Hey for Couples; Set & turn |2;2;2;2|
+@@@@@
+
+%%%the_night_peece
+The Night Peece
+John Playford
+English Country
+||(3 Couples in a line) | == In 4 == |
+|-----|----|-----|
+|V1| Double fwd & back (2x) |2 (2x)|
+|C1| C2 fall back a Double & slip up to C1 place as C1&3 switch(3X) |2 (3x)|
+|V2| Side RL |4|
+|C2| C1 cross & cast to C2 place as C2 slides up; Same w/ C3; Repeat 2x |1;1;2;2|
+|V3| Arm RL |4|
+|C3| Ld1 & Ly2 switch; Ly1 & Ld2 switch; C3 switch |½;½;1|
+||Ld1 & Ly3 switch; Ly1 & Ld3 switch; C2 switch; Set & turn |½;½;1;2|
+@@@@@
+
+%%%nonesuch
+Nonesuch
+John Playford
+English Country
+||(4 Couples in a line) | == In 4 == |
+|-----|----|-----|
+|V1| Double fwd & back (2x); Set & turn (2x) |4;4|
+|C1| C1 slip betw C2; C1 turn to face C2 |1;1|
+||C1 push C2 & switch places twice, C2 ending in C1 position; C1 turn |4;2|
+||C1 repeat w/C3; then w/ C4 as C2 w/C3; C2 w/C4, etc |64|
+|V2| Side R; Side L; Set & turn (2x) |2;2;4|
+|C2| Form a line (1 at a time) w/ double to center - Ld1 face down, Ly1 next, etc. |8|
+|V3| Arm R & L; 3 slips L & back; 3 slips R & back |4;2;2|
+|C3| 1 at a time as before, double to improper side |8|
+||Grand RL in a "U", crossing at bottom - 1st switch is C1 w/ C2 & C3 w/C4 |8|
+@@@@@
+
 %%%the_old_mole
 The Old Mole
-
 John Playford
 English Country
-(3 
-Couple
-s in a line)
- 
- 
-| == In 4 == |
+||(3 Couples in a line) | == In 4 == |
 |-----|----|-----|
-P
-1
-Double 
-fwd & back; S
-et & turn; repeat
-2;2|
-;4
-Double L & back; S
-et & turn; 
-Double 
-R & back; S
-et & turn
-2;2;2;2|
-P
-2
-Ld1 & Ly3 switch (D
-ou
-ble fwd & back, then past) 
-4
-Ly1 & Ld
-3
- same; C2 same
-4;4|
-Lys 1&
-2 & Lds
- 2&3 arches
- (D
-ou
-ble fwd
- 
-&
- 
-back then through) 4x to place
-4
-(4x)
-Ld1 & Ly3 switch as before; Ly1 & Ld 3 switch; Ld2 & Ly2 switch
-4
-;
-4
-;
-4
-P
-3
-Lds hands,& 
-Lys
- ha
-nds - D
-ouble 
-fwd
-; C1&C3 Double back
-1;1|
-C2 turn as Lys
- 1&3 turn & 
-Lds
- 
-1&3 turn, then Side R; tur
-n your own
-1;2;1|
-P
-4
-Lds single 
-Hey
-; 
-Lys
- single 
-Hey
-; 
-Hey
- for 
-Couple
-s
- 2x
-2;2;4|
-Cast from front
- to place; Cast from the back to place
-2;2|
+|P1| Double fwd & back; Set & turn; repeat |2;2;4|
+||Double L & back; Set & turn; Double R & back; Set & turn |2;2;2;2|
+|P2| Ld1 & Ly3 switch (Double fwd & back, then past) |4|
+||Ly1 & Ld 3 same; C2 same |4;4|
+||Lys 1&2 & Lds 2&3 arches (Double fwd & back then through) 4x to place |4 (4x)|
+||Ld1 & Ly3 switch as before; Ly1 & Ld 3 switch; Ld2 & Ly2 switch |4;4;4|
+|P3| Lds hands, & Lys hands - Double fwd; C1&C3 Double back |1;1|
+||C2 turn as Lys 1&3 turn & Lds 1&3 turn, then Side R; turn your own |1;2;1|
+|P4| Lds single Hey; Lys single Hey; Hey for Couples 2x |2;2;4|
+||Cast from front to place; Cast from the back to place |2;2|
+@@@@@
+
 English Country
-On the Banks of the 
-Helicon
-(SCA Choregraphy)
-(3 
-Couple
-s in a line)
-| == In 4 == |
+%%%on_the_banks_of_the_helicon
+On the Banks of the Helicon
+Anonymous
+SCA Choregraphy
+||(3 Couples in a line) | == In 4 == |
 |-----|----|-----|
-V
-1
-Double fwd; Turn 
-single
- (away from ptnr); Doub
-le back (2x)
-1;1;1(2x)
-Ch
-Half-S
--
-Hey
- 
-Ld2 w/ C1, Ly2 w/ C3 (C2 ends in p
-tnr’s place)
-2
-Half-S
--
-Hey
- 
-Ld2 w/
- 
-C3, Ly2 w/
- 
-C1 (C2 en
-d
-s in own place) 
- 2
-C1
- R hands & switch; L hands to next & switch; 
-R hands to next & switch; C1 L hands & switch
-1;1;1;1|
-V2
-Double 
-fwd
- (toward 
-ptnr
-) to me
-et R shoulders, 
-1
-Turn 
-single
- (away from 
-ptnr
-); fa
-ll back
- a D
-ouble to place
-1;1|
-Repeat, this time meeting L shoulders
-; repeat chorus
-3
-;8
-V3
-Give R arm to 
-ptnr
- & turn
- half-way; turn 
-single
- L 
-1;1|
-Take R arms w/
- 
-ptnr
- again & turn half-way to
- place
-1
-Do same w/ L arm (w/ 
-single
- turn R)
-; repeat chorus
-3
-;8
+|V1| Double fwd; Turn single (away from ptnr); Double back (2x) |1;1;1(2x)|
+|Ch| Half-S - Hey Ld2 w/ C1, Ly2 w/ C3 (C2 ends in ptnr’s place) |2|
+||Half-S - Hey Ld2 w/ C3, Ly2 w/ C1 (C2 ends in own place) |2|
+|C1| R hands & switch; L hands to next & switch; ||
+||R hands to next & switch; C1 L hands & switch |1;1;1;1|
+|V2| Double fwd (toward ptnr) to meet R shoulders, |1|
+||Turn single (away from ptnr); fall back a Double to place |1;1|
+||Repeat, this time meeting L shoulders; repeat chorus |3;8|
+|V3| Give R arm to ptnr & turn half-way; turn single L |1;1|
+||Take R arms w/ ptnr again & turn half-way to place |1|
+||Do same w/ L arm (w/ single turn R); repeat chorus |3;8|
+@@@@@
 %%%oranges_and_lemons
 Oranges & Lemons
-(Playford 1665)
 John Playford
 English Country
-(4 
-Couple
-s in a square)
-| == In 4 == |
+||(4 Couples in a square) | == In 4 == |
 |-----|----|-----|
-V1
-Double f
-wd & 
-b
-ack (2x)
-2 (2x)
-C1
-Lds rev to 
-ptnr
-; rev to corner; Join hands & circle half around
-½;½;2
-Lys
- 
-rev to 
-ptnr
-; rev to corner; Join hands & circle half around; repeat
-½;½;2;6|
-V2
-Side 
-RL
-4
-C2
-Ptnr
-s R hands & step R; L hands & step L
-½;½
-Switch R and then L 
-w/
- next; 
-repeat until back to place
-2;3 (3x)
-V3
-Arm 
-RL
- (C1 moves to face C2; C3 moves to
- face C4)
-4
-C3
-Rev to other C; R
-ev to 
-ptnr
-; Each pair of Cs circle halfway to the L
-½;½;1
-C2 back into 3rd place, C1
- 
-following as C4 backs into 1
-st
- place, C3 following
-1
-Repeat this pattern until everyone returns to their places
-3 (3x)
+|V1| Double fwd & back (2x) |2 (2x)|
+|C1| Lds rev to ptnr; rev to corner; Join hands & circle half around |½;½;2|
+||Lys rev to ptnr; rev to corner; Join hands & circle half around; repeat |½;½;2;6|
+|V2| Side RL |4|
+|C2| Ptnrs R hands & step R; L hands & step L |½;½|
+||Switch R and then L w/ next; repeat until back to place |2;3 (3x)|
+|V3| Arm RL (C1 moves to face C2; C3 moves to face C4) |4|
+|C3| Rev to other C; Rev to ptnr; Each pair of Cs circle halfway to the L |½;½;1|
+||C2 back into 3rd place, C1 following as C4 backs into 1st place, C3 following |1|
+||Repeat this pattern until everyone returns to their places |3 (3x)|
+@@@@@
 %%%parsons_farewell
 Parson’s Farewell
-
 John Playford
 English Country
-(2 
-Couple
-s facing)
-| == In 4 == |
+||(2 Couples facing) | == In 4 == |
 |-----|----|-----|
-V1
-Double f
-w
-d
-; 4 slips L; 
-Double back
-; 4 slips R
-1;1;1;1|
-C1
-Lds rise; Lys rise; all rise 4x;
- 
-2 hand turn w/ corner; repeat Lys start
-½;½;1;2;4|
-V2
-Double fwd
-; out w/ corner & return;
- D
-ouble back to place w/ 
-ptnr
- 
-1;2;1|
-C2
-Lds meet, cross R hands then L, turn & switch places
-1
-Turn corner w/ 
-R hand; cross back & turn ptn
-r w/ L hand
-1;2|
-Repeat w/ 
-Lys
- starting & crossing L hands then R 
-3
-V3
-Take hands w/ ptn
-r do 4 slips into set; take corner & slip out;
-1;1|
-Slip back in w/
- corner & out to place w/ ptn
-r
-1;1|
-C3
-Turn ptn
-r by R han
-d; Half 
-Hey
- across formation
- 
-Lds pass L shoulders
-1
-curving into corner’s place as 
-Lys
- ½ turn R to 
-ptnr
-'s orig place, 
-Lys
- pass L
-& curve to other Ly’s orig place as Lds ½ turn R to other Lds orig place
-2
-Turn 
-ptn
-r 
-by R hand; then by L hand
-1;1|
-Complete the 
-Hey
- w/ 
-Lys
- starting (passing R to 
-ptnr
-’s orig place) 
-2
-Turn 
-ptn
-r 
-by L hand (
-Hey
- may be done as Grand 
-RL
- w/o hands)
-1
+|V1| Double fwd; 4 slips L; Double back; 4 slips R |1;1;1;1|
+|C1| Lds rise; Lys rise; all rise 4x; 2 hand turn w/ corner; repeat Lys start |½;½;1;2;4|
+|V2| Double fwd; out w/ corner & return; Double back to place w/ ptnr |1;2;1|
+|C2| Lds meet, cross R hands then L, turn & switch places |1|
+||Turn corner w/ R hand; cross back & turn ptnr w/ L hand |1;2|
+||Repeat w/ Lys starting & crossing L hands then R |3|
+|V3| Take hands w/ ptnr do 4 slips into set; take corner & slip out; |1;1|
+||Slip back in w/ corner & out to place w/ ptnr |1;1|
+|C3| Turn ptnr by R hand; Half Hey across formation Lds pass L shoulders |1|
+||curving into corner’s place as Lys ½ turn R to ptnr's orig place, Lys pass L||
+||& curve to other Ly’s orig place as Lds ½ turn R to other Lds orig place |2|
+||Turn ptnr by R hand; then by L hand |1;1|
+||Complete the Hey w/ Lys starting (passing R to ptnr’s orig place) |2|
+||Turn ptnr by L hand ( Hey may be done as Grand RL w/o hands) |1|
+@@@@@
 English Country
 Pennsic Dance
-(SCA Choreography)
-(4 
-Couple
-s in a square)
-| == In 4 == |
+James Blackcloak
+SCA Choreography
+||(4 Couples in a square) | == In 4 == |
 |-----|----|-----|
-V1
-Double 
-fwd
- & back; S
-et & turn; repeat
-2;2|
-;4
-C1
-Heads Double in & L hand star halfway; 
-Hey
- halfway along lines; turn next
-2;2;2|
-Repeat w/ Sides; Turn 
-ptnr
-6;2|
-V2
-Side R; Set & turn; Side L; Set & turn
-2;2;2;2|
-C2
-Heads cast away from 
-ptnr
-, through nearest corner position 
-to place, each corner following nearest head; 
-2
-Each Head couple & their corners take
- 4 hands halfway round
-1
-Heads back a Double as 
-Sides
- fwd to meet; circle halfway to opposite place
-1;2|
-Repeat; T
-urn 
-ptnr
-6;2|
-V3
-Arm R; Set & turn; Arm L;
- Set & turn
-2;2;2;2|
-C3
-Face Corner & Heads 
-Hey
- as 
-Sides
- Gypsy; 
-Sides
- 
-Hey
- as Heads Gypsy;
-2;2|
-Turn Corner.
- 
-Sides
- 
-Hey
- as Head Gypsy; Heads 
-Hey
- as 
-Sides
- Gypsy
-2;2;2|
-Turn Corner; Turn 
-ptnr
-2;2|
+|V1| Double fwd & back; Set & turn; repeat |2;2;4|
+|C1| Heads Double in & L hand star halfway; Hey halfway along lines; turn next |2;2;2|
+||Repeat w/ Sides; Turn ptnr |6;2|
+|V2| Side R; Set & turn; Side L; Set & turn |2;2;2;2|
+|C2| Heads cast away from ptnr, through nearest corner position ||
+||to place, each corner following nearest head; |2|
+||Each Head couple & their corners take 4 hands halfway round |1|
+||Heads back a Double as Sides fwd to meet; circle halfway to opposite place|1;2|
+||Repeat; Turn ptnr |6;2|
+|V3| Arm R; Set & turn; Arm L; Set & turn |2;2;2;2|
+|C3| Face Corner & Heads Hey as Sides Gypsy; Sides Hey as Heads Gypsy; |2;2|
+||Turn Corner. Sides Hey as Head Gypsy; Heads Hey as Sides Gypsy |2;2;2|
+||Turn Corner; Turn ptnr |2;2|
+@@@@@
+
 %%%picking_of_sticks
 Picking of Sticks
-
 John Playford
 English Country
-(3 
-Couple
-s in a line)
-| == In 4 == |
+||(3 Couples in a line) | == In 4 == |
 |-----|----|-----|
-V1
-Double f
-wd & back (2x)
-2;2|
-C1
-Top L switch back to back 
-w/
- 2nd R
-, then 3rd L; All fwd & back a D
-ouble
-2;2|
-Top R switch back to back 
-w/
- 2nd L, t
-hen 3rd R; All fwd & back a D
-ouble 
-2;2|
-Repeat above until back to place
-2;2(4x)
-V2
-Side 
-RL
-2;2|
-C2
-C1 slip 
-betw
- C2 
-as t
-Hey
- move up, then C2 slip 
-betw
- C1 (2x) as
-C3 cross & skip around set; Repeat w/ C2&3 slippi
-ng & C1 around set
-4;4|
-V3
-Arm 
-RL
-2;2|
-C3
-Sheepskin 
-Hey
- - Lds weave through 
-Lys
-; as last Ld passes 
-second Ly, he cuts around to take the lead; Each Ld cuts once, 
-& then pass behind the 
-Lys
- & back to place
-8
-Repeat above 
-w/
- 
-Lys
- weaving 
-betw
- Lds
-8
-Prince William’s 
-Hey
- 
-(Walsh 1731) 
-(3 
-Couple
-s in a line)
-| == In 4 == |
-|-----|----|-----|
-P1
-C1 cross over 
-Hey
- betw
- person 2 & 3 on the other side
-4
-C1 cross back 
-and 
-Hey
- as before
-4
-P2
-C1 take R hands & switch; Cast to C2 place as C2 slips to 1
-st
- place
-1;1|
-C1 turn 2 hands, 1½ times around; C2 take R hands
- & switch
-2;1|
-C2 cast 
-home
-, as C1 slip 
-up
- ; C2 turn 2 hands, 1½ times around
-1;2|
-P3
-Ld1 to Ly3, while Ly1 to Ld2; Those 4 arm R; C1 arm L 
-2;2|
-Ld1 to Ly2, while Ly1 to Ld3; Those 4 arm R; C1
- arm L
-2;2|
-P4
-C1 casts out betw
- Ly 2 & 3, (hold L hands, so Ly's arm is across her body)
-2
-C1 returns to the center from the top & bottom of the
- set, & arm R
-2
-C1 casts out betw
- Ld2 & 3, (hold R hands, so
- 
-Ld 's arm is across his body)
-2
-C1 turn two hands 1½ times, moving to the bottom of the set
-2
-Repeat the dance (
-w/
- the couple at the head of the set now being C1, etc.)
+|V1| Double fwd & back (2x) |2;2|
+|C1| Top L switch back to back w/ 2nd R, then 3rd L; All fwd & back a Double|2;2|
+||Top R switch back to back w/ 2nd L, then 3rd R; All fwd & back a Double |2;2|
+||Repeat above until back to place |2;2(4x)|
+|V2| Side RL |2;2|
+|C2| C1 slip betw C2 as they move up, then C2 slip betw C1 (2x) as ||
+||C3 cross & skip around set; Repeat w/ C2&3 slipping & C1 around set |4;4|
+|V3| Arm RL |2;2|
+|C3| Sheepskin Hey - Lds weave through Lys; as last Ld passes ||
+||second Ly, he cuts around to take the lead; Each Ld cuts once, ||
+||& then pass behind the Lys & back to place |8|
+||Repeat above w/ Lys weaving betw Lds |8|
+@@@@@
+%%%prince_williams_hey
+Prince William’s Hey 
+Walsh
 English Country
+||(3 Couples in a line) | == In 4 == |
+|-----|----|-----|
+|P1| C1 cross over Hey betw person 2 & 3 on the other side |4|
+||C1 cross back and Hey as before |4|
+|P2| C1 take R hands & switch; Cast to C2 place as C2 slips to 1st place |1;1|
+||C1 turn 2 hands, 1½ times around; C2 take R hands & switch |2;1|
+||C2 cast home, as C1 slip up; C2 turn 2 hands, 1½ times around |1;2|
+|P3| Ld1 to Ly3, while Ly1 to Ld2; Those 4 arm R; C1 arm L |2;2|
+||Ld1 to Ly2, while Ly1 to Ld3; Those 4 arm R; C1 arm L |2;2|
+|P4| C1 casts out betw Ly 2 & 3, (hold L hands, so Ly's arm is across her body) |2|
+||C1 returns to the center from the top & bottom of the set, & arm R |2|
+||C1 casts out betw Ld2 & 3, (hold R hands, so Ld 's arm is across his body) |2|
+||C1 turn two hands 1½ times, moving to the bottom of the set |2|
+||Repeat the dance ( w/ the couple at the head of the set now being C1, etc.)||
+@@@@@
+English Country
+%%%puzzle_box
 Puzzle Box (Revised)
- 
-(SCA choreography)
-(4 
-Couple
-s in a square)
-| == In 4 == |
+Anonymous 
+SCA choreography
+||(4 Couples in a square) | == In 4 == |
 |-----|----|-----|
-V1
-Heads 
-D
-ouble fwd
- & 
-2 hand
- switch 
-w/ opp
-2
- 
-Heads 
-Double
- back 
-as
- 
-Sides
- fwd to meet
- & switch
- 
-2
-C
-1
-Face across the short dimension of the set
-Lds honor Lys
-, then 
-Lys
- 
-Ld
-s; 
-Sides
- Double back & arch as H
-eads Dbl fwd 
-1;1 
-Heads lead opp through arch
-;
- Heads
- Cast
- 
-to place
- as 
-Sides
- switch
- 
-1;1|
-Fac
-e
- across short dimension of set
- 
-Lys honor Lds, then Lds honor Lys
-1
-Heads back a 
-D
-ouble & form arches while 
-Sides
- D
-ouble 
-fwd
-1
-Sides
- lead opp out through the arches, then cast back t
-o place; Heads 
-wait until 
-Sides
- have passed through, then use last 4 counts to trade place
-s
- 
-2
-V2
-Sides
- back a 
-D
-ouble 
-as
- H
-eads fwd to meet
-; Head hands around halfway
- 
-1
-;1
-Heads back
- a
- D
-ouble 
-as
- 
-Sides
- f
-wd to meet
-; 
-Sides
- hands around halfway
- 
-1
-;1
-C
-2
-Face across short dimension of set
- 
-Lds honor Lys, then Lys honor Lds
-1
-Sides
- 
-back a D
-ouble while H
-eads D
-ouble 
-fwd
-1
-Heads cast 
-away & 
-to place
-, 
-Sides
- each following nearest H
-ead
- 
-2
-Face across short dimension of set
- 
-Lys honor Lds, then Lds honor Lys
-1
-Heads 
-back a D
-ouble while 
-Sides
- D
-ouble 
-fwd
- 
-1
-Sides
- cast 
-away & to place, Heads following nearest S
-ide
-2 
-V
-3
-Take hands all around & circle 
-w/
- 8 slips to the L; 8 slips to the R 
-2;2|
-While circling expand the set from its “collapsed”
- 
-form back into a
- 
-square
-C
-3
-(Death Spiral) Lds honor the set; 
-Lys
- honor the set 
-½;½ 
-Lds D
-ouble 
-fwd
- to form a small square in the center 
-1
-Lds rotate the square CW & fall back to place 
-2
-Lys
- honor the set; Lds honor the set 
-½;½ 
-Lys
- do death sprial as Lds did
- 
-3
+|V1| Heads Double fwd & 2 hand switch w/ opp |2|
+|| Heads Double back as Sides fwd to meet & switch |2|
+|C1| *Face across the short dimension of the set* ||
+||Lds honor Lys, then Lys Lds; Sides Double back & arch as Heads Dbl fwd |1;1| 
+||Heads lead opp through arch; Heads Cast to place as Sides switch |1;1|
+||Face across short dimension of set Lys honor Lds, then Lds honor Lys |1|
+||Heads back a Double & form arches while Sides Double fwd |1|
+||Sides lead opp out through the arches, then cast back to place; Heads ||
+|| wait until Sides have passed through, then use last 4 counts to trade places |2|
+|V2| Sides back a Double as Heads fwd to meet; Head hands around halfway |1;1|
+|| Heads back a Double as Sides fwd to meet; Sides hands around halfway |1;1|
+|C2| Face across short dimension of set Lds honor Lys, then Lys honor Lds |1|
+||Sides back a Double while Heads Double fwd |1|
+||Heads cast away & to place, Sides each following nearest Head |2|
+||Face across short dimension of set Lys honor Lds, then Lds honor Lys |1|
+||Heads back a Double while Sides Double fwd |1|
+||Sides cast away & to place, Heads following nearest Side |2|
+|V3| Take hands all around & circle w/ 8 slips to the L; 8 slips to the R |2;2|
+||*While circling expand the set from its “collapsed” form back into a square*||
+|C3| (Death Spiral) Lds honor the set; Lys honor the set |½;½|
+||Lds Double fwd to form a small square in the center |1|
+||Lds rotate the square CW & fall back to place |2|
+||Lys honor the set; Lds honor the set |½;½| 
+||Lys do death sprial as Lds did |3|
+@@@@@
+%%%the_return_of_spring
 The Return of Spring
-(SCA Choregraphy)
-(3 
-Couple
-s in a line)
-| == In 4 == |
+Anonymous
+SCA Choregraphy
+||(3 Couples in a line) | == In 4 == |
 |-----|----|-----|
-V1
-Double fwd & back;
- S
-et & turn; repeat 
-2;2;4|
-Ch
-C1 R hands & switch; Ly1 & Ld2 switch w/ L hands as
-Ld1 & Ly2 switch; C1 turn as C2 switch 
-1;1;2|
-C1 take R hands & switch; Ly1 & Ly3 switch w/
-L hands while Ld1 & Ld3 switch, C1 turn as C3 switch
-1;1;2|
-V2
-Side R, Set & turn, Side L; Set & tu
-rn; repeat Chorus
-2;2;2;2;8|
-V
-3
-Arm R, Set & turn, Arm
- L; Set & turn; repeat Chorus
-2;2;2;2|
-;8
+|V1| Double fwd & back; Set & turn; repeat |2;2;4|
+|Ch| C1 R hands & switch; Ly1 & Ld2 switch w/ L hands as||
+||Ld1 & Ly2 switch; C1 turn as C2 switch |1;1;2|
+||C1 take R hands & switch; Ly1 & Ly3 switch w/||
+||L hands while Ld1 & Ld3 switch, C1 turn as C3 switch|1;1;2|
+|V2| Side R, Set & turn, Side L; Set & turn; repeat Chorus |2;2;2;2;8|
+|V3| Arm R, Set & turn, Arm L; Set & turn; repeat Chorus |2;2;2;2;8|
+@@@@@
 English Country
+
 %%%rufty_tufty
 Rufty Tufty
-
 John Playford
 English Country
-(2 
-Couple
-s facing)
-| == In 4 == |
+||(2 Couples facing) | == In 4 == |
 |-----|----|-----|
-V1
-Double f
-wd & back (2x)
-4
-Ch
-(facing 
-ptnr
-) Set & turn (2x)
-4
-Lead 
-ptnr
- out a Double & back; 
-Turn single
-2;1|
-Lead corner out a Double & back; 
-Turn single
-2;1|
-V2
-Side 
-RL
-; repeat Chorus
-4;10
-V3
-Arm 
-RL
-; repeat Chorus
-4;10
+|V1| Double fwd & back (2x) |4|
+|Ch| (facing ptnr) Set & turn (2x) |4|
+||Lead ptnr out a Double & back; Turn single |2;1|
+||Lead corner out a Double & back; Turn single |2;1|
+|V2| Side RL; repeat Chorus |4;10|
+|V3| Arm RL; repeat Chorus |4;10|
+@@@@@
+%%%st_joan
 St. Joan
-(SCA Choreography (late 17
-th
- C style))
-(4 
-Couple
-s in a Square)
-| == In 4 == |
+Anonymous
+SCA Choreography 
+||(4 Couples in a Square) | == In 4 == |
 |-----|----|-----|
-P1
-Heads 
-Double 
-in; take corner betw
- side C; cast to place
-1;1;2|
-Heads lead the 
-Grand 
-square; reverse it home
-4;4|
-Sides
- 
-Double 
-in; take corner betw
- side C; cast to place
-1;1;2|
-Sides
- lead the 
-Grand 
-square; reverse it home
-4;4|
-P2
-Lys S
-et to the middle; R hand star; fall back to place
-1;2;1|
-Heads lead the 
-Grand 
-square; reverse it home
-4;4|
-Lds S
-et to the middle; R hand star; fall back to place
-1;2;1|
-Sides
- lead the 
-Grand 
-square; reverse it home
-4;4|
-P3
-Heads split & pass betw
- near side C to opposite place;
-2
-Meet corner in middle, ½ R hand turn back to place
-2
-Heads lead the 
-Grand 
-square; reverse it home
-4;4|
-Sides
- the same; 
-Sides
- lead 
-Grand 
-square; reverse it
-4;4;4|
-P4
-Half a grand right & left; Heads lead the 
-Grand 
-square; reverse it
-4;4;4|
-Repeat, 
-w/
- 
-Sides
- leading the 
-Grand 
-square
-12
-Note
-Grand Square
-:
- Heads D
-ouble in as 
-Sides
- 
-Double 
-back away from 
-ptnr
-; 
-Heads 
-Double 
-away from ptn
-r (w/corner), as 
-Sides
- 
-Double 
-to meet corner;
- 
-Heads 
-Double 
-away from corner as 
-Sides
- 
-Double 
-in w/ corner;
-Heads 
-Double 
-to meet 
-ptnr
- a
-s 
-Sides
- fall out to place w/ ptn
-r
+|P1| Heads Double in; take corner betw side C; cast to place |1;1;2|
+||Heads lead the Grand square; reverse it home |4;4|
+||Sides Double in; take corner betw side C; cast to place |1;1;2|
+||Sides lead the Grand square; reverse it home |4;4|
+|P2| Lys Set to the middle; R hand star; fall back to place |1;2;1|
+||Heads lead the Grand square; reverse it home |4;4|
+||Lds Set to the middle; R hand star; fall back to place |1;2;1|
+||Sides lead the Grand square; reverse it home |4;4|
+|P3| Heads split & pass betw near side C to opposite place; |2|
+||Meet corner in middle, ½ R hand turn back to place |2|
+||Heads lead the Grand square; reverse it home |4;4|
+||Sides the same; Sides lead Grand square; reverse it |4;4;4|
+|P4| Half a grand right & left; Heads lead the Grand square; reverse it |4;4;4|
+||Repeat, w/ Sides leading the Grand square |12|
+||Note Grand Square: Heads Double in as Sides Double back away from ptnr;||
+||Heads Double away from ptnr (w/corner), as Sides Double to meet corner;|| 
+||Heads Double away from corner as Sides Double in w/ corner;||
+||Heads Double to meet ptnr as Sides fall out to place w/ ptnr||
+@@@@@
 %%%scotch_cap
 Scotch Cap
-
 John Playford
 English Country
-(3 
-Couple
-s in a line)
-| == In 4 == |
+||(3 Couples in a line) | == In 4 == |
 |-----|----|-----|
-V1
-Double fwd & back (2x)
-2(2x)
-C1
-Top 2 Lys 
-& 
-Last 2 
-Lds
- 
-back up; t
-Hey
- s
-witch; other 2 switch
-1;1;2|
-Repeat 5 more times 
-20
-V2
-Side 
-RL
-2;2|
-C2
-Gender lines
- Double back & fwd; Arm R (
-Lys
- 1&3, C 2, Lds 1&3)
-2;2|
-Ends (Ly2 w/ C3, Ld2 w/ C1) Double back & fwd; Arm L (w/ 
-ptnr
-)
-2;2|
-V3
-Arm 
-RL
-2;2|
-C3
-Lds slip up hall as 
-Lys
- slip down; Give 
-RL
- hands bac
-k to place
-2;2|
-Lys slip up hall
- as
- 
-Lds slip down; Give 
-LR
- hands back to place
-2;2|
+|V1| Double fwd & back (2x) |2(2x)|
+|C1| Top 2 Lys & Last 2 Lds back up; they switch; other 2 switch |1;1;2|
+||Repeat 5 more times |20|
+|V2| Side RL |2;2|
+|C2| Gender lines Double back & fwd; Arm R (Lys 1&3, C 2, Lds 1&3) |2;2|
+||Ends (Ly2 w/ C3, Ld2 w/ C1) Double back & fwd; Arm L (w/ ptnr) |2;2|
+|V3| Arm RL |2;2|
+|C3| Lds slip up hall as Lys slip down; Give RL hands back to place |2;2|
+||Lys slip up hall as Lds slip down; Give LR hands back to place |2;2|
+@@@@@
 English Country
 %%%saint_martins
 Saint Martins
-Playford 1651)
 John Playford
 English Country
-(2 
-Couple
-s, facing)
-| == In 4 == |
+||(2 Couples, facing) | == In 4 == |
 |-----|----|-----|
-V1
-Double fwd to meet Corner; 
-ptnr
-s Slip
- out & in 2 steps 
-1;1|
-Turn single
- out of set
- (Lds L, Lys R); 
-Turn single
- into set
-1;1|
-Double fwd to meet Corner & pass through; Switch w/ 
-Ptnr
-; 
-Turn single
-2;1;1|
-C1
-Lds fall back a Double as Lys 
-Turn single
-, Lds switch by L hand
-1;1|
-Corners take R hand & turn 1 1/2 times
-2
-Lys fall back a Double as Lds 
-Turn single
-; Lys switch by R hand
-1;1|
-Ptnr
-s take L hands & turn 1 1/2 times (to orig place)
-2
-V2
-Double fwd to meet Corner & pass through; Set & turn; Repeat
-2;2;4|
-C
-2
-Lds meet
-; Lys same; Circle L halfway slipping; 
-Turn single
-1;1;1;1|
-Lys meet; Lds same; Circle L halfway (to place); 
-Turn single
-1;1;1;1|
-V3
-Double Fwd to meet Corner; 2 Slip steps out, then in w/ Corner
-1;1|
-Lds cast over L shoulder, through 
-Ptnr
-'s place to pl
-ace, as Ptn
-rs follow
-2
-Double back; Switch
- w/ 
-ptnr
-, Ly in front
-1;1|
-Lds Gypsy & fall back to place, Lys doing same as Lds cross in middle
-2
-C3
-Lds Honor; Lys same; Star R once around
-1;1;2|
-Lys Honor; Lds same; Star L & fall into line to honor presence
-1;1;2|
+|V1| Double fwd to meet Corner; ptnrs Slip out & in 2 steps |1;1|
+||Turn single out of set (Lds L, Lys R); Turn single into set |1;1|
+||Double fwd to meet Corner & pass through; Switch w/ Ptnr; Turn single |2;1;1|
+|C1| Lds fall back a Double as Lys Turn single, Lds switch by L hand |1;1|
+||Corners take R hand & turn 1 1/2 times |2|
+|| Lys fall back a Double as Lds Turn single; Lys switch by R hand |1;1|
+||Ptnrs take L hands & turn 1 1/2 times (to orig place) |2|
+|V2| Double fwd to meet Corner & pass through; Set & turn; Repeat |2;2;4|
+|C2 Lds meet; Lys same; Circle L halfway slipping; Turn single |1;1;1;1|
+||Lys meet; Lds same; Circle L halfway (to place); Turn single |1;1;1;1|
+|V3| Double Fwd to meet Corner; 2 Slip steps out, then in w/ Corner |1;1|
+||Lds cast over L shoulder, through Ptnr's place to place, as Ptnrs follow |2|
+||Double back; Switch w/ ptnr, Ly in front |1;1|
+||Lds Gypsy & fall back to place, Lys doing same as Lds cross in middle |2|
+|C3| Lds Honor; Lys same; Star R once around |1;1;2|
+||Lys Honor; Lds same; Star L & fall into line to honor presence |1;1;2|
+@@@@@
 %%%sellingers_round
 Sellinger’s Round
-(Playford 1670)
 John Playford
 English Country
 ||(Couples in a circle) | == In 4 == |
 |-----|----|-----|
-V1
-Slip
- L; 
-S
-lip
- R
-2;2|
-Ch
-Lys Double fwd & clap; return to place
-; Set & turn (Facing 
-ptnr
-)
-1;1|
-;2
-Lds Double fwd & clap; return; S
-et & turn
-1;1;2|
-V2
-Take hands, Double
- 
-in (whooping) & out (2x)
-; repeat Chorus
-2(2x)
-;8
-V3
-Side 
-RL
-; repeat Chorus
-4;8|
-V4
-Arm 
-RL
-; repeat Chorus
-4;8|
+|V1| Slip L; Slip R |2;2|
+|Ch| Lys Double fwd & clap; return to place; Set & turn (Facing ptnr) |1;1;2|
+||Lds Double fwd & clap; return; Set & turn |1;1;2|
+|V2| Take hands, Double in (whooping) & out (2x); repeat Chorus |2(2x);8|
+|V3| Side RL; repeat Chorus |4;8|
+|V4| Arm RL; repeat Chorus |4;8|
+@@@@@
+
 %%%shepheards_holiday
 Shepheard's Holiday /Labour in Vaine
- 
-(Playford, 1651) 
 John Playford
 English Country
-(3 
-Couple
-s in a line)
-| == In 4 == |
+||(3 Couples in a line) | == In 4 == |
 |-----|----|-----|
-V1
-Double f
-wd & 
-b
-ack; Switch w/ 
-Ptnr
-; 
-Double d
-own & back; Switch
-2;1;2;1|
-C1
-C1 slip down in front of C2; C3 slip up behind C2 to create line
-1;1|
-Ld1 & Ly1 each cast to L, leading gender lines to or
-i
-g places
-2
-Repeat Chorus w/ C3 leading the slipping
-4
-V2
-Side R; Switch w/
- 
-Ptnr; Sidle L; Switch w/ Ptnr
-2;1;2;1|
-C2
-Gender lines back a Double
-1
-Lds meet & make circle as Lys same; All circle L
-1;2|
-Gender lines back a Double
-2
-Lines meet in circles facing out; All circle L
-1;2|
-V3
-Arm R; Switch w/ 
-Ptnr
-;
- 
-Arm L; Switch w/ 
-Ptnr
-2;1;2;1|
-C3
-Ld1 & Ly2 switch; Ly1 & Ld2 switch; C3 switch
-1;1;2|
-Ld1 & Ly3 switch; Ly1 & Ld3 switch; C
-2
- switch
-1;1;2|
+|V1| Double fwd & back; Switch w/ Ptnr; Double down & back; Switch |2;1;2;1|
+|C1| C1 slip down in front of C2; C3 slip up behind C2 to create line |1;1|
+||Ld1 & Ly1 each cast to L, leading gender lines to orig places |2|
+||Repeat Chorus w/ C3 leading the slipping |4|
+|V2| Side R; Switch w/ Ptnr; Sidle L; Switch w/ Ptnr |2;1;2;1|
+|C2| Gender lines back a Double |1|
+||Lds meet & make circle as Lys same; All circle L |1;2|
+||Gender lines back a Double |2|
+||Lines meet in circles facing out; All circle L |1;2|
+|V3|
+||Arm R; Switch w/ Ptnr; Arm L; Switch w/ Ptnr |2;1;2;1|
+|C3| Ld1 & Ly2 switch; Ly1 & Ld2 switch; C3 switch |1;1;2|
+||Ld1 & Ly3 switch; Ly1 & Ld3 switch; C2 switch |1;1;2|
+
 English Country
 %%%spanish_jeepsie
 Spanish Jeepsie
-(Playford, 1651)
 John Playford
 English Country
-(4 
-Couple
-s in a line)
-| ==In 4== |
+||(4 Couples in a line) | ==In 4== |
 |-----|----|-----|
-V1
-Double fwd & back (2x)
-2(2x)
-Turn your back to 
-ptnr
-; turn to face 
-ptnr
-; Half gypsy switch & back w/
- 
-ptnr
-1;1;2|
-C
-1
-End 
-Couple
-s Fwd & Back a Double (down the middle of the set)
-2
-Turn your back to opp; turn to face opp; Full gypsy R, then L 
-w/ 
-opp
-1;1;4|
-Repeat C
-h w/ middle two couples
-8
-V2
-Side 
-RL
-4
-Turn your back to 
-ptnr
-; turn to face 
-ptnr
-; Half gypsy switch & back w/
- 
-ptnr
-1;1;2|
-C
-2
-Same as C
-1, e
-xcept replace full gypsies w/
- 
-join hands for 4 & cir
-c
-le 
-LR
-16
-V3
-Arm 
-RL
-4
-your back to 
-ptnr
-; turn to face 
-ptnr
-; Half gypsy switch & back w/
-ptnr
-1;1;2|
-C3
-Same as C
-1, except replace full gypsies 
-w/ 
-R hand star then L hand star
-16
+|V1| Double fwd & back (2x) |2(2x)|
+||Turn your back to ptnr; turn to face ptnr; Half gypsy switch & back w/ ptnr |1;1;2|
+|C1| End Couples Fwd & Back a Double (down the middle of the set) |2|
+||Turn your back to opp; turn to face opp; Full gypsy R, then L w/ opp |1;1;4|
+||Repeat C h w/ middle two couples |8|
+|V2| Side RL |4|
+||Turn your back to ptnr; turn to face ptnr; Half gypsy switch & back w/ ptnr |1;1;2|
+|C2| Same as C1, except replace full gypsies w/ join hands for 4 & circle LR |16|
+|V3| Arm RL |4|
+||your back to ptnr; turn to face ptnr; Half gypsy switch & back w/ ptnr |1;1;2|
+|C3| Same as C1, except replace full gypsies w/ R hand star then L hand star |16|
+@@@@@
 %%%stingo
-St
-ingo
-(Playford, 1651)
+Stingo
 John Playford
 English Country
-(3 
-Couple
-s in a line, facing)
-| ==In 4== |
+||(3 Couples in a line, facing) | ==In 4== |
 |-----|----|-----|
-V1
-Double back & fwd from ptnr; 
-Double fwd & back
- w/ ptnr
-2;2|
-C
-1
-Lds R hand star; All Set & turn; Lys L star; All S
-et & turn
-2;2;2;2|
-V2
-Side 
-RL
-4
-C
-2
-Double to L & turn; Double R & face; Set & turn
-1;1;2|
-Double to R & turn; Double L & face; Set & turn
-1;1;2|
-V3
-Arm
- 
-RL
-4
-C
-3
-C1 D
-ouble to cross & 
-face C2; C1 Set
- 
-to C2 (Ld1 to Ly2) & Set
- 
-to C3
-1;1|
-C1 go back to place passing 
-betw
- C3 & C2
- 
-& crossing at top of set
-2
-C1 cast & return to place in 1 Double; C1 two hand turn in 1 Double
-1;1|
-C1 cast off and end at bottom of line, creating new C1
-2
-Sweet Nothings
- (Not your gaffer’s Gracca)
-(SCA Choreography)
-(2 Couples facing)
-| ==In 4== |
+|V1| Double back & fwd from ptnr; Double fwd & back w/ ptnr |2;2|
+|C1| Lds R hand star; All Set & turn; Lys L star; All Set & turn |2;2;2;2|
+|V2| Side RL |4|
+|C2| Double to L & turn; Double R & face; Set & turn |1;1;2|
+||Double to R & turn; Double L & face; Set & turn |1;1;2|
+|V3| Arm RL |4|
+|C3| C1 Double to cross & face C2; C1 Set to C2 (Ld1 to Ly2) & Set to C3 |1;1|
+||C1 go back to place passing betw C3 & C2 & crossing at top of set |2|
+||C1 cast & return to place in 1 Double; C1 two hand turn in 1 Double |1;1|
+||C1 cast off and end at bottom of line, creating new C1 |2|
+@@@@@
+%%%sweet_nothings
+Sweet Nothings (Not your gaffer’s Gracca)
+Sion Andreas o Wynedd
+SCA Choreography
+||(2 Couples facing) | ==In 4== |
 |-----|----|-----|
-V1
-Double fwd & back (2x); Set and turn
-2(2x); 2
-Ch
-P
-tnr
-s
- 
-back 
-& 
-fwd
- a Double; Corner
-s
- the same
-2;2|
-V2
-Hands 4 & Circle L, then R; Set & turn; Repeat Chorus
-4;2;4|
-V3
-Lds Side 
-LR
-; Set & turn; Repeat Chorus
-4;2;4|
-V4
-Lys Side 
-LR
-; Set & turn; Repeat Chorus
-4;2;4|
-V5
-Arm w/ 
-ptnr
- 
-RL
-; Set & turn; Repeat Chorus
-4;2;4|
+|V1| Double fwd & back (2x); Set and turn |2(2x);2|
+|Ch| Ptnrs back & fwd a Double; Corners the same |2;2|
+|V2| Hands 4 & Circle L, then R; Set & turn; Repeat Chorus |4;2;4|
+|V3| Lds Side LR; Set & turn; Repeat Chorus |4;2;4|
+|V4| Lys Side LR; Set & turn; Repeat Chorus |4;2;4|
+|V5| Arm w/ ptnr RL; Set & turn; Repeat Chorus |4;2;4|
+@@@@@
+
 %%%upon_a_summers_day
 Upon a Summer’s Day
-
 John Playford
 English Country
-(3 
-Couple
-s in a line)
-| == In 4 == |
+||(3 Couples in a line) | == In 4 == |
 |-----|----|-----|
-V1
-Double f
-wd & back; S
-et & turn (2x)
-2;2 (2x)
-Ch
-Lds hands,
- 
-& 
-Lys
- ha
-nds - D
-ouble 
-fwd & back
-;
- 2
-C1 split & under arch on own side to C3 position; repeat 2x
-2;8|
-V2
-Side R; Set & turn; Side L; S
-et & turn;
- repeat
- Chorus
-2;2;2;2;12
-V3
-Arm R; 
-Set & turn; Arm L; S
-et & turn
-; repeat Chorus
-2;2;2;2;12
+|V1| Double fwd & back; Set & turn (2x) |2;2 (2x)|
+|Ch| Lds hands, & Lys hands - Double fwd & back; |2|
+||C1 split & under arch on own side to C3 position; repeat 2x |2;8|
+|V2| Side R; Set & turn; Side L; Set & turn; repeat Chorus |2;2;2;2;12|
+|V3| Arm R; Set & turn; Arm L; Set & turn; repeat Chorus |2;2;2;2;12|
+@@@@@
+
 English Country
+%%%two_fat_ladies
 Two Fat Ladies
-(SCA Choreography , 18
-th
- C style)
-(4 Couples in a line)
-| == In 4 == |
+Sion Andreas o Wynedd
+SCA Choreography
+||(4 Couples in a line) | == In 4 == |
 |-----|----|-----|
-P1
-Ends pull past 
-ptnr
- by R hand & face center, as Centers ½ R hand star
-1
-& turn to face nearest End couple dancer; pull past that person by R hand
-1
-That again (switching End & Center roles) 3x
-2(3x)
-P2
-Lines D
-ou
-ble to meet; Centers fall back D
-ouble as Ends bend in the line
-1;1|
-Lds Star R & Lys Star L, crossing over as t
-Hey
- go down the middle & leading
-out of the star on the other side to form longways set; honor your own
-2;1|
-Lds Star L & Lys Star R, again crossing over & forming longways set
-2
-Progress
-:
- 
-Couple 1 takes
- hands 
-and leads
- 
-down the middle to take 
-C4 
-position 
-as 
-other couples move up one place.
-1
+|P1| Ends pull past ptnr by R hand & face center, as Centers ½ R hand star |1|
+||& turn to face nearest End couple dancer; pull past that person by R hand |1|
+||That again (switching End & Center roles) 3x |2(3x)|
+|P2| Lines Double to meet; Centers fall back Double as Ends bend in the line |1;1|
+||Lds Star R & Lys Star L, crossing over as they go down the middle & leading||
+||out of the star on the other side to form longways set; honor your own |2;1|
+||Lds Star L & Lys Star R, again crossing over & forming longways set |2|
+||Progress: Couple 1 takes hands and leads down the middle to take C4 ||
+||position as other couples move up one place. |1|
+@@@@@
+%%%violets_fancie
 Violets Fancie
- 
-(SCA Choreography)
-(3 
-Couple
-s in a line)
-| == In 4 == |
+James Blackcloak 
+SCA Choreography
+||(3 Couples in a line) | == In 4 == |
 |-----|----|-----|
-V1
-Double fwd & back; Slow Set; repeat
-2;2;4|
-C1
-Ld1 & Ly 3 Cast off L (others following0; Furll turn ptnr
-2;2|
-C2 as much; Ld3 & Ly1 as much
-4;4|
-V2
-Side R; Slow Set; Side L Slow Set
-2;2;2;2|
-C2
-C1 lead full Crossover Hey and 1 extra pass; Reverse back to place 
-4;4|
-V3 
-Arm R; Slow Set; Arm L; Slow Set 
-2;2;2;2|
-C3 
-Ld1 change places with Ly2; Ld2; Ly3; Honor. 
-1;1;1;1|
-Ly2 as much, etc. (4x)
-4(4x)
+|V1| Double fwd & back; Slow Set; repeat |2;2;4|
+|C1| Ld1 & Ly 3 Cast off L (others following0; Furll turn ptnr |2;2|
+||C2 as much; Ld3 & Ly1 as much |4;4|
+|V2| Side R; Slow Set; Side L Slow Set |2;2;2;2|
+|C2| C1 lead full Crossover Hey and 1 extra pass; Reverse back to place |4;4|
+|V3| Arm R; Slow Set; Arm L; Slow Set |2;2;2;2|
+|C3| Ld1 change places with Ly2; Ld2; Ly3; Honor.  |1;1;1;1|
+||Ly2 as much, etc. (4x) |4(4x)|
+@@@@@
+
 %%%whirlygig
 Whirlygig
-
 John Playford
 English Country
-(3 
-Couple
-s in a line)
-| ==In 4== |
+||(3 Couples in a line) | ==In 4== |
 |-----|----|-----|
-V1
-Double f
-wd & back (2x)
-2(2x)
-C
-1A
-Mushrooms – C2 pass up betw
- C1 & cast to place; C2 cross
-over & go around C1 to place
-; Face down & do same betw
- C
-3
-2;2;4|
-C
-h
-B
-C1 cast to bottom & make arch; C2 & C3 follow & go through to new place
-(Order of set is C2, C3, C1); Repeat entire chorus (2x)
-2;2;12;12
-V2
-Side 
-RL
-2;2|
-C2A
-Triangle-
-Hey
-s - Ld2 pass through C1 passing Ly1
- 
-by R shoulders & 
-Hey
- for 3 w/ C1 as Ly1 does the same w/ C3
-4
-Same w/ 
-Ld2
- through C3
- 
-by L shoulders & 
-Ly2 w/
- 
-C1; Chorus B
-4;4|
-Repeat 
-entire 
-chorus (2x) until all are back to original place
-12;12
-V3
-Arm 
-RL
-2;2|
-C
-3A
-½ Cast to Star – C1 & C2 ½ cast down & to place; R hand 
-Star
-2;2|
-Repeat w/ C2 & C3 casting up in L hand star 
-4
-Repeat 
-Chorus B
-; Repeat entire chorus 2x
-4
-;12;12
-English Country
+|V1| Double fwd & back (2x) |2(2x)|
+|C1A| Mushrooms – C2 pass up betw C1 & cast to place; C2 cross||
+||over & go around C1 to place; Face down & do same betw C3 |2;2;4|
+||ChB|C1 cast to bottom & make arch; C2 & C3 follow & go through to new place||
+||(Order of set is C2, C3, C1); Repeat entire chorus (2x) |2;2;12;12|
+|V2| Side RL |2;2|
+|C2A| Triangle- Heys - Ld2 pass through C1 passing Ly1 by R shoulders & ||
+||Hey for 3 w/ C1 as Ly1 does the same w/ C3 |4|
+||Same w/ Ld2 through C3 by L shoulders & Ly2 w/ C1; Chorus B |4;4|
+||Repeat entire chorus (2x) until all are back to original place |12;12|
+|V3| Arm RL |2;2|
+|C3A| ½ Cast to Star – C1 & C2 ½ cast down & to place; R hand Star |2;2|
+||Repeat w/ C2 & C3 casting up in L hand star |4|
+||Repeat Chorus B; Repeat entire chorus 2x |4;12;12|
+@@@@@
+
+ English Country
 %%%woodicock
 Woodicock
-
 John Playford
 English Country
-(3 
-Couple
-s in a line)
-| ==In 4== |
+||(3 Couples in a line) | ==In 4== |
 |-----|----|-----|
-V1
-Double f
-wd & back (2x); Set & turn (2x)
-2(2x); 2(2x)
-C1
-Coup
-le 2 lead up betw
- C1, C
-ast off, return to place
-2
-Couple 2 lead down betw
- C3, C
-ast off, return to place
-2
-Set & turn (2x)
-2(2x)
-V2
-Side 
-RL
-; Set & turn (2x)
-4;2|
-(2x)
-C2
-Ld2
- 
-cross over 
-& circle Ly1 to place as Ly 2 c
-ross & circle Ld 1 to place 
-2
-Ld2 cross and circle Ly3 to place as Ly2 circle Ld3; Set & turn (2x)
-2;2(2x)
-V3
-Arm 
-RL
-; Set & turn(2x)
-4
-;2(2x)
-C3
-Lds 
-Hey
-; Set & turn (2x); Lys Hay; Set & turn (2x)
-2; 2(2x);2;2(2x)
-Double 
-Hey
-; Set & turn (2x)
-2; 2(2x)
+|V1| Double fwd & back (2x); Set & turn (2x) |2(2x);2(2x)|
+|C1| Couple 2 lead up betw C1, Cast off, return to place |2|
+||Couple 2 lead down betw C3, Cast off, return to place |2|
+||Set & turn (2x) |2(2x)|
+|V2| Side RL; Set & turn (2x) |4;2(2x)|
+|C2| Ld2 cross over & circle Ly1 to place as Ly 2 cross & circle Ld 1 to place|2|
+||Ld2 cross and circle Ly3 to place as Ly2 circle Ld3; Set & turn (2x) |2;2(2x)|
+|V3| Arm RL; Set & turn(2x) |4;2(2x)|
+|C3| Lds Hey; Set & turn (2x); Lys Hay; Set & turn (2x) |2;2(2x);2;2(2x)|
+||Double Hey; Set & turn (2x) |2;2(2x)|
+@@@@@
 Progression Dances
 Female Sailor
 (Recueil de Contradances 1706)
