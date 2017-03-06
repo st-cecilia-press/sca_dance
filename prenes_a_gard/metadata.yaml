@@ -1,0 +1,8 @@
+---
+title: Prenes a Gard
+person: "|(set of 3 people abreast) | == in 6 == |"
+category: "|-----|----|-----|"
+instructions:
+- filename: terp.md
+  person: ''
+  instruction_type: reconstruction
