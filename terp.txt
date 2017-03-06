@@ -5,6 +5,7 @@ Belle Qui (Carolingian) Pavanne
 Belle Qui (Carolingian) Pavanne
 Anonymous
 SCA Choreography
+Progression Dance
 |(Couples in a line)| == In 4 ==|
 |----|-----|
 |L pavanne set fwd; R pavanne set fwd; L set fwd; R set back| 2;2;2;2|
@@ -17,6 +18,7 @@ SCA Choreography
 Earl of Salisbury Pavanne
 Mabel Dolmetch
 SCA Choreography
+Progression Dance
 ||(Couples in a line)| == In 4 ==|
 |-----|----|-----|
 |P1| L pavanne set fwd |2| 
@@ -33,6 +35,7 @@ SCA Choreography
 Golden Pavanne
 Anonymous
 (SCA Choreography)
+Progression Dance
 |(Couples in a line) | == In 4 == |
 |----|-----|
 |2 Singles & 2 Doubles fwd; Bransle LR, end facing ptnr | 3;1|
@@ -45,6 +48,7 @@ Anonymous
 Le Loup Courant Pavanne
 Anonymous
 (SCA Choreography)
+Progression Dance
 ||(Couples in a line) | == In 4 == 
 |V1| Rev; L pavanne set | 2;2|
 ||Lds P set away from ptnr; Lys P set to ptnr, all face down |2;2|
@@ -3479,791 +3483,369 @@ English Country
 ||Double Hey; Set & turn (2x) |2;2(2x)|
 @@@@@
 Progression Dances
+%%%female_sailor
 Female Sailor
-(Recueil de Contradances 1706)
-||(Couples in a line) | ==In 4== |
-|-----|----|-----|
-(A) Up through line, around outside, & back to place
-2
-(A) Down through line, around outside, & back to place
-2
-(A) Cross over & down through line, around outside into ptnr’s place; 2 hand turn
-2;2|
-(A 
-w/
- I) (A face down set, I up) Back to back; Two hand turn
-2;2|
-All 
-w/
- 
-ptnr
- Back to back
-2
-(A) 1/2 two hand turn, cast off & move down the set as
-(I) full two hand turn, moving up the set
-2
+Anonymous
+Progression Dances
+|(Couples in a line) | ==In 4== |
+|----|-----|
+|(A) Up through line, around outside, & back to place |2|
+|(A) Down through line, around outside, & back to place |2|
+|(A) Cross over & down through line, around outside into ptnr’s place; 2 hand turn |2;2|
+|(A w/ I) (A face down set, I up) Back to back; Two hand turn |2;2|
+|All w/ ptnr Back to back |2|
+(A) 1/2 two hand turn, cast off & move down the set as ||
+(I) full two hand turn, moving up the set |2|
+@@@@@
 %%%the_fryar_and_the_nun
 The Fryar and the Nun
-(
-Playford 
 John Playford
-1651)
+Progression Dance
 ||(Couples in a line) | == In 4 == |
 |-----|----|-----|
-Intro
-Lds Double fwd & 
-Turn single
-, face down
- 
-hall
- 
-Lys same
-2;2|
-Lys Double down hall & 
-Turn single
-, face ptnr; Lds same
-2;2|
-V1
-Lds
- 
-1&2 back a Double & 
-Turn single
-; Lys1&2 same
-2;2|
-Gran
-d 
-RL
- start w/ ptnr (2 Doubles);then corner (1 Double)
-;then ptnr
-2;1;1|
-Repeat pattern until all are back to original places
-8(Nx)
-V2
-Lds
- 
-1&2 take hands & trade places; Lys1&2 the same
-1;1|
-Keeping hands, slip to center; 
-Turn single
- 
-1;1|
-Hands around to circle halfway; all 
-Turn single
-1;1|
-R hand Star halfway around; 
-Turn single
-1;1|
-Repeat pattern until all are back to original places
-8 (Nx)
+|Intro| Lds Double fwd & Turn single, face down hall Lys same |2;2|
+||Lys Double down hall & Turn single, face ptnr; Lds same |2;2|
+|V1| Lds 1&2 back a Double & Turn single; Lys1&2 same |2;2|
+||Grand RL start w/ ptnr (2 Doubles);then corner (1 Double); then ptnr |2;1;1|
+||Repeat pattern until all are back to original places 8(Nx)||
+|V2| Lds 1&2 take hands & trade places; Lys1&2 the same |1;1|
+||Keeping hands, slip to center; Turn single |1;1|
+||Hands around to circle halfway; all Turn single |1;1|
+||R hand Star halfway around; Turn single |1;1|
+||Repeat pattern until all are back to original places |8 (Nx)|
+@@@@@
+
+%%%half_hannigan
 Half Hannigan
-(Playford 1651)
 John Playford
-||(Circle of Couples) | == In 4 == |
-|-----|----|-----|
-Double f
-wd & back (2x); 
-Ptnr
-s side R & L
-2 (2x); 4
-Ptnr
-s arm R once around; arm L 1 ½ times to pass on to new 
-ptnr
-2;2|
+Progression Dance
+|(Circle of Couples) | == In 4 == |
+|----|-----|
+|Double fwd & back (2x); Ptnrs side R & L |2 (2x); 4|
+|Ptnrs arm R once around; arm L 1 ½ times to pass on to new ptnr |2;2|
+@@@@@
 Progression Dances
+
+%%%a_health_to_betty
 A Health to Betty
-(Playford 1651)
 John Playford
-(
-Couple
-s in a line)
-| == In 4 == |
+Progression Dance
+||( Couples in a line) | == In 4 == |
 |-----|----|-----|
-V1
-Double f
-wd & back, Set & turn (2x)
-4(2x)
-C1
-C1 side R; C1 turn 1½ times to switch; C1 face down & same w/C2
-2;2;4|
-Continue pattern w/ all couples until all return to place 
-8 (Nx)
-V2
- Side R, Set & turn, Side L; Set & turn
-2;2;2;2|
-C2
-C1 face & fwd & back a Double; C1 cast down 1 place as C2 move up
-2;1|
-C1 full turn; continue pattern w/ all couples until all to place
-1;4 (Nx)
-V3
-Arm R, Set & turn, Arm L; Set & turn 
-2;2;2;2|
-C3
-C1 fall back a Double & meet; C1 slip into C2's place (C2 up) & 
-Turn single
-2;2|
- Continue pattern w/all couples until all to place
-4 (Nx)
+|V1| Double fwd & back, Set & turn (2x) |4(2x)|
+|C1| C1 side R; C1 turn 1½ times to switch; C1 face down & same w/C2 |2;2;4|
+||Continue pattern w/ all couples until all return to place 8 (Nx) ||
+|V2| Side R, Set & turn, Side L; Set & turn |2;2;2;2|
+|C2| C1 face & fwd & back a Double; C1 cast down 1 place as C2 move up |2;1|
+||C1 full turn; continue pattern w/ all couples until all to place |1;4 (Nx)|
+|V3| Arm R, Set & turn, Arm L; Set & turn |2;2;2;2|
+|C3| C1 fall back a Double & meet; C1 slip into C2's place (C2 up) & Turn single |2;2|
+||Continue pattern w/all couples until all to place |4 (Nx)|
+@@@@@
+
+%%%hole_in_the_wall
 Hole in the Wall
-(Playford 1696)
 John Playford
+Progression Dance
 ||(Couples in a line) | == In 6 == |
-|-----|----|-----|
-(
-A
-)
+|----|-----|
+|(A) Rev, Cast down through IC & to place, Rev; (I) same, casting up through AC |2;2|
+|(A Ld, I Ly) Rev, switch, Rev; (I Ld, A Ly) Rev, switch, Rev |1;1|
+|Hands around halfway; (A) cast down 1 place as (I) pass up betw them |1;1|
+@@@@@
  
-Rev
-,
- Cast 
-down
- through IC & to place
-,
- Rev
-; 
-(
-I
-)
- same, casting up
- through AC
-2
-;2
-(A Ld, I Ly) Rev, switch
-,
- Rev
-; (I Ld, A Ly) Rev, switch, Rev
-1
-;1
-H
-ands 
-around
- halfway
-; (A) cast down
- 1 place as (I) pass up betw them
-1
-;1
- 
+%%%irish_washerwoman
 Irish Washerwoman 
-(SCA Choreography)
-(
-Couple
-s in a line)
-| == In 4 == |
+Alex
+SCA Choreography
+||(Couples in a line) | == In 4 == |
 |-----|----|-----|
-P1
-Double fwd & back
-2
-C1 Cast to C2 place as C2 lead to C1 place & cast, 
-face down hall
-2
-P2
-Double fwd & back; Circle hands 
-four
- once around
-2;2|
-P3
-Gender lines take hands & Double back & fwd; Turn ptnr by 
-two
- hands
-2;2|
-Gender lines Double back & fwd; Turn ptnr 1½  times & face up hall
-2;2|
+|P1| Double fwd & back 2 C1 Cast to C2 place as C2 lead to C1 place & cast,||
+||face down hall |2|
+|P2| Double fwd & back; Circle hands four once around |2;2|
+|P3| Gender lines take hands & Double back & fwd; Turn ptnr by two hands |2;2|
+||Gender lines Double back & fwd; Turn ptnr 1½  times & face up hall |2;2|
+@@@@@
+
+%%%jamica
 Jamaica
- 
-(Playford 1670)
-(
-Couple
-s in a line)
-| == In 4 == |
+John Playford 
+Progression Dance
+( Couples in a line) | == In 4 == |
 |-----|----|-----|
-P1
-C1 takes R hands 1
-st
- beat, L hands 3
-rd
- beat; turn halfway
-1;1|
-C1 face C2, take hands similarly; turn halfway
-1;1|
-C1 full figure eight through C2, 
-half turn
- to end proper
- 4
-Repeat pattern until all are back to original places
- (C1 start P2 when C2 free)
-P2 
-Ld1 & Ly2 two hand turn; Ly1 &
- 
-Ld2 two hand turn
-2;2|
-Lds turn two hands 1½ while 
-Lys
- turn two hands 1½
-2
-All turn own 
-ptnr
-s 
-2
- hands
-; Repeat pattern to orig places
-2
-;8(Nx)
+|P1| C1 takes R hands 1st beat, L hands 3rd beat; turn halfway |1;1|
+||C1 face C2, take hands similarly; turn halfway |1;1|
+||C1 full figure eight through C2, half turn to end proper |4|
+||Repeat pattern until all are back to original places (C1 start P2 when C2 free)||
+|P2| Ld1 & Ly2 two hand turn; Ly1 & Ld2 two hand turn |2;2|
+||Lds turn two hands 1½ while Lys turn two hands 1½ |2|
+||All turn own ptnrs 2 hands; Repeat pattern to orig places |2;8(Nx)|
+@@@@@
+%%%jog_on
 Jog On
-(Playford 1651)
-(
-Couple
-s in a line)
-| == In 4 == |
+John Playford
+Progression Dance
+||(Couples in a line) | == In 4 == |
 |-----|----|-----|
-Intro
-Double fwd
- 
-& back, Set & turn (2x)
-4(2x)
-V1
-Ld1 pull Ly1 twd himself, then push away; Ld1 push Ly1 betw C2
-1;1|
-Ld1 join hands w/ C2 & circle Ly1
-2
-Repeat pattern until all are back to original places
-4(Nx)
-V2
-Ld1 push Ly1 around Ly2 into C2’s position (C2 moves up)
-2
-C1 two hand turn; Repeat pattern until all back to original places
-2;4(Nx)
-V3
-C1 pass by R and stand behind C2; C1 push C2 diag up hall & make kiss
-1;1|
-C1 arm R; Repeat pattern until all back to original places
-2;4(Nx)
-V4
-C1 cast into C2 place as C2 double fwd & back up into C1’s place
-2
-C1 arm R; ; Repeat pattern until all back to original places
-2;4(Nx)
+|Intro| Double fwd & back, Set & turn (2x) |4(2x)|
+|V1| Ld1 pull Ly1 twd himself, then push away; Ld1 push Ly1 betw C2 |1;1|
+||Ld1 join hands w/ C2 & circle Ly1 |2|
+||Repeat pattern until all are back to original places |4(Nx)|
+|V2| Ld1 push Ly1 around Ly2 into C2’s position (C2 moves up) |2|
+||C1 two hand turn; Repeat pattern until all back to original places |2;4(Nx)|
+|V3| C1 pass by R and stand behind C2; C1 push C2 diag up hall & make kiss |1;1|
+||C1 arm R; Repeat pattern until all back to original places |2;4(Nx)|
+|V4| C1 cast into C2 place as C2 double fwd & back up into C1’s place |2|
+||C1 arm R; ; Repeat pattern until all back to original places |2;4(Nx)|
+@@@@@
 Progression Dances
+%%%juice_of_barley
 Juice of Barley
-(Playford 1689)
-(
-Couple
-s in a line)
-| == In 4 == |
-|-----|----|-----|
-B
-ack to back 
-w/
- 
-ptnr
-; 
-T
-wo hand turn 
-w/
- 
-ptnr
-2;2|
-Lds 
-half figure 8
- betw
- Lys
- 
-into other Ld 's place
-2
-Clap (
-on down beat), Circle hands 4
-, once around
-2
-Lys
- 
-half figure 8
- 
-as 
-Lds
- did; Clap & circle
-2
-;2
+John Playford
+Progression Dance
+|(Couples in a line) | == In 4 == |
+|----|-----|
+|Back to back w/ ptnr; Two hand turn w/ ptnr |2;2|
+|Lds half figure 8 betw Lys into other Ld's place |2| 
+|Clap (on down beat), Circle hands 4 , once around |2|
+|Lys half figure 8 as Lds did; Clap & circle |2;2|
+@@@@@
+
+%%%my_lady_cullen
 My Lady Cullen
-(Playford 1651)
-(
-Couple
-s in a line)
-| == In 4 == |
+John Playford
+Progression Dance
+||(Couples in a line) | == In 4 == |
 |-----|----|-----|
-P
-1
-Double f
-wd & back (2x)
-; Set & 
-Turn single
- (2x)
-2(2x)
-; 2 (2x)
-P
-2
-(A) Cross by R shouldrs & behind
- 
-(I); Cross
- 
-R again
- 
-to
- 
-outside of (I)
- 
-1;1|
-T
-ak
-ing
- hands 4 abreast
-,
- fwd & 
-back a double to orig place
-2
-R hand star; L hand star
-2;2|
-P
-3
-(A) cast out & below (I) & slip up betw
-; (I) cast out & above (A) & slip betw
- 
-2
-;2
-Arches
- 
-(A) slip under (I) as (I ) slip up; (I) under as (A) up; set & turn
-2;2|
-P
-4
-Cross as in P2
-4
-C
-lap & 
-(A) Ly & (I) Ly arm 1½ times as Lds do same; arm w/ 
-ptnr
-2;2|
+|P1| Double fwd & back (2x); Set & Turn single (2x) |2(2x); 2 (2x)|
+|P2| (A) Cross by R shouldrs & behind (I); Cross R again to outside of (I) |1;1|
+||Taking hands 4 abreast, fwd & back a double to orig place |2|
+||R hand star; L hand star |2;2|
+|P3| (A) cast out & below (I) & slip up betw; (I) cast out & above (A) & slip betw |2;2|
+||Arches (A) slip under (I) as (I ) slip up; (I) under as (A) up; set & turn |2;2|
+|P4| Cross as in P2 |4|
+||Clap & (A) Ly & (I) Ly arm 1½ times as Lds do same; arm w/ ptnr |2;2|
+@@@@@
+%%%the_queens_jigg
 The Queen’s Jigg
-(Playford 1701)
-(
-Couple
-s in a line)
-| == In 4 == |
+John Playford
+Progression Dance
+||(Couples in a line) | == In 4 == |
 |-----|----|-----|
-P1
-Ld1 side to Ly2, then set & turn; Ld2 side to Ly1, then set & turn
-4;4|
-P2
-Ld1 & Ly2 switch; Ld2 & Ly1 switch; Double back, Switch w/ own
-1;1;1;1|
-R hand star; 
-Turn single
-; Repeat dance as desired
-3;1; 16 (Nx)
+|P1| Ld1 side to Ly2, then set & turn; Ld2 side to Ly1, then set & turn |4;4|
+|P2| Ld1 & Ly2 switch; Ld2 & Ly1 switch; Double back, Switch w/ own |1;1;1;1|
+|| R hand star; Turn single; Repeat dance as desired |3;1; 16 (Nx)|
+@@@@@
+
+%%%pauls_steeple
 Paul's Steeple
-(Playford 1651)
-(
-Couple
-s in a line)
-| == In 4 == |
+John Playford
+Progression Dance
+||(Couples in a line) | == In 4 == |
 |-----|----|-----|
-V1
-Double f
-wd & back, Set & turn (2x)
-4(2x)
-C1
-C1 take near hands facing C2; Ld1 lead Ly1 a Double to Ly2
-1;1|
-Ld1 take Ly2 w/ R hand; Ld1 slip w; Lys1&2 to C1's place
-1;1|
-Ly2 cast to place; Ly1 same; Ld1 cast & turn to place
-1;1;2|
-Continue pattern w/ all couples until all return to place
-8(Nx)
-V2
- Side R, Set & tur
-n, Side L; Set & turn
-2;2;2;2|
-C2
-C1 take near hands & face C2; Ld1 leads Ly1 a Double to Ly2
-1;1|
-Ld1 1 take Ly2 w/ R hand; Ld1 slip w' Lys to C1's place
-1;1|
-Ld1 kiss Ly2's hand; Ld1 kiss Ly1's hand; All turn to place
-1;1;2|
-Continue pattern w/ all couples until all return to place
-8(Nx)
-V3
-Arm R, Set & turn, Arm L; Set & turn 
-2;2;2;2|
-C3
-C1 take near hands & face C2; Ld1 leads Ly1 a Double to Ly2
-1;1|
-Ld1 1 take Ly2 w/ R hand;Ld1 sets Lys back to back in center
-1;1|
-Ld1 kiss Ly2; Ld1 kiss Ly1; All turn to place
-1;1;2|
-Continue pattern w/ all couples until all return to place
-8(Nx)
+|V1| Double fwd & back, Set & turn (2x) |4(2x)|
+|C1| C1 take near hands facing C2; Ld1 lead Ly1 a Double to Ly2 |1;1|
+||Ld1 take Ly2 w/ R hand; Ld1 slip w; Lys1&2 to C1's place |1;1|
+||Ly2 cast to place; Ly1 same; Ld1 cast & turn to place |1;1;2|
+||Continue pattern w/ all couples until all return to place |8(Nx)|
+|V2| Side R, Set & turn, Side L; Set & turn |2;2;2;2|
+|C2| C1 take near hands & face C2; Ld1 leads Ly1 a Double to Ly2 |1;1|
+||Ld1 1 take Ly2 w/ R hand; Ld1 slip w' Lys to C1's place |1;1|
+||Ld1 kiss Ly2's hand; Ld1 kiss Ly1's hand; All turn to place |1;1;2|
+||Continue pattern w/ all couples until all return to place |8(Nx)|
+|V3| Arm R, Set & turn, Arm L; Set & turn |2;2;2;2|
+|C3| C1 take near hands & face C2; Ld1 leads Ly1 a Double to Ly2 |1;1|
+||Ld1 1 take Ly2 w/ R hand;Ld1 sets Lys back to back in center |1;1|
+||Ld1 kiss Ly2; Ld1 kiss Ly1; All turn to place |1;1;2|
+|| Continue pattern w/ all couples until all return to place |8(Nx)
+@@@@@
+
 Progression Dances
+%%%peppers_black
 Peppers Black
- 
-(Playford 1651)
+John Playford 
+Progression Dance
 ||(Circle of Couples, numbered CW) | == In 4 == |
 |-----|----|-----|
-P1
-Slide L; Slide R; Set & turn (2x)
-2;2;2(2x)
-P2
-C1 Fwd & back to C2 (2x); Turn Corner; Turn 
-Ptnr
-2(2x);2;2|
- 
-Continue pattern until back to place, w/other couples following & performing
-The same pattern in order (Note: C2 starts when C1 gets to C4)
-8 (mult x)
-P3
-C1 Fwd & back to C2 (2x); 
-Hey
-, Lds start passing R
-2(2x);4
-Continue until back to place w/ other couples following
-8 (mult x)
-P4
-C1 & Ld2 Fwd & back (2x)
-2(2x)
-Ld1 turn body ½ turn L, pulling Ly1 under L arm’s arch
-2
-Ld 1 pull Ld2 under R hand’s arch; Ld 1 drop L hand & ½ turn R w/ Ly1
-2
-Repeat w/ Ly 2; Continue til back to place, other couples following
-4;8 (mult x)
+|P1| Slide L; Slide R; Set & turn (2x) |2;2;2(2x)|
+|P2| C1 Fwd & back to C2 (2x); Turn Corner; Turn Ptnr |2(2x);2;2|
+|| Continue pattern until back to place, w/other couples following & performing||
+||The same pattern in order (Note: C2 starts when C1 gets to C4) |8 (mult x)|
+|P3| C1 Fwd & back to C2 (2x); Hey, Lds start passing R |2(2x);4|
+||Continue until back to place w/ other couples following |8 (mult x)|
+|P4| C1 & Ld2 Fwd & back (2x) |2(2x)|
+||Ld1 turn body ½ turn L, pulling Ly1 under L arm’s arch |2|
+||Ld 1 pull Ld2 under R hand’s arch; Ld 1 drop L hand & ½ turn R w/ Ly1 |2|
+||Repeat w/ Ly 2; Continue til back to place, other couples following |4;8 (mult x)|
+@@@@@
+
+%%%rose_is_white_and_rose_is_red
 Rose is White and Rose is Red
-(Playford 1651)
+John Playford
+Progression Dance
 ||(Couples in a circle, numbered CCW) | == In 4 == |
 |-----|----|-----|
-V1
-Holding hands, 
-Double f
-wd & back; Set & turn; repeat
-2;2;4|
-C1
-C1 Fwd & back to Ld2; C1 take hands w/Ld2 & circle; repeat w/ Ly2
-2;2;4|
-Continue pattern until back to place, w/
- 
-other couples following & performing
-The same pattern in order (Note: C2 starts when C1 gets to C4)
-8 (mult x)
-V2
-Side R, Set & turn, Side L; Set & turn
-2;2;2;2|
-C2
-C1 Fwd & back to Ld2; C1 
-Hey
- w/Ld2, Ld 1 starting; repeat w/ Ly2
-2;2;4|
-Continue until back to place w/ other couples following
-8 (mult x)
-V3
-Arm R, Set & turn, Arm L; Set & turn 
-2;2;2;2|
-C3
-C1 Fwd & back to Ld2; Ld2 pass under C1 arch, C1full turn
-2;2|
-Repeat w/ Ly2; Continue til back to place, other C’s following
-4; 8 (mult x)
+|V1| Holding hands, Double fwd & back; Set & turn; repeat |2;2;4|
+|C1| C1 Fwd & back to Ld2; C1 take hands w/Ld2 & circle; repeat w/ Ly2 |2;2;4|
+||Continue pattern until back to place, w/ other couples following & performing ||
+||The same pattern in order (Note: C2 starts when C1 gets to C4) |8 (mult x)|
+|V2| Side R, Set & turn, Side L; Set & turn |2;2;2;2|
+|C2| C1 Fwd & back to Ld2; C1 Hey w/Ld2, Ld 1 starting; repeat w/ Ly2 |2;2;4|
+||Continue until back to place w/ other couples following |8 (mult x)|
+|V3| Arm R, Set & turn, Arm L; Set & turn |2;2;2;2|
+|C3| C1 Fwd & back to Ld2; Ld2 pass under C1 arch, C1full turn |2;2|
+||Repeat w/ Ly2; Continue til back to place, other C’s following |4;8 (mult x)|
+@@@@@
+%%%the_scotch_morris
 The Scotch Morris
-(Playford 1726)
-||(Couples in a line) | == In 4 == |
-|-----|----|-----|
-ALd set to ILy & 
-Turn single
-; ALd turns his own; ALy same w/ ILd
- 
-& own
-2;2;4|
-AC Figure 8 around IC to place; AC Clap & cast down hall 1 place
-3;1|
-ALd switch w/ ILy; ALy switch w/ ILd; Hands around halfway; 
-Turn single
-1;1;1;1|
+John Playford
+Progression Dance
+|(Couples in a line) | == In 4 == |
+|----|-----|
+|ALd set to ILy & Turn single; ALd turns his own; ALy same w/ ILd & own |2;2;4|
+|AC Figure 8 around IC to place; AC Clap & cast down hall 1 place |3;1|
+|ALd switch w/ ILy; ALy switch w/ ILd; Hands around halfway; Turn single |1;1;1;1|
+@@@@@
+
+%%%stanes_morris
 Stanes Morris
-(Playford 1651)
-(
-Couple
-s in a line)
-| == In 4 == |
+John Playford
+Progression Dance
+||( Couples in a line) | == In 4 == |
 |-----|----|-----|
-P1
-Double f
-wd 
-& b
-ack; that again
-2;2|
-Turn & Double L; Turn & Double R; Set & turn (2x)
-1;1;2(2x)
-P2
-Ld1 approach last Ly; Ld1 & last Ly side R; t
-Hey
- take R hands, then L
-2;2;2|
-Ld1 & last Ly ½
- 
-turn to L & kiss; ½
- 
-turn to R & kiss; go to top of set 
-1;1;2|
-Repeat dance until all Lys have been active; Can have Ld1 cast to bottom on repeat.
+|P1| Double fwd & back; that again |2;2|
+||Turn & Double L; Turn & Double R; Set & turn (2x) |1;1;2(2x)|
+|P2| Ld1 approach last Ly; Ld1 & last Ly side R; they take R hands, then L|2;2;2|
+||Ld1 & last Ly ½ turn to L & kiss; ½ turn to R & kiss; go to top of set |1;1;2|
+||Repeat dance until all Lys have been active; Can have Ld1 cast to bottom on repeat.||
+@@@@@
 Progression Dances
+%%%trenchmore
 Trenchmore
-(Playford 1722)
+John Playford
+Progression Dance
 ||(Couples in a line) | == in 4 == |
-|-----|----|-----|
-Double 
-fwd
- & back (2x)
-2(2x)
-C1 take 
-3
- steps fw
-d
-,
- & 
-cast, leading other couples to bottom
- of set then to place
-4
-C1 face down
- 
-& 
-go
- under 
-C2’s
- arched hands
-, Over next C, etc, til all to place
-1(Nx)
-,
-C1 arm R 1½; C1 arm L w/ C2; C1 arm R, etc. to end of line 
-8(Nx)
-Repeat the dance 
-w/
- the new C1
+|----|-----|
+|Double fwd & back (2x) |2(2x)|
+|C1 take 3 steps fwd, & cast, leading other couples to bottom of set then to place |4|
+|C1 face down & go under C2’s arched hands , Over next C, etc, til all to place |1(Nx)|
+|C1 arm R 1½; C1 arm L w/ C2; C1 arm R, etc. to end of line |8(Nx)|
+|Repeat the dance w/ the new C1||
+@@@@@
+%%%up_tailes_all
 Up Tailes All
-(Playford 1651)
-(about 4-7 
-Couple
-s in a circle, numbered CCW)
-| ==In 2== |
+John Playford
+Progression Dance
+||(about 4-7 Couples in a circle, numbered CCW) | ==In 2== |
 |-----|----|-----|
-P1
-D
-ouble fwd & back; set & turn
-; repeat
-4;4 (2x)
-P2
-C1 lead out betw
- C2 & cast to inside & clap; C1 arms R
-4;4|
-C1 same w/ C3 & so fwd, the rest following & doing the like
-4;4 (mult x)
-P3
-C1 lead & cast as in P2, C1 & C2 clap
-4
- take R hands across once round
-4
-C1 same w/ C3 & so fwd, the rest following & doing the like
-4;4 (mult x)
-P4
-C1 lead & cast as in P2, C1 & C2 clap
-4
- take hands & circle once round
-4
-C1 same w/ C3 & so fwd, the rest following & doing the like
-4;4 (mult x)
+|P1| Double fwd & back; set & turn; repeat |4;4 (2x)|
+|P2| C1 lead out betw C2 & cast to inside & clap; C1 arms R |4;4|
+||C1 same w/ C3 & so fwd, the rest following & doing the like |4;4 (mult x)|
+|P3| C1 lead & cast as in P2, C1 & C2 clap |4|
+||take R hands across once round |4|
+||C1 same w/ C3 & so fwd, the rest following & doing the like |4;4 (mult x)|
+|P4| C1 lead & cast as in P2, C1 & C2 clap |4|
+||take hands & circle once round |4|
+||C1 same w/ C3 & so fwd, the rest following & doing the like |4;4 (mult x)|
+@@@@@
 Dances from the Gresley Manuscript, circa 1500
+%%%le_bens_distonys
 Le Bens Distonys
- 
-||(Couples) | == in 4 == |
-|-----|----|-----|
-Inside Single, Outside Single; Double
-1;1|
-Ld Double fwd & turn to face as Ly Double back
- 
-1
-Double into ea other’s original place (facing fwd)
-1
-Ly Double fwd & turn to face as Ld Double back
-1
-Double to own original place (facing fwd)
-1
-(together) Single fwd, Single back; 
-Turn single
-1;1|
+Anonymous 
+Gresley
+|(Couples) | == in 4 == |
+|----|-----|
+|Inside Single, Outside Single; Double| 1;1|
+|Ld Double fwd & turn to face as Ly Double back| 1|
+|Double into ea other’s original place (facing fwd) |1|
+|Ly Double fwd & turn to face as Ld Double back |1|
+|Double to own original place (facing fwd) |1|
+|(together) Single fwd, Single back; Turn single |1;1|
+@@@@@
+
+%%%eglamour
 Eglamour
-(3 people, single file)
-| == in 6 == |
+Anonymous
+Gresley
+|(3 people, single file) | == in 6 == |
 |-----|----|-----|
-Trace- 6 doubles
-12
-1
- at a time, 3 singles fwd
-;
- 
-1 at a time cast
- 
-to back in 2 doubles
-6;12
-1
- at a time, cast 
-L 
-fwd
-6
-1&
-3 switch in 2 doubles 
-as
- 
-2 turns single; 2 cast to head of line
-4
-;2
- 
-Repeat twice more 
-w/
- new leader.
+|Trace- 6 doubles |12|
+|1 at a time, 3 singles fwd; 1 at a time cast to back in 2 doubles |6;12|
+|1 at a time, cast L fwd |6|
+|1&3 switch in 2 doubles as 2 turns single; 2 cast to head of line |4;2|
+| Repeat twice more w/ new leader.|
+@@@@@
+
+%%%grene_gynger
 Grene Gynger
-| == in 6 == |
-|-----|----|-----|
-Single fwd, Single back, double fwd; Repeat
-1;1;2;4|
-Heart: 2 Singles moving away from ptner; 1 Double casting to face
-2;2|
-2 Slip steps down the hall holding leading hands; turn back to back
-1;1|
-Still holding hands, 2 slip steps up the hall;turn to face
-1;1|
-turn L, double away from your 
-ptnr
-; turn, return in a double & face
-2;2|
-Double back from 
-ptnr
- and fwd to meet
-4
-Heart: facing down the hall, same as above
-4
+Anonymous
+Gresley
+|(Couples)| == in 6 == |
+|----|-----|
+|Single fwd, Single back, double fwd; Repeat |1;1;2;4|
+|Heart: 2 Singles moving away from ptner; 1 Double casting to face |2;2|
+|2 Slip steps down the hall holding leading hands; turn back to back |1;1|
+|Still holding hands, 2 slip steps up the hall; turn to face |1;1|
+|turn L, double away from your ptnr; turn, return in a double & face |2;2|
+|Double back from ptnr and fwd to meet |4|
+|Heart: facing down the hall, same as above |4|
+@@@@@
+
 Dances from the Gresley Manuscript, circa 1500
+%%%new_yer_de_tribus
 New Yer de Tribus
-(set of 3 people in a file) 
-| == in 6 == |
+Anonymous 
+Gresley
+|(set of 3 people in a file) | == in 6 == |
+|----|-----|
+|4 Doubles fwd |8| 
+|Ld1 Double away; Ld2 Double to catch up; Ld 3 same |2;2;2|
+|All half turn in a Double 3x |2(3x)|
+|Ld3 Double away; Ld2 Double to catch up; Ld1 same |2;2;2|
+|All half turn in a double to reset in orig direction |2|
+@@@@@
+
+%%%prenes_a_gard
+Prenes a Gard
+|(set of 3 people abreast) | == in 6 == |
 |-----|----|-----|
-4 Doubles fwd
-8
-Ld1 Double away
-;
- Ld2 Double to catch up
-;
- Ld
-3
- same
-2
-;2;2|
-All half turn in a Double 3x
-2
-(3x)
-Ld3 Double away; Ld2 Double to catch up; Ld1 same
-2;2;2|
-All half turn in a double to reset in orig direction
-2
-P
-renes a Gard
-(set of 3 people abreast)
-| == in 6 == |
-|-----|----|-----|
-A
-Trace- 12 piva
-12
-B1
-1st jump, 2nd jump, 3rd turn
-1;1;2|
-B2
-3rd jump, 2nd jump, 1st turn
-1;1;2|
-B3
-1st jump, 3rd jump, 2nd turn
-1;1;2|
-C
-2nd 3
- singles 
-fwd
-, 1&
-3 3 singles back
-3
-1st turn; 2nd 1/2 turn; 3rd jump
-3
-D
- 
-1st & 3rd switch, 2nd through (2 doubles)
-4
-E
-1st turn, retrett, rake; 2nd turn, rake, retrett
-3rd retrett, rake, turn
-4
-F
-flowrdelice; double to place
-2;2|
-(The B parts happen sequentially.
- 
-In parts C, D, and E
-each person does their own steps simultaneously
+|A| Trace- 12 piva |12|
+|B1| 1st jump, 2nd jump, 3rd turn |1;1;2|
+|B2| 3rd jump, 2nd jump, 1st turn |1;1;2|
+|B3| 1st jump, 3rd jump, 2nd turn |1;1;2|
+|C| 2nd 3 singles fwd, 1&3 3 singles back |3|
+||1st turn; 2nd 1/2 turn; 3rd jump |3|
+|D| 1st & 3rd switch, 2nd through (2 doubles) |4|
+|E| 1st turn, retrett, rake; 2nd turn, rake, retrett|| 
+||3rd retrett, rake, turn |4|
+|F| flowrdelice; double to place |2;2|
+||(The B parts happen sequentially.  In parts C, D, and E||
+||each person does their own steps simultaneously||
+@@@@@
+%%%rawty_de_duobus
 Rawty de Duobus
-(
-Couple
-s)
-| == in 6 == |
+Anonymous
+Gresley
+|(Couples) | == in 6 == |
 |-----|----|-----|
-Single fwd, Single back; Double fwd w/stomp; Double back w/stomp; repeat
-2;2;2;6|
-Ld Single fwd, Single back, Double Fwd & turn; Both 3 kicks; Double to meet
-4;2;2|
-Gallop L ; 3 Kicks; Double fwd to meet
-2;2;2|
+|Single fwd, Single back; Double fwd w/stomp; Double back w/stomp; repeat |2;2;2;6|
+|Ld Single fwd, Single back, Double Fwd & turn; Both 3 kicks; Double to meet |4;2;2|
+|Gallop L ; 3 Kicks; Double fwd to meet |2;2;2|
+@@@@@
+%%%talbott
 Talbott
-(
-Couple
-s)
-| == in 3 == |
+Anonymous
+Gresley
+||(Couples) | == in 3 == |
 |-----|----|-----|
-A
- 
-Trace 18 piva (end turning to face)
-18
-B1
- 
- S
-ingle L
- fwd, Single R back, double fwd, passing R sh (pause)
-2;2;1|
-B2
- 
- Brawle 
-LR
- (facing),double fwd, not passing (pause)
-2;2;1|
-C
- 
-Single L 
-fwd
-, single R back, take R hands, switch in 3 singles.
-5
-D
- 
-2 doubles 
-fwd
-, taking ordinary hands. (pause)
-5
-E
-Rake 
-LR
-, full turn in place. 
-2;3|
-REPEAT
+|A|Trace 18 piva (end turning to face) |18|
+|B1| Single L fwd, Single R back, double fwd, passing R sh (pause) |2;2;1|
+|B2| Brawle LR (facing),double fwd, not passing (pause) |2;2;1|
+|C| Single L fwd, single R back, take R hands, switch in 3 singles.  |5|
+|D| 2 doubles fwd, taking ordinary hands. (pause) |5|
+|E| Rake LR, full turn in place. |2;3|
+||REPEAT||
+@@@@@
 Steps in Gresley Dances
 Trett- Step 
 fwd
@@ -4279,388 +3861,217 @@ w/
  a sweeping motion
 Flowrdelice- 3 kicks
 Other Dances
+%%%john_tallows_canon
 John Tallow’s Canon
-(Adaptation of Shaw 20
-th
- C)
-(2 couples in square, partner opposite)
-| == In 4 == |
-|-----|----|-----|
-First couple starts dance; second couple repeats all steps 4 counts later
-Forward & back a double
-2
-Forward & curve around  switching places (? pattern)
-2
-Repeat doubles & ? pattern
-4
-Take R hands & circle CW  back to place; Step L&R, & turn single
-2;2|
-Take L hands & circle CCW back to place; Step L&R, & turn single
-2;2|
+Sion Andreas o Wynedd
+SCA Choreography
+|(2 couples in square, partner opposite) | == In 4 == |
+|----|-----|
+|First couple starts dance; second couple repeats all steps 4 counts later||
+|Forward & back a double |2|
+|Forward & curve around  switching places (? pattern) |2|
+|Repeat doubles & ? pattern |4|
+|Take R hands & circle CW  back to place; Step L&R, & turn single |2;2|
+|Take L hands & circle CCW back to place; Step L&R, & turn single |2;2|
+@@@@@
+
+%%%korobushka
 Korobushka
+Anonymous
+Other Dance
 (Russian - 20th C. Folk Revival)
-(
-Couple
-s facing CCW around a circle)
-| == In 4 == |
+||( Couples facing CCW around a circle) | == In 4 == |
 |-----|----|-----|
-P1
-Step RR; Step LL; Step R L; Face 
-ptnr
-1;1;1;1|
-P
-2
-Spin away & clap; Spin
- back & clap (take hands)
-1;1|
-Come together & apart; switch sides
-1;1|
-P3
- 
-Repeat Part 2 to get to orginial position
-4
+|P1| Step RR; Step LL; Step R L; Face ptnr |1;1;1;1|
+|P2| Spin away & clap; Spin back & clap (take hands) |1;1|
+||Come together & apart; switch sides |1;1|
+|P3| Repeat Part 2 to get to orginial position |4|
+@@@@@
+
+%%%moonshine
 Moonshine
-||(Couples) | == In 4 == |
-|-----|----|-----|
-(L hands joined) move R hand out, in, out, in
-1
-Spin away (3 counts) & clap; Spin back (3 counts) & clap
-½;½
-(Hook R arms behind back) Circle forward
-2
-(L hands joined) move R hand out, in, out, in
-1
-Spin away (3 counts) & clap; Spin back (3 counts) & clap
-½;½
-Hook R arms & circle fwd; R arm on partner’s waist & circle forward
-2;2|
-Circle backward, kicking L foot
-2
+Anonymous
+Other Dance
+|(Couples) | == In 4 == |
+|----|-----|
+|(L hands joined) move R hand out, in, out, in |1|
+|Spin away (3 counts) & clap; Spin back (3 counts) & clap |½;½|
+|(Hook R arms behind back) Circle forward |2|
+|(L hands joined) move R hand out, in, out, in |1|
+|Spin away (3 counts) & clap; Spin back (3 counts) & clap |½;½|
+|Hook R arms & circle fwd; R arm on partner’s waist & circle forward |2;2|
+|Circle backward, kicking L foot |2|
+@@@@@
+
+%%%landler
 Ländler
-(Austrian Folk Dance)
-||(Couples) | == In 6 == |
-|-----|----|-----|
-Turn out, in, out, & turn under joined arms; Repeat (2x)
-2;2(2x)
-Ly turns under Ld ’s arm 3 times
-2;2|
-(w/ Ld facing fward, taking hands)Ld moves fwd & Ly back, swinging arms out & in
-4
-Ly turns under outside arm & waltz around
-4
-Ly turns back to face & under other arm & waltz around
-4
-Drop hands into country waltz hold & free waltz
-4
- Ländler
- Polka (step, close, step, hop) (4x), change direction each time
-1(4x)
-(join hands R to R, L to L, R on top) Ly goes behind to Ld ’s R side, lead around
-4
-Ly moves to Ld ’s L side, lead around
-4
-Turn into R little window & waltz around;Turn into L little window; & waltz around
-8;8|
-Turn into R big window & waltz around;Turn into L big window & waltz around
-4;4|
-Drop hands into country waltz hold & free waltz
-4
-Ländler Polka (step, close, step, hop) (4x), change direction each time
-1(4x)
+Anonymous
+Other Dance
+|(Couples) | == In 6 == |
+|----|-----|
+|Turn out, in, out, & turn under joined arms; Repeat (2x) |2;2(2x)|
+|Ly turns under Ld ’s arm 3 times |2;2|
+|(w/ Ld facing fward, taking hands)Ld moves fwd & Ly back, swinging arms out & in |4|
+|Ly turns under outside arm & waltz around |4|
+|Ly turns back to face & under other arm & waltz around |4|
+|Drop hands into country waltz hold & free waltz |4|
+|Ländler Polka (step, close, step, hop) (4x), change direction each time |1(4x)|
+|(join hands R to R, L to L, R on top) Ly goes behind to Ld ’s R side, lead around |4|
+|Ly moves to Ld ’s L side, lead around |4|
+|Turn into R little window & waltz around;Turn into L little window; & waltz around |8;8|
+|Turn into R big window & waltz around;Turn into L big window & waltz around |4;4|
+|Drop hands into country waltz hold & free waltz |4|
+|Ländler Polka (step, close, step, hop) (4x), change direction each time |1(4x)|
+@@@@@
+
 Other Dances
+%%%oncoming_pelican
 Oncoming Pelican
-(SCA choreography)
-(4 couples in a Square)
-| == In 4 == |
+James Blackcloak
+SCA Choreography
+||(4 couples in a Square) | == In 4 == |
 |-----|----|-----|
-(Sides do everything 8 beats after the Heads. Instructions are for the Heads)
-V1
-Double fwd & back; Set & turn; Repeat
-2;2;4|
-C1
-Turn Opposite by R hand; lead to place & cast to corner position
-2;2|
-Double fwd raising arch for sides; switch w/ prtnr, 1 couple under other’s arch1;1|
-Double to place; Switch w/ prtnr
-1;1|
-V2
-Side L; Set & turn; Side R; Set & turn
-2;2;2;2|
-C2
-Double fwd; Circle 5/8 (Lds have backs to Sides, Lys to Heads)
-1;1|
-Double straight back; Turn R w/ Double R (to end in corners)
-1;1|
-Double fwd, circle facing out to place
-2
-Double to place; turn single to face in
-1;1|
-V3
-Arm L; Set & turn; Arm R; Set & turn
-2;2;2;2|
-C3
-Heads do C1 then C2 as Sides do C2 then C1
-16
+||(Sides do everything 8 beats after the Heads. Instructions are for the Heads)||
+|V1| Double fwd & back; Set & turn; Repeat |2;2;4|
+|C1| Turn Opposite by R hand; lead to place & cast to corner position |2;2|
+||Double fwd raising arch for sides; switch w/ prtnr, 1 couple under other’s arch|1;1|
+||Double to place; Switch w/ prtnr |1;1|
+|V2| Side L; Set & turn; Side R; Set & turn |2;2;2;2|
+|C2| Double fwd; Circle 5/8 (Lds have backs to Sides, Lys to Heads) |1;1|
+||Double straight back; Turn R w/ Double R (to end in corners) |1;1|
+||Double fwd, circle facing out to place |2|
+||Double to place; turn single to face in |1;1|
+|V3| Arm L; Set & turn; Arm R; Set & turn |2;2;2;2|
+|C3| Heads do C1 then C2 as Sides do C2 then C1 |16|
+@@@@@
+
+
+%%%quen_quer_que
 Quen Quer Que na Virgen Fia
-(SCA choreography)
-(circle)
-| == In 4 == |
+Sion Andreas o Wynedd
+SCA Choreography
+||(circle) | == In 4 == |
 |-----|----|-----|
-V
-Double 
-LR
-; Single 
-LR
-; Double L; Single R
-2;1;1;½
-Same, but spin on 1
-st
- Double L; Same but spin on 2
-nd
- Double L
-4½;4½
-Same but spin on both Doubles L
-4½
-Ch
-Same pattern of steps, but Sprial in & out (moving L) on Double 
-LR
- (2x)
-4½(2x)
-Repeat many times (music begins w/Ch; Ch repeats 2x at end of dance)
+|V| Double LR; Single LR; Double L; Single R |2;1;1;½|
+||Same, but spin on 1st Double L; Same but spin on 2nd Double L |4½;4½|
+||Same but spin on both Doubles L |4½|
+|Ch| Same pattern of steps, but Sprial in & out (moving L) on Double LR (2x) |4½(2x)|
+||Repeat many times (music begins w/Ch; Ch repeats 2x at end of dance)||
+@@@@@
+
+%%%road_to_the_isles
 Road to the Isles
-(Scottish 19th C. style - SCA Choreography)
-(
-Couple
-s)
-| == in 4 == |
-|-----|----|-----|
-Point L foot, Step behind
- 
-L, to the side R, cross 
-fwd 
-L, Point R foot
-2
-Step behind R, to the side
- 
-L, cross 
-fwd
- R, Point L foot, Step back
- 
-L
-2
-Step LRL hop; Step RLR hop & turn; Step LRL hop & turn; Back RLR hop
-1;1;1;1|
-Step LRL hop & turn; Back RLR hop; Step LRL hop & turn; Back RLR hop
-1;1;1;1|
-Ld walks 
-fwd
- 
-w/
- Ly turning under R arm
-4
-Come together, apart, & move back into original position
-2
+Anonymous
+SCA Choreography
+|(Couples)| == in 4 == |
+|----|-----|
+|Point L foot, Step behind L, to the side R, cross fwd L, Point R foot |2|
+|Step behind R, to the side L, cross fwd R, Point L foot, Step back L |2|
+|Step LRL hop; Step RLR hop & turn; Step LRL hop & turn; Back RLR hop |1;1;1;1|
+|Step LRL hop & turn; Back RLR hop; Step LRL hop & turn; Back RLR hop |1;1;1;1|
+|Ld walks fwd w/ Ly turning under R arm |4|
+|Come together, apart, & move back into original position |2|
+@@@@@
+%%%saint_barbaras
 Saint Barbara's
-(SCA Choreography)
-(Longways for as Many as Will)
-| == In 4 == |
+James Blackcloak
+SCA Choreography
+||(Longways for as Many as Will) | == In 4 == |
 |-----|----|-----|
-C1 dances as normal, each other C dances 2 bars behind the one in front.
-V1
-Double fwd & back; Set & turn; repeat
-2;2;4|
-C1
-Double fwd; Turn single away from Ptnr; Cast down 2 places
-1;1;2|
-Double fwd; Turn single away from Ptnr; Turn Ptnr
-1;1;2|
-V2
-Side R; Set & turn; Side L; Set & turn
-2;2;2;2|
-C2
-Take R hands w/Ptnr; Star 1/4 w/ 2 Singles
-1
-Lead down center of set to next C; Star 1/4 w/ 2 Singles 
-1;1|
-Turn single up the set to Ptnr's position; repeat
-1;4|
-V3
-Arm R; Set & turn; Arm L; Set & turn
-2;2;2;2|
-C3
-Pass down betw C below & cast to place; repeat w/ C above
-2;2|
-Cast around C below and lead to place; repeat w/ C above
-2;2|
+|C1| dances as normal, each other C dances 2 bars behind the one in front.||
+|V1| Double fwd & back; Set & turn; repeat |2;2;4|
+|C1| Double fwd; Turn single away from Ptnr; Cast down 2 places |1;1;2|
+||Double fwd; Turn single away from Ptnr; Turn Ptnr |1;1;2|
+|V2| Side R; Set & turn; Side L; Set & turn |2;2;2;2|
+|C2| Take R hands w/Ptnr; Star 1/4 w/ 2 Singles |1|
+||Lead down center of set to next C; Star 1/4 w/ 2 Singles |1;1|
+||Turn single up the set to Ptnr's position; repeat |1;4|
+|V3| Arm R; Set & turn; Arm L; Set & turn |2;2;2;2|
+|C3| Pass down betw C below & cast to place; repeat w/ C above |2;2|
+||Cast around C below and lead to place; repeat w/ C above |2;2|
+@@@@@
 Other Dances
  
+%%%salterello_ii
 Saltarello II (Prendente in Gyro)
-(SCA choreography)
+Ihon Vinson macFergus
+SCA Choreography
 ||(Circle of 3 or more Couples) | == In 4 == |
 |-----|----|-----|
-A
-Beginning L, double in; double out
-1;1|
-Palm R 
-w/
- 
-ptnr
- & switch in a double
-1
-Palm L 
-w/
- 
-ptnr
- & switch back in a double
-1
-Palm R 
-w/
- contrary & switch; take hands in a circle
-1
-B
-Beginning R, double in & drop contrary’s hand
-1
-Convert a double 
-w/
- 
-ptnr
-; double out
-1;1|
-Dropping hands, palm R 
-w/
- 
-ptnr
- & switch in a double
-1
-Palm L 
-w/
- 
-ptnr
- & switch in a double
-1
-C
-Hey
- in 4 doubles, Lds CCW, Lys CW pass 4 people beginning 
-w/
-R shoulders & alternating
-4
-Repeat Part A; B
-5;5|
-D
-Palm L 
-w/
- 
-ptnr
- & switch in a double (completing circle)
-1
-Figure 8
- 
-circle around counter in 2 doubles, passing R shoulders
-2
-Circle around 
-ptnr
- in 2 doubles, passing L shoulders
-2
-Circle around counter in 2 doubles, passing R shoulders
-2
-Repeat Part A; B; D
-5;5;7|
-Repeat Part A,;B; C; A
-5;5;4;5|
-Close 
-In & out a double, honors
-1;1|
+|A| Beginning L, double in; double out |1;1|
+||Palm R w/ ptnr & switch in a double |1|
+||Palm L w/ ptnr & switch back in a double |1|
+||Palm R w/ contrary & switch; take hands in a circle |1|
+|B| Beginning R, double in & drop contrary’s hand |1|
+||Convert a double w/ ptnr; double out |1;1|
+||Dropping hands, palm R w/ ptnr & switch in a double |1|
+||Palm L w/ ptnr & switch in a double |1|
+|C| Hey in 4 doubles, Lds CCW, Lys CW pass 4 people beginning w/ ||
+||R shoulders & alternating |4|
+||Repeat Part A; B |5;5|
+|D| Palm L w/ ptnr & switch in a double (completing circle) |1|
+||Figure 8 circle around counter in 2 doubles, passing R shoulders |2|
+||Circle around ptnr in 2 doubles, passing L shoulders |2|
+||Circle around counter in 2 doubles, passing R shoulders |2|
+||Repeat Part A; B; D |5;5;7|
+||Repeat Part A,;B; C; A |5;5;4;5|
+|Close| In & out a double, honors |1;1|
+@@@@@
 Saltarello la Regina
-(SCA Choreography)
+Geffrei Louarn de Kaermeriadec
+SCA Choreography
 ||(Couples)||
 |-----|----|-----|
-V1
-Inside single; Outside single
-½;½
-Ch
-Inside double; Outside single away from your 
-ptnr
-1;½
-Inside single toward your 
-ptnr
-; Outside double 
-back
-½;1
-V2
-Repeat V1; Chorus
-1;3|
-V3
-Ld turn under Ly’s arm in 2 inside singles;Ly same under Ld 's arm 
-1;1|
-Chorus
-3
-V4 
-Repeat V3, Ly turning first; Chorus
-2;3|
-V5
-Ld circles around Ly in 4 singles; Chorus
-2;3|
-V6
-Repeat V5, Ly circling; Chorus
-2;3|
-V7
-The couple joins both hands & turns in a CW circle in 6 singles
-3
-Chorus
-3
-V8
-Repeat V7, circling in the opposite direction; Chorus
-3;3|
+|V1| Inside single; Outside single |½;½|
+|Ch| Inside double; Outside single away from your ptnr |1;½|
+||Inside single toward your ptnr; Outside double back |½;1|
+|V2| Repeat V1; Chorus |1;3|
+|V3| Ld turn under Ly’s arm in 2 inside singles;Ly same under Ld 's arm |1;1|
+||Chorus |3|
+|V4| Repeat V3, Ly turning first; Chorus |2;3|
+|V5| Ld circles around Ly in 4 singles; Chorus |2;3|
+|V6| Repeat V5, Ly circling; Chorus |2;3|
+|V7| The couple joins both hands & turns in a CW circle in 6 singles |3|
+|Chorus||3|
+|V8| Repeat V7, circling in the opposite direction; Chorus |3;3|
+@@@@@
 Other Dances
 %%%spanish_pavan
 Spanish Pavan 
 Thoinot Arbeau 
-Other
+Other Dance
 ||(Couples)||
 |-----|----|-----|
-P1
-Step L, Close R; Step R, Close L; Step L & cut  R under L
-7 Fleurets (3 kicks, pause) in fig 8 pattern, & small leap to end facing ptnr
-(fig 8 - turn away from ptnr, cross in ctr Ly above, turn to meet on ptnr's side)
-Kick RLR (face down hall); Repeat P1 & end facing up hall
-P2
-Step L, Close R; Step R, Close L; Step L & cut  R under L
-Join hands & Kick RR, LL; full turn in 2 Fleurets
-Kick RR, LL; half turn in Fleuret, leap to face partnr
-Kick RLR (face down hall); Repeat P2 & end facing up hall
-P3
-Step L, Close R; Step R, Close L; Step L & cut  R under L
-3 Galliards, 1 Fleuret, leap in X pattern (Ly upper half of X, Ld lower), 
-Kick RLR (face down hall); Repeat P3 & end facing up hall
-P4
-Step L, Close R; Step R, Close L; Step L & cut  R under L
-Kick back R, Fwd L, back R, land; Kick back L, fwd R, back L, land
-Kick LR & la Volta half turn (Ly leaps & man lift w/ L knee)
-Kick RLR (face down hall); Repeat P4 & end facing up hall
+|P1| Step L, Close R; Step R, Close L; Step L & cut  R under L |1;1;1|
+||7 Fleurets (3 kicks, pause) in fig 8 pattern, & small leap to end facing ptnr||
+||(fig 8 - turn away from ptnr, cross in ctr Ly above, turn to meet on ptnr's side)||
+||Kick RLR (face down hall); Repeat P1 & end facing up hall|4|
+|P2| Step L, Close R; Step R, Close L; Step L & cut  R under L|1;1;1|
+||Join hands & Kick RR, LL; full turn in 2 Fleurets|2|
+||Kick RR, LL; half turn in Fleuret, leap to face partnr|2|
+||Kick RLR (face down hall); Repeat P2 & end facing up hall|1;8|
+|P3| Step L, Close R; Step R, Close L; Step L & cut  R under L |1;1;1|
+||3 Galliards, 1 Fleuret, leap in X pattern (Ly upper half of X, Ld lower), |4|
+||Kick RLR (face down hall); Repeat P3 & end facing up hall|1;8|
+|P4| Step L, Close R; Step R, Close L; Step L & cut  R under L |1;1;1|
+||Kick back R, Fwd L, back R, land; Kick back L, fwd R, back L, land|2|
+||Kick LR & la Volta half turn (Ly leaps & man lift w/ L knee)|2|
+||Kick RLR (face down hall); Repeat P4 & end facing up hall|1;8|
+@@@@@
+
+%%%the_traitors_measure
 The Traitor's Measure
-(SCA Choreography)
+Sion Andreas o Wynedd
+SCA Choreography
 ||(Couples in a line) | == In 3 == |
 |-----|----|-----|
-P1
-Singles LR; Double L; Riprese RLR; Bransle L
-; Repeat
- 
-starting R
-2;2;3;1;8|
-P2
-Take R hands & Singles LR; Double L; Riprese RLR; Bransle L
-2;2;3;1|
-Take L hands & Singles RL; Double R; Riprese LRL; Bransle R
-2;2;3;1|
-P3
-Ld: turn over L  in quick Doubles LR; turn over R in Doubles LR
-2;2|
-Ld backs Ly up 
-Singles LR, Double L, Ly Rev
-4
-P4
-Repeat P3 w/ Ly leading
-8
+|P1| Singles LR; Double L; Riprese RLR; Bransle L; Repeat starting R |2;2;3;1;8|
+|P2| Take R hands & Singles LR; Double L; Riprese RLR; Bransle L |2;2;3;1|
+||Take L hands & Singles RL; Double R; Riprese LRL; Bransle R |2;2;3;1|
+|P3| Ld: turn over L  in quick Doubles LR; turn over R in Doubles LR |2;2|
+||Ld backs Ly up Singles LR, Double L, Ly Rev |4|
+|P4| Repeat P3 w/ Ly leading |8|
+@@@@@
 Index
 A
 Adson's Saraband
