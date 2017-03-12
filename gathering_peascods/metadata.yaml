@@ -1,6 +1,13 @@
 title: Gathering Peascods
 person: John Playford
 category: English Country
+sources:
+  - slug: playford_1651
+    images:
+    - url: http://www.pbm.com/~lindahl/playford_1651/103.png
+      filename: gp_playford_facsimile.png
+      name: Facsimile
+      description:
 instructions:
 - filename: terp.md
   person:
@@ -13,4 +20,4 @@ instructions:
   - peascod_gatherers_gathering_peascods
   video:
   - name: Darius's Recording
-    youtube:  
+    youtube: LwTUpzrfNwQ
