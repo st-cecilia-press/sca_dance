@@ -1,0 +1,13 @@
+sheet_music:
+  - slug: steve_hendricks_gathering_peascods
+    name: Steve Hendrick's Arrangement
+    music_files:
+      - filename: gathering_peascods.pdf
+        source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+        name: Pennsic Pile Edition 
+audio:
+  - slug: peascod_gatherers_gathering_peascods 
+    file: peascods.mp3
+    ensemble: peascod_gatherers
+    purchase_url: https://www.cdbaby.com/cd/thepeascodgatherers
+    youtube: GCcozyxXdIM

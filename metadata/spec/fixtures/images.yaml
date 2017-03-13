@@ -1,0 +1,18 @@
+---
+title: Alta Regina
+person: Caroso
+category: Italian Balli - 16th Century & Later
+sources:
+  - slug: caroso_il_ballarino
+    images:
+    - url: http://www.pbm.com/~lindahl/caroso/facsimile/062.gif
+      filename: image.gif
+      name: Lute Tab Facsimile
+      description:
+    translations:
+    - url: http://jducoeur.org/IlBallarino/Book2/Alta%20Regina.html
+      name: Lady Clara Beaumont's Translation
+instructions:
+- filename: terp.md
+  person: ''
+  instruction_type: reconstruction
