@@ -6,3 +6,9 @@ sheet_music:
   - filename: washerwomans_bransle.pdf
     source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
     name: Pennsic Pile Edition
+- slug: bransle_fake_washerwomens
+  name: Fake Book Edition
+  music_files:
+  - filename: bransles_fake3.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition

@@ -8,5 +8,6 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - steven_hendricks_horses_bransle
+  - bransle_fake_horses
 sources:
 - slug: orchesographie

@@ -8,5 +8,6 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - estrees_washerwoman
+  - bransle_fake_washerwomens
 sources:
 - slug: orchesographie

@@ -8,5 +8,6 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - steven_hendricks_pease_bransle
+  - bransle_fake_pease
 sources:
 - slug: orchesographie

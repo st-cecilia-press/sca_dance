@@ -6,3 +6,9 @@ sheet_music:
   - filename: premier_guerre.pdf
     source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
     name: Pennsic Pile Edition
+- slug: bransle_fake_war
+  name: Fake Book Edition
+  music_files:
+  - filename: bransles_fake.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition

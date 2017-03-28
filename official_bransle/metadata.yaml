@@ -8,5 +8,6 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - russell_g_almond_official_bransle
+  - bransle_fake_official
 sources:
 - slug: orchesographie
