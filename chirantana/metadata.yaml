@@ -8,3 +8,5 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - emma_chirintana
+sources:
+- slug: siena_manuscript

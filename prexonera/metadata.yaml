@@ -1,10 +1,12 @@
 ---
-title: Giove
-person: 'Domenico '
+title: Prexonera
+person: Domenico
 category: Italian Balli - 15th Century
 instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+  sheet_music:
+  - david_lankford_prexonera
 sources:
 - slug: pnd_972
