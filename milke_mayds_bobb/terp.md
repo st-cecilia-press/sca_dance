@@ -1,4 +1,4 @@
-||(4 Couples in a line) | == In 4 == |
+||(4 Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back (2x) |2(2x)|
 |C1| C1&2 Hey for 4, start w/ R hands to ptnr as C3&4 same |4|

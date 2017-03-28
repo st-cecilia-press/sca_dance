@@ -1,4 +1,4 @@
-||(4 Couples in a square) | == In 4 == |
+||(4 Couples in a square) |==In 4==|
 |-----|----|-----|
 |V1a| Double away from the set; turn & Double back to place |1;1|
 |V1b| 2 hand switch w/ corner; 2 hand switch across set (Heads w/ ptnr) |1;1|

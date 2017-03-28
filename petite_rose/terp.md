@@ -1,4 +1,4 @@
-( Couples) | == In 6 == |
+( Couples) |==In 6==|
 |----|-----|
 |16 Pive, holding hands |16|
 |Ld Movi; Ly Movi; Ld VT w/ a Double L(CCW) |1;1;2|

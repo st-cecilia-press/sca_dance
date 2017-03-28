@@ -1,4 +1,4 @@
-||(Lds w/ Flowers & Lys along edge of floor) | == In 4 == |
+||(Lds w/ Flowers & Lys along edge of floor) |==In 4==|
 |-----|----|-----|
 |Intro| Lds only Rev; Ord LR turning in place |2;2|
 |V1| Lds Ord LRLR to face a ptnr; C on LR, Rev |4;4|

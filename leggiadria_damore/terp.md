@@ -1,4 +1,4 @@
-||(Ld betw two Lys) | == in 2 == |
+||(Ld betw two Lys) |==in 2==|
 |-----|----|-----|
 |P1:| Rev; Cont LR; Ord LR, turning L |2;2;2|
 |P2:| 3 Ord LRL; Ord R, turning R |3;1|

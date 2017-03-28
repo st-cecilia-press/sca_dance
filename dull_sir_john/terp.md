@@ -1,4 +1,4 @@
-||(4 Couples in a square) | == In 4 == |
+||(4 Couples in a square) |==In 4==|
 |-----|----|-----|
 |V1| Heads Double in, cast off w/ opp & return to place; Sides same |2;2|
 |C1| Head Lds switch; Head Lys switch; Circle to place; Sides same |1;1;2;4|

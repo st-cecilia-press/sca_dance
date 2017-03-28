@@ -1,4 +1,4 @@
-|(Lds w/ Candles, and Lys along edge of floor) | == In 4 == |
+|(Lds w/ Candles, and Lys along edge of floor) |==In 4==|
 |----|-----|
 |Lds 8 Alman Doubles (start L) to find a partner | 8 |
 |Ld 8 Alman Singles ( 4 in some recorded music)  to approach partner | 4|

@@ -1,4 +1,4 @@
-||(Longways for as Many as Will) | == In 4 == |
+||(Longways for as Many as Will) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; repeat |2;2|
 |Ch| Set and turn; repeat |2;2|

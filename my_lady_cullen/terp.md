@@ -1,4 +1,4 @@
-||(Couples in a line) | == In 4 == |
+||(Couples in a line) |==In 4==|
 |-----|----|-----|
 |P1| Double fwd & back (2x); Set & Turn single (2x) |2(2x); 2 (2x)|
 |P2| (A) Cross by R shouldrs & behind (I); Cross R again to outside of (I) |1;1|

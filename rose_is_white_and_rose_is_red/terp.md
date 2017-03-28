@@ -1,4 +1,4 @@
-||(Couples in a circle, numbered CCW) | == In 4 == |
+||(Couples in a circle, numbered CCW) |==In 4==|
 |-----|----|-----|
 |V1| Holding hands, Double fwd & back; Set & turn; repeat |2;2;4|
 |C1| C1 Fwd & back to Ld2; C1 take hands w/Ld2 & circle; repeat w/ Ly2 |2;2;4|

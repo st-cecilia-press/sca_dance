@@ -1,8 +1,10 @@
 ---
 title: Female Sailor
 person: Anonymous
-category: Progression Dances
+category: Progression Dance
 instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+sources:
+- slug: recueil_de_contradances_1706

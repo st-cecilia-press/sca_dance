@@ -1,4 +1,4 @@
-||(4 Couples in a circle) | == In 4 == |
+||(4 Couples in a circle) |==In 4==|
 |-----|----|-----|
 |V1| All join hands, Double fwd & back, Set & turn (2x) |4(2x)|
 |C1| Lds circle facing out; turn Corner; Lys circle facing out; turn ptnr |2;2;2;2|

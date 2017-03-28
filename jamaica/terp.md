@@ -1,4 +1,4 @@
-( Couples in a line) | == In 4 == |
+( Couples in a line) |==In 4==|
 |-----|----|-----|
 |P1| C1 takes R hands 1st beat, L hands 3rd beat; turn halfway |1;1|
 ||C1 face C2, take hands similarly; turn halfway |1;1|

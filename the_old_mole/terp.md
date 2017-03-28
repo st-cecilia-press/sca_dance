@@ -1,4 +1,4 @@
-||(3 Couples in a line) | == In 4 == |
+||(3 Couples in a line) |==In 4==|
 |-----|----|-----|
 |P1| Double fwd & back; Set & turn; repeat |2;2;4|
 ||Double L & back; Set & turn; Double R & back; Set & turn |2;2;2;2|

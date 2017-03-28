@@ -1,4 +1,4 @@
-||( 2 Couple s in a diamond) | == In 6 == |
+||( 2 Couple s in a diamond) |==In 6==|
 |-----|----|-----|
 |V1:| Rev; Con LR; Figure 8: turn L in Ord LR, then R in Ord LR |2;2;4|
 ||Lords: Passi (grave) LR to center; Ord L; Turning R; Spez RL; Ord R |2;1;1|

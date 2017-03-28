@@ -1,4 +1,4 @@
-||(4 Couples in a Square) | == In 4 == |
+||(4 Couples in a Square) |==In 4==|
 |-----|----|-----|
 |P1| Heads Double in; take corner betw side C; cast to place |1;1;2|
 ||Heads lead the Grand square; reverse it home |4;4|

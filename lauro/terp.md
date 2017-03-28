@@ -1,4 +1,4 @@
-|(Couples in a line) | == In 3 == |
+|(Couples in a line) |==In 3==|
 |----|-----|
 |Singles LR; Doubles LR; Rev L |1;2;1|
 |Reprises LR; Singles LR; Double L; Reprise R; Continenze LR |2;1;1;1;1|

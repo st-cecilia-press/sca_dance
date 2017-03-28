@@ -1,4 +1,4 @@
-||(4 Couples in a line) | == In 4 == |
+||(4 Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back (2x); Set & turn (2x) |4;4|
 |C1| C1 slip betw C2; C1 turn to face C2 |1;1|

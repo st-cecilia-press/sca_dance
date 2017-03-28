@@ -1,4 +1,4 @@
-||(1 Couple) | == In 3 == |
+||(1 Couple) |==In 3==|
 |-----|----|-----|
 |P1| Take R hands, Spez L to L, Rev; Turn R in Spez RL ; Repeat to R |4;4;8|
 ||Spez LR, circling L; Trab LRLR; Fiorette LR; Trab LR |4;4;2;2|

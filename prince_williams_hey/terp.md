@@ -1,4 +1,4 @@
-||(3 Couples in a line) | == In 4 == |
+||(3 Couples in a line) |==In 4==|
 |-----|----|-----|
 |P1| C1 cross over Hey betw person 2 & 3 on the other side |4|
 ||C1 cross back and Hey as before |4|

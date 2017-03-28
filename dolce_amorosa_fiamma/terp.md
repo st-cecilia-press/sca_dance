@@ -1,4 +1,4 @@
-||(3 Couples in a line) (Based on Dolce Amoroso Fuoco) | == In 4 == |
+||(3 Couples in a line) (Based on Dolce Amoroso Fuoco) |==In 4==|
 |-----|----|-----|
 |V1| (Face head of hall) Rev; Con LR; 2 Ord; 2 Scorsi - pass R & curl L |2;2;2;2|
 ||2 Ord fwd; 2 Scorsi - pass L & curl R; (face prtner); Con LR; Rev |2;2;2;2|

@@ -1,4 +1,4 @@
-||(3 People in a Circle) | == In 3 == |
+||(3 People in a Circle) |==In 3==|
 |-----|----|-----|
 |P1| Take hands & Rev; Drop hands & Spez LR, flanking back |4;4|
 || Passi LR, Cad to the L; Passi RL, Cad to the R |4;4|

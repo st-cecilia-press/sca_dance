@@ -1,4 +1,4 @@
-|(2 couples in square, partner opposite) | == In 4 == |
+|(2 couples in square, partner opposite) |==In 4==|
 |----|-----|
 |First couple starts dance; second couple repeats all steps 4 counts later||
 |Forward & back a double |2|

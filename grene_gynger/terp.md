@@ -1,4 +1,4 @@
-|(Couples)| == in 6 == |
+|(Couples)|==in 6==|
 |----|-----|
 |Single fwd, Single back, double fwd; Repeat |1;1;2;4|
 |Heart: 2 Singles moving away from ptner; 1 Double casting to face |2;2|

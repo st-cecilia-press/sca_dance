@@ -1,4 +1,4 @@
-||(4 Couples in a line) | == In 4 == |
+||(4 Couples in a line) |==In 4==|
 |-----|----|-----|
 |P1| Double fwd & back; Slow Set (2x) |2;2 (2x)|
 ||C1 & C4 Double together as others Double back |1|

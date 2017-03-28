@@ -1,4 +1,4 @@
-||(3 Couple s in a circle) | == In 6 == |
+||(3 Couple s in a circle) |==In 6==|
 |-----|----|-----|
 |P1| C1 Rev (grave); Rip LR; |1;1|
 ||Passi LR, Ord L turning L; Passi RL, Ord R turning R |1;1| 

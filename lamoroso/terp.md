@@ -1,4 +1,4 @@
-|(One Couple, Ld on right) | == In 4 == |
+|(One Couple, Ld on right) |==In 4==|
 |----|-----|
 |12 piva (only 8 in some recordings) | 12
 |Ld 2 Pive; Ld slow Double; Ly same to catch up| 2;1½ ;3½ |

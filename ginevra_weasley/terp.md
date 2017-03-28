@@ -1,4 +1,4 @@
-||( Couples) | == In 6 == |
+||( Couples) |==In 6==|
 |-----|----|-----|
 |P1| Singles LR, Doubles LR, Rev L; Back Singles LR, MV R |4;1|
 ||Voltacia (Rip L, Vt (SR, SL), Rip R)| 3|

@@ -1,4 +1,4 @@
-||(Lds w/ Flowers & Lys along edge of floor) | == In 4 == |
+||(Lds w/ Flowers & Lys along edge of floor) |==In 4==|
 |-----|----|-----|
 |Open:| Lds (holding flower) Rev; Con LR |2;2|
 |P1| Lds Passi LR; Ord L; Passi RL, Ord R to Ly; Con LR; Rev |1;1;1;1;2;2|

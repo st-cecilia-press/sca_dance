@@ -1,4 +1,4 @@
-|(3 people, single file) | == in 6 == |
+|(3 people, single file) |==in 6==|
 |-----|----|-----|
 |Trace- 6 doubles |12|
 |1 at a time, 3 singles fwd; 1 at a time cast to back in 2 doubles |6;12|

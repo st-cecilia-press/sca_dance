@@ -1,4 +1,4 @@
-||(3 people, one of one gender in center, 2 of other on sides) | == In 4 == |
+||(3 people, one of one gender in center, 2 of other on sides) |==In 4==|
 |-----|----|-----|
 |1| Double LR, MV; Double LR, MV |2;2|
 ||Center Single LR , Double L; Sides Single RL , Double R |2;2|

@@ -1,4 +1,4 @@
-||(Longways for as Many as Will) | == In 4 == |
+||(Longways for as Many as Will) |==In 4==|
 |-----|----|-----|
 |C1| dances as normal, each other C dances 2 bars behind the one in front.||
 |V1| Double fwd & back; Set & turn; repeat |2;2;4|

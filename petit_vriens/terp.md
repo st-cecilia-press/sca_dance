@@ -1,4 +1,4 @@
-|(Set of 3 people) | == In 6 == |
+|(Set of 3 people) |==In 6==|
 |----|-----|
 16 Piva; A 4 Piva; B 4 Piva to join A; C 4 Piva to join A&B |16;4;4;4|
 |(musically in 6) | == In 4 to dance == |

@@ -1,4 +1,4 @@
-||(2 Couples facing 2 Couples C3, C1, C2, C4)) | == In 4 == |
+||(2 Couples facing 2 Couples C3, C1, C2, C4)) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back (2x) |2(2x)|
 |C1| C3 & C4 Double together as rest Double away from set |1|

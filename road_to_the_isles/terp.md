@@ -1,4 +1,4 @@
-|(Couples)| == in 4 == |
+|(Couples)|==in 4==|
 |----|-----|
 |Point L foot, Step behind L, to the side R, cross fwd L, Point R foot |2|
 |Step behind R, to the side L, cross fwd R, Point L foot, Step back L |2|

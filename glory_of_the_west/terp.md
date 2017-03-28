@@ -1,4 +1,4 @@
-||(2 Couples facing) | == In 4 == |
+||(2 Couples facing) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; Slow Set away from ptnr & back |2;2|
 ||Double back & fwd; Slow Set away from ptnr & back |2;2|

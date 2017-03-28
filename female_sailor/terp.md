@@ -1,4 +1,4 @@
-|(Couples in a line) | ==In 4== |
+|(Couples in a line) |==In 4==|
 |----|-----|
 |(A) Up through line, around outside, & back to place |2|
 |(A) Down through line, around outside, & back to place |2|

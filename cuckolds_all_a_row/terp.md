@@ -1,4 +1,4 @@
-||(2 Couple s facing) | == In 4 == |
+||(2 Couple s facing) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; repeat |2;2|
 |C1| Back-to-back corner; Gypsy corner; Back-to-back ptnr; Gypsy ptnr |2;2;2;2|

@@ -1,4 +1,4 @@
-||( 1 Couple, facing) | == In 3 == |
+||( 1 Couple, facing) |==In 3==|
 |-----|----|-----|
 |V1| Rev; Trab LRLR; Spez LR in wheel; Turn in Spez L, Cad |4;4;4;4|
 |Ch| Spez sideways L & honor; Spez R; & honor |4;4|

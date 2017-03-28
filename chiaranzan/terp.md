@@ -1,4 +1,4 @@
-||(Couples in a line) | == in 3 == |
+||(Couples in a line) |==in 3==|
 |-----|----|-----|
 || (Sequences, (S), then Patterns (P))||
 |S1:| Rev; Continenze LR; Puntat a L fwd & Puntata R back |4;4;4|

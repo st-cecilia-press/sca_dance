@@ -1,4 +1,4 @@
-||(3 couples in a line) | == In 4 == |
+||(3 couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; Set & turn; repeat |2;2;4|
 |C1| Hey for Couples |4|

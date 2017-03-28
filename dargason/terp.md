@@ -1,4 +1,4 @@
-||(single line – Lds facing equal number of Lys) | == In 4 == |
+||(single line – Lds facing equal number of Lys) |==In 4==|
 |-----|----|-----|
 |P1| C1 side R; Set & turn moving into each others place |2;2|
 ||Continue w/ new ptnrs; progress until reach original place |2;2 (mult x)|

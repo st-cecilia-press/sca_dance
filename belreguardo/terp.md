@@ -1,4 +1,4 @@
-( Couples) | == In 6 == |
+( Couples) |==In 6==|
 |----|-----|
 |11 Saltarelli; Doubles LRLR; Contrapassi LLL; Singles RL |11;4;2;1|
 |Contrapassi RRR; Rip LR| 2;2| 

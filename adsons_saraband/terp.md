@@ -1,4 +1,4 @@
-|| (3 Couple s in a line) | == In 4 == |
+|| (3 Couple s in a line) |==In 4==|
 |-----|----|-----|
 |P1| Double fwd & back; Set & turn; repeat |2;2;4|
 ||Lds Double away from Lys & back; Set & turn; Lys same |2;2;4|

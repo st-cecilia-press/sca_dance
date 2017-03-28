@@ -1,4 +1,4 @@
-||(4 Couples in a circle) | == In 4 == |
+||(4 Couples in a circle) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; Set & turn; repeat |2;2;4|
 |C1| Lds double in & out; Lys in as Lds out; Lys out as Lds in & circle |2;2|

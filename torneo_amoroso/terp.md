@@ -1,4 +1,4 @@
-||(Couples) | ==In 2== |
+||(Couples) |==In 2==|
 |-----|----|-----|
 |P1| (Fwd) Rev; Con LR; Puntate LR; Doppio L; Repeat w/R |4;4;4;4|
 ||Ord LRLR |8| 

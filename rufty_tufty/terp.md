@@ -1,4 +1,4 @@
-||(2 Couples facing) | == In 4 == |
+||(2 Couples facing) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back (2x) |4|
 |Ch| (facing ptnr) Set & turn (2x) |4|

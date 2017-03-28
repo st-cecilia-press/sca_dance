@@ -1,4 +1,4 @@
-||(1 Ly standing betw 2 Lds) | == In 6 == |
+||(1 Ly standing betw 2 Lds) |==In 6==|
 |-----|----|-----|
 |P1|Rip LR ; Ly single LR; Arm L w/ Ld1 in Doubles LR to place |2;1;2|
 ||Repeat Rip & Arming, but Ly arms R w/ Ld2 |5|

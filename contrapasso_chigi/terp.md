@@ -1,4 +1,4 @@
-||(Circle of Couples) | == in 6 == |
+||(Circle of Couples) |==in 6==|
 |-----|----|-----|
 |V1| Rev; Con LR ; Turn L & Passi LR, Ord L; Passi RL, Ord R |4;4;4;4|
 |V2| R hands w/ptnr & Passi LR, Doppio L; L hands Passi RL, Doppio R |4;4|

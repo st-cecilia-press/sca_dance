@@ -1,4 +1,4 @@
-|(Couples) | == In 6 == |
+|(Couples) |==In 6==|
 |----|-----|
 |Turn out, in, out, & turn under joined arms; Repeat (2x) |2;2(2x)|
 |Ly turns under Ld ’s arm 3 times |2;2|

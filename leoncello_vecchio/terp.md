@@ -1,4 +1,4 @@
-|(Couples) | == In 4 == |
+|(Couples) |==In 4==|
 |----|-----|
 |6 salterelli| 6|
 |Movi (Ld then Ly); Ld Salt to R of Ly; Repeat (exchanging roles) |1;1;2|

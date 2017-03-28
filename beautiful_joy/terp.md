@@ -1,4 +1,4 @@
-||(3 Couple s in a line) | == In 4 == |
+||(3 Couple s in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; Set & turn; repeat |2;2;4|
 |Ch| C1 Rev; C2 Rev; C3 Rev |1;1;1|

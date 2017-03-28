@@ -1,4 +1,4 @@
-|(Line of 3 Couples)| == In 6 == |
+|(Line of 3 Couples)|==In 6==|
 |----|-----|
 |16 Salterelli| 16|
 |C1 still, as C2 R hands - Sing LR , Double L; L hands - Sing RL , Double R; RevL,  ||

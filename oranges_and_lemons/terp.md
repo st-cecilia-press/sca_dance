@@ -1,4 +1,4 @@
-||(4 Couples in a square) | == In 4 == |
+||(4 Couples in a square) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back (2x) |2 (2x)|
 |C1| Lds rev to ptnr; rev to corner; Join hands & circle half around |½;½;2|

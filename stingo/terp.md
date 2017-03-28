@@ -1,4 +1,4 @@
-||(3 Couples in a line, facing) | ==In 4== |
+||(3 Couples in a line, facing) |==In 4==|
 |-----|----|-----|
 |V1| Double back & fwd from ptnr; Double fwd & back w/ ptnr |2;2|
 |C1| Lds R hand star; All Set & turn; Lys L star; All Set & turn |2;2;2;2|

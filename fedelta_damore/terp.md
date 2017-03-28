@@ -1,4 +1,4 @@
-||(Ly betw 2 Lds) | == In 4 == |
+||(Ly betw 2 Lds) |==In 4==|
 |-----|----|-----|
 |P1| Rev; Rip LR; Ord LR turning L; Ord LR turning R |2;2;2;2|
 ||Twd foot of hallTake hands & Spez LR; Ord L |1;1|

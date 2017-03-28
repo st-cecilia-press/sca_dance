@@ -1,3 +1,4 @@
+|(Couples in a line) |==In 3==|
 |----|-----|
 |Intro: Rev; Bransle L| 1;1|
 |Singles LR; 3 Doubles LRL; Singles RL; Reprises RLR; Bransle L |1;3;1;3;1|

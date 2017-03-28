@@ -1,4 +1,4 @@
-||(Couples) | == In 6 == |
+||(Couples) |==In 6==|
 |-----|----|-----|
 |P1| Rev; Con LR; Groppo L; Fioretti LR |1;1;½;½|
 ||Semidoppio L; Groppo R; Fioretti RL; Semidoppio R |1;½ ;½; 1|

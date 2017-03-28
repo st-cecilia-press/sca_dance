@@ -1,4 +1,4 @@
-||(1 Couple) | == In 4 == |
+||(1 Couple) |==In 4==|
 |-----|----|-----|
 |P1| Rev; (circle L) Spez LRLR; Saffice LR; Puntato L fwd & R back |1;2;1;1|
 ||Rip LL, Trab LR; Double L, Passi RL |1;1|

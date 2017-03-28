@@ -1,4 +1,4 @@
-||(Couples in a line) | == In 3 == |
+||(Couples in a line) |==In 3==|
 |-----|----|-----|
 |P1| Singles LR; Double L; Riprese RLR; Bransle L; Repeat starting R |2;2;3;1;8|
 |P2| Take R hands & Singles LR; Double L; Riprese RLR; Bransle L |2;2;3;1|

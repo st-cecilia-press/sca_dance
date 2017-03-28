@@ -1,4 +1,4 @@
-||(3 Couples in a line) | == In 4 == |
+||(3 Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back (2x) |2;2|
 |C1| Top L switch back to back w/ 2nd R, then 3rd L; All fwd & back a Double|2;2|

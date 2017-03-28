@@ -2,6 +2,42 @@
   title: The English Dancing Master (1651)
   dates:
   - 1651
+- slug: playford_1665
+  title: The English Dancing Master (1665)
+  dates:
+  - 1665
+- slug: playford_1670
+  title: The English Dancing Master (1670)
+  dates:
+  - 1670
+- slug: playford_1689
+  title: The English Dancing Master (1689)
+  dates:
+  - 1689
+- slug: playford_1696
+  title: The English Dancing Master (1696)
+  dates:
+  - 1696
+- slug: playford_1701
+  title: The English Dancing Master (1701)
+  dates:
+  - 1701
+- slug: playford_1722
+  title: The English Dancing Master (1722)
+  dates:
+  - 1722
+- slug: playford_1726
+  title: The English Dancing Master (1726)
+  dates:
+  - 1726
+- slug: recueil_de_contradances_1706
+  title: Recueil de Contradances 1706
+  dates:
+  - 1706
+- slug: walsh_1731
+  title: Caledonian Country Dances (1731)
+  dates:
+  - 1731
 - slug: caroso_nobilita_di_dame
   title: Nobilità di Dame (1600)
   dates:
@@ -10,3 +46,35 @@
   title: Il Ballarino (1581)
   dates:
   - 1581
+- slug: negri_gratie_damore
+  title: Le Gratie d'Amore (1602)
+  dates:
+  - 1602
+- slug: chigi_manuscript
+  title: Chigi Manuscript (1560s)
+  dates:
+  - 1560
+  - 1569
+- slug: orchesographie
+  title: Orchesographie (1589)
+  dates:
+  - 1589
+- slug: gresley_manual 
+  title: Gresley Manual (c. 1500)
+  dates:
+  - 1480
+  - 1520
+- slug: brussels_manuscript_9085
+  title: Basses danses de Marguerite d'Autriche
+  dates: 
+  - 1495
+  - 1501
+- slug: toulouze
+  title: l'Art et instruction de bien dancer
+  dates: 
+  - 1496 
+- slug: nyp_72_254
+  title: Trattato dell' arte del ballo 
+  dates: 
+  - 1460
+  - 1469

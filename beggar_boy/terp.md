@@ -1,4 +1,4 @@
-||(3 Couples in a line) | == In 4 == |
+||(3 Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; repeat |2;2|
 |C1| C1 & C3 double away from ptnr & to place, as C2 double to meet ptnr & back |2|

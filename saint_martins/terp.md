@@ -1,4 +1,4 @@
-||(2 Couples, facing) | == In 4 == |
+||(2 Couples, facing) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd to meet Corner; ptnrs Slip out & in 2 steps |1;1|
 ||Turn single out of set (Lds L, Lys R); Turn single into set |1;1|

@@ -1,4 +1,4 @@
-|(Circle) | == In 4 == |
+|(Circle) |==In 4==|
 |----|-----|
 |[2x] - Double L; Single R| 1;½ [2x] |
 |(moving into the circle) slow Singles L R; fast Singles LRL, kick R | ½;½|

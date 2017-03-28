@@ -1,4 +1,4 @@
-|(1 Ly standing betwn 2 Lds) | == In 4 == |
+|(1 Ly standing betwn 2 Lds) |==In 4==|
 |----|-----|
 |2 Saltarelli; Ly Double L, Lds Double L; Ly Double R, Lds Double R |2;2;2|
 |Ly circle Lds (in Fig 8) starting to L w/ 3 Pive, |1|

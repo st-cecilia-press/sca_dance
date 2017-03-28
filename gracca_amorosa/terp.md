@@ -1,4 +1,4 @@
-||(Couples) | == In 6 == |
+||(Couples) |==In 6==|
 |-----|----|-----|
 |V1| Rev; Spez LR to switch; curl CCW in Spez LR to face; Trab LRLR |2;2;2;2|
 ||Spez sideways L & honor; Spez R; & honor |2;2|

@@ -1,4 +1,4 @@
-||(4 Couple s in a line plus 1 shuttle at each end) | == In 6== |
+||(4 Couple s in a line plus 1 shuttle at each end) |==In 6==|
 |-----|----|-----|
 |P1| 8 Saltarelli, starting L |8|
 |P2| Couples separate in Meza Rip, shuttle A MV to face B |1|

@@ -1,4 +1,4 @@
-|(Couples) | == in 4 == |
+|(Couples) |==in 4==|
 |----|-----|
 |Inside Single, Outside Single; Double| 1;1|
 |Ld Double fwd & turn to face as Ly Double back| 1|

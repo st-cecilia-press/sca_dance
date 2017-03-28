@@ -1,4 +1,4 @@
-|(Couples in a line) | == in 4 == |
+|(Couples in a line) |==in 4==|
 |----|-----|
 |4 doubles w/ a hop fwd; beginning w/ L | 4|
 |[2x] - Double L fwd; Double R back;| 1;1|

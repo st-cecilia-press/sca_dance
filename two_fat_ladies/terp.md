@@ -1,4 +1,4 @@
-||(4 Couples in a line) | == In 4 == |
+||(4 Couples in a line) |==In 4==|
 |-----|----|-----|
 |P1| Ends pull past ptnr by R hand & face center, as Centers ½ R hand star |1|
 ||& turn to face nearest End couple dancer; pull past that person by R hand |1|

@@ -1,4 +1,4 @@
-|(Couples) | == In 4 == |
+|(Couples) |==In 4==|
 |----|-----|
 |(L hands joined) move R hand out, in, out, in |1|
 |Spin away (3 counts) & clap; Spin back (3 counts) & clap |½;½|

@@ -1,4 +1,4 @@
-||(4 Couple s in a line) | == In 4 == |
+||(4 Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; C1&2 cast to place as C3&4 same; face down & repeat |2;2;4|
 |C1| C1&3 meet & back; circle to place; C2&4 same |2;2;4|

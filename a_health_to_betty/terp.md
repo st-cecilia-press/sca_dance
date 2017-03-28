@@ -1,4 +1,4 @@
-||( Couples in a line) | == In 4 == |
+||( Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back, Set & turn (2x) |4(2x)|
 |C1| C1 side R; C1 turn 1½ times to switch; C1 face down & same w/C2 |2;2;4|

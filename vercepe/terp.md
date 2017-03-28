@@ -1,4 +1,4 @@
-|(3 Lords & 2 Ladies) | == In 6 == |
+|(3 Lords & 2 Ladies) |==In 6==|
 |-----|----|-----|
 |I| 1 bar no movement; 11 Saltarelli, starting R |12|
 |II| Ld2 & Ld3 Doppio LR, circling CCW halfway round Ly in front of him |2|

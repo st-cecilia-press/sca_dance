@@ -1,4 +1,4 @@
-||(Circle of Couples, numbered CW) | == In 4 == |
+||(Circle of Couples, numbered CW) |==In 4==|
 |-----|----|-----|
 |P1| Slide L; Slide R; Set & turn (2x) |2;2;2(2x)|
 |P2| C1 Fwd & back to C2 (2x); Turn Corner; Turn Ptnr |2(2x);2;2|

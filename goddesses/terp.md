@@ -1,4 +1,4 @@
-||(4 Couples in a line) | == In 4 == |
+||(4 Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; repeat |2;2|
 |Ch| C1 cast to foot of set as others follow; Cast from foot of set to place |2;2|

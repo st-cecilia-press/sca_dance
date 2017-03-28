@@ -1,4 +1,4 @@
-||(Couples) | == in 3 == |
+||(Couples) |==in 3==|
 |-----|----|-----|
 |P1| Take R hands, Spez L to L, Rev; Rip RR; Trab RL; Repeat to R |4;2;2;8|
 ||Spez LR, circling L; Trab LRLR; Scambiate LR |4;4;2|

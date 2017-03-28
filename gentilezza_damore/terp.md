@@ -1,4 +1,4 @@
-||(Couples)| == In 4 == |
+||(Couples)|==In 4==|
 |-----|----|-----|
 |P1| Rev; (turn L in) Spez L, Cad; Spez LR in CW wheel; Trab LRLR |1;1;1;1|
 ||Trangi LR, flanked fwd; Turn L in Spez L, Cad; same starting R |1;1;2|

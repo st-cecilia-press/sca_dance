@@ -1,4 +1,4 @@
-||(2 Couples in a diamond) | == In 4 == |
+||(2 Couples in a diamond) |==In 4==|
 |-----|----|-----|
 |Verse 1| Lds Rev; Sottopiede LL & Sottopiede R R; Lys same |4;4;8|
 |Chorus| Hop; Hop; Rip Min L; Hop; Hop; Rip Min R |1;1;2;1;1;2|

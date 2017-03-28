@@ -1,4 +1,4 @@
-||(3 Couples in a line) | == In 4 == |
+||(3 Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back (2x) |2 (2x)|
 |C1| C2 fall back a Double & slip up to C1 place as C1&3 switch(3X) |2 (3x)|

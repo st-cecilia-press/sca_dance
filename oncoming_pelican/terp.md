@@ -1,4 +1,4 @@
-||(4 couples in a Square) | == In 4 == |
+||(4 couples in a Square) |==In 4==|
 |-----|----|-----|
 ||(Sides do everything 8 beats after the Heads. Instructions are for the Heads)||
 |V1| Double fwd & back; Set & turn; Repeat |2;2;4|

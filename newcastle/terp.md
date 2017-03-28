@@ -1,4 +1,4 @@
-||(4 Couples in a square) | == In 4 == |
+||(4 Couples in a square) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; Set to ptnr; Set to next of opp gender (2x) |2;2 (2x)|
 |C1| Arm R w/ ptnr; Lds L hand into center as Lys circle around set |1;3|

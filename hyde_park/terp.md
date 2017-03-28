@@ -1,4 +1,4 @@
-|| (4 Couples in a square) | == In 4 == |
+|| (4 Couples in a square) |==In 4==|
 |-----|----|-----|
 |V1| Heads Double fwd & back; Sides same |2;2|
 |C1| Heads slip into center to meet other C; slip out w/ corner through ||

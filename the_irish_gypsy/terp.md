@@ -1,4 +1,4 @@
-||(4 Couples in a square) | == In 4 == |
+||(4 Couples in a square) |==In 4==|
 |-----|----|-----|
 |V1| Heads double fwd & back; Heads double fwd & cast to place; Sides same |2;2;4|
 |C1| Heads slip in; set LR; Slip w/ opp betw Sides & cast to place; Sides same |1;1;2;4|

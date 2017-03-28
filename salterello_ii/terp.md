@@ -1,4 +1,4 @@
-||(Circle of 3 or more Couples) | == In 4 == |
+||(Circle of 3 or more Couples) |==In 4==|
 |-----|----|-----|
 |A| Beginning L, double in; double out |1;1|
 ||Palm R w/ ptnr & switch in a double |1|

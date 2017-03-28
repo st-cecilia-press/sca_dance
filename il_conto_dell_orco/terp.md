@@ -1,4 +1,4 @@
-||(1 Couple, facing) | == in 4 == |
+||(1 Couple, facing) |==in 4==|
 |-----|----|-----|
 |V1| Rev; Ord LRL in wheel to change places |2;3|
 |Ch| Trab RLR; Trang flanking back LR; Turn L in Spez L, Cad |1;1;1|

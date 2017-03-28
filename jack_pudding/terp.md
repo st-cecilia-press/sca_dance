@@ -1,4 +1,4 @@
-||(3 Couples in a line) | == In 4 == |
+||(3 Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd; C1 & C2 separate & Double back as C3 Double fwd |1;1|
 ||C1 & C2 Double fwd (still apart) as C3 Double back |1|

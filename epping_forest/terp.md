@@ -1,4 +1,4 @@
-|| (3 Couples in a circle) | == In 4 == |
+|| (3 Couples in a circle) |==In 4==|
 |-----|----|-----|
 |V1| 2 Doubles L; Set & turn; 2 Doubles R; Set & turn |2;2;2;2|
 |Ch| Honor ptnr & kiss or Slow Set LR; Same to corner |2;2|

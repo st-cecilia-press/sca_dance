@@ -1,4 +1,4 @@
-||(Set of 3 people) | == In 4 == |
+||(Set of 3 people) |==In 4==|
 |-----|----|-----|
 |P1| 4 SaltTed, beat Fwd |4|
 |P2| Center Sempii LR, Doppio L |2|

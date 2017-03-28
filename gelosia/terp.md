@@ -1,4 +1,4 @@
-(Line of 3 Couples) | == In 4 == |
+(Line of 3 Couples) |==In 4==|
 |----|-----|
 |8 Saltarelli| 8|
 |Ld1 3 piva pass in front of Ly1, end at R of Ly2; Rev; Ld2 Saltarello R to Ly1 |1½ ;½;1|

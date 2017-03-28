@@ -1,4 +1,4 @@
-|    |(About 4 - 7 Couples in a circle)                                         | == In 2 ==  |
+|    |(About 4 - 7 Couples in a circle)                                         |==In 2== |
 |----|--------------------------------------------------------------------------|-------------|
 | V1 |Slip L; Turn single; Slip R; Turn single 4;2                              |     [2x]    |
 | C1 | Lds take hands, Circle round to places; Lys the same 6                   |     [2x]    |

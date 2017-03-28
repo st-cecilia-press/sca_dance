@@ -1,4 +1,4 @@
-|(Set of 3 people)| == In 4 == |
+|(Set of 3 people)|==In 4==|
 |----|-----|
 |12 slow piva; L dancer double; Middle same; R same |12; 1;1;1|
 |L dancer movimento; Middle same; R same  **== In 2 ==** | 1;1;1|

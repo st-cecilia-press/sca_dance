@@ -1,4 +1,4 @@
-||(Couples) | == in 6 == |
+||(Couples) |==in 6==|
 |-----|----|-----|
 |V1| Rev L; Con LR; Passi LR, Doppio L; back Passi RL, Rip RR 4; |4;4;4|
 || Passi L R, Doppio L; back Passi R L, Rip RR |4;4|

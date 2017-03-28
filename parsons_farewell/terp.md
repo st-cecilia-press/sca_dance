@@ -1,4 +1,4 @@
-||(2 Couples facing) | == In 4 == |
+||(2 Couples facing) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd; 4 slips L; Double back; 4 slips R |1;1;1;1|
 |C1| Lds rise; Lys rise; all rise 4x; 2 hand turn w/ corner; repeat Lys start |½;½;1;2;4|

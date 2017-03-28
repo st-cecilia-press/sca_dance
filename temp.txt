@@ -1,0 +1,726 @@
+---
+sheet_music:
+- slug: jay_ter_louw_adsons_saraband
+  name: Jay Ter Louw's Arrangement
+  music_files:
+  - filename: adsons_saraband_terlouw.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monica_cellio_alenchon
+  name: Monica Cellio's Arrangement
+  music_files:
+  - filename: alenchon_cellio.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+- slug: russell_almond_alenchon
+  name: Russell Almond's Arrangement
+  music_files:
+  - filename: alenchon_almond.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: robert_smith_all_in_a_garden_green
+  name: Robert Smith's Arrangement
+  music_files:
+  - filename: all_in_a_garden_green.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monique_rio_allegrezza_damore
+  name: Monique Rio's Arrangement
+  music_files:
+  - filename: allegrezza_damore.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: aaron_elkiss_alta_regina
+  name: Aaron Elkiss's Arrangement
+  music_files:
+  - filename: alta_regina.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monica_cellio_amoroso
+  name: Monica Cellio's Arrangement
+  music_files:
+  - filename: amoroso.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monica_cellio_anello
+  name: Monica Cellio's Arrangement
+  music_files:
+  - filename: anello.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: jay_ter_louw_argeers
+  name: Jay Ter Louw's Arrangement
+  music_files:
+  - filename: argeers_octavio.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_beautiful_joy
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: bella_gioiosa.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monica_cellio_belfiore
+  name: Monica Cellio's Arrangement
+  music_files:
+  - filename: belfiore.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_bella_gioiosa
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: bella_gioiosa.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: dave_lankford_belreguardo
+  name: Dave Lankford's Arrangement
+  music_files:
+  - filename: belreguardo.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monique_rio_bizzaria_damore
+  name: Monique Rio's Arrangement
+  music_files:
+  - filename: bizzarria_jadzia.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: jay_ter_louw_black_nag
+  name: Jay Ter Louw's Arrangement
+  music_files:
+  - filename: blacknag.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_boate_man
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: boatman.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_bonny_bonny_broom
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: broome.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: aaron_elkiss_candida_luna
+  name: Aaron Elkiss's Arrangement
+  music_files:
+  - filename: candida_luna.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_chestnut
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: chestnut_hendricks.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: dennis_sherman_chiara_stella
+  name: Dennis Sherman's Arrangement
+  music_files:
+  - filename: chiara_stella.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: emma_badowski_chiaranzan
+  name: Emma Badowski's Arrangement
+  music_files:
+  - filename: chiaranzana.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monica_cellio_colonnese
+  name: Monica Cellio's Arrangement
+  music_files:
+  - filename: colonesse.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_confesse
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: confess.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: kathy_van_stone_contrapasso_chigi
+  name: Kathy Van Stone's Arrangement
+  music_files:
+  - filename: contrapasso.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: kathy_van_stone_contrapasso_in_due
+  name: Kathy Van Stone's Arrangement
+  music_files:
+  - filename: contrapasso.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: david_yardley_cuckolds_all_a_row
+  name: David Yardley's Arrangement
+  music_files:
+  - filename: cuckolds.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: david_yardley_danse_de_cleves
+  name: David Yardley's Arrangement
+  music_files:
+  - filename: cleves.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: robert_smith_dargason
+  name: Robert Smith's Arrangement
+  music_files:
+  - filename: dargason.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_dull_sir_john
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: dull_sir_john.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: kathy_van_stone_faine_i_would_if_i_could
+  name: Kathy Van Stone's Arrangement
+  music_files:
+  - filename: faine_i_would.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: aaron_elkiss_fedelta
+  name: Aaron Elkiss's Arrangement
+  music_files:
+  - filename: fedelta.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: al_cofrin_fia_giuelmina
+  name: Al Cofrin's Arrangement
+  music_files:
+  - filename: figlia_guielmina.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: katrina_hunt_fiamma_damore
+  name: Katrina Hunt's Arrangement
+  music_files:
+  - filename: fiamma_damore.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: paul_butler_fine_companion
+  name: Paul Butler's Arrangement
+  music_files:
+  - filename: fine_companion.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: aaron_elkiss_fulgente_stella
+  name: Aaron Elkiss's Arrangement
+  music_files:
+  - filename: fulgente_stella.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: al_cofrin_furioso
+  name: Al Cofrin's Arrangement
+  music_files:
+  - filename: furioso.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monica_cellio_gelosia
+  name: Monica Cellio's Arrangement
+  music_files:
+  - filename: gelosia.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: aaron_pavao_gioioso_in_tre
+  name: Aaron Pavao's Arrangement
+  music_files:
+  - filename: rostiboli.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: dave_lankford_giunto_mha_amore
+  name: Dave Lankford's Arrangement
+  music_files:
+  - filename: giunto.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: dave_lankford_gloria_damore
+  name: Dave Lankford's Arrangement
+  music_files:
+  - filename: gloria.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: jay_ter_louw_glory_of_the_west
+  name: Jay Ter Louw's Arrangement
+  music_files:
+  - filename: glory_of_the_west.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: kathy_van_stone_goddesses
+  name: Kathy Van Stone's Arrangement
+  music_files:
+  - filename: goddesses.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_gracca_amorosa
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: gracca_amorosa.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: dennis_r_sherman_grene_gynger
+  name: Dennis R. Sherman's Arrangement
+  music_files:
+  - filename: grene_gynger.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monica_cellio_grimstock
+  name: Monica Cellio's Arrangement
+  music_files:
+  - filename: grimstock.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_half_hannigan
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: half_hannikin.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_heart_ease
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: heartsease.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_horses_bransle
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: horses_hendricks.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: kathy_van_stone_hyde_park
+  name: Kathy Van Stone's Arrangement
+  music_files:
+  - filename: hyde_park.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monica_cellio_if_all_the_world_were_paper
+  name: Monica Cellio's Arrangement
+  music_files:
+  - filename: if_paper.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: paul_butler_jack_pudding
+  name: Paul Butler's Arrangement
+  music_files:
+  - filename: jack_pudding.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_jamaica
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: jamaica.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: robert_stockton_jenny_pluck_pears
+  name: Robert Stockton's Arrangement
+  music_files:
+  - filename: jenny_pluck_pears.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_jouyssance
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: jouyssance.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_juice_of_barley
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: stingo.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: aaron_elkiss_la_castellana
+  name: Aaron Elkiss's Arrangement
+  music_files:
+  - filename: castellana.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monica_cellio_leoncello_novo
+  name: Monica Cellio's Arrangement
+  music_files:
+  - filename: leoncello.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monica_cellio_leoncello_vecchio
+  name: Monica Cellio's Arrangement
+  music_files:
+  - filename: leoncello.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: katrina_hunt_lo_spagnoletto
+  name: Katrina Hunt's Arrangement
+  music_files:
+  - filename: spagnoletto.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_lord_of_carnavans_jegg
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: lord_of_carnarvan.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_lull_me_beyond_thee
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: lullme.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_mage_on_a_cree
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: mage_on_a_cree.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_maiden_lane
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: maiden_lane.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: aaron_elkiss_maraviglia_damore
+  name: Aaron Elkiss's Arrangement
+  music_files:
+  - filename: maraviglia.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monica_cellio_marchesana
+  name: Monica Cellio's Arrangement
+  music_files:
+  - filename: marchesana.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monica_cellio_mercantia
+  name: Monica Cellio's Arrangement
+  music_files:
+  - filename: mercantia.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: jay_ter_louw_merry_merry_milk_maids
+  name: Jay Ter Louw's Arrangement
+  music_files:
+  - filename: merry_merry_milkmaids.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_my_lady_cullen
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: my_lady_cullen.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: robert_smith_new_alman
+  name: Robert Smith's Arrangement
+  music_files:
+  - filename: new_alman.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_newcastle
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: newcastle.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_nonesuch
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: nonesuch.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: russell_g_almond_official_bransle
+  name: Russell G. Almond's Arrangement
+  music_files:
+  - filename: official_bransle.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_pease_bransle
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: pease_bransle.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monica_cellio_petit_vriens
+  name: Monica Cellio's Arrangement
+  music_files:
+  - filename: petit_riens.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_picking_of_sticks
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: picking_of_sticks.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monica_cellio_pizocara
+  name: Monica Cellio's Arrangement
+  music_files:
+  - filename: pizocara.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: aaron_pavao_rostiboli_gioioso
+  name: Aaron Pavao's Arrangement
+  music_files:
+  - filename: rostiboli.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_saint_martins
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: saint_martins.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: jay_ter_louw_scotch_cap
+  name: Jay Ter Louw's Arrangement
+  music_files:
+  - filename: scotch_cap.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: robert_smith_sellingers_round
+  name: Robert Smith's Arrangement
+  music_files:
+  - filename: sellingers_alaric.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: david_yardley_spagnoletta_regolata
+  name: David Yardley's Arrangement
+  music_files:
+  - filename: spagnoletta.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monica_cellio_spero
+  name: Monica Cellio's Arrangement
+  music_files:
+  - filename: spero.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: steven_hendricks_stingo
+  name: Steven Hendricks's Arrangement
+  music_files:
+  - filename: stingo.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monica_cellio_tesara
+  name: Monica Cellio's Arrangement
+  music_files:
+  - filename: tesara.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: jay_ter_louw_the_old_mole
+  name: Jay Ter Louw's Arrangement
+  music_files:
+  - filename: old_mole.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: katrina_hunt_torneo_amoroso
+  name: Katrina Hunt's Arrangement
+  music_files:
+  - filename: torneo_amoroso.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: jay_ter_louw_upon_a_summers_day
+  name: Jay Ter Louw's Arrangement
+  music_files:
+  - filename: upon_summers_day.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monica_cellio_vercepe
+  name: Monica Cellio's Arrangement
+  music_files:
+  - filename: vercepe.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: kathy_van_stone_villanella
+  name: Kathy Van Stone's Arrangement
+  music_files:
+  - filename: villanella.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: monica_cellio_vita_di_cholino
+  name: Monica Cellio's Arrangement
+  music_files:
+  - filename: vita_di_cholino.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+---
+sheet_music:
+- slug: emma_badowski_war_bransle
+  name: Emma Badowski's Arrangement
+  music_files:
+  - filename: premier_guerre.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition

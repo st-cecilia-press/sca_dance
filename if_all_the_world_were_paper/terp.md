@@ -1,4 +1,4 @@
-||(4 Couples in a square) | == In 4 == |
+||(4 Couples in a square) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; Set & turn (2x) |2;2 (2x)|
 |C1| Head Lds switch places, then Lys; Hey to place; Sides same |2;2;4|

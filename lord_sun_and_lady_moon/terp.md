@@ -1,4 +1,4 @@
-||(3 Couples In a line, the middle Couple improper) |== In 4 == |
+||(3 Couples In a line, the middle Couple improper) |==In 4==|
 |-----|----|-----|
 |P1| C1 & C2 take R hands across; Rotate CW halfway around |1|
 || C1 & C3 take L hands across; Rotate CCW halfway around |1|

@@ -1,4 +1,4 @@
-||( 1 Couple, facing) | == In 3 == |
+||( 1 Couple, facing) |==In 3==|
 |-----|----|-----|
 |V1| Rev; (in wheel) Spez LRLR; (turn over L sh) Spez LR |4;8;4|
 |Ch| Flank fwd & back w/ Putate LR; Trab LRLR; Spez L & rev; Spez R; & rev|4;4;4;4|

@@ -1,4 +1,4 @@
-||(2 Couples facing) | ==In 4== |
+||(2 Couples facing) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back (2x); Set and turn |2(2x);2|
 |Ch| Ptnrs back & fwd a Double; Corners the same |2;2|

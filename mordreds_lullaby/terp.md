@@ -1,3 +1,4 @@
+||(1 Couple , separated, Ld on L side of hall, Ly on R) |==In 6==|
 |-----|----|-----|
 |Intro| Ld 6 passi (2/ bar) to start position; 1 bar no move |3;1|
 ||Ly 6 passi, end L of Ld (lead pos);1 bar, Ly takes Ld’s hand |3;1|

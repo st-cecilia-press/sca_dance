@@ -1,4 +1,4 @@
-||(Ly betw 2 Lyds) |== in 6== |
+||(Ly betw 2 Lyds) |==in 6==|
 |-----|----|-----|
 |P1:| Rev; Barbell: Ly RipMin LR as Lds Ord LR over L sh |4;4|
 ||Hands around, Passi LR; Ord L over L; Passi RL; Ord R over R |2;2;2;2|

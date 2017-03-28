@@ -1,4 +1,4 @@
-||(Couples) | == In 6 == |
+||(Couples) |==In 6==|
 |-----|----|-----|
 |V1| Rev; Trab LRLR; Spez LR  to switch; Scam L, Cad |2;2;2;2|
 |Ch| Rip RR; Trab RL; Trangi RL flanked fwd; (turn R in) Spez R, Cad |1;1;2;2|

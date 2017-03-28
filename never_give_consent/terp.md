@@ -1,4 +1,4 @@
-||(2 Couples facing 2 Couples) | == In 4 == |
+||(2 Couples facing 2 Couples) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back |2|
 ||Squish the set: Insides change places w/ prtnr & Double back ||

@@ -1,4 +1,4 @@
-||(3 Couples) | == In 4 == |
+||(3 Couples) |==In 4==|
 |-----|----|-----|
 |P1| Rev; Con LR; |4;4|
 |P2| Mid C. meet Ord LR, Rev; switch w/ 2 Scorsi |4;4|

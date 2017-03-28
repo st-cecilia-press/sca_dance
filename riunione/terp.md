@@ -1,4 +1,4 @@
-||(Couples) | == In 6 == |
+||(Couples) |==In 6==|
 |-----|----|-----|
 |P1| Continenze LR; Singles L R; Ripresa L, Ld starting w/ a MV |1;1;1|
 ||Singles RL, passing R shoulders |1|

@@ -1,4 +1,4 @@
-||(Couples facing from across room) | == In 6 == |
+||(Couples facing from across room) |==In 6==|
 |V1| Continenze LR; Sempii LR; Doppii LR; RevL |1;1;2;1|
 ||PtL,PtR (back); MV into RipL; RipR, |1;1;1|
 ||Continenze LR; Singles LR; Doppii LR |1;1;2|

@@ -1,4 +1,4 @@
-||(4 Couples in a line) | == In 4 == |
+||(4 Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back (2x) |2(2x)|
 |C1| C1 Cast & lead to bottom; Set & turn; C1 Cast & lead to top; Set & turn |2;2;2;2|

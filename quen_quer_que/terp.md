@@ -1,4 +1,4 @@
-||(circle) | == In 4 == |
+||(circle) |==In 4==|
 |-----|----|-----|
 |V| Double LR; Single LR; Double L; Single R |2;1;1;½|
 ||Same, but spin on 1st Double L; Same but spin on 2nd Double L |4½;4½|

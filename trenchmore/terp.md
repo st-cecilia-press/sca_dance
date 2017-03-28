@@ -1,4 +1,4 @@
-||(Couples in a line) | == in 4 == |
+||(Couples in a line) |==in 4==|
 |----|-----|
 |Double fwd & back (2x) |2(2x)|
 |C1 take 3 steps fwd, & cast, leading other couples to bottom of set then to place |4|

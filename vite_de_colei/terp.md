@@ -1,4 +1,4 @@
-||(One Couple, Ld on right) | == In 4 == |
+||(One Couple, Ld on right) |==In 4==|
 |-----|----|-----|
 |V1| 8 Pive fwd, Ly turning to face Ld on the last |4|
 |Ch| (holding both hands) Ld Rev; Ly Rev; Both VT |1;1;1|

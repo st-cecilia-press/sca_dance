@@ -1,4 +1,4 @@
-||(Couples in a circle) | ==In 4== |
+||(Couples in a circle) |==In 4==|
 |-----|----|-----|
 |V1| Slip L; Set & turn; Slip R; Set & turn |2;2;2;2|
 |Ch| Lds turn single; Lys same |1;1|

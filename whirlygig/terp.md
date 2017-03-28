@@ -1,4 +1,4 @@
-||(3 Couples in a line) | ==In 4== |
+||(3 Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back (2x) |2(2x)|
 |C1A| Mushrooms – C2 pass up betw C1 & cast to place; C2 cross||

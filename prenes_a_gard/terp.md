@@ -1,3 +1,5 @@
+|(set of 3 people abreast) |==in 6==|
+|-----|----|-----|
 |A| Trace- 12 piva |12|
 |B1| 1st jump, 2nd jump, 3rd turn |1;1;2|
 |B2| 3rd jump, 2nd jump, 1st turn |1;1;2|

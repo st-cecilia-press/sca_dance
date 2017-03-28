@@ -1,4 +1,4 @@
-||(4 Couples in a square) | == In 4 == |
+||(4 Couples in a square) |==In 4==|
 |-----|----|-----|
 |V1| Heads Double fwd & 2 hand switch w/ opp |2|
 || Heads Double back as Sides fwd to meet & switch |2|

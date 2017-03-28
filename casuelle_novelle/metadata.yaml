@@ -1,8 +1,10 @@
 ---
-title: Casuelle Novelle /Castile la Novele
+title: Casuelle Novelle / Castile la Novele
 person: 'Anonymous '
-category: Basse Dance - Burgundian/French
+category: Basse Dance - Burgundian or French
 instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+sources:
+- slug: toulouze

@@ -1,4 +1,4 @@
-||(4 Couples in a line) | == In 4 == |
+||(4 Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; Set & turn; repeat|2;2;4|
 |C1| Ld1 & Ly2 switch w/ R hands, as Ld3 & Ly4 do same |1|

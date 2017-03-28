@@ -1,4 +1,4 @@
-||(One Couple, facing) | == In 3 == |
+||(One Couple, facing) |==In 3==|
 |-----|----|-----|
 |V1| Rev; Scam L; Spez RL to switch; Turn L in Spez R, Cad |4;4;4;4|
 |Ch:| Facing, Puntate L fwd & R bac k; Turn L in Spez L, Cad |4;4|

@@ -1,4 +1,4 @@
-||(for 3 in column, ideally Ld, Ly, Ld) | == In 4 == |
+||(for 3 in column, ideally Ld, Ly, Ld) |==In 4==|
 |-----|----|-----|
 |P1| Ted LRL, VdG (= In 6 =); repeat |3;2|
 |P2| Doubles RLR in 1/2 Hey, leader & center starting w/ R hands **== In 6 ==** | 3 |

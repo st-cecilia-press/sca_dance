@@ -1,4 +1,4 @@
-||(Couples) | == In 4 == |
+||(Couples) |==In 4==|
 |-----|----|-----|
 |V1| Rev; Face L in wheel Spez LRLR; Face ptnr Trab LRLR |1;2;1|
 ||Spez LR flanking back; turning L, Spez L, Cad R; Same starting R |1;1;2|

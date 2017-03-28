@@ -1,4 +1,4 @@
-||(3 Couple s in a line) | == In 4 == |
+||(3 Couple s in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; Set & turn; repeat |2;2;4|
 |C1| Ld1 take R hands w/ Ly1; L w/ Ly2; R then L w/ Ly3; kis s 2x; turn |1;1;1;1;1|

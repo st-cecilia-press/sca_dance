@@ -1,4 +1,4 @@
-||(Couples) | == in 3 == |
+||(Couples) |==in 3==|
 |-----|----|-----|
 |A|Trace 18 piva (end turning to face) |18|
 |B1| Single L fwd, Single R back, double fwd, passing R sh (pause) |2;2;1|

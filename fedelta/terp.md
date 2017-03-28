@@ -1,4 +1,5 @@
-||(Couples in a circle) | == In 3 == |
+||(Couples in a circle) |==In 3==|
+|-----|-----|-----|
 |V1| Rev; Spez LRLR (CW wheel); Passi LR; Cad |4;8;2;2|
 ||Spez RLRLRL (CCW wheel); Passi RL; Cad |12;2;2|
 |Ch| Lds turn L in Ord L, Cad ; Lys same |4;4|

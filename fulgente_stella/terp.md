@@ -1,4 +1,4 @@
-||(1 or 2 Couples) | == In 6 == |
+||(1 or 2 Couples) |==In 6==|
 |-----|----|-----|
 |P1| Rev; Trab LRLR; Spez L & honor; Spez R & honor |2;2;2;2|
 ||In CW Wheel, Spez LRLR; Scambiate LR |4;4|

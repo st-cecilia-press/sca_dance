@@ -1,4 +1,4 @@
-|(Couples in a line) | == in 4 == |
+|(Couples in a line) |==in 4==|
 |----|-----|
 |4 Doubles, beginning w/ L [end facing ptnr ] |4| 
 |Double L backing away from ptnr ; Double R toward ptnr |1;1|

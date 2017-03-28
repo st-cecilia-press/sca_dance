@@ -1,4 +1,4 @@
-||(3 Couples in a line) | == In 4 == |
+||(3 Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; Slow Set; repeat |2;2;4|
 |C1| Ld1 & Ly 3 Cast off L (others following0; Furll turn ptnr |2;2|

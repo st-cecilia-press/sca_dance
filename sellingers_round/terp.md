@@ -1,4 +1,4 @@
-||(Couples in a circle) | == In 4 == |
+||(Couples in a circle) |==In 4==|
 |-----|----|-----|
 |V1| Slip L; Slip R |2;2|
 |Ch| Lys Double fwd & clap; return to place; Set & turn (Facing ptnr) |1;1;2|

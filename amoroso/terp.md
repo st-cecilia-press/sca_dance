@@ -1,4 +1,4 @@
-|(Couples) | == In 4 == |
+|(Couples) |==In 4==|
 |----|-----|
 |12 piva (only 8 in some recordings)| 12|
 |Ld Singles LR; Piva, Strutting singles RLR; Ly same to catch up |1;1;1½ ;3½ |

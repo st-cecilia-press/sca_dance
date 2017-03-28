@@ -1,4 +1,4 @@
-||(3 Couples in a line) | == In 4 == |
+||(3 Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd; Turn single (away from ptnr); Double back (2x) |1;1;1(2x)|
 |Ch| Half-S - Hey Ld2 w/ C1, Ly2 w/ C3 (C2 ends in ptnr’s place) |2|

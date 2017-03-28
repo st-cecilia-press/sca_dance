@@ -1,4 +1,4 @@
-||(Couples) | == In 6 == |
+||(Couples) |==In 6==|
 |-----|----|-----|
 |P1| Rev; Spez LR to switch; ScamLR; Puntate L fwd & R back |2;2;2;2;2|
 ||Spez LR flanking back; Passi LR, Cad fwd |2;2|

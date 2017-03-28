@@ -1,4 +1,4 @@
-|(Ly w/ 3 Lds A w/ Ly, B behind A, C behind Ly) | == In 6 == |
+|(Ly w/ 3 Lds A w/ Ly, B behind A, C behind Ly) |==In 6==|
 |-----|----|-----|
 |11 Saltarelli; B & C separate w/ 6 Mrip  (*== In 4 ==*) |11;6|
 |Ly MV in Double L; A Double LRL *== In 6 ==* | 4| 

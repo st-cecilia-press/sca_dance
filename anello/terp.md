@@ -1,4 +1,4 @@
-|(2 Couple s facing) | == In 4 == |
+|(2 Couple s facing) |==In 4==|
 |-----|----|-----|
 |Intro| All join hands & circle L w/ 8 salterelli |8|
 |P1|Movi [Lds then Lys ];Lds switch in 2 salt;Movi ( Lys then Lds);Lys switch| 1;2;1;2|

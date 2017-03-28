@@ -1,4 +1,4 @@
-||(Couples in a line) | == In 4 == |
+||(Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back, Set & turn (2x) |4(2x)|
 |C1| C1 take near hands facing C2; Ld1 lead Ly1 a Double to Ly2 |1;1|

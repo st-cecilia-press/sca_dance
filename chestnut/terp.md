@@ -1,4 +1,4 @@
-||(3 Couples in a line) | == In 4 == |
+||(3 Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; repeat |2;2|
 |C1a| Lds & Lys Double back from ptnr; Switch places w/ ptnr |1;1|

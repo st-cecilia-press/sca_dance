@@ -1,4 +1,4 @@
-(Line of 4 Couples) | == In 6 == |
+(Line of 4 Couples) |==In 6==|
 |----|-----|
 |12 Pive; Lds circle ptnr w/ 4 Pive; Lys same |12;4;4|
 |Lds RevR, All RipR, holding hands |2|

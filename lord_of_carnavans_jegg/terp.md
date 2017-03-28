@@ -1,4 +1,4 @@
-||(4 Couples in a line) | == In 4 == |
+||(4 Couples in a line) |==In 4==|
 |-----|----|-----|
 |P1| Double Fwd & back (2x); Do-Si-Do w/ ptnr (2x) |2(2x);2(2x)|
 |P2| C1 cross over & go behind C2 into their place (on ptnr’s side) |2|

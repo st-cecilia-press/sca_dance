@@ -1,4 +1,4 @@
-||(3 Couples in a circle) | == In 4 == |
+||(3 Couples in a circle) |==In 4==|
 |-----|----|-----|
 |P1| Ld1 lead Lys1&3 fwd & back a Double (2x) |2(2x)|
 ||Ld1 honor Ly3, then Ly1; Ld1 turns Ly2 to progress to Ld2’s place as ||

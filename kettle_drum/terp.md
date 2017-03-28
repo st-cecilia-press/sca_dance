@@ -1,4 +1,4 @@
-||(4 Couples in a square) | == In 4 == |
+||(4 Couples in a square) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; repeat |2;2|
 |C1| Lys R hands across; Lds same; all turn ptnr by R hand |1;1;2|

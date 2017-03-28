@@ -1,4 +1,4 @@
-||( Couples) | == In 6 == |
+||( Couples) |==In 6==|
 |-----|----|-----|
 |P1| Reprise LR; Ld Singles LR; Doubles LR |2;1;2|
 ||(Ld MV) All Reprise LR; Ld Singles LR; Doubles LR home |2;1;2|

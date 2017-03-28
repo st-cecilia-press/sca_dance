@@ -1,4 +1,4 @@
-|(Couples in a line) | == in 4 == |
+|(Couples in a line) |==in 4==|
 |----|-----|
 |Double L fwd; Double R back| 1;1|
 |Take R hands & Circle CW: Singles LR , Double L |1;1|

@@ -1,4 +1,4 @@
-||(Couples, Ld facing Ly) | == In 6 == |
+||(Couples, Ld facing Ly) |==In 6==|
 |-----|----|-----|
 |V1:| Hold R hands, Rev; drop hands, 8 spez in CW wheel, starting L |2;8|
 ||Scambiata L, Cad L, landing to face ptnr |2|

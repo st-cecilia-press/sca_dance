@@ -1,4 +1,4 @@
-||(one or more couples) | == In 3 == |
+||(one or more couples) |==In 3==|
 |-----|----|-----|
 |V1| Facing ptnr, Rev; Con LR; Ord LR fwd; Con L, Rip RR |4;4;4;4|
 |V2| Fwd Passi LR, Ord L; Passi RL, Ord R; Con L, Rip RR; Rev |4;4;4;4|

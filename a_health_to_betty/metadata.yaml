@@ -6,3 +6,5 @@ instructions:
 - filename: terp.md
   person: Felice Debbage
   instruction_type: reconstruction
+sources:
+- slug: playford_1651

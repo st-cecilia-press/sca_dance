@@ -1,4 +1,4 @@
-||(3 people in circle) | == In 6 == |
+||(3 people in circle) |==In 6==|
 |-----|----|-----|
 |V1| Take hands & Rev w/ jump; Trab LRLR & drop hands |2;2|
 ||Turn L: Spez LR, Passi LR; Cad |2;1;1|

@@ -1,4 +1,4 @@
-||(2 Couples facing) | == In 4 == |
+||(2 Couples facing) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; repeat |2;2|
 |Ch| (facing ptnr) Double away from & toward ptnr; Turn corner |2;2|

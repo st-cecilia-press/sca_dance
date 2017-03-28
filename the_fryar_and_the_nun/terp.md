@@ -1,4 +1,4 @@
-||(Couples in a line) | == In 4 == |
+||(Couples in a line) |==In 4==|
 |-----|----|-----|
 |Intro| Lds Double fwd & Turn single, face down hall Lys same |2;2|
 ||Lys Double down hall & Turn single, face ptnr; Lds same |2;2|

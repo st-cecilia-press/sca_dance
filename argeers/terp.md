@@ -1,4 +1,4 @@
-||(2 Couples facing) | == In 4 == |
+||(2 Couples facing) |==In 4==|
 |-----|----|-----|
 |V1| Corners join hands, Slip out & back ;Turn corner ½ ; Turn ptnr 1½ |1;1;2|
 ||Double fwd; Turn corner ½; Turn ptnr 1½ |1;1;2|

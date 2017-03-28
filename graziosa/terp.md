@@ -1,4 +1,4 @@
-|(Couples) | == In 4 == |
+|(Couples) |==In 4==|
 |----|-----|
 |Both TedL R L, Ld DR ½ around W; Both TedL R L, Ly DR to place on R |4;4|
 |Ld Ted LR, Singles LR, Double L; Ly same |4;4|

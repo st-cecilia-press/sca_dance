@@ -1,4 +1,4 @@
-||( 1 Couple, facing) | == In 3 == |
+||( 1 Couple, facing) |==In 3==|
 |-----|----|-----|
 |V1| Spez L, Rev; Spez R, Rev; Spez LR to switch in CW wheel |4;4;4| 
 ||Trab LRLR; Spez LRLR in CW wheel; Scambiate LR |4;8;8| 

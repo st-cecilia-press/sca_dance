@@ -1,4 +1,4 @@
-||(3 Couples in a line) | == In 4 == |
+||(3 Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; Set & turn; repeat |2;2;4|
 |C1| Ld2 & C1 ½ triangle Hey, while Ly2 & C3 the same; turn ptnr |2;2|

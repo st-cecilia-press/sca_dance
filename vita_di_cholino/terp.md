@@ -1,4 +1,4 @@
-||(Ly betw 2 Lds) | == In 4 == |
+||(Ly betw 2 Lds) |==In 4==|
 |-----|----|-----|
 |V1| Con LR; Ly Singles LR, MV R, as Lds Singles LR back; Rip LR |1;1;2|
 |Ch| Ly & Ld to her R Rev; Ly & Ld to L Rev; VT CW in Double R |1;1;1|

@@ -1,4 +1,4 @@
-||(Couples in a line) | == In 4 == |
+||(Couples in a line) |==In 4==|
 |-----|----|-----|
 |P1| Double fwd & back 2 C1 Cast to C2 place as C2 lead to C1 place & cast,||
 ||face down hall |2|

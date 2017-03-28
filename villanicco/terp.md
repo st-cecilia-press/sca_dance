@@ -1,4 +1,4 @@
-||(2 Lds & 2 Lys in a sqaure) | == In 4 == |
+||(2 Lds & 2 Lys in a sqaure) |==In 4==|
 |-----|----|-----|
 |V1| Rev; Ord LR L |2;3|
 |Ch| Passi RLR, Passo L w/ hop, turning R: Spez RL, Ord R w/ Cad |1;2|

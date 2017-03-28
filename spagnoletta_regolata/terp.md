@@ -1,4 +1,4 @@
-||(Couples) | == In 6 == |
+||(Couples) |==In 6==|
 |-----|----|-----|
 |V1| Rev; Spez LRLR; Passi LRLR; (facing) Rip LL, Trab LR |2;4;2;2|
 ||Turn CCW in Semidoppio L; Rip RR, Trab RL; Semidoppio CW |2;2;2|

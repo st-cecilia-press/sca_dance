@@ -1,4 +1,4 @@
-||(3 Couples in a line) | == In 4 == |
+||(3 Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back (2x); Double L & back |4;2|
 ||Double speed single Hey on both sides; Set & turn (2x) |2;4|

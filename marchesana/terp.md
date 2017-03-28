@@ -1,4 +1,4 @@
-|(Couples) | == In 4 == |
+|(Couples) |==In 4==|
 |----|-----|
 |8 salterelli |8|
 |Ld stamp LRL; then Double R; Ly stamp LR L; then Double R |1;1;1;1|

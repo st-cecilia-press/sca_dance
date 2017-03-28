@@ -1,8 +1,10 @@
 ---
 title: Lauro
-person: Anonymous
+person: Lorenzo de Medici
 category: Basse Dance - Italian
 instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+sources:
+- slug: nyp_72_254

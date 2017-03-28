@@ -1,8 +1,10 @@
 ---
 title: Prenes a Gard
-person: "|(set of 3 people abreast) | == in 6 == |"
-category: "|-----|----|-----|"
+person: Anonymous
+category: Gresley
 instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+sources:
+- slug: gresley_manual

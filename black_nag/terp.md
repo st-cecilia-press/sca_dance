@@ -1,4 +1,4 @@
-||(3 Couples in a line) | == In 4 == |
+||(3 Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; repeat |2;2|
 |C1| Slip up the line (C1; C2; then C3); Turn single; Slip down; Turn single |1;1;1;1;3;1|

@@ -1,4 +1,4 @@
-||(Couples) | == in 3== |
+||(Couples) |==in 3==|
 |-----|----|-----|
 |P1| Rev; Semidoppio L, turn L; Spez RL to switch; Semidoppio R, turn R |4;4;4;4|
 ||Ld Spez LR (flanking back); Ly Spez LR (flanking back) |4;4|

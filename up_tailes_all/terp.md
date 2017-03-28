@@ -1,4 +1,4 @@
-||(about 4-7 Couples in a circle, numbered CCW) | ==In 2== |
+||(about 4-7 Couples in a circle, numbered CCW) |==In 2==|
 |-----|----|-----|
 |P1| Double fwd & back; set & turn; repeat |4;4 (2x)|
 |P2| C1 lead out betw C2 & cast to inside & clap; C1 arms R |4;4|

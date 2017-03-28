@@ -1,4 +1,4 @@
-|(set of 3 people in a file) | == in 6 == |
+|(set of 3 people in a file) |==in 6==|
 |----|-----|
 |4 Doubles fwd |8| 
 |Ld1 Double away; Ld2 Double to catch up; Ld 3 same |2;2;2|

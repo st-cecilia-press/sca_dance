@@ -1,4 +1,4 @@
-||(2 lines of Ly, Ld, Ly facing each other) | == In 4 == |
+||(2 lines of Ly, Ld, Ly facing each other) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; repeat |2;2|
 |C1| Lds go betw the 2 Lys to his L, lead out a Double, turn and lead back ||

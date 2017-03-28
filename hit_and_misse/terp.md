@@ -1,4 +1,4 @@
-||(2 Couples facing) | == In 4 == |
+||(2 Couples facing) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back; repeat |2;2|
 |Ch| Double in; Double out to side w/ opp |1;1|

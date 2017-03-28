@@ -1,4 +1,4 @@
-||(3 Couples in a line) | ==In 4== |
+||(3 Couples in a line) |==In 4==|
 |-----|----|-----|
 |V1| Double fwd & back (2x); Set & turn (2x) |2(2x);2(2x)|
 |C1| Couple 2 lead up betw C1, Cast off, return to place |2|

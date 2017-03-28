@@ -1,4 +1,4 @@
-||(3 Couples in a circle) | == In 4 == |
+||(3 Couples in a circle) |==In 4==|
 |-----|----|-----|
 |V1| Slip L; Set & turn; Slip R; Set & turn |2;2;2;2|
 |C1| Ld1 turns Ly into center; Ld2 same; Ld 3 same; All Rev |1;1;1;1|

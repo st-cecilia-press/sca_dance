@@ -1,4 +1,4 @@
-||(2 Couples) | == In 6 == |
+||(2 Couples) |==In 6==|
 |-----|----|-----|
 |V1| Rev w/ jump; In wheel: Ord L; Spez R L; Ord R |2;2;2;2|
 |Cha| Sottopiede LLL, Cad L, Trab R; Ord L turning L |2;2|

@@ -1,4 +1,4 @@
-||(Couples in a line) | == In 4 == |
+||(Couples in a line) |==In 4==|
 |-----|----|-----|
 |Intro| Double fwd & back, Set & turn (2x) |4(2x)|
 |V1| Ld1 pull Ly1 twd himself, then push away; Ld1 push Ly1 betw C2 |1;1|

@@ -1,4 +1,4 @@
-||( Couple s) | == In 3 == |
+||( Couples) |==In 3==|
 |-----|----|-----|
 |P1| Rev; Bransle L |1;1|
 ||Singles LR ; Doubles LRL; Singles RL ; Double R back (drop hands) |1;3;1;1|
