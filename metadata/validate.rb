@@ -5,7 +5,7 @@ class Validator
   def initialize(sources_yaml='./sources.yaml', ensembles_yaml='./ensembles.yaml')
     @sources_yaml = sources_yaml
     @ensembles_yaml = ensembles_yaml 
-    @directories = Dir.glob('*').select {|f| File.directory? f and  f != "metadata" }
+    @directories = Dir.glob('*').select {|f| File.directory? f and  f != "metadata" and f!= 'test'}
     @errors = []
   end
   def validate_repo

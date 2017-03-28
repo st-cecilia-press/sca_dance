@@ -1,0 +1,14 @@
+---
+sheet_music:
+- slug: monica_cellio_alenchon
+  name: Monica Cellio's Arrangement
+  music_files:
+  - filename: alenchon_cellio.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition
+- slug: russell_almond_alenchon
+  name: Russell Almond's Arrangement
+  music_files:
+  - filename: alenchon_almond.pdf
+    source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
+    name: Pennsic Pile Edition

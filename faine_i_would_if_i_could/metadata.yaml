@@ -6,5 +6,7 @@ instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+  sheet_music:
+  - kathy_van_stone_faine_i_would_if_i_could
 sources:
 - slug: playford_1651

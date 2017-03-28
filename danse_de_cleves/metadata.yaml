@@ -6,5 +6,7 @@ instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+  sheet_music:
+  - david_yardley_danse_de_cleves
 sources:
 - slug: brussels_manuscript_9085

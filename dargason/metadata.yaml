@@ -6,5 +6,7 @@ instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+  sheet_music:
+  - robert_smith_dargason
 sources:
 - slug: playford_1651

@@ -6,5 +6,7 @@ instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+  sheet_music:
+  - aaron_elkiss_candida_luna
 sources:
 - slug: caroso_il_ballarino

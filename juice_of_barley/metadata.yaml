@@ -6,5 +6,7 @@ instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+  sheet_music:
+  - steven_hendricks_juice_of_barley
 sources:
 - slug: playford_1689

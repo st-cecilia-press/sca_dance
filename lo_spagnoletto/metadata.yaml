@@ -6,5 +6,7 @@ instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+  sheet_music:
+  - katrina_hunt_lo_spagnoletto
 sources:
 - slug: negri_gratie_damore

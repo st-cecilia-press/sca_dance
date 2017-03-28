@@ -3,50 +3,52 @@ title: Alta Regina
 person: Caroso
 category: Italian Balli - 16th Century & Later
 sources:
-  - slug: caroso_il_ballarino
-    images:
-    - url: http://www.pbm.com/~lindahl/caroso/facsimile/057.gif
-      filename: alta_regina_il_bal_pg1.gif
-      name: Dance Facsimile pg1
-      description:
-    - url: http://www.pbm.com/~lindahl/caroso/facsimile/058.gif
-      filename: alta_regina_il_bal_pg2.gif
-      name: Dance Facsimile pg2
-      description:
-    - url: http://www.pbm.com/~lindahl/caroso/facsimile/060.gif
-      filename: alta_regina_il_bal_pg3.gif
-      name: Dance Facsimile pg3
-      description:
-    - url: http://www.pbm.com/~lindahl/caroso/facsimile/061.gif
-      filename: alta_regina_il_bal_pg4.gif
-      name: Dance Facsimile pg4
-      description:
-    - url: http://www.pbm.com/~lindahl/caroso/facsimile/062.gif
-      filename: alta_regina_il_bal_lute.gif
-      name: Lute Tab Facsimile
-      description:
-    translations:
-    - url: http://jducoeur.org/IlBallarino/Book2/Alta%20Regina.html
-      name: Lady Clara Beaumont's Translation
-  - slug: caroso_nobilita_di_dame
-    images:
-    - url: http://www.pbm.com/~lindahl/caroso2/facsimile/0118.html
-      filename: alta_regina_facsimile_pg1.gif
-      name: Dance Facsimile pg1
-      description:
-    - url: http://www.pbm.com/~lindahl/caroso2/facsimile/0120.html
-      filename: alta_regina_facsimile_pg1.gif
-      name: Dance Facsimile pg2
-      description:
-    - url: http://www.pbm.com/~lindahl/caroso2/facsimile/0121.html
-      filename: alta_regina_facsimile_pg1.gif
-      name: Dance Facsimile pg3
-      description:
-    - url: http://www.pbm.com/~lindahl/caroso2/facsimile/0122.html
-      filename: alta_regina_lute_facsimile.gif
-      name: Lute Tab Facsimile
-      description:
+- slug: caroso_il_ballarino
+  images:
+  - url: http://www.pbm.com/~lindahl/caroso/facsimile/057.gif
+    filename: alta_regina_il_bal_pg1.gif
+    name: Dance Facsimile pg1
+    description: 
+  - url: http://www.pbm.com/~lindahl/caroso/facsimile/058.gif
+    filename: alta_regina_il_bal_pg2.gif
+    name: Dance Facsimile pg2
+    description: 
+  - url: http://www.pbm.com/~lindahl/caroso/facsimile/060.gif
+    filename: alta_regina_il_bal_pg3.gif
+    name: Dance Facsimile pg3
+    description: 
+  - url: http://www.pbm.com/~lindahl/caroso/facsimile/061.gif
+    filename: alta_regina_il_bal_pg4.gif
+    name: Dance Facsimile pg4
+    description: 
+  - url: http://www.pbm.com/~lindahl/caroso/facsimile/062.gif
+    filename: alta_regina_il_bal_lute.gif
+    name: Lute Tab Facsimile
+    description: 
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Alta%20Regina.html
+    name: Lady Clara Beaumont's Translation
+- slug: caroso_nobilita_di_dame
+  images:
+  - url: http://www.pbm.com/~lindahl/caroso2/facsimile/0118.html
+    filename: alta_regina_facsimile_pg1.gif
+    name: Dance Facsimile pg1
+    description: 
+  - url: http://www.pbm.com/~lindahl/caroso2/facsimile/0120.html
+    filename: alta_regina_facsimile_pg1.gif
+    name: Dance Facsimile pg2
+    description: 
+  - url: http://www.pbm.com/~lindahl/caroso2/facsimile/0121.html
+    filename: alta_regina_facsimile_pg1.gif
+    name: Dance Facsimile pg3
+    description: 
+  - url: http://www.pbm.com/~lindahl/caroso2/facsimile/0122.html
+    filename: alta_regina_lute_facsimile.gif
+    name: Lute Tab Facsimile
+    description: 
 instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+  sheet_music:
+  - aaron_elkiss_alta_regina

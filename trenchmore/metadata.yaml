@@ -6,5 +6,7 @@ instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+  sheet_music:
+  - ravenscroft_tomorrow_the_fox
 sources:
 - slug: playford_1722

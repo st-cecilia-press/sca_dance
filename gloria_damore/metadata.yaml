@@ -6,5 +6,7 @@ instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+  sheet_music:
+  - dave_lankford_gloria_damore
 sources:
 - slug: caroso_il_ballarino

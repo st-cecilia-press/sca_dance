@@ -6,5 +6,7 @@ instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+  sheet_music:
+  - monique_rio_bizzaria_damore
 sources:
 - slug: negri_gratie_damore

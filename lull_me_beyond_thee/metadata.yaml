@@ -6,5 +6,7 @@ instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+  sheet_music:
+  - steven_hendricks_lull_me_beyond_thee
 sources:
 - slug: playford_1651
