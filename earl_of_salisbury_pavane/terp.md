@@ -1,4 +1,3 @@
-Progression Dance
 ||(Couples in a line)| == In 4 ==|
 |-----|----|-----|
 |P1| L pavanne set fwd |2| 
