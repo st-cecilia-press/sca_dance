@@ -8,5 +8,8 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - monica_cellio_anello
+  video:
+  - name: Darius's Recording
+    youtube: rsW-GwqRb8g
 sources:
 - slug: pnd_972

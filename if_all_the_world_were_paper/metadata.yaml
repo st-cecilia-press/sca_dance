@@ -8,5 +8,10 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - monica_cellio_if_all_the_world_were_paper
+  video:
+  - name: Darius's Recording
+    youtube: NzO_e74yMhM
+  - name: Darius's Recording
+    youtube: c3t5w5WR96U
 sources:
 - slug: playford_1651

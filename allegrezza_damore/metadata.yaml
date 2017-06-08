@@ -8,5 +8,12 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - monique_rio_allegrezza_damore
+  video:
+  - name: Darius's Recording
+    youtube: YtPDqgUVdZU
+  - name: Darius's Recording
+    youtube: jmpjDx4ZQz0
+  - name: Darius's Recording
+    youtube: zXs_lgmd5DM
 sources:
 - slug: caroso_il_ballarino

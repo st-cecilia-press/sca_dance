@@ -8,5 +8,8 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - paul_butler_fine_companion
+  video:
+  - name: Darius's Recording
+    youtube: S1x9DYOYK2k
 sources:
 - slug: playford_1651

@@ -8,5 +8,8 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - aaron_elkiss_fedelta
+  video:
+  - name: Darius's Recording
+    youtube: 2wpGQF_TGgY
 sources:
 - slug: caroso_il_ballarino

@@ -8,5 +8,10 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - steven_hendricks_nonesuch
+  video:
+  - name: 'Darius''s Recording: Northwoods Variant'
+    youtube: eUMpauIYtmc
+  - name: Darius's Recording
+    youtube: 1KJSx7e4Rdw
 sources:
 - slug: playford_1651

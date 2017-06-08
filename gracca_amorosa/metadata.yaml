@@ -8,5 +8,8 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - steven_hendricks_gracca_amorosa
+  video:
+  - name: Darius's Recording
+    youtube: z3A28jRwmU4
 sources:
 - slug: caroso_il_ballarino

@@ -8,5 +8,8 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - steven_hendricks_my_lady_cullen
+  video:
+  - name: Darius's Recording
+    youtube: 4L0grS0jhEo
 sources:
 - slug: playford_1651

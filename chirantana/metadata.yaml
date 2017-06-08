@@ -8,5 +8,10 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - emma_chirintana
+  video:
+  - name: Darius's Recording
+    youtube: mQH_-GN_9y0
+  - name: Darius's Recording
+    youtube: yHrqRIv4Zvw
 sources:
 - slug: siena_manuscript
