@@ -8,5 +8,8 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - aaron_elkiss_maraviglia_damore
+  video:
+  - name: Darius's Recording
+    youtube: qUhJlq2MHRE
 sources:
 - slug: caroso_il_ballarino

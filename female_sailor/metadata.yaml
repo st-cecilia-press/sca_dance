@@ -6,5 +6,8 @@ instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+  video:
+  - name: Darius's Recording
+    youtube: uh60dANB778
 sources:
 - slug: recueil_de_contradances_1706

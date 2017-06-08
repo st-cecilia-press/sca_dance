@@ -8,5 +8,10 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - katrina_hunt_lo_spagnoletto
+  video:
+  - name: Darius's Recording
+    youtube: ug0NO-hUZ8I
+  - name: Darius's Recording
+    youtube: YWFxKW6o5bU
 sources:
 - slug: negri_gratie_damore

@@ -8,5 +8,8 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - kathy_van_stone_faine_i_would_if_i_could
+  video:
+  - name: Darius's Recording
+    youtube: MRhPNwet3SY
 sources:
 - slug: playford_1651

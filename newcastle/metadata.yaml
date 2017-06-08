@@ -8,5 +8,10 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - steven_hendricks_newcastle
+  video:
+  - name: Darius's Recording
+    youtube: W1CVEIaaYTM
+  - name: Darius's Recording
+    youtube: Qby4SH_PDLg
 sources:
 - slug: playford_1651

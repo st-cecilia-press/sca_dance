@@ -14,10 +14,10 @@ CSV.foreach('./videos.csv') do |row|
     unless row[2].nil?
      vid["name"]  = "Darius's Recording: #{row[2]}"
     end
-    if metadata["instructions"][0]["videos"].nil?
-      metadata["instructions"][0]["videos"] = []
+    if metadata["instructions"][0]["video"].nil?
+      metadata["instructions"][0]["video"] = []
     end
-    metadata["instructions"][0]["videos"].push(vid)
+    metadata["instructions"][0]["video"].push(vid)
     t_file.puts metadata.to_yaml
     t_file.close
     FileUtils.mv(t_file.path, "./#{row[0]}/metadata.yaml")
@@ -26,5 +26,5 @@ CSV.foreach('./videos.csv') do |row|
   end  
 end
 
-   File.open("test/missing.csv", "w") {|f| f.write(missing.inject([]) { |csv, row|  csv << CSV.generate_line(row) }.join(""))}
+   File.open("remainder_videos.csv", "w") {|f| f.write(missing.inject([]) { |csv, row|  csv << CSV.generate_line(row) }.join(""))}
 

@@ -8,5 +8,8 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - steven_hendricks_confesse
+  video:
+  - name: Darius's Recording
+    youtube: _d1GIiVXvSM
 sources:
 - slug: playford_1651
