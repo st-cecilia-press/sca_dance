@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - bransle_fake_clog
+  audio:
+  - musica_subterranea_clog_bransle
 sources:
 - slug: orchesographie

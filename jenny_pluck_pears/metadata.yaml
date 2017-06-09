@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - robert_stockton_jenny_pluck_pears
+  audio:
+  - musica_subterranea_jenny_pluck_pears
 sources:
 - slug: playford_1651

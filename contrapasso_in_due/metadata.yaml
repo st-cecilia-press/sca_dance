@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - kathy_van_stone_contrapasso_in_due
+  audio:
+  - musica_subterranea_contrapasso_in_due
 sources:
 - slug: caroso_il_ballarino

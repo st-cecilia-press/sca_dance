@@ -8,3 +8,5 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - robert_stockton_black_alman
+  audio:
+  - musica_subterranea_black_alman

@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - bransle_fake_pinagay
+  audio:
+  - musica_subterranea_pinagay_bransle
 sources:
 - slug: orchesographie

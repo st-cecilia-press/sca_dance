@@ -6,3 +6,9 @@ sheet_music:
   - filename: vita_di_cholino.pdf
     source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
     name: Pennsic Pile Edition
+audio:
+- slug: musica_subterranea_vita_di_cholino
+  youtube: fgTENzk3VCc
+  purchase_url: https://store.cdbaby.com/cd/musicasubterranea4
+  ensemble: musica_subterranea
+  file: ''

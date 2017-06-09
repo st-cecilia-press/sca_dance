@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - richard_schweitzer_new_yer
+  audio:
+  - musica_subterranea_new_yer_de_tribus
 sources:
 - slug: gresley_manual

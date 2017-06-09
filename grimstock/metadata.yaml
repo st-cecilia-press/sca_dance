@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - monica_cellio_grimstock
+  audio:
+  - musica_subterranea_grimstock
 sources:
 - slug: playford_1651

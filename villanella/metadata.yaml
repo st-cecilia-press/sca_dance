@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - kathy_van_stone_villanella
+  audio:
+  - musica_subterranea_villanella
 sources:
 - slug: caroso_il_ballarino

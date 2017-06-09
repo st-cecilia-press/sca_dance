@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - bransle_fake_aridan
+  audio:
+  - musica_subterranea_aridan_bransle
 sources:
 - slug: orchesographie

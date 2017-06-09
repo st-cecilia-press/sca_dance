@@ -6,3 +6,9 @@ sheet_music:
   - filename: picking_of_sticks.pdf
     source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
     name: Pennsic Pile Edition
+audio:
+- slug: musica_subterranea_picking_of_sticks
+  youtube: 6zkhKI6IxOw
+  purchase_url: https://store.cdbaby.com/cd/musicasubterranea3
+  ensemble: musica_subterranea
+  file: ''

@@ -6,5 +6,7 @@ instructions:
 - filename: terp.md
   person: ''
   instruction_type: choreography
-  sheet_music: 
+  sheet_music:
   - aaron_elkiss_earl_of_salisbury
+  audio:
+  - musica_subterranea_earl_of_salisbury_pavane

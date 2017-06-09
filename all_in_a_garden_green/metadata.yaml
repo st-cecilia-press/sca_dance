@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - robert_smith_all_in_a_garden_green
+  audio:
+  - musica_subterranea_all_in_a_garden_green
 sources:
 - slug: playford_1651

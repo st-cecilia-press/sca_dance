@@ -8,5 +8,8 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - monica_cellio_amoroso
+  audio:
+  - musica_subterranea_amoroso_long_version
+  - musica_subterranea_amoroso_short_version
 sources:
 - slug: pna_476

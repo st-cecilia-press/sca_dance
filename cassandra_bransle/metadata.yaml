@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - bransle_fake_cassandra
+  audio:
+  - musica_subterranea_cassandra_bransle
 sources:
 - slug: orchesographie

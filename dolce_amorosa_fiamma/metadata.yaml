@@ -6,5 +6,7 @@ instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+  audio:
+  - musica_subterranea_dolce_amorosa_fiamma
 sources:
 - slug: caroso_il_ballarino

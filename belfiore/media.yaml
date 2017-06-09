@@ -6,3 +6,9 @@ sheet_music:
   - filename: belfiore.pdf
     source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
     name: Pennsic Pile Edition
+audio:
+- slug: musica_subterranea_belfiore
+  youtube: KHJjsQOE238
+  purchase_url: https://store.cdbaby.com/cd/musicasubterranea3
+  ensemble: musica_subterranea
+  file: ''

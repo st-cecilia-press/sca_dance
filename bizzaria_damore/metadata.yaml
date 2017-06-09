@@ -8,5 +8,8 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - monique_rio_bizzaria_damore
+  audio:
+  - peascod_gatherers_bizzaria_damore
+  - musica_subterranea_bizzaria_damore
 sources:
 - slug: negri_gratie_damore

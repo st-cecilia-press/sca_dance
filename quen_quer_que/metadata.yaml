@@ -6,3 +6,6 @@ instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+  audio:
+  - musica_subterranea_quen_quer_que_vocal
+  - musica_subterranea_quen_quer_que_instrumental

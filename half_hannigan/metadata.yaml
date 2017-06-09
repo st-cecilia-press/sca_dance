@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - steven_hendricks_half_hannigan
+  audio:
+  - musica_subterranea_half_hannigan
 sources:
 - slug: playford_1651

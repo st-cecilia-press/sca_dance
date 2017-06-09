@@ -6,3 +6,9 @@ sheet_music:
   - filename: dargason.pdf
     source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
     name: Pennsic Pile Edition
+audio:
+- slug: peascod_gatherers_dargason
+  youtube: Gu4jDWOdeYs
+  purchase_url: https://store.cdbaby.com/cd/thepeascodgatherers
+  ensemble: peascod_gatherers
+  file: ''

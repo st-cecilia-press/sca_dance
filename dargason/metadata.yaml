@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - robert_smith_dargason
+  audio:
+  - peascod_gatherers_dargason
 sources:
 - slug: playford_1651

@@ -52,3 +52,5 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - aaron_elkiss_alta_regina
+  audio:
+  - musica_subterranea_alta_regina

@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - bransle_fake_trihory
+  audio:
+  - musica_subterranea_trihory_of_brittany
 sources:
 - slug: orchesographie

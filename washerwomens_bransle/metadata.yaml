@@ -9,5 +9,7 @@ instructions:
   sheet_music:
   - estrees_washerwoman
   - bransle_fake_washerwomens
+  audio:
+  - musica_subterranea_washerwomens_bransle
 sources:
 - slug: orchesographie

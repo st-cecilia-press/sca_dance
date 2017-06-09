@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - steven_hendricks_jouyssance
+  audio:
+  - musica_subterranea_jouyssance
 sources:
 - slug: orchesographie
