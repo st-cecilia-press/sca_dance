@@ -11,5 +11,7 @@ instructions:
   video:
   - name: Darius's Recording
     youtube: Q4pP90DOOM8
+  audio:
+  - musica_subterranea_grene_gynger
 sources:
 - slug: gresley_manual

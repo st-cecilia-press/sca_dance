@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - robert_smith_sellingers_round
+  audio:
+  - musica_subterranea_sellingers_round
 sources:
 - slug: playford_1670

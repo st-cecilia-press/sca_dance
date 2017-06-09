@@ -9,5 +9,7 @@ instructions:
   sheet_music:
   - steven_hendricks_pease_bransle
   - bransle_fake_pease
+  audio:
+  - musica_subterranea_pease_bransle
 sources:
 - slug: orchesographie

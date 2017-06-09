@@ -6,3 +6,9 @@ sheet_music:
   - filename: gracca_amorosa.pdf
     source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
     name: Pennsic Pile Edition
+audio:
+- slug: musica_subterranea_gracca_amorosa
+  youtube: Rda_T2MLsO8
+  purchase_url: https://store.cdbaby.com/cd/musicasubterranea2
+  ensemble: musica_subterranea
+  file: ''

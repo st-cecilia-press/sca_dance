@@ -6,3 +6,5 @@ instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+  audio:
+  - musica_subterranea_sca_maltese

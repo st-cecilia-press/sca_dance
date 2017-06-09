@@ -12,3 +12,14 @@ sheet_music:
   - filename: bransles_fake3.pdf
     source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
     name: Pennsic Pile Edition
+audio:
+- slug: peascod_gatherers_official_bransle
+  youtube: tY833xcyWeA
+  purchase_url: https://store.cdbaby.com/cd/thepeascodgatherers
+  ensemble: peascod_gatherers
+  file: ''
+- slug: musica_subterranea_official_bransle
+  youtube: 6SH7Y9Ufkr0
+  purchase_url: https://store.cdbaby.com/cd/musicasubterranea1
+  ensemble: musica_subterranea
+  file: ''

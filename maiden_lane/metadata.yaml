@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - steven_hendricks_maiden_lane
+  audio:
+  - musica_subterranea_maiden_lane
 sources:
 - slug: playford_1651

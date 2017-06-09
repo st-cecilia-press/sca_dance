@@ -6,3 +6,9 @@ sheet_music:
   - filename: fulgente_stella.pdf
     source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
     name: Pennsic Pile Edition
+audio:
+- slug: musica_subterranea_fulgente_stella
+  youtube: POGhQ6AIgSo
+  purchase_url: https://store.cdbaby.com/cd/musicasubterranea4
+  ensemble: musica_subterranea
+  file: ''

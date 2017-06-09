@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - bransle_fake_charlotte
+  audio:
+  - musica_subterranea_charlotte_bransle
 sources:
 - slug: orchesographie

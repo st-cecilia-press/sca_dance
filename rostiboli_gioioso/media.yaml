@@ -6,3 +6,9 @@ sheet_music:
   - filename: rostiboli.pdf
     source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
     name: Pennsic Pile Edition
+audio:
+- slug: musica_subterranea_rostiboli_gioioso
+  youtube: huic2d2LxWY
+  purchase_url: https://store.cdbaby.com/cd/musicasubterranea1
+  ensemble: musica_subterranea
+  file: ''

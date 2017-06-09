@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - steven_hendricks_boate_man
+  audio:
+  - musica_subterranea_boate_man
 sources:
 - slug: playford_1651

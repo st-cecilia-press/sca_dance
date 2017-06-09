@@ -6,3 +6,14 @@ sheet_music:
   - filename: amoroso.pdf
     source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
     name: Pennsic Pile Edition
+audio:
+- slug: musica_subterranea_amoroso_long_version
+  youtube: JE336oik2ms
+  purchase_url: https://store.cdbaby.com/cd/musicasubterranea1
+  ensemble: musica_subterranea
+  file: ''
+- slug: musica_subterranea_amoroso_short_version
+  youtube: zrNCo_fQTkU
+  purchase_url: https://store.cdbaby.com/cd/musicasubterranea1
+  ensemble: musica_subterranea
+  file: ''

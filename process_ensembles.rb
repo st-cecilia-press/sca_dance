@@ -34,13 +34,11 @@ CSV.foreach('./ensemble.csv') do |row|
     t_file2.puts media.to_yaml
     t_file2.close
     #FileUtils.mv(t_file.path, "./#{row[0]}/metadata.yaml")
-    FileUtils.mv(t_file.path, "./test/#{row[2]}_metadata.yaml")
-    FileUtils.mv(t_file2.path, "./test/#{row[2]}_media.yaml")
+    FileUtils.mv(t_file.path, "./#{row[2]}/metadata.yaml")
+    FileUtils.mv(t_file2.path, "./#{row[2]}/media.yaml")
     
   else
     missing.push(row) 
   end  
 end
-
-   File.open("./test/remainder_ensemble.csv", "w") {|f| f.write(missing.inject([]) { |csv, row|  csv << CSV.generate_line(row) }.join(""))}
-
+   File.open("./remainder_ensemble.csv", "w") {|f| f.write(missing.inject([]) { |csv, row|  csv << CSV.generate_line(row) }.join(""))}

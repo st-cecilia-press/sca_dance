@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - steven_hendricks_picking_of_sticks
+  audio:
+  - musica_subterranea_picking_of_sticks
 sources:
 - slug: playford_1651

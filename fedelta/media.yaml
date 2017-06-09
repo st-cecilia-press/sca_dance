@@ -6,3 +6,9 @@ sheet_music:
   - filename: fedelta.pdf
     source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
     name: Pennsic Pile Edition
+audio:
+- slug: musica_subterranea_fedelta
+  youtube: C3Od5ZIOvsk
+  purchase_url: https://store.cdbaby.com/cd/musicasubterranea2
+  ensemble: musica_subterranea
+  file: ''

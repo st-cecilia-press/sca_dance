@@ -8,3 +8,5 @@ instructions:
   instruction_type: choreography
   sheet_music:
   - saltarello_la_regina_melody
+  audio:
+  - musica_subterranea_saltarello_la_regina

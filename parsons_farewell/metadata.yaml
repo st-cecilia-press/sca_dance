@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - praetorius_parsons_farewell
+  audio:
+  - musica_subterranea_parsons_farewell
 sources:
 - slug: playford_1651

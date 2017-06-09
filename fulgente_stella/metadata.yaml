@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - aaron_elkiss_fulgente_stella
+  audio:
+  - musica_subterranea_fulgente_stella
 sources:
 - slug: caroso_il_ballarino

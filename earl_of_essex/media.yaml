@@ -6,3 +6,9 @@ sheet_music:
   - filename: inns_3_essex.pdf
     source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
     name: Pennsic Pile Edition
+audio:
+- slug: musica_subterranea_earl_of_essex
+  youtube: mbeBTqRrlCM
+  purchase_url: https://store.cdbaby.com/cd/musicasubterranea4
+  ensemble: musica_subterranea
+  file: ''

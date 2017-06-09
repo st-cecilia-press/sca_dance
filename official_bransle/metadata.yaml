@@ -9,5 +9,8 @@ instructions:
   sheet_music:
   - russell_g_almond_official_bransle
   - bransle_fake_official
+  audio:
+  - peascod_gatherers_official_bransle
+  - musica_subterranea_official_bransle
 sources:
 - slug: orchesographie

@@ -8,5 +8,7 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - steven_hendricks_chestnut
+  audio:
+  - musica_subterranea_chestnut
 sources:
 - slug: playford_1651

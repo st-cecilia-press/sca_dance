@@ -6,3 +6,9 @@ sheet_music:
   - filename: bransles_fake2.pdf
     source: http://pennsicdance.aands.org/pennsic45/PennsicPile45.pdf
     name: Pennsic Pile Edition
+audio:
+- slug: musica_subterranea_trihory_of_brittany
+  youtube: rJMRBt6SuFU
+  purchase_url: https://store.cdbaby.com/cd/musicasubterranea4
+  ensemble: musica_subterranea
+  file: ''
