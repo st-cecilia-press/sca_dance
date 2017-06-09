@@ -8,5 +8,10 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - aaron_pavao_rostiboli_gioioso
+  video:
+  - name: Darius's Recording
+    youtube: FU_4LG-6RYU
+  - name: Darius's Recording
+    youtube: vmxAXW2ZYF4
 sources:
 - slug: pna_476

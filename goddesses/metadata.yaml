@@ -8,5 +8,8 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - kathy_van_stone_goddesses
+  video:
+  - name: Darius's Recording
+    youtube: 39HQHFNJQPs
 sources:
 - slug: playford_1651

@@ -6,5 +6,8 @@ instructions:
 - filename: terp.md
   person: ''
   instruction_type: reconstruction
+  video:
+  - name: Darius's Recording
+    youtube: QQC4EaYXJFU
 sources:
 - slug: playford_1665

@@ -8,5 +8,8 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - dennis_r_sherman_grene_gynger
+  video:
+  - name: Darius's Recording
+    youtube: Q4pP90DOOM8
 sources:
 - slug: gresley_manual

@@ -8,5 +8,8 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - dave_lankford_giunto_mha_amore
+  video:
+  - name: Darius's Recording
+    youtube: jUBIFqVkm9A
 sources:
 - slug: caroso_il_ballarino

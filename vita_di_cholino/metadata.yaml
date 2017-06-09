@@ -8,5 +8,8 @@ instructions:
   instruction_type: reconstruction
   sheet_music:
   - monica_cellio_vita_di_cholino
+  video:
+  - name: Darius's Recording
+    youtube: z43WNQCOR70
 sources:
 - slug: nyp_72_254
