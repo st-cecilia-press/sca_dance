@@ -12,3 +12,7 @@ instructions:
   - musica_subterranea_contrapasso_in_due
 sources:
 - slug: caroso_il_ballarino
+- slug: caroso_nobilita_di_dame
+  transcriptions:
+  - url: http://www.pbm.com/~lindahl/caroso2/transcription/0133.clean.html
+    name: Nobilta di Dame

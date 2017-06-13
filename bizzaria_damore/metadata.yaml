@@ -13,3 +13,6 @@ instructions:
   - musica_subterranea_bizzaria_damore
 sources:
 - slug: negri_gratie_damore
+  transcriptions:
+  - url: http://www.pbm.com/~lindahl/negri/transcription/0135.clean.html
+    name: Le Gratie d'Amore

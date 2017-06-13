@@ -10,3 +10,7 @@ instructions:
   - praetorius_bransle_de_la_torch
 sources:
 - slug: caroso_il_ballarino
+- slug: caroso_nobilita_di_dame
+  transcriptions:
+  - url: http://www.pbm.com/~lindahl/caroso2/transcription/0138.clean.html
+    name: Nobilta di Dame

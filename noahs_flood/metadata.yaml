@@ -4,3 +4,6 @@ sources:
   images:
   - url: http://www.wiglaf.org/~aaronm/scadance/MSEng1356/tn/MSEng1356_page4.jpg.html
     name: Facsimile
+  transcriptions:
+  - url: http://www.pages.drexel.edu/~white/ECD/Lovelace%20mms.htm
+    name: Transcription

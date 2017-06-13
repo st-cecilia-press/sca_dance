@@ -14,3 +14,6 @@ sources:
   images:
   - url: http://www.izaak.unh.edu/nhltmd/indexes/dancingmaster/Dance/Play4065.htm
     name: Facsimile
+  transcriptions:
+  - url: http://www.shipbrook.com/jeff/playford/103.html
+    name: Transcription

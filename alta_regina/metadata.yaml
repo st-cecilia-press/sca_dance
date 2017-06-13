@@ -46,6 +46,9 @@ sources:
     filename: alta_regina_lute_facsimile.gif
     name: Lute Tab Facsimile
     description: 
+  transcriptions:
+  - url: http://www.pbm.com/~lindahl/caroso2/transcription/0104.clean.html
+    name: Nobilta di Dame
 instructions:
 - filename: terp.md
   person: ''

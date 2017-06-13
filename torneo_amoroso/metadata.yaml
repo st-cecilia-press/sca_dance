@@ -10,3 +10,7 @@ instructions:
   - katrina_hunt_torneo_amoroso
 sources:
 - slug: caroso_il_ballarino
+- slug: negri_gratie_damore
+  transcriptions:
+  - url: http://www.pbm.com/~lindahl/negri/transcription/0107.clean.html
+    name: Le Gratie d'Amore

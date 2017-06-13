@@ -17,3 +17,6 @@ instructions:
   - musica_subterranea_lo_spagnoletto
 sources:
 - slug: negri_gratie_damore
+  transcriptions:
+  - url: http://www.pbm.com/~lindahl/negri/transcription/0101.clean.html
+    name: Le Gratie d'Amore
