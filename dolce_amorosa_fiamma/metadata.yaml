@@ -10,3 +10,6 @@ instructions:
   - musica_subterranea_dolce_amorosa_fiamma
 sources:
 - slug: caroso_il_ballarino
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Dolce%20Amoroso%20Foco.html
+    name: Il Ballarino

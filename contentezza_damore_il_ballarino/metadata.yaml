@@ -8,6 +8,9 @@ instructions:
   instruction_type: reconstruction
 sources:
 - slug: caroso_il_ballarino
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Contentezza%20d%27Amore.html
+    name: Il Ballarino
 - slug: caroso_nobilita_di_dame
   transcriptions:
   - url: http://www.pbm.com/~lindahl/caroso2/transcription/0127.clean.html

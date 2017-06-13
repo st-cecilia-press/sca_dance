@@ -12,3 +12,8 @@ instructions:
   - musica_subterranea_fulgente_stella
 sources:
 - slug: caroso_il_ballarino
+  translations:
+  - url: http://danza.arberth.com/dances/fulgente-tr.html
+    name: Accademia della Danza
+  - url: http://jducoeur.org/IlBallarino/Book2/Fulgente%20Stella.html
+    name: Il Ballarino

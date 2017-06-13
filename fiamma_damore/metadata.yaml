@@ -10,3 +10,6 @@ instructions:
   - katrina_hunt_fiamma_damore
 sources:
 - slug: caroso_il_ballarino
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Fiamma%20d%27Amore.html
+    name: Il Ballarino

@@ -12,3 +12,6 @@ instructions:
   - musica_subterranea_villanella
 sources:
 - slug: caroso_il_ballarino
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Villanella.html
+    name: Il Ballarino

@@ -4,3 +4,6 @@ sources:
   transcriptions:
   - url: http://www.pbm.com/~lindahl/caroso2/transcription/0142.clean.html
     name: Nobilta di Dame (Caroso)
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Ballo%20del%20Piantone.html
+    name: Caroso's Ballo del Piantone (Il Ballarino)

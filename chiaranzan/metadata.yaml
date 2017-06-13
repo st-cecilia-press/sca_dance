@@ -10,3 +10,6 @@ instructions:
   - emma_badowski_chiaranzan
 sources:
 - slug: caroso_il_ballarino
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Chiaranzana.html
+    name: Il Ballarino

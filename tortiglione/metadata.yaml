@@ -4,3 +4,7 @@ sources:
   transcriptions:
   - url: http://www.pbm.com/~lindahl/caroso2/transcription/0139.clean.html
     name: Nobilta di Dame
+- slug: caroso_il_ballarino
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Tordiglione.html
+    name: Il Ballarino

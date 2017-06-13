@@ -8,3 +8,6 @@ instructions:
   instruction_type: reconstruction
 sources:
 - slug: caroso_il_ballarino
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Gentilezza%20D%27Amore.html
+    name: Il Ballarino

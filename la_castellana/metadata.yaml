@@ -10,3 +10,6 @@ instructions:
   - aaron_elkiss_la_castellana
 sources:
 - slug: caroso_il_ballarino
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/La%20Castellana.html
+    name: Translation

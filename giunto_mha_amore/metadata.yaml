@@ -15,3 +15,6 @@ instructions:
   - musica_subterranea_giunto_mha_amore
 sources:
 - slug: caroso_il_ballarino
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Giunto%20M%27Ha%20Amore.html
+    name: Il Ballarino

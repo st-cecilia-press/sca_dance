@@ -4,3 +4,7 @@ sources:
   transcriptions:
   - url: http://www.pbm.com/~lindahl/negri/transcription/0116.clean.html
     name: Le Gratie d'Amore
+- slug: caroso_il_ballarino
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Amor%20Felice.html
+    name: Il Ballarino

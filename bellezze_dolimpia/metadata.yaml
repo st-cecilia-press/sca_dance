@@ -4,3 +4,7 @@ sources:
   transcriptions:
   - url: http://www.pbm.com/~lindahl/caroso2/transcription/0124.clean.html
     name: Nobilta di Dame
+- slug: caroso_il_ballarino
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Bellezze%20d%27Olimpia.html
+    name: Il Ballarino

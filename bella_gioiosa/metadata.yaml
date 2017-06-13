@@ -15,3 +15,6 @@ instructions:
   - musica_subterranea_bella_gioiosa
 sources:
 - slug: caroso_il_ballarino
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Bella%20Gioiosa.html
+    name: Il Ballarino

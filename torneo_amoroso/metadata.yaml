@@ -10,6 +10,9 @@ instructions:
   - katrina_hunt_torneo_amoroso
 sources:
 - slug: caroso_il_ballarino
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Torneo%20Amoroso.html
+    name: Il Ballarino
 - slug: negri_gratie_damore
   transcriptions:
   - url: http://www.pbm.com/~lindahl/negri/transcription/0107.clean.html

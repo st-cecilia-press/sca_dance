@@ -1,6 +1,14 @@
 ---
 sources:
-- slug: various
+- slug: negri_gratie_damore
   transcriptions:
   - url: http://www.pbm.com/~lindahl/negri/transcription/0121.clean.html
     name: Negri's Canario (Le Gratie d'Amore)
+- slug: caroso_il_ballarino
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Canario.html
+    name: Il Ballarino (Caroso)
+- slug: santucci
+  translations:
+  - url: http://www.pbm.com/~lindahl/santucci/kwds/
+    name: Santucci's Canario (Gregory Blount)

@@ -15,3 +15,6 @@ instructions:
   - musica_subterranea_candida_luna
 sources:
 - slug: caroso_il_ballarino
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Candida%20Luna.html
+    name: Il Ballarino

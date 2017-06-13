@@ -15,3 +15,6 @@ instructions:
   - musica_subterranea_maraviglia_damore
 sources:
 - slug: caroso_il_ballarino
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Maraviglia%20D%27Amore.html
+    name: Il Ballarino

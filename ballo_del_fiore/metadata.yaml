@@ -10,6 +10,9 @@ instructions:
   - praetorius_bransle_de_la_torch
 sources:
 - slug: caroso_il_ballarino
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Ballo%20Del%20Fiore.html
+    name: Translation
 - slug: caroso_nobilita_di_dame
   transcriptions:
   - url: http://www.pbm.com/~lindahl/caroso2/transcription/0138.clean.html

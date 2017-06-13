@@ -10,3 +10,6 @@ instructions:
   - musica_subterranea_il_conto_dell_orco
 sources:
 - slug: caroso_il_ballarino
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Conto%20dell%27Orco.html
+    name: Il Ballarino

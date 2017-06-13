@@ -15,3 +15,6 @@ instructions:
   - musica_subterranea_gracca_amorosa
 sources:
 - slug: caroso_il_ballarino
+  translations:
+  - url: http://jducoeur.org/IlBallarino/Book2/Gracca%20Amorosa.html
+    name: Il Ballarino
