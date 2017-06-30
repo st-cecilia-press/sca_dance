@@ -12,3 +12,6 @@ instructions:
   - musica_subterranea_all_in_a_garden_green
 sources:
 - slug: playford_1651
+  images:
+  - url: http://www.pbm.com/~lindahl/playford_1651/078small.html
+    name: Facsimile

@@ -12,3 +12,6 @@ instructions:
   - musica_subterranea_maiden_lane
 sources:
 - slug: playford_1651
+  images:
+  - url: http://www.pbm.com/~lindahl/playford_1651/069small.html
+    name: Facsimile

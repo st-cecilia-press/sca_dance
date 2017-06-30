@@ -17,3 +17,6 @@ instructions:
   - musica_subterranea_newcastle
 sources:
 - slug: playford_1651
+  images:
+  - url: http://www.pbm.com/~lindahl/playford_1651/084small.html
+    name: Facsimile

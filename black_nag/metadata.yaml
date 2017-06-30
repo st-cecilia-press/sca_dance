@@ -13,3 +13,7 @@ instructions:
   - musica_subterranea_black_nag
 sources:
 - slug: playford_1665
+- slug: playford_1657
+  images:
+  - url: http://www.izaak.unh.edu/nhltmd/indexes/dancingmaster/Dance/Play0992.htm
+    name: Facsimile

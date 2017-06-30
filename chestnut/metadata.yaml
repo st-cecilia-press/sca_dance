@@ -12,3 +12,6 @@ instructions:
   - musica_subterranea_chestnut
 sources:
 - slug: playford_1651
+  images:
+  - url: http://www.pbm.com/~lindahl/playford_1651/092small.html
+    name: Facsimile

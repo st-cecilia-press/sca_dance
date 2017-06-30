@@ -8,3 +8,6 @@ instructions:
   instruction_type: reconstruction
 sources:
 - slug: playford_1651
+  images:
+  - url: http://www.pbm.com/~lindahl/playford_1651/015small.html
+    name: Facsimile

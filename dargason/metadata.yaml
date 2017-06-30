@@ -12,3 +12,6 @@ instructions:
   - peascod_gatherers_dargason
 sources:
 - slug: playford_1651
+  images:
+  - url: http://www.pbm.com/~lindahl/playford_1651/078small.html
+    name: Facsimile

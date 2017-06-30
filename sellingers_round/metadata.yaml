@@ -12,3 +12,7 @@ instructions:
   - musica_subterranea_sellingers_round
 sources:
 - slug: playford_1670
+- slug: playford_1657
+  images:
+  - url: http://www.izaak.unh.edu/nhltmd/indexes/dancingmaster/Dance/Play0940.htm
+    name: Facsimile

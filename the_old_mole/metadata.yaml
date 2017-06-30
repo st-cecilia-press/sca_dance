@@ -13,3 +13,6 @@ instructions:
   - musica_subterranea_the_old_mole
 sources:
 - slug: playford_1651
+  images:
+  - url: http://www.pbm.com/~lindahl/playford_1651/020small.html
+    name: Facsimile

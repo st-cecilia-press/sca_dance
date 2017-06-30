@@ -10,3 +10,6 @@ instructions:
   - musica_subterranea_scotch_cap
 sources:
 - slug: playford_1651
+  images:
+  - url: http://www.pbm.com/~lindahl/playford_1651/106small.html
+    name: Facsimile

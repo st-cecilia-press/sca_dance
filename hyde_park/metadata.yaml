@@ -15,3 +15,6 @@ instructions:
   - musica_subterranea_hyde_park
 sources:
 - slug: playford_1651
+  images:
+  - url: http://www.pbm.com/~lindahl/playford_1651/098small.html
+    name: Facsimile
