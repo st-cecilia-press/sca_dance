@@ -11,5 +11,8 @@ instructions:
   audio:
   - peascod_gatherers_petit_vriens
   - musica_subterranea_petit_vriens
+  video:
+  - name: Vetus Artium
+    youtube: tK_JHqAfvHI
 sources:
 - slug: pna_476
